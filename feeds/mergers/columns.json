@@ -177,6 +177,21 @@
       "kind": "text"
     },
     {
+      "name": "headline",
+      "label": "Headline",
+      "kind": "text"
+    },
+    {
+      "name": "acquirer_hq",
+      "label": "Continuing CU HQ",
+      "kind": "text"
+    },
+    {
+      "name": "partner_hq",
+      "label": "Partner HQ",
+      "kind": "text"
+    },
+    {
       "name": "region",
       "label": "Region",
       "kind": "choice"

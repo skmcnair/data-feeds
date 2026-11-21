@@ -1,6 +1,6 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-21T18:00:57-05:00",
+  "generated": "2026-11-21T18:12:01-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [],
@@ -36,7 +36,8 @@
         "acquirer_ceo": "George Joseph",
         "combined_locations": 13,
         "footprint": "FL",
-        "next_steps": "Shareholder and regulatory approval"
+        "next_steps": "Shareholder and regulatory approval",
+        "partner_ceo": "Steven Sanzone"
       }
     },
     {
@@ -105,7 +106,9 @@
         "acquirer_ceo": "Martin Head",
         "combined_locations": 24,
         "footprint": "AL",
-        "announced_figures": "Adds $245M in assets and 8 branches to MAX's $2.3B and 16 locations"
+        "announced_figures": "About $2.6B in assets, 24 locations",
+        "partner_ceo": "B. Kyle Goodwin IV",
+        "next_steps": "FirstFed Bancorp shareholder and regulatory approval"
       }
     },
     {
@@ -118,7 +121,7 @@
         "partner": "Numerica Credit Union",
         "deal_type": "Merger of equals",
         "status": "Announced",
-        "expected_close": "H1 2028",
+        "expected_close": "Q1 2028",
         "member_vote": null,
         "completed": null,
         "new_name": "Numerica Credit Union",
@@ -146,6 +149,43 @@
       }
     },
     {
+      "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+      "summary": "Financial Plus Credit Union / Monroe Community Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-27",
+        "acquirer": "Financial Plus Credit Union",
+        "partner": "Monroe Community Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_ceo": "Brad R Bergmooser",
+        "partner_ceo": "Kristine Brenner",
+        "acquirer_city": "Flint",
+        "partner_city": "Monroe",
+        "acquirer_assets": 1703.7,
+        "acquirer_members": 83716,
+        "acquirer_locations": 13,
+        "partner_assets": 407.5,
+        "partner_members": 32467,
+        "partner_locations": 6,
+        "combined_assets": 2111.2,
+        "combined_members": 116183,
+        "combined_locations": 19,
+        "footprint": "MI",
+        "announced_figures": "$2B+ combined",
+        "next_steps": null,
+        "size_as_of": "Q3 2026",
+        "state": "MI",
+        "partner_state": "MI",
+        "notes": "Financial Plus's merger page says the combined CU keeps the Financial Plus name, with 20 locations. The announcement doesn't name the legal survivor, the CEO or timing; check it when the NCUA vote notice appears."
+      }
+    },
+    {
       "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
       "summary": "PenAir Credit Union / Fort McClellan Credit Union",
       "last_checked": "2026-11-21",
@@ -155,7 +195,7 @@
         "partner": "Fort McClellan Credit Union",
         "deal_type": "CU merger",
         "status": "Announced",
-        "expected_close": "Not Disclosed",
+        "expected_close": "H1 2027",
         "member_vote": null,
         "completed": null,
         "new_name": null,
@@ -179,7 +219,7 @@
         "combined_locations": 22,
         "footprint": "FL, AL, VA",
         "announced_figures": "155,000+ members, 22 locations",
-        "next_steps": "Regulatory approval and a Fort McClellan member vote"
+        "next_steps": "Regulatory approval and a Fort McClellan member vote (special meeting expected early 2027)"
       }
     },
     {
@@ -212,7 +252,82 @@
         "partner_city": "Sarasota",
         "acquirer_ceo": "Ryan Goldberg",
         "combined_locations": 41,
-        "footprint": "MI, FL"
+        "footprint": "MI, FL",
+        "partner_ceo": "Dennis Murphy",
+        "announced_figures": "DFCU at $8B in assets; no combined figures released"
+      }
+    },
+    {
+      "id": "undated-communityamerica-credit-union-westreet-credit-union",
+      "summary": "CommunityAmerica Credit Union / WeStreet Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-14",
+        "acquirer": "CommunityAmerica Credit Union",
+        "partner": "WeStreet Credit Union",
+        "deal_type": "CU merger",
+        "status": "Approved",
+        "expected_close": "Q1 2027",
+        "member_vote": "2026-11-20",
+        "completed": null,
+        "new_name": null,
+        "ceo": "Lisa Ginter",
+        "acquirer_assets": 9224.9,
+        "acquirer_members": 604252,
+        "acquirer_locations": 77,
+        "partner_assets": 955.7,
+        "partner_members": 61556,
+        "partner_locations": 13,
+        "combined_assets": 10180.6,
+        "size_as_of": "Q3 2026",
+        "state": "KS",
+        "partner_state": "OK",
+        "notes": "NCUA approved; proposed effective date Jan 1, 2027 (NCUA member notice). Combined CU operates as CommunityAmerica under CEO Lisa Ginter; WeStreet CEO Greg Gallant becomes market president for Oklahoma and Arkansas. No WeStreet branch closures.",
+        "acquirer_city": "Lenexa",
+        "partner_city": "Tulsa",
+        "acquirer_ceo": "Lisa Ginter",
+        "partner_ceo": "Gregory Gallant",
+        "combined_members": 665808,
+        "combined_locations": 90,
+        "footprint": "MO, CA, OK, KS, AR, TX, AL, KY, MI, IN, MS, NC, NV, TN, WV",
+        "next_steps": "WeStreet member vote, counted at a special meeting on Nov 20, 2026"
+      }
+    },
+    {
+      "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+      "summary": "Michigan State University Federal Credit Union / University Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-13",
+        "acquirer": "Michigan State University Federal Credit Union",
+        "partner": "University Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q3 2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": "University Federal Credit Union",
+        "ceo": "April Clobes",
+        "acquirer_ceo": "April Clobes",
+        "partner_ceo": "Michael Crowl",
+        "acquirer_city": "East Lansing",
+        "partner_city": "Austin",
+        "acquirer_assets": 9203.0,
+        "acquirer_members": 416844,
+        "acquirer_locations": 37,
+        "partner_assets": 4234.7,
+        "partner_members": 438632,
+        "partner_locations": 29,
+        "combined_assets": 13437.7,
+        "combined_members": 855476,
+        "combined_locations": 66,
+        "footprint": "TX, MI, IL",
+        "announced_figures": "$13.5B in assets, 850,000+ members, 30 + 38 branches",
+        "next_steps": "Regulatory approvals",
+        "size_as_of": "Q3 2026",
+        "state": "MI",
+        "partner_state": "TX",
+        "notes": "Combined CU takes UFCU's name and MSUFCU's charter, keeping both brands (UFCU in Texas, MSUFCU in Michigan and Illinois). MSUFCU CEO April Clobes to be CEO; UFCU CEO Michael Crowl becomes president."
       }
     },
     {
@@ -225,11 +340,11 @@
         "partner": "Sky Federal Credit Union",
         "deal_type": "CU merger",
         "status": "Announced",
-        "expected_close": "Not Disclosed",
+        "expected_close": "Q3 2027",
         "member_vote": null,
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Tracie Wilcox",
         "acquirer_assets": 474.1,
         "acquirer_members": 19448,
         "acquirer_locations": 3,
@@ -240,7 +355,7 @@
         "size_as_of": "Q3 2026",
         "state": "CO",
         "partner_state": "MT",
-        "notes": "Subject to regulatory approval and a Sky FCU member vote; combined CU serves Montana and Colorado.",
+        "notes": "Joint member site names Tracie Wilcox CEO and Daisy Romo President (CEO succession) of the combined CU; regulatory application filed; expected to take effect around mid-2027. Sky becomes a division under On Tap's charter, HQ Golden, CO. No branch closures planned.",
         "acquirer_city": "Golden",
         "partner_city": "Livingston",
         "acquirer_ceo": "Tracie Wilcox",
@@ -249,6 +364,43 @@
         "combined_locations": 9,
         "footprint": "MT, CO",
         "next_steps": "Regulatory approval and a Sky FCU member vote"
+      }
+    },
+    {
+      "id": "2026-10-01-consumers-credit-union-scott-credit-union",
+      "summary": "Consumers Credit Union / Scott Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-01",
+        "acquirer": "Consumers Credit Union",
+        "partner": "Scott Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q2 2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_ceo": "Sean Rathjen",
+        "partner_ceo": "Frank M Padak",
+        "acquirer_city": "Lake Forest",
+        "partner_city": "Edwardsville",
+        "acquirer_assets": 4614.6,
+        "acquirer_members": 296225,
+        "acquirer_locations": 24,
+        "partner_assets": 1826.6,
+        "partner_members": 131224,
+        "partner_locations": 23,
+        "combined_assets": 6441.2,
+        "combined_members": 427449,
+        "combined_locations": 47,
+        "footprint": "IL, MO",
+        "announced_figures": "About $6.46B in assets, 424,000+ members, 46 locations",
+        "next_steps": "Regulatory approval and a Scott CU member vote",
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "IL",
+        "notes": "Intent to combine; Scott CU members vote."
       }
     },
     {
@@ -283,7 +435,45 @@
         "combined_locations": 13,
         "footprint": "FL, AL",
         "announced_figures": "About $1.75B in assets",
-        "next_steps": "Regulatory approval, expected mid-2027"
+        "next_steps": "Regulatory approval, expected mid-2027",
+        "partner_ceo": "Harvey Gaston Jr."
+      }
+    },
+    {
+      "id": "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+      "summary": "Sierra Central Credit Union / First U.S. Community Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-09-03",
+        "acquirer": "Sierra Central Credit Union",
+        "partner": "First U.S. Community Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q2 2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Shonna Shearson",
+        "acquirer_ceo": "Ron Sweeney",
+        "partner_ceo": "Shonna Shearson",
+        "acquirer_city": "Yuba City",
+        "partner_city": "Sacramento",
+        "acquirer_assets": 1486.6,
+        "acquirer_members": 87307,
+        "acquirer_locations": 18,
+        "partner_assets": 540.6,
+        "partner_members": 27130,
+        "partner_locations": 5,
+        "combined_assets": 2027.2,
+        "combined_members": 114437,
+        "combined_locations": 23,
+        "footprint": "CA",
+        "announced_figures": "$2B+ in assets, 114,000+ members, 23 branches",
+        "next_steps": "A First U.S. member vote, expected in Q1 2027",
+        "size_as_of": "Q3 2026",
+        "state": "CA",
+        "partner_state": "CA",
+        "notes": "Sierra Central's merger page anticipates legal day one in Q2 2027. First U.S. CEO Shonna Shearson leads the combined CU; Sierra Central CEO Ron Sweeney retires at completion."
       }
     },
     {
@@ -711,183 +901,9 @@
         "combined_locations": 7,
         "footprint": "MS, TX"
       }
-    },
-    {
-      "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
-      "summary": "Allegent Community Federal Credit Union / Penn Hills Municipal Federal Credit Union",
-      "last_checked": "2026-11-21",
-      "fields": {
-        "announced": null,
-        "acquirer": "Allegent Community Federal Credit Union",
-        "partner": "Penn Hills Municipal Federal Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2027-01-22",
-        "completed": null,
-        "new_name": null,
-        "ceo": null,
-        "acquirer_assets": 272.1,
-        "acquirer_members": 21420,
-        "acquirer_locations": 7,
-        "partner_assets": 2.1,
-        "partner_members": 202,
-        "partner_locations": 1,
-        "combined_assets": 274.2,
-        "size_as_of": "Q3 2026",
-        "state": "PA",
-        "partner_state": "PA",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
-        "acquirer_city": "Pittsburgh",
-        "partner_city": "Pittsburgh",
-        "acquirer_ceo": "Michael T Korhnak",
-        "partner_ceo": "Sheree A Strayer",
-        "combined_members": 21622,
-        "combined_locations": 8,
-        "footprint": "PA"
-      }
-    },
-    {
-      "id": "undated-bp-federal-credit-union-southern-star-credit-union",
-      "summary": "BP Federal Credit Union / Southern Star Credit Union",
-      "last_checked": "2026-11-21",
-      "fields": {
-        "announced": null,
-        "acquirer": "BP Federal Credit Union",
-        "partner": "Southern Star Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2027-01-16",
-        "completed": null,
-        "new_name": null,
-        "ceo": null,
-        "acquirer_assets": 124.8,
-        "acquirer_members": 6222,
-        "acquirer_locations": 5,
-        "partner_assets": 17.3,
-        "partner_members": 2686,
-        "partner_locations": 1,
-        "combined_assets": 142.1,
-        "size_as_of": "Q3 2026",
-        "state": "TX",
-        "partner_state": "TX",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
-        "acquirer_city": "Houston",
-        "partner_city": "Houston",
-        "acquirer_ceo": "Robert Corolla",
-        "partner_ceo": "Debra Callihan",
-        "combined_members": 8908,
-        "combined_locations": 6,
-        "footprint": "TX"
-      }
-    },
-    {
-      "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
-      "summary": "Sterling Federal Credit Union / Fort Morgan Schools Federal Credit Union",
-      "last_checked": "2026-11-21",
-      "fields": {
-        "announced": null,
-        "acquirer": "Sterling Federal Credit Union",
-        "partner": "Fort Morgan Schools Federal Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2027-01-15",
-        "completed": null,
-        "new_name": null,
-        "ceo": null,
-        "acquirer_assets": 260.0,
-        "acquirer_members": 11088,
-        "acquirer_locations": 3,
-        "partner_assets": 5.6,
-        "partner_members": 416,
-        "partner_locations": null,
-        "combined_assets": 265.6,
-        "size_as_of": "Q3 2026",
-        "state": "CO",
-        "partner_state": "CO",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
-        "acquirer_city": "Sterling",
-        "partner_city": "Fort Morgan",
-        "acquirer_ceo": "Darrin Blankenbeckler",
-        "partner_ceo": "Phillip J Stadler",
-        "combined_members": 11504,
-        "footprint": "CO"
-      }
-    },
-    {
-      "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
-      "summary": "Nuvision Federal Credit Union / Dow Great Western Credit Union",
-      "last_checked": "2026-11-21",
-      "fields": {
-        "announced": null,
-        "acquirer": "Nuvision Federal Credit Union",
-        "partner": "Dow Great Western Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2027-01-12",
-        "completed": null,
-        "new_name": null,
-        "ceo": null,
-        "acquirer_assets": 4012.3,
-        "acquirer_members": 206853,
-        "acquirer_locations": 36,
-        "partner_assets": 46.9,
-        "partner_members": 1849,
-        "partner_locations": 1,
-        "combined_assets": 4059.2,
-        "size_as_of": "Q3 2026",
-        "state": "CA",
-        "partner_state": "CA",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
-        "acquirer_city": "Huntington Beach",
-        "partner_city": "Antioch",
-        "acquirer_ceo": "Roger D Ballard",
-        "partner_ceo": "Harinder Dhindsa",
-        "combined_members": 208702,
-        "combined_locations": 37,
-        "footprint": "CA, AK, WY, AZ, WA"
-      }
-    },
-    {
-      "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
-      "summary": "Sharefax Credit Union / Members Trust Federal Credit Union",
-      "last_checked": "2026-11-21",
-      "fields": {
-        "announced": null,
-        "acquirer": "Sharefax Credit Union",
-        "partner": "Members Trust Federal Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2026-12-18",
-        "completed": null,
-        "new_name": null,
-        "ceo": null,
-        "acquirer_assets": 720.7,
-        "acquirer_members": 42478,
-        "acquirer_locations": 9,
-        "partner_assets": 22.2,
-        "partner_members": 3043,
-        "partner_locations": 3,
-        "combined_assets": 742.9,
-        "size_as_of": "Q3 2026",
-        "state": "OH",
-        "partner_state": "OH",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
-        "acquirer_city": "Cincinnati",
-        "partner_city": "Mason",
-        "acquirer_ceo": "Todd Cain",
-        "partner_ceo": "Darren Hartt",
-        "combined_members": 45521,
-        "combined_locations": 12,
-        "footprint": "OH, GA, TX"
-      }
     }
   ],
-  "open_items": 46,
+  "open_items": 50,
   "organizations_needed": [],
   "logos_missing": [
     {
@@ -966,11 +982,6 @@
       "website": ""
     },
     {
-      "slug": "dfcu-financial",
-      "name": "DFCU Financial Credit Union",
-      "website": "http://www.dfcufinancial.com"
-    },
-    {
       "slug": "directors-choice-cu",
       "name": "Directors Choice Credit Union",
       "website": "http://www.directorschoicecu.com/"
@@ -978,11 +989,6 @@
     {
       "slug": "dunlop-employees-fcu",
       "name": "Dunlop Employees Federal Credit Union",
-      "website": ""
-    },
-    {
-      "slug": "evermore-bank",
-      "name": "Evermore Bank",
       "website": ""
     },
     {
@@ -1036,11 +1042,6 @@
       "website": "http://www.ccgcfcu.com"
     },
     {
-      "slug": "gulfside-bank",
-      "name": "Gulfside Bank",
-      "website": "https://www.gulfsidebank.com"
-    },
-    {
       "slug": "harris-employees-cu",
       "name": "Harris Employees Credit Union",
       "website": ""
@@ -1086,11 +1087,6 @@
       "website": "http://www.launchcu.com"
     },
     {
-      "slug": "madison-county-community-bank",
-      "name": "Madison County Community Bank",
-      "website": "https://www.mccbflorida.com"
-    },
-    {
       "slug": "magnolia-fcu",
       "name": "Magnolia Federal Credit Union",
       "website": "http://www.magfedcu.org"
@@ -1099,11 +1095,6 @@
       "slug": "martin-county-co-op-cu",
       "name": "Martin County Co-Op Credit Union",
       "website": ""
-    },
-    {
-      "slug": "max-cu",
-      "name": "MAX Credit Union",
-      "website": "http://www.mymax.com"
     },
     {
       "slug": "members-trust-fcu",
@@ -1244,2564 +1235,176 @@
   "logo_reviews": [],
   "warnings": [],
   "last_review": {
-    "added": [],
+    "added": [
+      {
+        "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+        "summary": "Michigan State University Federal Credit Union / University Federal Credit Union"
+      },
+      {
+        "id": "2026-10-01-consumers-credit-union-scott-credit-union",
+        "summary": "Consumers Credit Union / Scott Credit Union"
+      },
+      {
+        "id": "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+        "summary": "Sierra Central Credit Union / First U.S. Community Credit Union"
+      },
+      {
+        "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
+        "summary": "America First Federal Credit Union / Greater Nevada Credit Union"
+      },
+      {
+        "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+        "summary": "Financial Plus Credit Union / Monroe Community Credit Union"
+      }
+    ],
     "updated": [
       {
-        "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Sweetwater"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Fort Lauderdale"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "George Joseph"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 13
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "FL"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Shareholder and regulatory approval"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Latham"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Albany"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Jerilee Beaudoin"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Linda Isabel"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 90435
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 18
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "NY"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-11-10-max-credit-union-first-financial-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Montgomery"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Bessemer"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Martin Head"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 24
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "AL"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "Adds $245M in assets and 8 branches to MAX's $2.3B and 16 locations"
-          }
-        ],
-        "kept": []
-      },
-      {
         "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+        "note": "Numerica's merger page puts Legal Day 1 at about Jan. 2028; close moved to Q1 2028",
         "changes": [
           {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Springfield"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Spokane Valley"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Bob Newcomb"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Carla Cicero"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 334878
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 39
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "WA, OR, ID"
-          },
-          {
-            "field": "deal_type",
-            "old": "CU merger",
-            "new": "Merger of equals"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "Nearly $8B in assets, 325,000+ members, 38 branches"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Regulatory approval and a Numerica member vote"
+            "field": "expected_close",
+            "old": "H1 2028",
+            "new": "Q1 2028"
           }
         ],
         "kept": []
       },
       {
         "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+        "note": "PenAir release: FMCU special meeting expected early 2027; close H1 2027; Angela Smith becomes President, Fort McClellan Division",
         "changes": [
           {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Pensacola"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Anniston"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Lee Morgan"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Angela Smith"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 158597
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 22
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "FL, AL, VA"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "155,000+ members, 22 locations"
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "H1 2027"
           },
           {
             "field": "next_steps",
-            "old": null,
-            "new": "Regulatory approval and a Fort McClellan member vote"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Dearborn"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Sarasota"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Ryan Goldberg"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 41
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MI, FL"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Golden"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Livingston"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Tracie Wilcox"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Daisy Romo"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 32424
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 9
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MT, CO"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Regulatory approval and a Sky FCU member vote"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Pensacola"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Monroeville"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Daniel Souers"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 13
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "FL, AL"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "About $1.75B in assets"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Regulatory approval, expected mid-2027"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Pensacola"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Madison"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Daniel Souers"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Edward Meggs Sr."
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 14
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "FL, AL"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "About $1.7B in assets, 87,000 members, 15 branches"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Regulatory approval, expected mid-2027"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Richland"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Salem"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Don Miller"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 50
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "WA, OR, ID"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "Pushes Gesa past $7B in assets"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Regulatory approval and Oregon Bancorp shareholder approval"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Rocky Hill"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "New Haven"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "John Holt"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Joyce M Flynn"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 67903
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 13
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "CT"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Farmington"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Brownstown"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Stephen Grech"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Chris Corkery"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 46304
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 8
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MI"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "$750M+ in assets, 47,000+ member accounts"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-05-05-team-one-credit-union-case-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Saginaw"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Lansing"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Derrick Barber"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Jeffrey S Benson"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 72340
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 16
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MI"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-04-29-interra-credit-union-the-hicksville-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Goshen"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Hicksville"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Amy Sink"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Greg Smitley"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 21
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "IN, OH"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Chelsea"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Medford"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Robert Cashman"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Michael Wilberton"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 237664
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 24
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MA"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "$3.5B+ in assets, about 214,000 members, 25 branches"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Brookfield"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Appleton"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Timothy Mackay"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Paul Northway"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 36
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "WI"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "Adds about $419M in assets"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Tuscaloosa"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Boaz"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Whitney Oswalt"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 41
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "AL"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "About $1.9B in assets"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-02-13-suncoast-credit-union-launch-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Tampa"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Merritt Island"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Kevin Johnson"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Joe Mirachi"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 1495391
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 98
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "FL"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "$21B in assets, 1.4M members"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Live Oak"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Oklahoma City"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Mark Sekula"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Sean Cahill"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 1226847
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 80
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TX, OK"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "Nearly $20B in assets"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Livonia"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Iron River"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Julie Kreinbring"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Paul Hinkson"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 24
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MI"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "$1.1B+ in assets, 22 branches"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Regulatory approval and MSB Bankshares stockholder approval"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Tukwila"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Folsom"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Beverly Anderson"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Faye Nabhani"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 1842732
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 88
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "WA, CA, SC"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "$33B+ in assets, 1.8M members, 80+ locations"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Final approval from the CA DFPI"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "El Paso"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Roswell"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Alex Rascon"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Andrew Hogan"
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 35
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TX, NM"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "$4.7B in assets, 440,000+ members and customers, 30+ branches"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Clarksville"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Nashville"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Jennifer Ventimiglia"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Mike F McDonald"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 88449
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 10
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TN, KY"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Houston"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Houston"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Isaac Johnson"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "LeAnn Kaczynski"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 452859
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 45
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TX"
-          },
-          {
-            "field": "announced_figures",
-            "old": null,
-            "new": "Nearly $6B in assets, 460,000+ members, 48 branches"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Lombard"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Corpus Christi"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Todd Gunderson"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Jeremy Garza"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 203229
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 51
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "IL, MN, IN, MI, TX, GA, FL, ND, NV, WI"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "Legal merger set for Dec 31, 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-credit-union-1-first-class-community-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Lombard"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "West Des Moines"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Todd Gunderson"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Zac Pollock"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 192817
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 47
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "IL, MN, IN, MI, GA, IA, FL, ND, NV, WI"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Jackson"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Amarillo"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Michael Waylett"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Desiree Ramirez"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 23527
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 7
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MS, TX"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Pittsburgh"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Pittsburgh"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Michael T Korhnak"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Sheree A Strayer"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 21622
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 8
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "PA"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-bp-federal-credit-union-southern-star-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Houston"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Houston"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Robert Corolla"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Debra Callihan"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 8908
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 6
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TX"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Sterling"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Fort Morgan"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Darrin Blankenbeckler"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Phillip J Stadler"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 11504
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "CO"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Huntington Beach"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Antioch"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Roger D Ballard"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Harinder Dhindsa"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 208702
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 37
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "CA, AK, WY, AZ, WA"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Cincinnati"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Mason"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Todd Cain"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Darren Hartt"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 45521
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 12
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "OH, GA, TX"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Washington"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Fort Worth"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Margie Click"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Paul Withey"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 23445
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 3
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "DC, MD, TX"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-streator-onized-credit-union-anco-community-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Streator"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "La Salle"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Douglas Patterson"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Wanda Bunzell"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 40220
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 7
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "IL"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Falls Church"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Portsmouth"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "William Hawkins"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Bria Shaw"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 15081
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 9
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "VA"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Houston"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Houston"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Cameron Dickey"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Mark A Levien"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 27374
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 7
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TX"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Britton"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Aberdeen"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Jay Kruse"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Guy J Trenhaile"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 7881
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 2
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "SD"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Vernon Hills"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Lisle"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Michael Valentine"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Joseph J Kregul"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 400894
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 45
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Scobey"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Fort Peck"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Timothy Rask"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Joe Vander Woude"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 4354
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 4
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MT"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Bartlett"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Memphis"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "W. Craig Esrael"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Terrie L Snavely"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 72365
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 16
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TN, MS"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Memphis"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Atoka"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Joel C Forbess"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Kenneth E Newberry"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 9848
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 2
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TN"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Monterey Park"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Ontario"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Tim Green"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "John Meeks"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 46887
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 3
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "CA"
+            "old": "Regulatory approval and a Fort McClellan member vote",
+            "new": "Regulatory approval and a Fort McClellan member vote (special meeting expected early 2027)"
           }
         ],
         "kept": []
       },
       {
         "id": "undated-communityamerica-credit-union-westreet-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+        "note": "CommunityAmerica release and NCUA notice: NCUA approved, proposed effective Jan 1, 2027",
         "changes": [
           {
-            "field": "acquirer_city",
+            "field": "announced",
             "old": null,
-            "new": "Lenexa"
+            "new": "2026-10-14"
           },
           {
-            "field": "partner_city",
-            "old": null,
-            "new": "Tulsa"
+            "field": "status",
+            "old": "Announced",
+            "new": "Approved"
           },
           {
-            "field": "acquirer_ceo",
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "Q1 2027"
+          },
+          {
+            "field": "ceo",
             "old": null,
             "new": "Lisa Ginter"
           },
           {
-            "field": "partner_ceo",
+            "field": "next_steps",
             "old": null,
-            "new": "Gregory Gallant"
+            "new": "WeStreet member vote, counted at a special meeting on Nov 20, 2026"
           },
           {
-            "field": "combined_members",
-            "old": null,
-            "new": 665808
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 90
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MO, CA, OK, KS, AR, TX, AL, KY, MI, IN, MS, NC, NV, TN, WV"
+            "field": "notes",
+            "old": "On NCUA's proposed-merger list. Member vote was set for Nov 20, 2026; result not yet confirmed.",
+            "new": "NCUA approved; proposed effective date Jan 1, 2027 (NCUA member notice). Combined CU operates as CommunityAmerica under CEO Lisa Ginter; WeStreet CEO Greg Gallant becomes market president for Oklahoma and Arkansas. No WeStreet branch closures."
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-firefighters-credit-union-p-and-s-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+        "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+        "note": "Joint member site: effective around mid-2027; Tracie Wilcox CEO",
         "changes": [
           {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Draper"
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "Q3 2027"
           },
           {
-            "field": "partner_city",
+            "field": "ceo",
             "old": null,
-            "new": "Salt Lake City"
+            "new": "Tracie Wilcox"
           },
           {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Thomas R Gourdin"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Tammy Morgan"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 5586
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 4
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "UT, GA"
+            "field": "notes",
+            "old": "Subject to regulatory approval and a Sky FCU member vote; combined CU serves Montana and Colorado.",
+            "new": "Joint member site names Tracie Wilcox CEO and Daisy Romo President (CEO succession) of the combined CU; regulatory application filed; expected to take effect around mid-2027. Sky becomes a division under On Tap's charter, HQ Golden, CO. No branch closures planned."
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+        "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+        "note": "Added Evermore CEO",
         "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Tullahoma"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Atlanta"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Matthew Jernigan"
-          },
           {
             "field": "partner_ceo",
             "old": null,
-            "new": "Chris A Leggett"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 404547
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 45
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TN, GA"
+            "new": "Steven Sanzone"
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+        "id": "2026-11-10-max-credit-union-first-financial-bank",
+        "note": "Added First Financial CEO, approvals and announced figures",
         "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Jackson"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Birmingham"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "William Bynum"
-          },
           {
             "field": "partner_ceo",
             "old": null,
-            "new": "Brooke A Smedley"
+            "new": "B. Kyle Goodwin IV"
           },
           {
-            "field": "combined_members",
+            "field": "next_steps",
             "old": null,
-            "new": 50243
+            "new": "FirstFed Bancorp shareholder and regulatory approval"
           },
           {
-            "field": "combined_locations",
-            "old": null,
-            "new": 16
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MS, AL, AR, TN, FL, LA"
+            "field": "announced_figures",
+            "old": "Adds $245M in assets and 8 branches to MAX's $2.3B and 16 locations",
+            "new": "About $2.6B in assets, 24 locations"
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+        "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+        "note": "Gulfside CEO Dennis Murphy becomes DFCU's Sarasota/Manatee area president",
         "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Buffalo"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Buffalo"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Charles D Kirsch"
-          },
           {
             "field": "partner_ceo",
             "old": null,
-            "new": "Ronna Sidoti"
+            "new": "Dennis Murphy"
           },
           {
-            "field": "combined_members",
+            "field": "announced_figures",
             "old": null,
-            "new": 8855
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 2
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "NY"
+            "new": "DFCU at $8B in assets; no combined figures released"
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+        "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+        "note": "Added Peoples Exchange CEO",
         "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "West Chester"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Cincinnati"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Daniel L Sutton"
-          },
           {
             "field": "partner_ceo",
             "old": null,
-            "new": "Karen E Anderson"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 133739
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 15
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "OH, IN, KY"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Crown Point"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Munster"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Eugene R Novello"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Sarah Humenik"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 40127
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 12
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "IN, IL"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Warner Robins"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Cordele"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Christina M O'Brien"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Kay Burton"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 274411
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 24
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "GA"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Port Washington"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Great Neck"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Michael J Fitzgerald"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Flaviano Pereira"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 3294
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "NY"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Lamesa"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Plainview"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Dale J Hansard"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Mickie J Gregory"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 4811
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 3
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TX"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Bedford"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Loogootee"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Travis Markley"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Michael E Hurt"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 41130
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 11
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "IN"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Hattiesburg"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Biloxi"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "John S Harmond"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Amy Olier"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 16669
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 8
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MS"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Winston Salem"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Winston Salem"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "William Hall"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Dion Williams"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 355762
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 44
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "NC, SC, VA"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Parsippany"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Parsippany"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Michael Powers"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Denise Faver"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 30517
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 8
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "NJ"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-texas-trust-credit-union-my-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Arlington"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Haslet"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Jim Minge"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Mark Massey"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 144592
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 27
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "TX"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Lexington"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Ashland"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Ryan Ross"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Matt D Bell"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 124132
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 9
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "KY"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "West Jordan"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Salt Lake City"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Jake Bowman"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "L William Christopherson"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 21669
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 12
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "UT, CA"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-park-side-credit-union-lincoln-county-credit-union",
-        "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-        "changes": [
-          {
-            "field": "acquirer_city",
-            "old": null,
-            "new": "Whitefish"
-          },
-          {
-            "field": "partner_city",
-            "old": null,
-            "new": "Libby"
-          },
-          {
-            "field": "acquirer_ceo",
-            "old": null,
-            "new": "Jeremy Presta"
-          },
-          {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Lindsay Beaty"
-          },
-          {
-            "field": "combined_members",
-            "old": null,
-            "new": 35957
-          },
-          {
-            "field": "combined_locations",
-            "old": null,
-            "new": 10
-          },
-          {
-            "field": "footprint",
-            "old": null,
-            "new": "MT"
+            "new": "Harvey Gaston Jr."
           }
         ],
         "kept": []
@@ -3829,6 +1432,10 @@
       "summary": "SELCO Community Credit Union / Numerica Credit Union"
     },
     {
+      "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+      "summary": "Financial Plus Credit Union / Monroe Community Credit Union"
+    },
+    {
       "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
       "summary": "PenAir Credit Union / Fort McClellan Credit Union"
     },
@@ -3837,16 +1444,36 @@
       "summary": "DFCU Financial Credit Union / Gulfside Bank"
     },
     {
+      "id": "undated-communityamerica-credit-union-westreet-credit-union",
+      "summary": "CommunityAmerica Credit Union / WeStreet Credit Union"
+    },
+    {
+      "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+      "summary": "Michigan State University Federal Credit Union / University Federal Credit Union"
+    },
+    {
       "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
       "summary": "On Tap Credit Union / Sky Federal Credit Union"
+    },
+    {
+      "id": "2026-10-01-consumers-credit-union-scott-credit-union",
+      "summary": "Consumers Credit Union / Scott Credit Union"
     },
     {
       "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
       "summary": "Gulf Winds Credit Union / Peoples Exchange Bank"
     },
     {
+      "id": "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+      "summary": "Sierra Central Credit Union / First U.S. Community Credit Union"
+    },
+    {
       "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
       "summary": "Gulf Winds Credit Union / Madison County Community Bank"
+    },
+    {
+      "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
+      "summary": "America First Federal Credit Union / Greater Nevada Credit Union"
     },
     {
       "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
@@ -3979,10 +1606,6 @@
     {
       "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
       "summary": "F&A Federal Credit Union / Ontario Public Employees Federal Credit Union"
-    },
-    {
-      "id": "undated-communityamerica-credit-union-westreet-credit-union",
-      "summary": "CommunityAmerica Credit Union / WeStreet Credit Union"
     },
     {
       "id": "undated-firefighters-credit-union-p-and-s-credit-union",
