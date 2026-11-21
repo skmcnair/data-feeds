@@ -1091,7 +1091,7 @@
         "ceo": "Lisa Ginter",
         "acquirer_assets": 9224.9,
         "acquirer_members": 604252,
-        "acquirer_locations": 77,
+        "acquirer_locations": 81,
         "partner_assets": 955.7,
         "partner_members": 61556,
         "partner_locations": 13,
@@ -1105,8 +1105,8 @@
         "acquirer_ceo": "Lisa Ginter",
         "partner_ceo": "Gregory Gallant",
         "combined_members": 665808,
-        "combined_locations": 90,
-        "footprint": "MO, CA, OK, KS, AR, TX, AL, KY, MI, IN, MS, NC, NV, TN, WV",
+        "combined_locations": 94,
+        "footprint": "MO, CA, OK, KS, AR, TX, AL, KY, MI, NE, IN, MS, NC, NV, TN, WV",
         "next_steps": "WeStreet member vote, counted at a special meeting on Nov 20, 2026"
       },
       "sources": [
@@ -1163,8 +1163,8 @@
         "acquirer_ceo": 1,
         "partner_ceo": 2,
         "combined_members": 1,
-        "combined_locations": 3,
-        "footprint": 3,
+        "combined_locations": 1,
+        "footprint": 1,
         "announced": 4,
         "ceo": 4,
         "next_steps": 5,
@@ -1260,6 +1260,31 @@
             "https://www.communityamerica.com/news/westreet-credit-union-merger",
             "https://www.regulations.gov/docket/NCUA-2026-1849"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 77,
+              "new": 81
+            },
+            {
+              "field": "combined_locations",
+              "old": 90,
+              "new": 94
+            },
+            {
+              "field": "footprint",
+              "old": "MO, CA, OK, KS, AR, TX, AL, KY, MI, IN, MS, NC, NV, TN, WV",
+              "new": "MO, CA, OK, KS, AR, TX, AL, KY, MI, NE, IN, MS, NC, NV, TN, WV"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15732",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24812"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -1285,13 +1310,13 @@
         "partner_city": "Austin",
         "acquirer_assets": 9203.0,
         "acquirer_members": 416844,
-        "acquirer_locations": 37,
+        "acquirer_locations": 39,
         "partner_assets": 4234.7,
         "partner_members": 438632,
         "partner_locations": 29,
         "combined_assets": 13437.7,
         "combined_members": 855476,
-        "combined_locations": 66,
+        "combined_locations": 68,
         "footprint": "TX, MI, IL",
         "announced_figures": "$13.5B in assets, 850,000+ members, 30 + 38 branches",
         "next_steps": "Regulatory approvals",
@@ -1344,9 +1369,9 @@
         "partner_members": 2,
         "partner_state": 2,
         "partner_city": 2,
-        "acquirer_locations": 3,
+        "acquirer_locations": 1,
         "partner_locations": 3,
-        "combined_locations": 3,
+        "combined_locations": 1,
         "footprint": 3,
         "acquirer_ceo": 0,
         "partner_ceo": 0
@@ -1355,6 +1380,26 @@
         {
           "date": "2026-11-21",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 37,
+              "new": 39
+            },
+            {
+              "field": "combined_locations",
+              "old": 66,
+              "new": 68
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23279",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1367"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -1549,13 +1594,13 @@
         "partner_city": "Edwardsville",
         "acquirer_assets": 4614.6,
         "acquirer_members": 296225,
-        "acquirer_locations": 24,
+        "acquirer_locations": 25,
         "partner_assets": 1826.6,
         "partner_members": 131224,
         "partner_locations": 23,
         "combined_assets": 6441.2,
         "combined_members": 427449,
-        "combined_locations": 47,
+        "combined_locations": 48,
         "footprint": "IL, MO",
         "announced_figures": "About $6.46B in assets, 424,000+ members, 46 locations",
         "next_steps": "Regulatory approval and a Scott CU member vote",
@@ -1606,9 +1651,9 @@
         "partner_members": 2,
         "partner_state": 2,
         "partner_city": 2,
-        "acquirer_locations": 3,
+        "acquirer_locations": 1,
         "partner_locations": 3,
-        "combined_locations": 3,
+        "combined_locations": 1,
         "footprint": 3,
         "acquirer_ceo": 1,
         "partner_ceo": 2
@@ -1617,6 +1662,26 @@
         {
           "date": "2026-11-21",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 24,
+              "new": 25
+            },
+            {
+              "field": "combined_locations",
+              "old": 47,
+              "new": 48
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68588",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66370"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -1806,13 +1871,13 @@
         "partner_city": "Sacramento",
         "acquirer_assets": 1486.6,
         "acquirer_members": 87307,
-        "acquirer_locations": 18,
+        "acquirer_locations": 19,
         "partner_assets": 540.6,
         "partner_members": 27130,
         "partner_locations": 5,
         "combined_assets": 2027.2,
         "combined_members": 114437,
-        "combined_locations": 23,
+        "combined_locations": 24,
         "footprint": "CA",
         "announced_figures": "$2B+ in assets, 114,000+ members, 23 branches",
         "next_steps": "A First U.S. member vote, expected in Q1 2027",
@@ -1864,9 +1929,9 @@
         "partner_members": 2,
         "partner_state": 2,
         "partner_city": 2,
-        "acquirer_locations": 3,
+        "acquirer_locations": 1,
         "partner_locations": 3,
-        "combined_locations": 3,
+        "combined_locations": 1,
         "footprint": 3,
         "acquirer_ceo": 1,
         "partner_ceo": 2
@@ -1875,6 +1940,26 @@
         {
           "date": "2026-11-21",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 18,
+              "new": 19
+            },
+            {
+              "field": "combined_locations",
+              "old": 23,
+              "new": 24
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68053",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68474"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -2051,13 +2136,13 @@
         "partner_city": "Carson City",
         "acquirer_assets": 26333.7,
         "acquirer_members": 1612780,
-        "acquirer_locations": 123,
+        "acquirer_locations": 137,
         "partner_assets": 1631.3,
         "partner_members": 89893,
         "partner_locations": 13,
         "combined_assets": 27965.0,
         "combined_members": 1702673,
-        "combined_locations": 136,
+        "combined_locations": 150,
         "footprint": "UT, NV, AZ, ID, CA, NM",
         "announced_figures": "$26B+ in assets, 1.6M+ members, 135 branches",
         "next_steps": null,
@@ -2109,9 +2194,9 @@
         "partner_members": 2,
         "partner_state": 2,
         "partner_city": 2,
-        "acquirer_locations": 3,
+        "acquirer_locations": 1,
         "partner_locations": 3,
-        "combined_locations": 3,
+        "combined_locations": 1,
         "footprint": 3,
         "acquirer_ceo": 1,
         "partner_ceo": 2
@@ -2120,6 +2205,26 @@
         {
           "date": "2026-11-21",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 123,
+              "new": 137
+            },
+            {
+              "field": "combined_locations",
+              "old": 136,
+              "new": 150
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24694",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68228"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -2897,7 +3002,7 @@
         "ceo": "Robert Cashman",
         "acquirer_assets": 3399.9,
         "acquirer_members": 224044,
-        "acquirer_locations": 17,
+        "acquirer_locations": 16,
         "partner_assets": 338.6,
         "partner_members": 13620,
         "partner_locations": 7,
@@ -2911,7 +3016,7 @@
         "acquirer_ceo": "Robert Cashman",
         "partner_ceo": "Michael Wilberton",
         "combined_members": 237664,
-        "combined_locations": 24,
+        "combined_locations": 23,
         "footprint": "MA",
         "announced_figures": "$3.5B+ in assets, about 214,000 members, 25 branches"
       },
@@ -2971,7 +3076,7 @@
         "acquirer_ceo": 0,
         "partner_ceo": 0,
         "combined_members": 2,
-        "combined_locations": 4,
+        "combined_locations": 2,
         "footprint": 4,
         "announced_figures": 5
       },
@@ -3033,6 +3138,26 @@
             "https://www.metrocu.org/blog/metro-credit-union-and-members-plus-credit-union-announce-intent-to-merge-powered-by-partnership",
             "https://www.cuinsight.com/press-release/metro-credit-union-and-members-plus-credit-union-announce-intent-to-merge-powered-by-partnership/"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 17,
+              "new": 16
+            },
+            {
+              "field": "combined_locations",
+              "old": 24,
+              "new": 23
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66364",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66706"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -3054,7 +3179,7 @@
         "ceo": "Timothy Mackay",
         "acquirer_assets": 8198.6,
         "acquirer_members": 407110,
-        "acquirer_locations": 35,
+        "acquirer_locations": 36,
         "partner_assets": 432.6,
         "partner_members": null,
         "partner_locations": 1,
@@ -3067,8 +3192,8 @@
         "partner_city": "Appleton",
         "acquirer_ceo": "Timothy Mackay",
         "partner_ceo": "Paul Northway",
-        "combined_locations": 36,
-        "footprint": "WI",
+        "combined_locations": 37,
+        "footprint": "WI, IL",
         "announced_figures": "Adds about $419M in assets"
       },
       "sources": [
@@ -3130,8 +3255,8 @@
         "partner_city": 4,
         "acquirer_ceo": 1,
         "partner_ceo": 0,
-        "combined_locations": 5,
-        "footprint": 5,
+        "combined_locations": 2,
+        "footprint": 2,
         "announced_figures": 6
       },
       "history": [
@@ -3186,6 +3311,31 @@
             "https://urbanmilwaukee.com/?p=1241543",
             "https://landmarkcu.com/news/acquisition-announcement-of-american-national-bank-fox-cities-expands-northeast-wi-peresence",
             "https://biztimes.com/landmark-credit-union-to-acquire-appleton-bank/"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 35,
+              "new": 36
+            },
+            {
+              "field": "combined_locations",
+              "old": 36,
+              "new": 37
+            },
+            {
+              "field": "footprint",
+              "old": "WI",
+              "new": "WI, IL"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66751",
+            "https://api.fdic.gov/banks/institutions?filters=CERT:33812"
           ]
         }
       ],
@@ -3521,7 +3671,7 @@
         "ceo": null,
         "acquirer_assets": 19938.5,
         "acquirer_members": 1162377,
-        "acquirer_locations": 66,
+        "acquirer_locations": 84,
         "partner_assets": 759.6,
         "partner_members": 64470,
         "partner_locations": 14,
@@ -3535,7 +3685,7 @@
         "acquirer_ceo": "Mark Sekula",
         "partner_ceo": "Sean Cahill",
         "combined_members": 1226847,
-        "combined_locations": 80,
+        "combined_locations": 98,
         "footprint": "TX, OK",
         "announced_figures": "Nearly $20B in assets"
       },
@@ -3600,7 +3750,7 @@
         "acquirer_ceo": 3,
         "partner_ceo": 4,
         "combined_members": 3,
-        "combined_locations": 5,
+        "combined_locations": 3,
         "footprint": 5,
         "announced_figures": 6
       },
@@ -3659,6 +3809,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24934",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
             "https://www.rbfcu.org/membership/true-sky-federal-credit-union-merger"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 66,
+              "new": 84
+            },
+            {
+              "field": "combined_locations",
+              "old": 80,
+              "new": 98
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24934"
           ]
         }
       ],
@@ -3846,7 +4016,7 @@
         "ceo": "Beverly Anderson",
         "acquirer_assets": 29406.7,
         "acquirer_members": 1597078,
-        "acquirer_locations": 70,
+        "acquirer_locations": 71,
         "partner_assets": 4396.3,
         "partner_members": 245654,
         "partner_locations": 18,
@@ -3860,7 +4030,7 @@
         "acquirer_ceo": "Beverly Anderson",
         "partner_ceo": "Faye Nabhani",
         "combined_members": 1842732,
-        "combined_locations": 88,
+        "combined_locations": 89,
         "footprint": "WA, CA, SC",
         "announced_figures": "$33B+ in assets, 1.8M members, 80+ locations",
         "next_steps": "Final approval from the CA DFPI"
@@ -3931,7 +4101,7 @@
         "acquirer_ceo": 6,
         "partner_ceo": 6,
         "combined_members": 3,
-        "combined_locations": 5,
+        "combined_locations": 3,
         "footprint": 5,
         "announced_figures": 7,
         "next_steps": 0
@@ -4000,6 +4170,26 @@
             "https://www.safecu.org/news/2026/01/06/safe-credit-union-to-combine-with-becu",
             "https://www.safecu.org/vote"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 70,
+              "new": 71
+            },
+            {
+              "field": "combined_locations",
+              "old": 88,
+              "new": 89
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62604",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68366"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -4021,7 +4211,7 @@
         "ceo": "Alex Rascon",
         "acquirer_assets": 4832.0,
         "acquirer_members": 447666,
-        "acquirer_locations": 24,
+        "acquirer_locations": 37,
         "partner_assets": 176.3,
         "partner_members": null,
         "partner_locations": 11,
@@ -4034,7 +4224,7 @@
         "partner_city": "Roswell",
         "acquirer_ceo": "Alex Rascon",
         "partner_ceo": "Andrew Hogan",
-        "combined_locations": 35,
+        "combined_locations": 48,
         "footprint": "TX, NM",
         "announced_figures": "$4.7B in assets, 440,000+ members and customers, 30+ branches"
       },
@@ -4107,7 +4297,7 @@
         "partner_city": 5,
         "acquirer_ceo": 2,
         "partner_ceo": 7,
-        "combined_locations": 6,
+        "combined_locations": 3,
         "footprint": 6,
         "announced_figures": 8
       },
@@ -4163,6 +4353,26 @@
             "https://www.cuinsight.com/?p=218359",
             "https://tyfone.com/?p=11729",
             "https://www.bankingdive.com/news/el-paso-credit-union-to-buy-11-branch-bank/805816/"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 24,
+              "new": 37
+            },
+            {
+              "field": "combined_locations",
+              "old": 35,
+              "new": 48
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24941",
+            "https://api.fdic.gov/banks/institutions?filters=CERT:2247"
           ]
         }
       ],
@@ -4326,7 +4536,7 @@
         "ceo": "Isaac Johnson",
         "acquirer_assets": 4957.5,
         "acquirer_members": 394218,
-        "acquirer_locations": 33,
+        "acquirer_locations": 36,
         "partner_assets": 806.3,
         "partner_members": 58641,
         "partner_locations": 12,
@@ -4340,7 +4550,7 @@
         "acquirer_ceo": "Isaac Johnson",
         "partner_ceo": "LeAnn Kaczynski",
         "combined_members": 452859,
-        "combined_locations": 45,
+        "combined_locations": 48,
         "footprint": "TX",
         "announced_figures": "Nearly $6B in assets, 460,000+ members, 48 branches"
       },
@@ -4411,7 +4621,7 @@
         "acquirer_ceo": 1,
         "partner_ceo": 1,
         "combined_members": 4,
-        "combined_locations": 6,
+        "combined_locations": 4,
         "footprint": 6,
         "announced_figures": 7
       },
@@ -4473,6 +4683,26 @@
             "https://www.globenewswire.com/news-release/2026/11/09/3398452/0/en/tdecu-and-smart-financial-credit-union-complete-merger-to-build-a-stronger-organization.html",
             "https://www.tdecu.org/images/press-room/press-releases/2025/tdecu-smart-financial-credit-union-announce-intent-to-merge.pdf"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 33,
+              "new": 36
+            },
+            {
+              "field": "combined_locations",
+              "old": 45,
+              "new": 48
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60705",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67927"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -4509,7 +4739,7 @@
         "partner_ceo": "Jeremy Garza",
         "combined_members": 203229,
         "combined_locations": 51,
-        "footprint": "IL, MN, IN, MI, TX, GA, FL, ND, NV, WI",
+        "footprint": "IL, IN, MI, MN, TX, GA, FL, ND, NV, WI",
         "next_steps": "Legal merger set for Dec 31, 2026"
       },
       "sources": [
@@ -4562,7 +4792,7 @@
         "partner_ceo": 3,
         "combined_members": 2,
         "combined_locations": 4,
-        "footprint": 4,
+        "footprint": 2,
         "next_steps": 0
       },
       "history": [
@@ -4621,6 +4851,21 @@
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
             "https://www.creditunion1.org/about/mergers/gulf-coast/"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "footprint",
+              "old": "IL, MN, IN, MI, TX, GA, FL, ND, NV, WI",
+              "new": "IL, IN, MI, MN, TX, GA, FL, ND, NV, WI"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4060"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -4657,7 +4902,7 @@
         "partner_ceo": "Zac Pollock",
         "combined_members": 192817,
         "combined_locations": 47,
-        "footprint": "IL, MN, IN, MI, GA, IA, FL, ND, NV, WI"
+        "footprint": "IL, IN, MI, MN, GA, IA, FL, ND, NV, WI"
       },
       "sources": [
         {
@@ -4709,7 +4954,7 @@
         "partner_ceo": 3,
         "combined_members": 2,
         "combined_locations": 4,
-        "footprint": 4
+        "footprint": 2
       },
       "history": [
         {
@@ -4760,6 +5005,21 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64231",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "footprint",
+              "old": "IL, MN, IN, MI, GA, IA, FL, ND, NV, WI",
+              "new": "IL, IN, MI, MN, GA, IA, FL, ND, NV, WI"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64231"
           ]
         }
       ],
@@ -5319,7 +5579,7 @@
         "ceo": null,
         "acquirer_assets": 4012.3,
         "acquirer_members": 206853,
-        "acquirer_locations": 36,
+        "acquirer_locations": 37,
         "partner_assets": 46.9,
         "partner_members": 1849,
         "partner_locations": 1,
@@ -5333,7 +5593,7 @@
         "acquirer_ceo": "Roger D Ballard",
         "partner_ceo": "Harinder Dhindsa",
         "combined_members": 208702,
-        "combined_locations": 37,
+        "combined_locations": 38,
         "footprint": "CA, AK, WY, AZ, WA"
       },
       "sources": [
@@ -5380,7 +5640,7 @@
         "acquirer_ceo": 1,
         "partner_ceo": 2,
         "combined_members": 1,
-        "combined_locations": 3,
+        "combined_locations": 1,
         "footprint": 3
       },
       "history": [
@@ -5432,6 +5692,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64503",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 36,
+              "new": 37
+            },
+            {
+              "field": "combined_locations",
+              "old": 37,
+              "new": 38
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64503"
           ]
         }
       ],
@@ -6264,7 +6544,7 @@
         "ceo": null,
         "acquirer_assets": 6450.9,
         "acquirer_members": 371640,
-        "acquirer_locations": 41,
+        "acquirer_locations": 42,
         "partner_assets": 467.1,
         "partner_members": 29254,
         "partner_locations": 4,
@@ -6278,7 +6558,7 @@
         "acquirer_ceo": "Michael Valentine",
         "partner_ceo": "Joseph J Kregul",
         "combined_members": 400894,
-        "combined_locations": 45,
+        "combined_locations": 46,
         "footprint": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
       },
       "sources": [
@@ -6325,7 +6605,7 @@
         "acquirer_ceo": 1,
         "partner_ceo": 2,
         "combined_members": 1,
-        "combined_locations": 3,
+        "combined_locations": 1,
         "footprint": 3
       },
       "history": [
@@ -6377,6 +6657,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 41,
+              "new": 42
+            },
+            {
+              "field": "combined_locations",
+              "old": 45,
+              "new": 46
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421"
           ]
         }
       ],
@@ -7074,7 +7374,7 @@
         "ceo": null,
         "acquirer_assets": 4924.3,
         "acquirer_members": 274961,
-        "acquirer_locations": 27,
+        "acquirer_locations": 28,
         "partner_assets": 2413.6,
         "partner_members": 129586,
         "partner_locations": 18,
@@ -7088,7 +7388,7 @@
         "acquirer_ceo": "Matthew Jernigan",
         "partner_ceo": "Chris A Leggett",
         "combined_members": 404547,
-        "combined_locations": 45,
+        "combined_locations": 46,
         "footprint": "TN, GA"
       },
       "sources": [
@@ -7135,7 +7435,7 @@
         "acquirer_ceo": 1,
         "partner_ceo": 2,
         "combined_members": 1,
-        "combined_locations": 3,
+        "combined_locations": 1,
         "footprint": 3
       },
       "history": [
@@ -7187,6 +7487,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7397",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68581",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 27,
+              "new": 28
+            },
+            {
+              "field": "combined_locations",
+              "old": 45,
+              "new": 46
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7397",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68581"
           ]
         }
       ],
@@ -8821,7 +9141,7 @@
         "ceo": null,
         "acquirer_assets": 1868.1,
         "acquirer_members": 122283,
-        "acquirer_locations": 8,
+        "acquirer_locations": 9,
         "partner_assets": 13.2,
         "partner_members": 1849,
         "partner_locations": 1,
@@ -8835,7 +9155,7 @@
         "acquirer_ceo": "Ryan Ross",
         "partner_ceo": "Matt D Bell",
         "combined_members": 124132,
-        "combined_locations": 9,
+        "combined_locations": 10,
         "footprint": "KY"
       },
       "sources": [
@@ -8882,7 +9202,7 @@
         "acquirer_ceo": 2,
         "partner_ceo": 0,
         "combined_members": 2,
-        "combined_locations": 3,
+        "combined_locations": 2,
         "footprint": 3
       },
       "history": [
@@ -8935,6 +9255,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 8,
+              "new": 9
+            },
+            {
+              "field": "combined_locations",
+              "old": 9,
+              "new": 10
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24165",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8956,7 +9296,7 @@
         "ceo": null,
         "acquirer_assets": 382.2,
         "acquirer_members": 20597,
-        "acquirer_locations": 11,
+        "acquirer_locations": 12,
         "partner_assets": 6.3,
         "partner_members": 1072,
         "partner_locations": 1,
@@ -8970,7 +9310,7 @@
         "acquirer_ceo": "Jake Bowman",
         "partner_ceo": "L William Christopherson",
         "combined_members": 21669,
-        "combined_locations": 12,
+        "combined_locations": 13,
         "footprint": "UT, CA"
       },
       "sources": [
@@ -9017,7 +9357,7 @@
         "acquirer_ceo": 2,
         "partner_ceo": 0,
         "combined_members": 2,
-        "combined_locations": 3,
+        "combined_locations": 2,
         "footprint": 3
       },
       "history": [
@@ -9069,6 +9409,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 11,
+              "new": 12
+            },
+            {
+              "field": "combined_locations",
+              "old": 12,
+              "new": 13
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917"
           ]
         }
       ],

@@ -1,179 +1,313 @@
 {
-  "last_review": "2026-11-21T18:50:00-05:00",
-  "last_review_file": "2026-11-21-1850.json",
+  "last_review": "2026-11-21T19:00:00-05:00",
+  "last_review_file": "2026-11-21-1900.json",
   "last_review_result": "ok",
   "last_review_errors": [],
   "last_review_report": {
-    "added": [
+    "added": [],
+    "updated": [
+      {
+        "id": "undated-communityamerica-credit-union-westreet-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 77,
+            "new": 81
+          },
+          {
+            "field": "combined_locations",
+            "old": 90,
+            "new": 94
+          },
+          {
+            "field": "footprint",
+            "old": "MO, CA, OK, KS, AR, TX, AL, KY, MI, IN, MS, NC, NV, TN, WV",
+            "new": "MO, CA, OK, KS, AR, TX, AL, KY, MI, NE, IN, MS, NC, NV, TN, WV"
+          }
+        ],
+        "kept": []
+      },
       {
         "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
-        "summary": "Michigan State University Federal Credit Union / University Federal Credit Union"
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 37,
+            "new": 39
+          },
+          {
+            "field": "combined_locations",
+            "old": 66,
+            "new": 68
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-01-consumers-credit-union-scott-credit-union",
-        "summary": "Consumers Credit Union / Scott Credit Union"
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 24,
+            "new": 25
+          },
+          {
+            "field": "combined_locations",
+            "old": 47,
+            "new": 48
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
-        "summary": "Sierra Central Credit Union / First U.S. Community Credit Union"
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 18,
+            "new": 19
+          },
+          {
+            "field": "combined_locations",
+            "old": 23,
+            "new": 24
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
-        "summary": "America First Federal Credit Union / Greater Nevada Credit Union"
-      },
-      {
-        "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
-        "summary": "Financial Plus Credit Union / Monroe Community Credit Union"
-      }
-    ],
-    "updated": [
-      {
-        "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
-        "note": "Numerica's merger page puts Legal Day 1 at about Jan. 2028; close moved to Q1 2028",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "expected_close",
-            "old": "H1 2028",
-            "new": "Q1 2028"
+            "field": "acquirer_locations",
+            "old": 123,
+            "new": 137
+          },
+          {
+            "field": "combined_locations",
+            "old": 136,
+            "new": 150
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
-        "note": "PenAir release: FMCU special meeting expected early 2027; close H1 2027; Angela Smith becomes President, Fort McClellan Division",
+        "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "expected_close",
-            "old": "Not Disclosed",
-            "new": "H1 2027"
+            "field": "acquirer_locations",
+            "old": 17,
+            "new": 16
           },
           {
-            "field": "next_steps",
-            "old": "Regulatory approval and a Fort McClellan member vote",
-            "new": "Regulatory approval and a Fort McClellan member vote (special meeting expected early 2027)"
+            "field": "combined_locations",
+            "old": 24,
+            "new": 23
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-communityamerica-credit-union-westreet-credit-union",
-        "note": "CommunityAmerica release and NCUA notice: NCUA approved, proposed effective Jan 1, 2027",
+        "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "announced",
-            "old": null,
-            "new": "2026-10-14"
+            "field": "acquirer_locations",
+            "old": 35,
+            "new": 36
           },
           {
-            "field": "status",
-            "old": "Announced",
-            "new": "Approved"
+            "field": "combined_locations",
+            "old": 36,
+            "new": 37
           },
           {
-            "field": "expected_close",
-            "old": "Not Disclosed",
-            "new": "Q1 2027"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Lisa Ginter"
-          },
-          {
-            "field": "next_steps",
-            "old": null,
-            "new": "WeStreet member vote, counted at a special meeting on Nov 20, 2026"
-          },
-          {
-            "field": "notes",
-            "old": "On NCUA's proposed-merger list. Member vote was set for Nov 20, 2026; result not yet confirmed.",
-            "new": "NCUA approved; proposed effective date Jan 1, 2027 (NCUA member notice). Combined CU operates as CommunityAmerica under CEO Lisa Ginter; WeStreet CEO Greg Gallant becomes market president for Oklahoma and Arkansas. No WeStreet branch closures."
+            "field": "footprint",
+            "old": "WI",
+            "new": "WI, IL"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
-        "note": "Joint member site: effective around mid-2027; Tracie Wilcox CEO",
+        "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "expected_close",
-            "old": "Not Disclosed",
-            "new": "Q3 2027"
+            "field": "acquirer_locations",
+            "old": 66,
+            "new": 84
           },
           {
-            "field": "ceo",
-            "old": null,
-            "new": "Tracie Wilcox"
-          },
-          {
-            "field": "notes",
-            "old": "Subject to regulatory approval and a Sky FCU member vote; combined CU serves Montana and Colorado.",
-            "new": "Joint member site names Tracie Wilcox CEO and Daisy Romo President (CEO succession) of the combined CU; regulatory application filed; expected to take effect around mid-2027. Sky becomes a division under On Tap's charter, HQ Golden, CO. No branch closures planned."
+            "field": "combined_locations",
+            "old": 80,
+            "new": 98
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
-        "note": "Added Evermore CEO",
+        "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Steven Sanzone"
+            "field": "acquirer_locations",
+            "old": 70,
+            "new": 71
+          },
+          {
+            "field": "combined_locations",
+            "old": 88,
+            "new": 89
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-10-max-credit-union-first-financial-bank",
-        "note": "Added First Financial CEO, approvals and announced figures",
+        "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "B. Kyle Goodwin IV"
+            "field": "acquirer_locations",
+            "old": 24,
+            "new": 37
           },
           {
-            "field": "next_steps",
-            "old": null,
-            "new": "FirstFed Bancorp shareholder and regulatory approval"
-          },
-          {
-            "field": "announced_figures",
-            "old": "Adds $245M in assets and 8 branches to MAX's $2.3B and 16 locations",
-            "new": "About $2.6B in assets, 24 locations"
+            "field": "combined_locations",
+            "old": 35,
+            "new": 48
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
-        "note": "Gulfside CEO Dennis Murphy becomes DFCU's Sarasota/Manatee area president",
+        "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Dennis Murphy"
+            "field": "acquirer_locations",
+            "old": 33,
+            "new": 36
           },
           {
-            "field": "announced_figures",
-            "old": null,
-            "new": "DFCU at $8B in assets; no combined figures released"
+            "field": "combined_locations",
+            "old": 45,
+            "new": 48
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
-        "note": "Added Peoples Exchange CEO",
+        "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
         "changes": [
           {
-            "field": "partner_ceo",
-            "old": null,
-            "new": "Harvey Gaston Jr."
+            "field": "footprint",
+            "old": "IL, MN, IN, MI, TX, GA, FL, ND, NV, WI",
+            "new": "IL, IN, MI, MN, TX, GA, FL, ND, NV, WI"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-credit-union-1-first-class-community-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "footprint",
+            "old": "IL, MN, IN, MI, GA, IA, FL, ND, NV, WI",
+            "new": "IL, IN, MI, MN, GA, IA, FL, ND, NV, WI"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 36,
+            "new": 37
+          },
+          {
+            "field": "combined_locations",
+            "old": 37,
+            "new": 38
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 41,
+            "new": 42
+          },
+          {
+            "field": "combined_locations",
+            "old": 45,
+            "new": 46
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 27,
+            "new": 28
+          },
+          {
+            "field": "combined_locations",
+            "old": 45,
+            "new": 46
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 8,
+            "new": 9
+          },
+          {
+            "field": "combined_locations",
+            "old": 9,
+            "new": 10
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "changes": [
+          {
+            "field": "acquirer_locations",
+            "old": 11,
+            "new": 12
+          },
+          {
+            "field": "combined_locations",
+            "old": 12,
+            "new": 13
           }
         ],
         "kept": []
