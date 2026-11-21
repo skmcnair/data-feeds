@@ -6,7 +6,20 @@
       "short_name": "Nutmeg",
       "kind": "credit_union",
       "charter": "68657",
-      "state": "CT"
+      "state": "CT",
+      "logo": {
+        "file": "nutmeg-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://nutmegstatefcu.org/wp-content/themes/_nutmeg/img/logo.svg",
+        "fingerprint": "84008d5a690d49354925523a320b44764468d52a48aa1b2ece6a2b2a33420040",
+        "aspect": 2.153,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "new-haven-teachers-fcu": {
       "name": "New Haven Teachers Federal Credit Union",
@@ -23,7 +36,20 @@
       "kind": "credit_union",
       "charter": "66364",
       "website": "http://www.metrocu.org",
-      "state": "MA"
+      "state": "MA",
+      "logo": {
+        "file": "metro-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.metrocu.org/",
+        "fingerprint": "abeacb6a4a650a755a755b3959797c7d4c7d4b365b364b364000ccca6c888cc8",
+        "aspect": 4.0,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "members-plus-cu": {
       "name": "Members Plus Credit Union",
@@ -120,7 +146,20 @@
       "kind": "credit_union",
       "charter": "67927",
       "website": "http://www.smartcu.org",
-      "state": "TX"
+      "state": "TX",
+      "logo": {
+        "file": "smart-financial-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.smartcu.org:443/",
+        "fingerprint": "0000000000000000000004001480148004001400148014800400148014801480",
+        "aspect": 6.374,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "suncoast": {
       "name": "Suncoast Credit Union",
@@ -138,7 +177,20 @@
       "kind": "credit_union",
       "charter": "68716",
       "website": "http://www.launchcu.com",
-      "state": "FL"
+      "state": "FL",
+      "logo": {
+        "file": "launch-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.launchcu.com/",
+        "fingerprint": "00030059005d1246008a76477745649564996499649568c5184500000b100730",
+        "aspect": 2.864,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "rbfcu": {
       "name": "Randolph-Brooks Federal Credit Union",
@@ -200,7 +252,20 @@
       "kind": "credit_union",
       "charter": "68119",
       "website": "https://www.vanderbiltcu.org",
-      "state": "TN"
+      "state": "TN",
+      "logo": {
+        "file": "vanderbilt-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://vanderbiltcu.org/wp-content/uploads/2025/01/VUCU-Logo-Stacked-Horizontal-CMYK.png",
+        "fingerprint": "17481d881b0819881ec888208509932d932495339d939e35943d972d932c962c",
+        "aspect": 5.558,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "team-one": {
       "name": "Team One Credit Union",
@@ -319,7 +384,20 @@
       "kind": "credit_union",
       "charter": "4060",
       "website": "http://www.ccgcfcu.com",
-      "state": "TX"
+      "state": "TX",
+      "logo": {
+        "file": "gulf-coast-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://ccgcfcu.com/wp-content/uploads/2024/06/gulf-logo.png",
+        "fingerprint": "0000754675674ced9528b4aab4aab2e436d401000000d344e34aa15acb5cda94",
+        "aspect": 8.286,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "first-class-community-cu": {
       "name": "First Class Community Credit Union",
@@ -328,7 +406,20 @@
       "kind": "credit_union",
       "charter": "64231",
       "website": "http://www.gofirstclass.org",
-      "state": "IA"
+      "state": "IA",
+      "logo": {
+        "file": "first-class-community-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://gofirstclass.org/wp-content/uploads/2023/02/logo-1.png",
+        "fingerprint": "2e8858e4f730a4da2b286aa857695e6d566917556aa868a8b4d2f71058e42e88",
+        "aspect": 1.436,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "magnolia-fcu": {
       "name": "Magnolia Federal Credit Union",
@@ -337,7 +428,20 @@
       "kind": "credit_union",
       "charter": "224",
       "website": "http://www.magfedcu.org",
-      "state": "MS"
+      "state": "MS",
+      "logo": {
+        "file": "magnolia-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://magfedcu.org/",
+        "fingerprint": "6000c000c190c000cd96c9b27a537aca7aca6e536d346d3cc000804493489358",
+        "aspect": 4.875,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "city-fcu": {
       "name": "City Federal Credit Union",
@@ -443,7 +547,20 @@
       "kind": "credit_union",
       "charter": "68710",
       "website": "http://www.sunmark.org",
-      "state": "NY"
+      "state": "NY",
+      "logo": {
+        "file": "sunmark-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.sunmark.org/images/default-source/default-album/sunmark_full.svg",
+        "fingerprint": "3000300070006800280044006d00200000000000000000000000000000000000",
+        "aspect": 3.343,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "directors-choice-cu": {
       "name": "Directors Choice Credit Union",
@@ -452,7 +569,20 @@
       "kind": "credit_union",
       "charter": "68420",
       "website": "http://www.directorschoicecu.com/",
-      "state": "NY"
+      "state": "NY",
+      "logo": {
+        "file": "directors-choice-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "http://www.directorschoicecu.com/storage/app/resources/resize/180_77_auto/img_326aef40930aae56991ed68d0967974e.png",
+        "fingerprint": "8000800080008000c000904080100040885ac715c735222b91148535a625cd79",
+        "aspect": 2.5,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "on-tap": {
       "name": "On Tap Credit Union",
@@ -505,7 +635,20 @@
       "kind": "credit_union",
       "charter": "66751",
       "website": "https://www.landmarkcu.com",
-      "state": "WI"
+      "state": "WI",
+      "logo": {
+        "file": "landmark-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://landmarkcu.com/Landmark/media/logos/LCU__RGB_Primary-Logo_2clr_Main.png?ext=.png",
+        "fingerprint": "88004882480002c210c254ca46a24765455958994c8940004a93493b4a320000",
+        "aspect": 3.619,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "anb-fox-cities": {
       "name": "American National Bank-Fox Cities",
@@ -565,7 +708,20 @@
       "kind": "credit_union",
       "charter": "62426",
       "website": "http://www.zealcu.org",
-      "state": "MI"
+      "state": "MI",
+      "logo": {
+        "file": "zeal-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.zealcu.org/wp-content/uploads/ZealCU_Logo.svg",
+        "fingerprint": "062b0003b667a765ad4969cd48cdda4dda5d98cd9949a569a62506248ad54ad5",
+        "aspect": 1.986,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "miners-state-bank": {
       "name": "The Miners State Bank",
@@ -596,7 +752,20 @@
       "kind": "credit_union",
       "charter": "68595",
       "website": "http://www.alabamaone.org",
-      "state": "AL"
+      "state": "AL",
+      "logo": {
+        "file": "alabama-one-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://pibonline.com/wp-content/uploads/2026/11/Alabama-ONE-Logo-R-Credit-Union-Tagline_Blue-300x75.png",
+        "fingerprint": "d426d46a957af65aea5a2cdce9b4e5a6c4a60000440a003402d002d500e702e6",
+        "aspect": 4.286,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "peoples-independent-bank": {
       "name": "Peoples Independent Bank",
@@ -613,7 +782,20 @@
       "short_name": "Interra",
       "kind": "credit_union",
       "charter": "82794",
-      "state": "IN"
+      "state": "IN",
+      "logo": {
+        "file": "interra-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.interracu.com/assets/img/logo-default.svg",
+        "fingerprint": "6000f200d000e281a200b6b216a919694b8b6b2a2b29228b228aa400c60bc699",
+        "aspect": 2.872,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "hicksville-bank": {
       "name": "The Hicksville Bank",
@@ -822,7 +1004,20 @@
       "kind": "credit_union",
       "charter": "205",
       "website": "http://www.allegentfcu.org",
-      "state": "PA"
+      "state": "PA",
+      "logo": {
+        "file": "allegent-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/6568ac02c5e95248e588f871/b0a33bde-e1fa-4bb1-9ddc-3da15243a2a0/ACFCU_logo.png?format=1500w",
+        "fingerprint": "61226000e75667a2c4aae52ac72ae328a548b74cb6ccb6a436a48d72e3a4e324",
+        "aspect": 5.08,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "penn-hills-municipal-fcu": {
       "name": "Penn Hills Municipal Federal Credit Union",
@@ -966,7 +1161,20 @@
       "kind": "credit_union",
       "charter": "15874",
       "website": "http://www.memberstrust.org",
-      "state": "OH"
+      "state": "OH",
+      "logo": {
+        "file": "members-trust-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/5ef4f60d6f18c407402b8934/1593457943596-DFT2LRHAQZ3FJ08R4XV2/logo.png?format=1500w",
+        "fingerprint": "0c8000842c802c9814841c202d006d400000ce6359752136b132d92826d2b29a",
+        "aspect": 2.608,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "agriculture-fcu": {
       "name": "Agriculture Federal Credit Union",
@@ -997,7 +1205,20 @@
       "kind": "credit_union",
       "charter": "2158",
       "website": "http://www.nrcscreditunion.org",
-      "state": "TX"
+      "state": "TX",
+      "logo": {
+        "file": "nrcs-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/5d6e716739db500001610174/1583877418859-1D1LHDC8Z7HM1VC4NKA1/nrfcu-logo.png?format=1500w",
+        "fingerprint": "0000a710c980b2c5a6cbaab1ba5a0d630d00324832482100c4587368726868a8",
+        "aspect": 4.066,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "streator-onized-cu": {
       "name": "Streator Onized Credit Union",
@@ -1046,7 +1267,20 @@
       "kind": "credit_union",
       "charter": "19973",
       "website": "http://www.shrfcu.com",
-      "state": "VA"
+      "state": "VA",
+      "logo": {
+        "file": "summit-hampton-roads-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://shrfcu.com/wp-content/uploads/2020/06/SHR-FCU-logo.png",
+        "fingerprint": "600060006000e000e000e684e3b2e333a24b2128039401b40000000000000000",
+        "aspect": 3.858,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "cy-fair-fcu": {
       "name": "Cy-Fair Federal Credit Union",
@@ -1055,7 +1289,20 @@
       "kind": "credit_union",
       "charter": "11452",
       "website": "http://www.cyfairfcu.org",
-      "state": "TX"
+      "state": "TX",
+      "logo": {
+        "file": "cy-fair-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/5bc10fecaadd3459789bb8e3/1556203553792-5CMDJEQIMP70NC3A1B4M/logo-high.png?format=1500w",
+        "fingerprint": "c000c622e0009222a6ab6dab5dab94b9deadd22531523237e236c200e400c000",
+        "aspect": 2.894,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "baker-hughes-fcu": {
       "name": "Baker Hughes Federal Credit Union",
@@ -1209,7 +1456,20 @@
       "kind": "credit_union",
       "charter": "60928",
       "website": "http://www.kimberlyclarkcu.org",
-      "state": "TN"
+      "state": "TN",
+      "logo": {
+        "file": "kimberly-clark-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.kimberlyclarkcu.org/wp-content/uploads/Logo.jpg",
+        "fingerprint": "5dd415543334b33597755551219b78060c1c03c094e654ae667eb3644a654ad5",
+        "aspect": 1.943,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "west-tennessee-cu": {
       "name": "The West Tennessee Credit Union",
@@ -1218,7 +1478,20 @@
       "kind": "credit_union",
       "charter": "60726",
       "website": "http://www.wtncu.org",
-      "state": "TN"
+      "state": "TN",
+      "logo": {
+        "file": "west-tennessee-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.wtncu.org/external/img/1409780801.png",
+        "fingerprint": "18482549268ea60d498d34ce328e2f8c09cd09cd366a28e9d1246cab269bd124",
+        "aspect": 2.412,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "f-and-a-fcu": {
       "name": "F&A Federal Credit Union",
@@ -1521,7 +1794,20 @@
       "kind": "credit_union",
       "charter": "16813",
       "website": "http://WWW.CAPROCKCU.COM",
-      "state": "TX"
+      "state": "TX",
+      "logo": {
+        "file": "caprock-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://caprockcu.com/wp-content/plugins/caprockcu-site/assets/img/logo-white.png",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 4.053,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "plains-fcu": {
       "name": "Plains Federal Credit Union",
@@ -1569,7 +1855,20 @@
       "kind": "credit_union",
       "charter": "24668",
       "website": "https://www.CenturyFirstFCU.com",
-      "state": "MS"
+      "state": "MS",
+      "logo": {
+        "file": "centuryfirst-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/59e4d81d9f8dcec59456f5ab/1564604594878-KMSIJJPI13JGWMEHRRDB/White+Back+Ground+Century+First.png?format=1500w",
+        "fingerprint": "81600a666909632d52ca56ca664ba2c98db629a80040512f4ab21e61b52b8000",
+        "aspect": 3.569,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "water-s-edge-fcu": {
       "name": "Water's Edge Federal Credit Union",
@@ -1578,7 +1877,20 @@
       "kind": "credit_union",
       "charter": "8593",
       "website": "http://www.WEFCU.org",
-      "state": "MS"
+      "state": "MS",
+      "logo": {
+        "file": "water-s-edge-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/5f15a1cd9e575e40b9eebf85/1595346216605-O6GINBEOHMA6OBB5CCKJ/logo.png?format=1500w",
+        "fingerprint": "16b71ca52da95d4abb586a50d2929b103b2884c29250ac5a6954000c4acb4356",
+        "aspect": 1.389,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "truliant": {
       "name": "Truliant Federal Credit Union",
@@ -1587,7 +1899,20 @@
       "kind": "credit_union",
       "charter": "7840",
       "website": "https://WWW.TRULIANTFCU.ORG",
-      "state": "NC"
+      "state": "NC",
+      "logo": {
+        "file": "truliant-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://WWW.TRULIANTFCU.ORG/img/template-images/logo.svg",
+        "fingerprint": "4aab4aa96aa94aa94aa94aa94aa96aa96aa900004a210041052405ac059b059b",
+        "aspect": 5.43,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "piedmont-advantage-cu": {
       "name": "Piedmont Advantage Credit Union",

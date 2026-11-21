@@ -37,6 +37,14 @@ instructions: |
   call report quarter, with today's branch list) and FDIC BankFind. Use it for every new deal and,
   for open deals, whenever its quarter is newer than size_as_of. creditunions.online (which repackages
   NCUA data) is a fallback only, labeled aggregator.
+  Logos (every organization in a tracked deal needs one; check logos_missing every run):
+    python3 feeds/mergers/tools/find_logo.py <slug> <slug> ...   then view /tmp/logo-candidates/sheet.png.
+  It handles header images, inline SVG and SVG sprites. If a site blocks you (403) or shows only an
+  anniversary/co-branded/promo mark: use the logo from the organization's own press release (search
+  https://www.prnewswire.com/search/news/?keyword="<name>", GlobeNewswire, Business Wire; release
+  images are on mma.prnewswire.com) or from its own press-release PDF (pdfimages). For a merged
+  organization whose site now shows the acquirer, use its own logo from a press release dated before
+  the merger. Tiny credit unions with no website may have no public logo; list them in your message.
   Sizes: never take assets, members or locations from news stories.
   - (sizes.py does all of the following.) Credit unions: assets and members from NCUA's details record,
     https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/<charter>
