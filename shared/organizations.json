@@ -1,3 +1,1053 @@
 {
-  "organizations": {}
+  "organizations": {
+    "nutmeg": {
+      "name": "Nutmeg State Financial Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Nutmeg",
+      "kind": "credit_union",
+      "charter": "68657",
+      "state": "CT"
+    },
+    "new-haven-teachers-fcu": {
+      "name": "New Haven Teachers Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "New Haven Teachers FCU",
+      "kind": "credit_union",
+      "charter": "19",
+      "state": "CT"
+    },
+    "metro-cu": {
+      "name": "Metro Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Metro CU",
+      "kind": "credit_union",
+      "charter": "66364",
+      "website": "http://www.metrocu.org",
+      "state": "MA"
+    },
+    "members-plus-cu": {
+      "name": "Members Plus Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Members Plus CU",
+      "kind": "credit_union",
+      "charter": "66706",
+      "website": "https://www.memberspluscu.org",
+      "state": "MA"
+    },
+    "becu": {
+      "name": "Boeing Employees Credit Union",
+      "added": "2026-11-21",
+      "short_name": "BECU",
+      "kind": "credit_union",
+      "charter": "62604",
+      "website": "http://www.becu.org",
+      "state": "WA"
+    },
+    "safe-cu": {
+      "name": "SAFE Credit Union",
+      "added": "2026-11-21",
+      "short_name": "SAFE CU",
+      "kind": "credit_union",
+      "charter": "68366",
+      "website": "http://www.safecu.org",
+      "state": "CA"
+    },
+    "tdecu": {
+      "name": "Texas Dow Employees Credit Union",
+      "added": "2026-11-21",
+      "short_name": "TDECU",
+      "kind": "credit_union",
+      "charter": "60705",
+      "website": "http://www.tdecu.org",
+      "state": "TX"
+    },
+    "smart-financial": {
+      "name": "Smart Financial Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Smart Financial",
+      "kind": "credit_union",
+      "charter": "67927",
+      "website": "http://www.smartcu.org",
+      "state": "TX"
+    },
+    "suncoast": {
+      "name": "Suncoast Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Suncoast",
+      "kind": "credit_union",
+      "charter": "68645",
+      "website": "https://www.suncoast.com",
+      "state": "FL"
+    },
+    "launch-cu": {
+      "name": "Launch Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Launch CU",
+      "kind": "credit_union",
+      "charter": "68716",
+      "website": "http://www.launchcu.com",
+      "state": "FL"
+    },
+    "rbfcu": {
+      "name": "Randolph-Brooks Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "RBFCU",
+      "kind": "credit_union",
+      "charter": "8111",
+      "website": "http://www.rbfcu.org",
+      "state": "TX"
+    },
+    "true-sky": {
+      "name": "True Sky Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "True Sky",
+      "kind": "credit_union",
+      "charter": "24934",
+      "website": "https://www.TrueSkyCU.org",
+      "state": "OK"
+    },
+    "fortera": {
+      "name": "Fortera Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Fortera",
+      "kind": "credit_union",
+      "charter": "9759",
+      "website": "http://www.forteracu.com",
+      "state": "TN"
+    },
+    "vanderbilt-cu": {
+      "name": "Vanderbilt Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Vanderbilt CU",
+      "kind": "credit_union",
+      "charter": "68119",
+      "website": "https://www.vanderbiltcu.org",
+      "state": "TN"
+    },
+    "team-one": {
+      "name": "Team One Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Team One",
+      "kind": "credit_union",
+      "charter": "62141",
+      "website": "http://WWW.TEAMONECU.ORG",
+      "state": "MI"
+    },
+    "case-cu": {
+      "name": "CASE Credit Union",
+      "added": "2026-11-21",
+      "short_name": "CASE CU",
+      "kind": "credit_union",
+      "charter": "61908",
+      "website": "http://www.casecu.org",
+      "state": "MI"
+    },
+    "loc-cu": {
+      "name": "LOC Credit Union",
+      "added": "2026-11-21",
+      "short_name": "LOC CU",
+      "kind": "credit_union",
+      "charter": "61404",
+      "website": "http://www.loccreditunion.com",
+      "state": "MI"
+    },
+    "advantage-one": {
+      "name": "Advantage One Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Advantage One",
+      "kind": "credit_union",
+      "charter": "68679",
+      "website": "https://www.myaocu.com/",
+      "state": "MI"
+    },
+    "cu1": {
+      "name": "Credit Union 1",
+      "added": "2026-11-21",
+      "short_name": "CU1",
+      "kind": "credit_union",
+      "charter": "68727",
+      "website": "http://www.creditunion1.org",
+      "state": "IL"
+    },
+    "gulf-coast-fcu": {
+      "name": "Gulf Coast Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Gulf Coast FCU",
+      "kind": "credit_union",
+      "charter": "4060",
+      "website": "http://www.ccgcfcu.com",
+      "state": "TX"
+    },
+    "first-class-community-cu": {
+      "name": "First Class Community Credit Union",
+      "added": "2026-11-21",
+      "short_name": "First Class Community CU",
+      "kind": "credit_union",
+      "charter": "64231",
+      "website": "http://www.gofirstclass.org",
+      "state": "IA"
+    },
+    "magnolia-fcu": {
+      "name": "Magnolia Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Magnolia FCU",
+      "kind": "credit_union",
+      "charter": "224",
+      "website": "http://www.magfedcu.org",
+      "state": "MS"
+    },
+    "city-fcu": {
+      "name": "City Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "City FCU",
+      "kind": "credit_union",
+      "charter": "5665",
+      "website": "https://www.cityfederalcu.com",
+      "state": "TX"
+    },
+    "penair": {
+      "name": "PenAir Credit Union",
+      "added": "2026-11-21",
+      "short_name": "PenAir",
+      "kind": "credit_union",
+      "charter": "68734",
+      "website": "https://www.penair.org",
+      "state": "FL"
+    },
+    "fort-mcclellan-cu": {
+      "name": "Fort McClellan Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Fort McClellan CU",
+      "kind": "credit_union",
+      "charter": "61800",
+      "website": "https://www.fortmcclellancu.org/",
+      "state": "AL"
+    },
+    "selco": {
+      "name": "SELCO Community Credit Union",
+      "added": "2026-11-21",
+      "short_name": "SELCO",
+      "kind": "credit_union",
+      "charter": "63196",
+      "website": "http://www.selco.org",
+      "state": "OR"
+    },
+    "numerica": {
+      "name": "Numerica Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Numerica",
+      "kind": "credit_union",
+      "charter": "66841",
+      "website": "https://www.numericacu.com",
+      "state": "WA"
+    },
+    "sunmark": {
+      "name": "Sunmark Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Sunmark",
+      "kind": "credit_union",
+      "charter": "68710",
+      "website": "http://www.sunmark.org",
+      "state": "NY"
+    },
+    "directors-choice-cu": {
+      "name": "Directors Choice Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Directors Choice CU",
+      "kind": "credit_union",
+      "charter": "68420",
+      "website": "http://www.directorschoicecu.com/",
+      "state": "NY"
+    },
+    "on-tap": {
+      "name": "On Tap Credit Union",
+      "added": "2026-11-21",
+      "short_name": "On Tap",
+      "kind": "credit_union",
+      "charter": "64913",
+      "website": "http://www.ontapcu.org",
+      "state": "CO"
+    },
+    "sky-fcu": {
+      "name": "Sky Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Sky FCU",
+      "kind": "credit_union",
+      "charter": "761",
+      "website": "http://www.skyfcu.org",
+      "state": "MT"
+    },
+    "landmark-cu": {
+      "name": "Landmark Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Landmark CU",
+      "kind": "credit_union",
+      "charter": "66751",
+      "website": "https://www.landmarkcu.com",
+      "state": "WI"
+    },
+    "anb-fox-cities": {
+      "name": "American National Bank-Fox Cities",
+      "added": "2026-11-21",
+      "short_name": "ANB-Fox Cities",
+      "kind": "bank",
+      "state": "WI",
+      "fdic_cert": "33812"
+    },
+    "dcfcu": {
+      "name": "Dade County Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "DCFCU",
+      "kind": "credit_union",
+      "charter": "24508",
+      "website": "http://www.dcfcu.org",
+      "state": "FL"
+    },
+    "evermore-bank": {
+      "name": "Evermore Bank",
+      "added": "2026-11-21",
+      "short_name": "Evermore Bank",
+      "kind": "bank",
+      "state": "FL",
+      "fdic_cert": "59306"
+    },
+    "zeal": {
+      "name": "Zeal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Zeal",
+      "kind": "credit_union",
+      "charter": "62426",
+      "website": "http://www.zealcu.org",
+      "state": "MI"
+    },
+    "miners-state-bank": {
+      "name": "The Miners State Bank",
+      "added": "2026-11-21",
+      "short_name": "Miners State Bank",
+      "kind": "bank",
+      "website": "https://www.theminersstatebank.com",
+      "state": "MI",
+      "fdic_cert": "10928"
+    },
+    "alabama-one": {
+      "name": "Alabama ONE Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Alabama ONE",
+      "kind": "credit_union",
+      "charter": "68595",
+      "website": "http://www.alabamaone.org",
+      "state": "AL"
+    },
+    "peoples-independent-bank": {
+      "name": "Peoples Independent Bank",
+      "added": "2026-11-21",
+      "short_name": "Peoples Independent Bank",
+      "kind": "bank",
+      "website": "http://www.pibonline.com",
+      "state": "AL",
+      "fdic_cert": "27233"
+    },
+    "interra": {
+      "name": "Interra Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Interra",
+      "kind": "credit_union",
+      "charter": "82794",
+      "state": "IN"
+    },
+    "hicksville-bank": {
+      "name": "The Hicksville Bank",
+      "added": "2026-11-21",
+      "short_name": "Hicksville Bank",
+      "kind": "bank",
+      "website": "https://www.thb.bank",
+      "state": "OH",
+      "fdic_cert": "16370"
+    },
+    "gesa": {
+      "name": "Gesa Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Gesa",
+      "kind": "credit_union",
+      "charter": "68278",
+      "website": "http://www.gesa.com",
+      "state": "WA"
+    },
+    "willamette-valley-bank": {
+      "name": "Willamette Valley Bank",
+      "added": "2026-11-21",
+      "short_name": "Willamette Valley Bank",
+      "kind": "bank",
+      "website": "https://www.willamettevalleybank.com",
+      "state": "OR",
+      "fdic_cert": "57033"
+    },
+    "gulf-winds": {
+      "name": "Gulf Winds Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Gulf Winds",
+      "kind": "credit_union",
+      "charter": "68694",
+      "website": "https://www.gogulfwinds.com",
+      "state": "FL"
+    },
+    "madison-county-community-bank": {
+      "name": "Madison County Community Bank",
+      "added": "2026-11-21",
+      "short_name": "Madison County Community Bank",
+      "kind": "bank",
+      "website": "https://www.mccbflorida.com",
+      "state": "FL",
+      "fdic_cert": "35056"
+    },
+    "peoples-exchange-bank": {
+      "name": "Peoples Exchange Bank",
+      "added": "2026-11-21",
+      "short_name": "Peoples Exchange Bank",
+      "kind": "bank",
+      "website": "https://www.peb.bank",
+      "state": "AL",
+      "fdic_cert": "70"
+    },
+    "dfcu-financial": {
+      "name": "DFCU Financial Credit Union",
+      "added": "2026-11-21",
+      "short_name": "DFCU Financial",
+      "kind": "credit_union",
+      "charter": "61844",
+      "website": "http://www.dfcufinancial.com",
+      "state": "MI"
+    },
+    "gulfside-bank": {
+      "name": "Gulfside Bank",
+      "added": "2026-11-21",
+      "short_name": "Gulfside Bank",
+      "kind": "bank",
+      "website": "https://www.gulfsidebank.com",
+      "state": "FL",
+      "fdic_cert": "59140"
+    },
+    "max-cu": {
+      "name": "MAX Credit Union",
+      "added": "2026-11-21",
+      "short_name": "MAX CU",
+      "kind": "credit_union",
+      "charter": "68575",
+      "website": "http://www.mymax.com",
+      "state": "AL"
+    },
+    "first-financial-bank": {
+      "name": "First Financial Bank",
+      "added": "2026-11-21",
+      "short_name": "First Financial Bank",
+      "kind": "bank",
+      "website": "https://www.ffbalabama.com",
+      "state": "AL",
+      "fdic_cert": "19440"
+    },
+    "gecu": {
+      "name": "GECU Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "GECU",
+      "kind": "credit_union",
+      "charter": "24941",
+      "website": "https://www.gecu.com",
+      "state": "TX"
+    },
+    "bank-of-the-southwest": {
+      "name": "Bank of the Southwest",
+      "added": "2026-11-21",
+      "short_name": "Bank of the Southwest",
+      "kind": "bank",
+      "state": "NM",
+      "fdic_cert": "2247"
+    },
+    "allegent": {
+      "name": "Allegent Community Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Allegent",
+      "kind": "credit_union",
+      "charter": "205",
+      "website": "http://www.allegentfcu.org",
+      "state": "PA"
+    },
+    "penn-hills-municipal-fcu": {
+      "name": "Penn Hills Municipal Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Penn Hills Municipal FCU",
+      "kind": "credit_union",
+      "charter": "16636",
+      "state": "PA"
+    },
+    "bp-fcu": {
+      "name": "BP Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "BP FCU",
+      "kind": "credit_union",
+      "charter": "24445",
+      "website": "http://www.bpfcu.org",
+      "state": "TX"
+    },
+    "southern-star-cu": {
+      "name": "Southern Star Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Southern Star CU",
+      "kind": "credit_union",
+      "charter": "67660",
+      "website": "http://www.southernstarcu.org",
+      "state": "TX"
+    },
+    "sterling-fcu": {
+      "name": "Sterling Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Sterling FCU",
+      "kind": "credit_union",
+      "charter": "2840",
+      "website": "http://www.sterlingcreditunion.org",
+      "state": "CO"
+    },
+    "fort-morgan-schools-fcu": {
+      "name": "Fort Morgan Schools Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Fort Morgan Schools FCU",
+      "kind": "credit_union",
+      "charter": "10180",
+      "state": "CO"
+    },
+    "nuvision": {
+      "name": "Nuvision Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Nuvision",
+      "kind": "credit_union",
+      "charter": "566",
+      "website": "http://www.nuvisionfederal.org",
+      "state": "CA"
+    },
+    "dow-great-western-cu": {
+      "name": "Dow Great Western Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Dow Great Western CU",
+      "kind": "credit_union",
+      "charter": "64503",
+      "website": "http://www.dowcu.org",
+      "state": "CA"
+    },
+    "sharefax": {
+      "name": "Sharefax Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Sharefax",
+      "kind": "credit_union",
+      "charter": "61090",
+      "website": "http://WWW.SHAREFAX.ORG",
+      "state": "OH"
+    },
+    "members-trust-fcu": {
+      "name": "Members Trust Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Members Trust FCU",
+      "kind": "credit_union",
+      "charter": "15874",
+      "website": "http://www.memberstrust.org",
+      "state": "OH"
+    },
+    "agriculture-fcu": {
+      "name": "Agriculture Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Agriculture FCU",
+      "kind": "credit_union",
+      "charter": "16400",
+      "website": "http://www.agriculturefcu.org",
+      "state": "DC"
+    },
+    "nrcs-fcu": {
+      "name": "Natural Resource Conservation Service Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "NRCS FCU",
+      "kind": "credit_union",
+      "charter": "2158",
+      "website": "http://www.nrcscreditunion.org",
+      "state": "TX"
+    },
+    "streator-onized-cu": {
+      "name": "Streator Onized Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Streator Onized CU",
+      "kind": "credit_union",
+      "charter": "68226",
+      "website": "http://www.socu.org",
+      "state": "IL"
+    },
+    "anco-community-cu": {
+      "name": "ANCO Community Credit Union",
+      "added": "2026-11-21",
+      "short_name": "ANCO Community CU",
+      "kind": "credit_union",
+      "charter": "60184",
+      "website": "http://www.americannickeloidemployeescreditunion.com",
+      "state": "IL"
+    },
+    "healthcare-systems-fcu": {
+      "name": "Healthcare Systems Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Healthcare Systems FCU",
+      "kind": "credit_union",
+      "charter": "24564",
+      "website": "http://www.Healthcarefcu.org",
+      "state": "VA"
+    },
+    "summit-hampton-roads-fcu": {
+      "name": "Summit Hampton Roads Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Summit Hampton Roads FCU",
+      "kind": "credit_union",
+      "charter": "19973",
+      "website": "http://www.shrfcu.com",
+      "state": "VA"
+    },
+    "cy-fair-fcu": {
+      "name": "Cy-Fair Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Cy-Fair FCU",
+      "kind": "credit_union",
+      "charter": "11452",
+      "website": "http://www.cyfairfcu.org",
+      "state": "TX"
+    },
+    "baker-hughes-fcu": {
+      "name": "Baker Hughes Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Baker Hughes FCU",
+      "kind": "credit_union",
+      "charter": "16271",
+      "website": "http://www.bhfcu.org",
+      "state": "TX"
+    },
+    "norstar": {
+      "name": "Norstar Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Norstar",
+      "kind": "credit_union",
+      "charter": "4951",
+      "website": "http://www.norstarfcu.com",
+      "state": "SD"
+    },
+    "healthcare-plus-fcu": {
+      "name": "Healthcare Plus Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Healthcare Plus FCU",
+      "kind": "credit_union",
+      "charter": "23371",
+      "website": "http://www.hcpfcu.coop",
+      "state": "SD"
+    },
+    "bcu": {
+      "name": "Baxter Credit Union",
+      "added": "2026-11-21",
+      "short_name": "BCU",
+      "kind": "credit_union",
+      "charter": "68187",
+      "website": "http://www.bcu.org",
+      "state": "IL"
+    },
+    "healthcare-associates-cu": {
+      "name": "HealthCare Associates Credit Union",
+      "added": "2026-11-21",
+      "short_name": "HealthCare Associates CU",
+      "kind": "credit_union",
+      "charter": "65421",
+      "website": "https://www.hacu.org",
+      "state": "IL"
+    },
+    "daniels-sheridan-fcu": {
+      "name": "Daniels-Sheridan Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Daniels-Sheridan FCU",
+      "kind": "credit_union",
+      "charter": "5063",
+      "website": "https://www.dsfcu.net",
+      "state": "MT"
+    },
+    "fort-peck-community-fcu": {
+      "name": "Fort Peck Community Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Fort Peck Community FCU",
+      "kind": "credit_union",
+      "charter": "8037",
+      "website": "http://www.fortpeckcu.com",
+      "state": "MT"
+    },
+    "first-south-financial": {
+      "name": "First South Financial Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "First South Financial",
+      "kind": "credit_union",
+      "charter": "24963",
+      "website": "http://www.firstsouth.com",
+      "state": "TN"
+    },
+    "delta-refining-fcu": {
+      "name": "Delta Refining Co Emp Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Delta Refining FCU",
+      "kind": "credit_union",
+      "charter": "9310",
+      "state": "TN"
+    },
+    "kimberly-clark-cu": {
+      "name": "Kimberly Clark Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Kimberly Clark CU",
+      "kind": "credit_union",
+      "charter": "60928",
+      "website": "http://www.kimberlyclarkcu.org",
+      "state": "TN"
+    },
+    "west-tennessee-cu": {
+      "name": "The West Tennessee Credit Union",
+      "added": "2026-11-21",
+      "short_name": "West Tennessee CU",
+      "kind": "credit_union",
+      "charter": "60726",
+      "website": "http://www.wtncu.org",
+      "state": "TN"
+    },
+    "f-and-a-fcu": {
+      "name": "F&A Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "F&A FCU",
+      "kind": "credit_union",
+      "charter": "1493",
+      "website": "http://WWW.FAFCU.ORG",
+      "state": "CA"
+    },
+    "ontario-public-employees-fcu": {
+      "name": "Ontario Public Employees Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Ontario Public Employees FCU",
+      "kind": "credit_union",
+      "charter": "13044",
+      "website": "http://www.opefcu.org",
+      "state": "CA"
+    },
+    "communityamerica": {
+      "name": "CommunityAmerica Credit Union",
+      "added": "2026-11-21",
+      "short_name": "CommunityAmerica",
+      "kind": "credit_union",
+      "charter": "15732",
+      "website": "https://www.communityamerica.com/",
+      "state": "KS"
+    },
+    "westreet-cu": {
+      "name": "WeStreet Credit Union",
+      "added": "2026-11-21",
+      "short_name": "WeStreet CU",
+      "kind": "credit_union",
+      "charter": "24812",
+      "website": "http://www.westreet.org",
+      "state": "OK"
+    },
+    "firefighters-cu": {
+      "name": "Firefighters Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Firefighters CU",
+      "kind": "credit_union",
+      "charter": "67079",
+      "website": "https://www.firefighterscu.com",
+      "state": "UT"
+    },
+    "p-and-s-cu": {
+      "name": "P&S Credit Union",
+      "added": "2026-11-21",
+      "short_name": "P&S CU",
+      "kind": "credit_union",
+      "charter": "67056",
+      "website": "http://www.pandscu.org",
+      "state": "UT"
+    },
+    "ascend": {
+      "name": "Ascend Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Ascend",
+      "kind": "credit_union",
+      "charter": "7397",
+      "website": "https://www.ascend.org",
+      "state": "TN"
+    },
+    "lge": {
+      "name": "LGE Community Credit Union",
+      "added": "2026-11-21",
+      "short_name": "LGE",
+      "kind": "credit_union",
+      "charter": "68581",
+      "website": "http://www.LGEccu.org",
+      "state": "GA"
+    },
+    "hope-fcu": {
+      "name": "Hope Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Hope FCU",
+      "kind": "credit_union",
+      "charter": "24829",
+      "website": "https://www.hopecu.org",
+      "state": "MS"
+    },
+    "nrs-community-development-fcu": {
+      "name": "NRS Community Development Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "NRS Community Development FCU",
+      "kind": "credit_union",
+      "charter": "24583",
+      "website": "http://www.starfcu.net",
+      "state": "AL"
+    },
+    "sjp-fcu": {
+      "name": "SJP Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "SJP FCU",
+      "kind": "credit_union",
+      "charter": "3306",
+      "website": "https://www.sjpfcu.org/",
+      "state": "NY"
+    },
+    "dunlop-employees-fcu": {
+      "name": "Dunlop Employees Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Dunlop Employees FCU",
+      "kind": "credit_union",
+      "charter": "7118",
+      "state": "NY"
+    },
+    "kemba": {
+      "name": "Kemba Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Kemba",
+      "kind": "credit_union",
+      "charter": "61810",
+      "website": "http://www.kemba.com",
+      "state": "OH"
+    },
+    "cincinnati-interagency-fcu": {
+      "name": "Cincinnati Interagency Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Cincinnati Interagency FCU",
+      "kind": "credit_union",
+      "charter": "7088",
+      "website": "http://www.cifcu.org",
+      "state": "OH"
+    },
+    "tech-cu": {
+      "name": "Tech Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Tech CU",
+      "kind": "credit_union",
+      "charter": "68225",
+      "website": "http://www.techcu.org",
+      "state": "IN"
+    },
+    "great-horizons-fcu": {
+      "name": "Great Horizons Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Great Horizons FCU",
+      "kind": "credit_union",
+      "charter": "22695",
+      "website": "http://www.greathorizonsfcu.org",
+      "state": "IN"
+    },
+    "robins-financial": {
+      "name": "Robins Financial Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Robins Financial",
+      "kind": "credit_union",
+      "charter": "68670",
+      "website": "http://www.robinsfcu.org",
+      "state": "GA"
+    },
+    "harris-employees-cu": {
+      "name": "Harris Employees Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Harris Employees CU",
+      "kind": "credit_union",
+      "charter": "67563",
+      "state": "GA"
+    },
+    "port-washington-fcu": {
+      "name": "Port Washington Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Port Washington FCU",
+      "kind": "credit_union",
+      "charter": "18635",
+      "website": "http://www.pwfcu.org",
+      "state": "NY"
+    },
+    "great-neck-school-employees-fcu": {
+      "name": "Great Neck School Employees Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Great Neck School Employees FCU",
+      "kind": "credit_union",
+      "charter": "5163",
+      "state": "NY"
+    },
+    "caprock-fcu": {
+      "name": "Caprock Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Caprock FCU",
+      "kind": "credit_union",
+      "charter": "16813",
+      "website": "http://WWW.CAPROCKCU.COM",
+      "state": "TX"
+    },
+    "plains-fcu": {
+      "name": "Plains Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Plains FCU",
+      "kind": "credit_union",
+      "charter": "12274",
+      "website": "http://www.plainsfcu.com",
+      "state": "TX"
+    },
+    "hoosier-hills": {
+      "name": "Hoosier Hills Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Hoosier Hills",
+      "kind": "credit_union",
+      "charter": "60768",
+      "website": "http://www.hoosierhills.com",
+      "state": "IN"
+    },
+    "martin-county-co-op-cu": {
+      "name": "Martin County Co-Op Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Martin County Co-Op CU",
+      "kind": "credit_union",
+      "charter": "67762",
+      "state": "IN"
+    },
+    "centuryfirst": {
+      "name": "CenturyFirst Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "CenturyFirst",
+      "kind": "credit_union",
+      "charter": "24668",
+      "website": "https://www.CenturyFirstFCU.com",
+      "state": "MS"
+    },
+    "water-s-edge-fcu": {
+      "name": "Water's Edge Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Water's Edge FCU",
+      "kind": "credit_union",
+      "charter": "8593",
+      "website": "http://www.WEFCU.org",
+      "state": "MS"
+    },
+    "truliant": {
+      "name": "Truliant Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Truliant",
+      "kind": "credit_union",
+      "charter": "7840",
+      "website": "https://WWW.TRULIANTFCU.ORG",
+      "state": "NC"
+    },
+    "piedmont-advantage-cu": {
+      "name": "Piedmont Advantage Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Piedmont Advantage CU",
+      "kind": "credit_union",
+      "charter": "60160",
+      "website": "http://www.pacu.com",
+      "state": "NC"
+    },
+    "garden-savings-fcu": {
+      "name": "Garden Savings Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Garden Savings FCU",
+      "kind": "credit_union",
+      "charter": "18710",
+      "website": "https://www.Gardensavingsfcu.org",
+      "state": "NJ"
+    },
+    "gaf-linden-employees-fcu": {
+      "name": "GAF Linden Employees Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "GAF Linden Employees FCU",
+      "kind": "credit_union",
+      "charter": "2348",
+      "website": "http://www.gafcreditunion.org",
+      "state": "NJ"
+    },
+    "texas-trust": {
+      "name": "Texas Trust Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Texas Trust",
+      "kind": "credit_union",
+      "charter": "68434",
+      "website": "https://www.texastrustcu.org",
+      "state": "TX"
+    },
+    "my-cu": {
+      "name": "My Credit Union",
+      "added": "2026-11-21",
+      "short_name": "My CU",
+      "kind": "credit_union",
+      "charter": "68545",
+      "website": "http://www.mycutx.com",
+      "state": "TX"
+    },
+    "ukfcu": {
+      "name": "University of Kentucky Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "UKFCU",
+      "kind": "credit_union",
+      "charter": "24165",
+      "website": "https://www.ukcreditunion.org",
+      "state": "KY"
+    },
+    "bluegrass-community-fcu": {
+      "name": "Bluegrass Community Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Bluegrass Community FCU",
+      "kind": "credit_union",
+      "charter": "12648",
+      "website": "http://www.bluegrasscreditunion.com",
+      "state": "KY"
+    },
+    "american-united-fcu": {
+      "name": "American United Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "American United FCU",
+      "kind": "credit_union",
+      "charter": "8187",
+      "website": "https://www.amucu.org",
+      "state": "UT"
+    },
+    "g-and-r-fcu": {
+      "name": "G&R Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "G&R FCU",
+      "kind": "credit_union",
+      "charter": "14917",
+      "website": "http://www.grcreditunion.com",
+      "state": "UT"
+    },
+    "park-side": {
+      "name": "Park Side Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Park Side",
+      "kind": "credit_union",
+      "charter": "68647",
+      "website": "http://www.parksidefcu.com",
+      "state": "MT"
+    },
+    "lincoln-county-cu": {
+      "name": "Lincoln County Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Lincoln County CU",
+      "kind": "credit_union",
+      "charter": "63199",
+      "website": "http://www.lincolncountycu.com",
+      "state": "MT"
+    }
+  }
 }

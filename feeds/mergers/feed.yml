@@ -1,0 +1,192 @@
+title: Credit Union Mergers
+item: deal
+trial: true
+
+scope: |
+  In: U.S. credit union + credit union mergers, and credit union purchases of whole banks
+  (purchase of substantially all of a bank's assets and liabilities), from the first public
+  announcement (or the first regulator filing when there is no announcement) through completion.
+  Every deal still pending is in. Completed or called-off deals stay in the feed once added.
+  The first load (Nov 21, 2026) took every pending deal plus deals completed since Aug 23, 2026.
+  Out: league or trade-association mergers, non-U.S. credit unions (Canada, Ireland, Australia...),
+  CUSO or vendor deals, branch-only or loan-portfolio purchases, banks buying credit unions,
+  charter conversions with no merger.
+
+instructions: |
+  Sources to check every run, besides the waiting list and searches:
+  - NCUA's list of proposed mergers with member vote dates:
+    https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers
+    Add every row that isn't tracked yet (it names the merging and continuing credit unions and the
+    vote date). It is a regulator source.
+  Sizes: never take assets, members or locations from news stories.
+  - Credit unions: assets and members from NCUA's credit union details record for the charter,
+    https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/<charter>
+    (creditUnionAssets in dollars, creditUnionNom = members; callReportCycleDates shows the latest
+    cycle). Locations = member-service sites in the latest NCUA quarterly call report data zip
+    ("Credit Union Branch Information.txt", MemberServices = 1), from
+    https://ncua.gov/files/publications/analysis/call-report-data-YYYY-MM.zip
+  - Banks: assets and offices from FDIC BankFind, https://api.fdic.gov/banks/institutions?filters=CERT:<cert>
+    (ASSET is in $ thousands). Banks have no member count.
+  - Refresh open deals' sizes when a new call report quarter is published (NCUA posts each quarter
+    about two months after quarter end). Set size_as_of to the quarter used.
+  - Once a deal is Completed, freeze its sizes at the last call report filed before the merger,
+    for both sides; never replace them with the combined credit union's later figures.
+  - combined_assets = continuing assets + partner assets, same quarter.
+  NCUA's details record also shows creditUnionStatus: when the merging credit union turns
+  "Inactive", the merger has completed (the record can lag by several weeks).
+  Re-check every open deal for regulatory approval, member votes (and results), closing dates,
+  the continuing name and the continuing CEO.
+  Merger of equals: Continuing CU is the credit union whose charter legally survives; put the
+  brand the combined credit union will use in new_name (example: SELCO's charter continues under
+  the Numerica name).
+  A credit union buying two banks is two rows.
+  Status ladder: Announced (intent or agreement signed) > Approved (regulators approved; member vote
+  or closing still to come) > Members approved (the merging credit union's members voted yes) >
+  Completed (legal effective date), or Called off. For bank purchases, skip Members approved.
+  If a member vote fails, set Called off and say so in notes.
+
+date_field: announced
+key: [acquirer, partner]
+
+fields:
+  - name: announced
+    type: date
+    label: Announced
+    scored: true
+    help: Date of the first public announcement (press release, intent to merge or signed agreement), or the first regulator filing when there was no announcement. Leave blank if no source gives a date; the review fills it in.
+  - name: acquirer
+    type: org
+    label: Continuing CU
+    required: true
+    help: The continuing (legally surviving) credit union, full legal name.
+  - name: partner
+    type: org
+    label: Merging partner
+    required: true
+    help: The credit union or bank merging into the continuing credit union, full legal name.
+  - name: deal_type
+    type: choice
+    label: Deal type
+    choices: [CU merger, Bank purchase]
+    required: true
+  - name: status
+    type: choice
+    label: Status
+    choices: [Announced, Approved, Members approved, Completed, Called off]
+    required: true
+    help: See the status ladder in instructions.
+  - name: expected_close
+    type: text
+    label: Expected close
+    pattern: '(Q[1-4] \d{4}|H[12] \d{4}|\d{4}|Not Disclosed|Completed|Called off)'
+    pattern_hint: "must be a quarter (Q2 2027), half (H1 2027), year, Not Disclosed, Completed or Called off"
+    scored: true
+    help: Legal close as a quarter or half ("end of 2026" = Q4 2026, "early 2028" = H1 2028); "Not Disclosed" when no source gives timing; "Completed" once done; "Called off" if abandoned.
+  - name: member_vote
+    type: datetext
+    label: Member vote
+    help: Date of the merging credit union's member vote (NCUA's proposed-merger list gives it). Blank for banks.
+  - name: completed
+    type: date
+    label: Completed
+    help: Legal effective date, once completed.
+  - name: new_name
+    type: text
+    label: Name after merger
+    help: Only if the combined credit union will use a different name from the continuing credit union.
+  - name: ceo
+    type: text
+    label: Continuing CEO
+    help: Who will lead the combined credit union, only when a source says so.
+  - name: acquirer_assets
+    type: money
+    label: Continuing CU assets
+    scored: true
+  - name: acquirer_members
+    type: int
+    label: Continuing CU members
+    scored: true
+  - name: acquirer_locations
+    type: int
+    label: Continuing CU locations
+    scored: true
+    help: Member-service locations in the latest NCUA branch file (FDIC offices for banks).
+  - name: partner_assets
+    type: money
+    label: Partner assets
+    scored: true
+  - name: partner_members
+    type: int
+    label: Partner members
+    scored: false
+    help: Credit unions only; blank for banks.
+  - name: partner_locations
+    type: int
+    label: Partner locations
+    scored: true
+  - name: combined_assets
+    type: money
+    label: Combined assets
+    scored: true
+    help: Continuing assets + partner assets, same quarter.
+  - name: size_as_of
+    type: text
+    label: Sizes as of
+    help: The call report quarter the assets and members come from, e.g. "Q3 2026", or "CU Q3 2026; bank Q2 2026". Locations come from the latest NCUA branch file.
+  - name: state
+    type: state
+    label: State
+    help: Continuing credit union's headquarters state.
+  - name: partner_state
+    type: state
+    label: Partner state
+  - name: notes
+    type: text
+    label: Notes
+
+derived:
+  - name: region
+    label: Region
+    map_from: state
+    groups:
+      New England: [CT, ME, MA, NH, RI, VT]
+      Rest of the Northeast: [NJ, NY, PA]
+    default: Elsewhere
+
+open_when: {field: status, not_in: [Completed, Called off]}
+
+sources:
+  - {name: CUInsight press releases, type: rss, url: https://www.cuinsight.com/press-release/feed/}
+  - {name: CUInsight, type: rss, url: https://www.cuinsight.com/feed/}
+  - {name: Banking Dive, type: rss, url: https://www.bankingdive.com/feeds/news/}
+  - {name: CreditUnions.com, type: rss, url: https://creditunions.com/feed/}
+  - {name: PR Newswire banking, type: rss, url: https://www.prnewswire.com/rss/financial-services-latest-news/banking-financial-services-list.rss}
+  - {name: Google News - credit union merger, type: google_news, query: '"credit union" merger when:7d'}
+  - {name: Google News - intent to merge, type: google_news, query: '"credit union" "intent to merge" when:7d'}
+  - {name: Google News - CU buys bank, type: google_news, query: '"credit union" acquire bank when:7d'}
+  - {name: Google News - CU Today, type: google_news, query: 'site:cutoday.info merger when:7d'}
+  - {name: Google News - CU Times, type: google_news, query: 'site:cutimes.com merger when:7d'}
+
+collect:
+  include_any: [merger, merge, acquire, acquisition, combine, consolidat]
+  exclude_any: []
+
+review:
+  time: "03:33"
+  lookback_days: 3
+  monday_lookback_days: 30
+  recheck_max: 25
+  searches:
+    - credit union merger
+    - credit unions intent to merge
+    - credit union members approve merger
+    - credit union merger completed
+    - credit union to acquire bank
+    - credit union completes bank acquisition
+
+message:
+  new_line: "{acquirer_short} + {partner_short} ({state}) - {status} - {combined_assets} combined - close {expected_close} - accuracy {accuracy}"
+  update_line: "{acquirer_short} + {partner_short}: <what changed>"
+  notes: List New England deals first, then the rest of the Northeast, then everything else, newest first within each group.
+
+accuracy: {enabled: true}
