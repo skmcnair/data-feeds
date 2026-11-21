@@ -1,313 +1,169 @@
 {
-  "last_review": "2026-11-21T19:00:00-05:00",
-  "last_review_file": "2026-11-21-1900.json",
+  "last_review": "2026-11-21T19:50:00-05:00",
+  "last_review_file": "2026-11-21-1950.json",
   "last_review_result": "ok",
   "last_review_errors": [],
   "last_review_report": {
-    "added": [],
+    "added": [
+      {
+        "id": "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
+        "summary": "First Responders Credit Union / Lynn Firemen's Federal Credit Union"
+      },
+      {
+        "id": "2026-05-13-michigan-state-university-federal-credit-union-gold-coast-bank",
+        "summary": "Michigan State University Federal Credit Union / Gold Coast Bank"
+      }
+    ],
     "updated": [
       {
-        "id": "undated-communityamerica-credit-union-westreet-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+        "note": "Announced Oct 6, 2026",
         "changes": [
           {
-            "field": "acquirer_locations",
-            "old": 77,
-            "new": 81
-          },
-          {
-            "field": "combined_locations",
-            "old": 90,
-            "new": 94
-          },
-          {
-            "field": "footprint",
-            "old": "MO, CA, OK, KS, AR, TX, AL, KY, MI, IN, MS, NC, NV, TN, WV",
-            "new": "MO, CA, OK, KS, AR, TX, AL, KY, MI, NE, IN, MS, NC, NV, TN, WV"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 37,
-            "new": 39
-          },
-          {
-            "field": "combined_locations",
-            "old": 66,
-            "new": 68
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-01-consumers-credit-union-scott-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 24,
-            "new": 25
-          },
-          {
-            "field": "combined_locations",
-            "old": 47,
-            "new": 48
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 18,
-            "new": 19
-          },
-          {
-            "field": "combined_locations",
-            "old": 23,
-            "new": 24
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 123,
-            "new": 137
-          },
-          {
-            "field": "combined_locations",
-            "old": 136,
-            "new": 150
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 17,
-            "new": 16
-          },
-          {
-            "field": "combined_locations",
-            "old": 24,
-            "new": 23
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 35,
-            "new": 36
-          },
-          {
-            "field": "combined_locations",
-            "old": 36,
-            "new": 37
-          },
-          {
-            "field": "footprint",
-            "old": "WI",
-            "new": "WI, IL"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 66,
-            "new": 84
-          },
-          {
-            "field": "combined_locations",
-            "old": 80,
-            "new": 98
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 70,
-            "new": 71
-          },
-          {
-            "field": "combined_locations",
-            "old": 88,
-            "new": 89
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 24,
-            "new": 37
-          },
-          {
-            "field": "combined_locations",
-            "old": 35,
-            "new": 48
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 33,
-            "new": 36
-          },
-          {
-            "field": "combined_locations",
-            "old": 45,
-            "new": 48
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "footprint",
-            "old": "IL, MN, IN, MI, TX, GA, FL, ND, NV, WI",
-            "new": "IL, IN, MI, MN, TX, GA, FL, ND, NV, WI"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-credit-union-1-first-class-community-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "footprint",
-            "old": "IL, MN, IN, MI, GA, IA, FL, ND, NV, WI",
-            "new": "IL, IN, MI, MN, GA, IA, FL, ND, NV, WI"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 36,
-            "new": 37
-          },
-          {
-            "field": "combined_locations",
-            "old": 37,
-            "new": 38
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-        "changes": [
-          {
-            "field": "acquirer_locations",
-            "old": 41,
-            "new": 42
-          },
-          {
-            "field": "combined_locations",
-            "old": 45,
-            "new": 46
+            "field": "announced",
+            "old": null,
+            "new": "2026-10-06"
           }
         ],
         "kept": []
       },
       {
         "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "note": "Regulators approved; member vote underway",
         "changes": [
           {
-            "field": "acquirer_locations",
-            "old": 27,
-            "new": 28
+            "field": "announced",
+            "old": null,
+            "new": "2026-04-27"
           },
           {
-            "field": "combined_locations",
-            "old": 45,
-            "new": 46
+            "field": "status",
+            "old": "Announced",
+            "new": "Approved"
+          },
+          {
+            "field": "announced_figures",
+            "old": null,
+            "new": "About $7B in assets"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "LGE member vote (set for Nov 9, 2026); result not yet confirmed"
+          },
+          {
+            "field": "notes",
+            "old": "On NCUA's proposed-merger list. Member vote was set for Nov 9, 2026; result not yet confirmed.",
+            "new": "Ascend's first out-of-state merger. Regulators approved in September and LGE's member vote began."
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+        "note": "Merger reported completed",
         "changes": [
           {
-            "field": "acquirer_locations",
-            "old": 8,
-            "new": 9
+            "field": "status",
+            "old": "Announced",
+            "new": "Completed"
           },
           {
-            "field": "combined_locations",
-            "old": 9,
-            "new": 10
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "Completed"
+          },
+          {
+            "field": "notes",
+            "old": "On NCUA's proposed-merger list. Member vote was set for Aug 24, 2026; result not yet confirmed.",
+            "new": "Reported completed Sep 30, 2026 (NCUA still lists Plains as active)."
           }
         ],
         "kept": []
       },
       {
-        "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
-        "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+        "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+        "note": "Members approved",
         "changes": [
           {
-            "field": "acquirer_locations",
-            "old": 11,
-            "new": 12
+            "field": "status",
+            "old": "Announced",
+            "new": "Members approved"
           },
           {
-            "field": "combined_locations",
-            "old": 12,
-            "new": 13
+            "field": "next_steps",
+            "old": null,
+            "new": "Closing"
+          },
+          {
+            "field": "notes",
+            "old": "On NCUA's proposed-merger list. Member vote was set for Aug 24, 2026; result not yet confirmed.",
+            "new": "Martin County Co-Op members approved the merger (reported Oct 7, 2026)."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
+        "note": "Announced Apr 22, 2026",
+        "changes": [
+          {
+            "field": "announced",
+            "old": null,
+            "new": "2026-04-22"
+          },
+          {
+            "field": "announced_figures",
+            "old": null,
+            "new": "About $6B combined"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-communityamerica-credit-union-westreet-credit-union",
+        "note": "Approval reported Oct 21, 2026",
+        "changes": [
+          {
+            "field": "announced_figures",
+            "old": null,
+            "new": "Nearing $11B in assets"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+        "note": "City FCU site now shows Magnolia branding",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "City FCU is in Amarillo, TX. Member vote was set for Sep 16, 2026; result not yet confirmed.",
+            "new": "City FCU's website now shows the Magnolia FCU brand (\"previously City FCU\"), suggesting the merger has taken effect; NCUA still lists City FCU as active. Member vote was set for Sep 16, 2026."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+        "note": "Cincinnati Interagency site now shows Kemba branding",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "On NCUA's proposed-merger list. Member vote was set for Oct 13, 2026; result not yet confirmed.",
+            "new": "On NCUA's proposed-merger list; member vote was set for Oct 13, 2026. Cincinnati Interagency's website now shows the Kemba brand, suggesting the merger has taken effect; NCUA still lists it as active."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+        "note": "Bank site now shows Alabama ONE branding",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "Alabama State Banking Dept. approved the purchase in July 2026. Expected to close in the third or fourth quarter of 2026.",
+            "new": "Alabama State Banking Dept. approved the purchase in July 2026. Peoples Independent Bank's website now shows the Alabama ONE brand, suggesting the purchase has closed; FDIC still lists the bank as active."
           }
         ],
         "kept": []
