@@ -30,6 +30,7 @@
       "kind": "choice",
       "choices": [
         "CU merger",
+        "Merger of equals",
         "Bank purchase"
       ]
     },
@@ -73,6 +74,26 @@
       "kind": "text"
     },
     {
+      "name": "acquirer_ceo",
+      "label": "Continuing CU CEO",
+      "kind": "text"
+    },
+    {
+      "name": "partner_ceo",
+      "label": "Partner CEO",
+      "kind": "text"
+    },
+    {
+      "name": "acquirer_city",
+      "label": "Continuing CU city",
+      "kind": "text"
+    },
+    {
+      "name": "partner_city",
+      "label": "Partner city",
+      "kind": "text"
+    },
+    {
       "name": "acquirer_assets",
       "label": "Continuing CU assets",
       "kind": "money",
@@ -109,6 +130,31 @@
       "label": "Combined assets",
       "kind": "money",
       "sort": "combined_assets_m"
+    },
+    {
+      "name": "combined_members",
+      "label": "Combined members",
+      "kind": "int"
+    },
+    {
+      "name": "combined_locations",
+      "label": "Combined locations",
+      "kind": "int"
+    },
+    {
+      "name": "footprint",
+      "label": "Footprint",
+      "kind": "text"
+    },
+    {
+      "name": "announced_figures",
+      "label": "Figures as announced",
+      "kind": "text"
+    },
+    {
+      "name": "next_steps",
+      "label": "Still needed",
+      "kind": "text"
     },
     {
       "name": "size_as_of",
