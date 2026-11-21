@@ -190,6 +190,34 @@ fields:
     label: Notes
 
 derived:
+  - name: headline
+    label: Headline
+    cases:
+      - when: {status: Completed, deal_type: Bank purchase}
+        template: "{acquirer_short} completes purchase of {partner_short}"
+      - when: {status: Completed}
+        template: "{acquirer_short} completes merger with {partner_short}"
+      - when: {status: Called off}
+        template: "{acquirer_short} and {partner_short} call off their merger"
+      - when: {deal_type: Merger of equals}
+        template: "{partner_short} and {acquirer_short} announce a merger of equals"
+      - when: {deal_type: Bank purchase}
+        template: "{acquirer_short} to buy {partner_short}"
+      - when: {status: Members approved}
+        template: "{partner_short} members approve merger with {acquirer_short}"
+      - template: "{acquirer_short} and {partner_short} to merge"
+  - name: acquirer_hq
+    label: Continuing CU HQ
+    cases:
+      - when: {acquirer_city: ""}
+        template: "{state}"
+      - template: "{acquirer_city}, {state}"
+  - name: partner_hq
+    label: Partner HQ
+    cases:
+      - when: {partner_city: ""}
+        template: "{partner_state}"
+      - template: "{partner_city}, {partner_state}"
   - name: region
     label: Region
     map_from: state
@@ -228,6 +256,9 @@ review:
     - credit union merger completed
     - credit union to acquire bank
     - credit union completes bank acquisition
+    - credit unions announce intent to combine
+    - credit union definitive merger agreement
+    - credit union merger of equals
 
 message:
   new_line: "{acquirer_short} + {partner_short} ({state}) - {status} - {combined_assets} combined - close {expected_close} - accuracy {accuracy}"

@@ -543,7 +543,20 @@
       "short_name": "Evermore Bank",
       "kind": "bank",
       "state": "FL",
-      "fdic_cert": "59306"
+      "fdic_cert": "59306",
+      "logo": {
+        "file": "evermore-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/evermore-bank.png",
+        "fingerprint": "80009000808100003ce3b48b9b4abf4a9f4abc896cab4ce5d000942090009000",
+        "aspect": 5.747,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "zeal": {
       "name": "Zeal Credit Union",
@@ -658,7 +671,20 @@
       "kind": "bank",
       "website": "https://www.mccbflorida.com",
       "state": "FL",
-      "fdic_cert": "35056"
+      "fdic_cert": "35056",
+      "logo": {
+        "file": "madison-county-community-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/madison-county-community-bank.png",
+        "fingerprint": "80800a9286858996c896649464d664c20ec65cd162d966d976d438db68f98080",
+        "aspect": 7.192,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "peoples-exchange-bank": {
       "name": "Peoples Exchange Bank",
@@ -689,7 +715,20 @@
       "kind": "credit_union",
       "charter": "61844",
       "website": "http://www.dfcufinancial.com",
-      "state": "MI"
+      "state": "MI",
+      "logo": {
+        "file": "dfcu-financial-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/dfcu-financial.png",
+        "fingerprint": "e9202800d228c4a8a5a8a5a8a5a8c6c8d2c0a1094bb22992c129c000c000c400",
+        "aspect": 2.083,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "gulfside-bank": {
       "name": "Gulfside Bank",
@@ -698,7 +737,20 @@
       "kind": "bank",
       "website": "https://www.gulfsidebank.com",
       "state": "FL",
-      "fdic_cert": "59140"
+      "fdic_cert": "59140",
+      "logo": {
+        "file": "gulfside-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/gulfside-bank.png",
+        "fingerprint": "6400e400e448e00026ce26ca8d64a75b975a1a8598b092b2d292a200e0c06000",
+        "aspect": 2.187,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "max-cu": {
       "name": "MAX Credit Union",
@@ -707,7 +759,20 @@
       "kind": "credit_union",
       "charter": "68575",
       "website": "http://www.mymax.com",
-      "state": "AL"
+      "state": "AL",
+      "logo": {
+        "file": "max-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/max-cu.png",
+        "fingerprint": "ff00ff00ff20fd20fd20f920f922ba1055665556355a2b6e9a28a672aa6aa16c",
+        "aspect": 1.769,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "first-financial-bank": {
       "name": "First Financial Bank",
@@ -718,16 +783,18 @@
       "state": "AL",
       "fdic_cert": "19440",
       "logo": {
-        "file": "first-financial-bank-v1.png",
-        "version": 1,
+        "file": "first-financial-bank-v2.png",
+        "version": 2,
         "style": "color",
-        "source_url": "https://ffbalabama.com/wp-content/uploads/2025/03/Main-Logo.png",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/first-financial-bank-al.png",
         "fingerprint": "68004800c000c000c420c800c828cda9c899cad9cb59ca68b32c9db234b23592",
         "aspect": 3.614,
         "pinned": false,
         "added": "2026-11-21",
         "checked": "2026-11-21",
-        "previous": [],
+        "previous": [
+          "first-financial-bank-v1.png"
+        ],
         "ignored": []
       }
     },
@@ -1666,6 +1733,226 @@
         "source_url": "https://images.squarespace-cdn.com/content/v1/5eb43488adbb6f2630a58c7f/de1ca1bb-5535-4fd5-b991-55573c61496f/Logo_color_large.png?format=1500w",
         "fingerprint": "003000b400d4017001fb00e849dc00dc695442ac128819400940f6b61942c230",
         "aspect": 1.681,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "msufcu": {
+      "name": "Michigan State University Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "MSUFCU",
+      "kind": "credit_union",
+      "charter": "23279",
+      "website": "http://www.msufcu.org",
+      "state": "MI",
+      "logo": {
+        "file": "msufcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/msufcu.png",
+        "fingerprint": "a2b4802086eae6eb622d6d9d649672566bae7dba749a34cb000068d24e446e4c",
+        "aspect": 3.688,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ufcu": {
+      "name": "University Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "UFCU",
+      "kind": "credit_union",
+      "charter": "1367",
+      "website": "http://www.ufcu.org",
+      "state": "TX",
+      "logo": {
+        "file": "ufcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/ufcu.png",
+        "fingerprint": "1f007f00fe40f1b0e988d174d15496d694d6d4d4cd4ccd6cf290fc407f001f00",
+        "aspect": 1.969,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "consumers-cu": {
+      "name": "Consumers Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Consumers CU",
+      "kind": "credit_union",
+      "charter": "68588",
+      "website": "http://www.myconsumers.org",
+      "state": "IL",
+      "logo": {
+        "file": "consumers-cu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/consumers-cu.png",
+        "fingerprint": "c000c0001000721866584cc61848acccd21a92328000a917cd17ce324d366826",
+        "aspect": 3.801,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "scott-cu": {
+      "name": "Scott Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Scott CU",
+      "kind": "credit_union",
+      "charter": "66370",
+      "website": "https://www.scu.org",
+      "state": "IL",
+      "logo": {
+        "file": "scott-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/scott-cu.png",
+        "fingerprint": "b2186800a5d9b3d85b56ca5ae498321a22146892694aaf4c6a024b0840026000",
+        "aspect": 2.65,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "sierra-central": {
+      "name": "Sierra Central Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Sierra Central",
+      "kind": "credit_union",
+      "charter": "68053",
+      "website": "http://www.sierracentral.com",
+      "state": "CA",
+      "logo": {
+        "file": "sierra-central-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/sierra-central-cu.png",
+        "fingerprint": "6c00c400c640c600da80d20260594cd98c64ad7464d56a4d6000484140009000",
+        "aspect": 3.567,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "first-u-s": {
+      "name": "First U.S. Community Credit Union",
+      "added": "2026-11-21",
+      "short_name": "First U.S.",
+      "kind": "credit_union",
+      "charter": "68474",
+      "website": "http://www.firstus.org",
+      "state": "CA",
+      "logo": {
+        "file": "first-u-s-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/first-us-community-cu.png",
+        "fingerprint": "c8b481b590349956c9d6ded7925599559d159551925a002025a8c4c5d8eeaaa9",
+        "aspect": 3.475,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "america-first": {
+      "name": "America First Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "America First",
+      "kind": "credit_union",
+      "charter": "24694",
+      "website": "http://www.americafirst.com",
+      "state": "UT",
+      "logo": {
+        "file": "america-first-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/america-first-fcu.png",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 3.075,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "greater-nevada": {
+      "name": "Greater Nevada Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Greater Nevada",
+      "kind": "credit_union",
+      "charter": "68228",
+      "website": "http://www.gncu.org",
+      "state": "NV",
+      "logo": {
+        "file": "greater-nevada-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/greater-nevada-cu.png",
+        "fingerprint": "2494233ad22ace32c4949b2945366657a359d4a0449b669da5964e492cf62c62",
+        "aspect": 1.8,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "financial-plus": {
+      "name": "Financial Plus Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Financial Plus",
+      "kind": "credit_union",
+      "charter": "68646",
+      "website": "https://www.myfpcu.com",
+      "state": "MI",
+      "logo": {
+        "file": "financial-plus-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/financial-plus-cu.png",
+        "fingerprint": "e03081c680c68e868dc68dc68e208c10a1246a3962516a266d1074107690a640",
+        "aspect": 0.561,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "monroe-community-cu": {
+      "name": "Monroe Community Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Monroe Community CU",
+      "kind": "credit_union",
+      "charter": "61748",
+      "website": "http://www.monroecommunitycu.org",
+      "state": "MI",
+      "logo": {
+        "file": "monroe-community-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/monroe-community-cu.png",
+        "fingerprint": "10005000d400d400c540860086888d48914569916c09634e400241635966ba66",
+        "aspect": 3.365,
         "pinned": false,
         "added": "2026-11-21",
         "checked": "2026-11-21",

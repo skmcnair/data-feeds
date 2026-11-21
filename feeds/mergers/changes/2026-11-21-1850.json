@@ -1,0 +1,579 @@
+{
+ "feed": "mergers",
+ "run": {
+  "started": "2026-11-21T18:10:00-05:00",
+  "finished": "2026-11-21T18:50:00-05:00",
+  "searches": 0,
+  "errors": []
+ },
+ "reviewed": [],
+ "adds": [
+  {
+   "fields": {
+    "announced": "2026-10-13",
+    "status": "Announced",
+    "expected_close": "Q3 2027",
+    "new_name": "University Federal Credit Union",
+    "ceo": "April Clobes",
+    "announced_figures": "$13.5B in assets, 850,000+ members, 30 + 38 branches",
+    "next_steps": "Regulatory approvals",
+    "notes": "Combined CU takes UFCU's name and MSUFCU's charter, keeping both brands (UFCU in Texas, MSUFCU in Michigan and Illinois). MSUFCU CEO April Clobes to be CEO; UFCU CEO Michael Crowl becomes president.",
+    "acquirer": "Michigan State University Federal Credit Union",
+    "partner": "University Federal Credit Union",
+    "deal_type": "CU merger",
+    "state": "MI",
+    "partner_state": "TX",
+    "acquirer_assets": 9203.0,
+    "acquirer_members": 416844,
+    "partner_assets": 4234.7,
+    "partner_members": 438632,
+    "combined_assets": 13437.7,
+    "combined_members": 855476,
+    "size_as_of": "Q3 2026",
+    "acquirer_city": "East Lansing",
+    "partner_city": "Austin",
+    "acquirer_locations": 37,
+    "partner_locations": 29,
+    "combined_locations": 66,
+    "footprint": "TX, MI, IL",
+    "acquirer_ceo": "April Clobes",
+    "partner_ceo": "Michael Crowl"
+   },
+   "sources": [
+    {
+     "label": "UFCU release",
+     "url": "https://ufcu.org/about/news/detail/news/2026/10/13/ufcu-msufcu-combine",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA record, MSUFCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23279",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, UFCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1367",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "acquirer": 0,
+    "partner": 0,
+    "deal_type": 0,
+    "status": 0,
+    "expected_close": 0,
+    "ceo": 0,
+    "new_name": 0,
+    "announced_figures": 0,
+    "next_steps": 0,
+    "acquirer_assets": 1,
+    "acquirer_members": 1,
+    "combined_assets": 1,
+    "combined_members": 1,
+    "size_as_of": 1,
+    "state": 1,
+    "acquirer_city": 1,
+    "partner_assets": 2,
+    "partner_members": 2,
+    "partner_state": 2,
+    "partner_city": 2,
+    "acquirer_locations": 3,
+    "partner_locations": 3,
+    "combined_locations": 3,
+    "footprint": 3,
+    "acquirer_ceo": 0,
+    "partner_ceo": 0
+   }
+  },
+  {
+   "fields": {
+    "announced": "2026-10-01",
+    "status": "Announced",
+    "expected_close": "Q2 2027",
+    "next_steps": "Regulatory approval and a Scott CU member vote",
+    "announced_figures": "About $6.46B in assets, 424,000+ members, 46 locations",
+    "notes": "Intent to combine; Scott CU members vote.",
+    "acquirer": "Consumers Credit Union",
+    "partner": "Scott Credit Union",
+    "deal_type": "CU merger",
+    "state": "IL",
+    "partner_state": "IL",
+    "acquirer_assets": 4614.6,
+    "acquirer_members": 296225,
+    "partner_assets": 1826.6,
+    "partner_members": 131224,
+    "combined_assets": 6441.2,
+    "combined_members": 427449,
+    "size_as_of": "Q3 2026",
+    "acquirer_city": "Lake Forest",
+    "partner_city": "Edwardsville",
+    "acquirer_locations": 24,
+    "partner_locations": 23,
+    "combined_locations": 47,
+    "footprint": "IL, MO",
+    "acquirer_ceo": "Sean Rathjen",
+    "partner_ceo": "Frank M Padak"
+   },
+   "sources": [
+    {
+     "label": "Consumers CU release",
+     "url": "https://www.myconsumers.org/support/press-releases/press-release-details/consumers-credit-union-and-scott-credit-union-announce-intent-to-combine--creating-greater-value-for-members-and-communities",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA record, Consumers CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68588",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Scott CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66370",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "acquirer": 0,
+    "partner": 0,
+    "deal_type": 0,
+    "status": 0,
+    "expected_close": 0,
+    "announced_figures": 0,
+    "next_steps": 0,
+    "acquirer_assets": 1,
+    "acquirer_members": 1,
+    "combined_assets": 1,
+    "combined_members": 1,
+    "size_as_of": 1,
+    "state": 1,
+    "acquirer_city": 1,
+    "partner_assets": 2,
+    "partner_members": 2,
+    "partner_state": 2,
+    "partner_city": 2,
+    "acquirer_locations": 3,
+    "partner_locations": 3,
+    "combined_locations": 3,
+    "footprint": 3,
+    "acquirer_ceo": 1,
+    "partner_ceo": 2
+   }
+  },
+  {
+   "fields": {
+    "announced": "2026-09-03",
+    "status": "Announced",
+    "expected_close": "Q2 2027",
+    "ceo": "Shonna Shearson",
+    "next_steps": "A First U.S. member vote, expected in Q1 2027",
+    "announced_figures": "$2B+ in assets, 114,000+ members, 23 branches",
+    "notes": "Sierra Central's merger page anticipates legal day one in Q2 2027. First U.S. CEO Shonna Shearson leads the combined CU; Sierra Central CEO Ron Sweeney retires at completion.",
+    "acquirer": "Sierra Central Credit Union",
+    "partner": "First U.S. Community Credit Union",
+    "deal_type": "CU merger",
+    "state": "CA",
+    "partner_state": "CA",
+    "acquirer_assets": 1486.6,
+    "acquirer_members": 87307,
+    "partner_assets": 540.6,
+    "partner_members": 27130,
+    "combined_assets": 2027.2,
+    "combined_members": 114437,
+    "size_as_of": "Q3 2026",
+    "acquirer_city": "Yuba City",
+    "partner_city": "Sacramento",
+    "acquirer_locations": 18,
+    "partner_locations": 5,
+    "combined_locations": 23,
+    "footprint": "CA",
+    "acquirer_ceo": "Ron Sweeney",
+    "partner_ceo": "Shonna Shearson"
+   },
+   "sources": [
+    {
+     "label": "First U.S. release",
+     "url": "https://firstus.org/news/first-us-sierra-central-merger",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA record, Sierra Central",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68053",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, First U.S.",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68474",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "acquirer": 0,
+    "partner": 0,
+    "deal_type": 0,
+    "status": 0,
+    "expected_close": 0,
+    "ceo": 0,
+    "announced_figures": 0,
+    "next_steps": 0,
+    "acquirer_assets": 1,
+    "acquirer_members": 1,
+    "combined_assets": 1,
+    "combined_members": 1,
+    "size_as_of": 1,
+    "state": 1,
+    "acquirer_city": 1,
+    "partner_assets": 2,
+    "partner_members": 2,
+    "partner_state": 2,
+    "partner_city": 2,
+    "acquirer_locations": 3,
+    "partner_locations": 3,
+    "combined_locations": 3,
+    "footprint": 3,
+    "acquirer_ceo": 1,
+    "partner_ceo": 2
+   }
+  },
+  {
+   "fields": {
+    "announced": "2026-08-24",
+    "status": "Completed",
+    "expected_close": "Completed",
+    "completed": "2026-10-01",
+    "ceo": "Thayne Shaffer",
+    "announced_figures": "$26B+ in assets, 1.6M+ members, 135 branches",
+    "notes": "Completed Oct 1, 2026 after NCUA and Nevada FID approval; Greater Nevada operates as a division of America First. America First CEO Thayne Shaffer retires Mar 1, 2027; Missy Key named successor.",
+    "acquirer": "America First Federal Credit Union",
+    "partner": "Greater Nevada Credit Union",
+    "deal_type": "CU merger",
+    "state": "UT",
+    "partner_state": "NV",
+    "acquirer_assets": 26333.7,
+    "acquirer_members": 1612780,
+    "partner_assets": 1631.3,
+    "partner_members": 89893,
+    "combined_assets": 27965.0,
+    "combined_members": 1702673,
+    "size_as_of": "Q3 2026",
+    "acquirer_city": "Riverdale",
+    "partner_city": "Carson City",
+    "acquirer_locations": 123,
+    "partner_locations": 13,
+    "combined_locations": 136,
+    "footprint": "UT, NV, AZ, ID, CA, NM",
+    "acquirer_ceo": "Thayne Shaffer",
+    "partner_ceo": "Daniel A DeLaRosa"
+   },
+   "sources": [
+    {
+     "label": "America First/Greater Nevada release (CUInsight)",
+     "url": "https://www.cuinsight.com/press-release/america-first-credit-union-and-greater-nevada-credit-union-enter-into-merger-agreement/",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA record, America First",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24694",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Greater Nevada",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68228",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "acquirer": 0,
+    "partner": 0,
+    "deal_type": 0,
+    "status": 0,
+    "expected_close": 0,
+    "ceo": 0,
+    "completed": 0,
+    "announced_figures": 0,
+    "acquirer_assets": 1,
+    "acquirer_members": 1,
+    "combined_assets": 1,
+    "combined_members": 1,
+    "size_as_of": 1,
+    "state": 1,
+    "acquirer_city": 1,
+    "partner_assets": 2,
+    "partner_members": 2,
+    "partner_state": 2,
+    "partner_city": 2,
+    "acquirer_locations": 3,
+    "partner_locations": 3,
+    "combined_locations": 3,
+    "footprint": 3,
+    "acquirer_ceo": 1,
+    "partner_ceo": 2
+   }
+  },
+  {
+   "fields": {
+    "announced": "2026-10-27",
+    "status": "Announced",
+    "expected_close": "Not Disclosed",
+    "announced_figures": "$2B+ combined",
+    "notes": "Financial Plus's merger page says the combined CU keeps the Financial Plus name, with 20 locations. The announcement doesn't name the legal survivor, the CEO or timing; check it when the NCUA vote notice appears.",
+    "acquirer": "Financial Plus Credit Union",
+    "partner": "Monroe Community Credit Union",
+    "deal_type": "CU merger",
+    "state": "MI",
+    "partner_state": "MI",
+    "acquirer_assets": 1703.7,
+    "acquirer_members": 83716,
+    "partner_assets": 407.5,
+    "partner_members": 32467,
+    "combined_assets": 2111.2,
+    "combined_members": 116183,
+    "size_as_of": "Q3 2026",
+    "acquirer_city": "Flint",
+    "partner_city": "Monroe",
+    "acquirer_locations": 13,
+    "partner_locations": 6,
+    "combined_locations": 19,
+    "footprint": "MI",
+    "acquirer_ceo": "Brad R Bergmooser",
+    "partner_ceo": "Kristine Brenner"
+   },
+   "sources": [
+    {
+     "label": "Financial Plus/Monroe release (PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/financial-plus-credit-union-and-monroe-community-credit-union-announce-intent-to-merge-302919996.html",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA record, Financial Plus",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68646",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Monroe Community CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61748",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "acquirer": 0,
+    "partner": 0,
+    "deal_type": 0,
+    "status": 0,
+    "expected_close": 0,
+    "announced_figures": 0,
+    "acquirer_assets": 1,
+    "acquirer_members": 1,
+    "combined_assets": 1,
+    "combined_members": 1,
+    "size_as_of": 1,
+    "state": 1,
+    "acquirer_city": 1,
+    "partner_assets": 2,
+    "partner_members": 2,
+    "partner_state": 2,
+    "partner_city": 2,
+    "acquirer_locations": 3,
+    "partner_locations": 3,
+    "combined_locations": 3,
+    "footprint": 3,
+    "acquirer_ceo": 1,
+    "partner_ceo": 2
+   }
+  }
+ ],
+ "updates": [
+  {
+   "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
+   "set": {
+    "expected_close": "Q1 2028"
+   },
+   "note": "Numerica's merger page puts Legal Day 1 at about Jan. 2028; close moved to Q1 2028",
+   "sources": [
+    {
+     "label": "Numerica merger page (checked Nov 20, 2026)",
+     "url": "https://www.numericacu.com/merger",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "expected_close": 0
+   }
+  },
+  {
+   "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+   "set": {
+    "expected_close": "H1 2027",
+    "next_steps": "Regulatory approval and a Fort McClellan member vote (special meeting expected early 2027)"
+   },
+   "note": "PenAir release: FMCU special meeting expected early 2027; close H1 2027; Angela Smith becomes President, Fort McClellan Division",
+   "sources": [
+    {
+     "label": "PenAir release",
+     "url": "https://www.penair.org/pressrelease/penair-credit-union-and-fort-mcclellan-credit-union-announce-merger-expanding-combined-organization-to-22-locations/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "expected_close": 0,
+    "next_steps": 0
+   }
+  },
+  {
+   "id": "undated-communityamerica-credit-union-westreet-credit-union",
+   "set": {
+    "announced": "2026-10-14",
+    "status": "Approved",
+    "expected_close": "Q1 2027",
+    "ceo": "Lisa Ginter",
+    "next_steps": "WeStreet member vote, counted at a special meeting on Nov 20, 2026",
+    "notes": "NCUA approved; proposed effective date Jan 1, 2027 (NCUA member notice). Combined CU operates as CommunityAmerica under CEO Lisa Ginter; WeStreet CEO Greg Gallant becomes market president for Oklahoma and Arkansas. No WeStreet branch closures."
+   },
+   "note": "CommunityAmerica release and NCUA notice: NCUA approved, proposed effective Jan 1, 2027",
+   "sources": [
+    {
+     "label": "CommunityAmerica release",
+     "url": "https://www.communityamerica.com/news/westreet-credit-union-merger",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA docket NCUA-2026-1849",
+     "url": "https://www.regulations.gov/docket/NCUA-2026-1849",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "status": 1,
+    "expected_close": 1,
+    "ceo": 0,
+    "next_steps": 1,
+    "notes": 0
+   }
+  },
+  {
+   "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+   "set": {
+    "expected_close": "Q3 2027",
+    "ceo": "Tracie Wilcox",
+    "notes": "Joint member site names Tracie Wilcox CEO and Daisy Romo President (CEO succession) of the combined CU; regulatory application filed; expected to take effect around mid-2027. Sky becomes a division under On Tap's charter, HQ Golden, CO. No branch closures planned."
+   },
+   "note": "Joint member site: effective around mid-2027; Tracie Wilcox CEO",
+   "sources": [
+    {
+     "label": "Sky FCU/On Tap release (CUInsight)",
+     "url": "https://www.cuinsight.com/press-release/two-credit-unions-one-stronger-future/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "expected_close": 0,
+    "ceo": 0,
+    "notes": 0
+   }
+  },
+  {
+   "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+   "set": {
+    "partner_ceo": "Steven Sanzone"
+   },
+   "note": "Added Evermore CEO",
+   "sources": [
+    {
+     "label": "DCFCU/Evermore release",
+     "url": "https://communitynewspapers.com/community-press-releases/dade-county-federal-credit-union-and-evermore-bank-announce-acquisition-agreement-expanding-dcfcus-presence",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0
+   }
+  },
+  {
+   "id": "2026-11-10-max-credit-union-first-financial-bank",
+   "set": {
+    "partner_ceo": "B. Kyle Goodwin IV",
+    "next_steps": "FirstFed Bancorp shareholder and regulatory approval",
+    "announced_figures": "About $2.6B in assets, 24 locations"
+   },
+   "note": "Added First Financial CEO, approvals and announced figures",
+   "sources": [
+    {
+     "label": "Credit Union Daily",
+     "url": "https://thecudaily.com/in-ninth-such-deal-of-2026-max-credit-union-to-acquire-first-financial-bank-of-bessemer/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "next_steps": 0,
+    "announced_figures": 0
+   }
+  },
+  {
+   "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+   "set": {
+    "partner_ceo": "Dennis Murphy",
+    "announced_figures": "DFCU at $8B in assets; no combined figures released"
+   },
+   "note": "Gulfside CEO Dennis Murphy becomes DFCU's Sarasota/Manatee area president",
+   "sources": [
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/michigan-credit-union-dfcu-to-buy-florida-bank-gulfside/833477/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "announced_figures": 0
+   }
+  },
+  {
+   "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+   "set": {
+    "partner_ceo": "Harvey Gaston Jr."
+   },
+   "note": "Added Peoples Exchange CEO",
+   "sources": [
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-to-buy-alabama-bank-peoples-exchange-truworth/831653/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0
+   }
+  }
+ ],
+ "rechecked": []
+}
