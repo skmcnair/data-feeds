@@ -1,0 +1,2635 @@
+{
+ "feed": "mergers",
+ "run": {
+  "started": "2026-11-21T18:00:00-05:00",
+  "finished": "2026-11-21T18:40:00-05:00",
+  "searches": 2,
+  "errors": []
+ },
+ "reviewed": [],
+ "adds": [],
+ "updates": [
+  {
+   "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+   "set": {
+    "acquirer_city": "Sweetwater",
+    "partner_city": "Fort Lauderdale",
+    "acquirer_ceo": "George Joseph",
+    "combined_locations": 13,
+    "footprint": "FL",
+    "next_steps": "Shareholder and regulatory approval"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, DCFCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24508",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, Evermore Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:59306",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/florida-credit-union-dcfcu-to-buy-evermore-bank-palm-beach-lauderdale/875072/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/florida-credit-union-dcfcu-to-buy-evermore-bank-palm-beach-lauderdale/875072/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "combined_locations": 2,
+    "footprint": 2,
+    "next_steps": 4
+   }
+  },
+  {
+   "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+   "set": {
+    "acquirer_city": "Latham",
+    "partner_city": "Albany",
+    "acquirer_ceo": "Jerilee Beaudoin",
+    "partner_ceo": "Linda Isabel",
+    "combined_members": 90435,
+    "combined_locations": 18,
+    "footprint": "NY"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Sunmark",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68710",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Directors Choice CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68420",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "2026-11-10-max-credit-union-first-financial-bank",
+   "set": {
+    "acquirer_city": "Montgomery",
+    "partner_city": "Bessemer",
+    "acquirer_ceo": "Martin Head",
+    "combined_locations": 24,
+    "footprint": "AL",
+    "announced_figures": "Adds $245M in assets and 8 branches to MAX's $2.3B and 16 locations"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, MAX CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68575",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, First Financial Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:19440",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/alabama-max-credit-union-first-financial-bank-birmingham/874276/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/alabama-max-credit-union-first-financial-bank-birmingham/874276/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 4
+   }
+  },
+  {
+   "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
+   "set": {
+    "acquirer_city": "Springfield",
+    "partner_city": "Spokane Valley",
+    "acquirer_ceo": "Bob Newcomb",
+    "partner_ceo": "Carla Cicero",
+    "combined_members": 334878,
+    "combined_locations": 39,
+    "footprint": "WA, OR, ID",
+    "deal_type": "Merger of equals",
+    "announced_figures": "Nearly $8B in assets, 325,000+ members, 38 branches",
+    "next_steps": "Regulatory approval and a Numerica member vote"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, SELCO",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63196",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Numerica",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66841",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Securities.io",
+     "url": "https://www.securities.io/numerica-and-selco-merge-to-create-nearly-8-billion-credit-union/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Securities.io",
+     "url": "https://www.securities.io/numerica-and-selco-merge-to-create-nearly-8-billion-credit-union/",
+     "type": "trade_press"
+    },
+    {
+     "label": "SELCO/Numerica release (PR Newswire via Webull)",
+     "url": "https://www.webull.com/news/15826828756345856",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "deal_type": 5,
+    "announced_figures": 5,
+    "next_steps": 5
+   }
+  },
+  {
+   "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+   "set": {
+    "acquirer_city": "Pensacola",
+    "partner_city": "Anniston",
+    "acquirer_ceo": "Lee Morgan",
+    "partner_ceo": "Angela Smith",
+    "combined_members": 158597,
+    "combined_locations": 22,
+    "footprint": "FL, AL, VA",
+    "announced_figures": "155,000+ members, 22 locations",
+    "next_steps": "Regulatory approval and a Fort McClellan member vote"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, PenAir",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68734",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Fort McClellan CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61800",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Business Alabama",
+     "url": "https://businessalabama.com/alabama-and-florida-based-credit-unions-to-merge/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Business Alabama",
+     "url": "https://businessalabama.com/alabama-and-florida-based-credit-unions-to-merge/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Business Alabama",
+     "url": "https://businessalabama.com/alabama-and-florida-based-credit-unions-to-merge/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5,
+    "next_steps": 5
+   }
+  },
+  {
+   "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+   "set": {
+    "acquirer_city": "Dearborn",
+    "partner_city": "Sarasota",
+    "acquirer_ceo": "Ryan Goldberg",
+    "combined_locations": 41,
+    "footprint": "MI, FL"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, DFCU Financial",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61844",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, Gulfside Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:59140",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/michigan-credit-union-dfcu-to-buy-florida-bank-gulfside/833477/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+   "set": {
+    "acquirer_city": "Golden",
+    "partner_city": "Livingston",
+    "acquirer_ceo": "Tracie Wilcox",
+    "partner_ceo": "Daisy Romo",
+    "combined_members": 32424,
+    "combined_locations": 9,
+    "footprint": "MT, CO",
+    "next_steps": "Regulatory approval and a Sky FCU member vote"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, On Tap",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64913",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Sky FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/761",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Sky FCU/On Tap release (CUInsight)",
+     "url": "https://www.cuinsight.com/press-release/two-credit-unions-one-stronger-future/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "next_steps": 3
+   }
+  },
+  {
+   "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+   "set": {
+    "acquirer_city": "Pensacola",
+    "partner_city": "Monroeville",
+    "acquirer_ceo": "Daniel Souers",
+    "combined_locations": 13,
+    "footprint": "FL, AL",
+    "announced_figures": "About $1.75B in assets",
+    "next_steps": "Regulatory approval, expected mid-2027"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Gulf Winds",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, Peoples Exchange Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:70",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-acquiring-madison-county-community-bank-rebrand/828841/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-to-buy-alabama-bank-peoples-exchange-truworth/831653/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 4,
+    "next_steps": 4
+   }
+  },
+  {
+   "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+   "set": {
+    "acquirer_city": "Pensacola",
+    "partner_city": "Madison",
+    "acquirer_ceo": "Daniel Souers",
+    "partner_ceo": "Edward Meggs Sr.",
+    "combined_locations": 14,
+    "footprint": "FL, AL",
+    "announced_figures": "About $1.7B in assets, 87,000 members, 15 branches",
+    "next_steps": "Regulatory approval, expected mid-2027"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Gulf Winds",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, Madison County Community Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:35056",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-acquiring-madison-county-community-bank-rebrand/828841/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-acquiring-madison-county-community-bank-rebrand/828841/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-acquiring-madison-county-community-bank-rebrand/828841/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5,
+    "next_steps": 5
+   }
+  },
+  {
+   "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
+   "set": {
+    "acquirer_city": "Richland",
+    "partner_city": "Salem",
+    "acquirer_ceo": "Don Miller",
+    "combined_locations": 50,
+    "footprint": "WA, OR, ID",
+    "announced_figures": "Pushes Gesa past $7B in assets",
+    "next_steps": "Regulatory approval and Oregon Bancorp shareholder approval"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Gesa",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68278",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, Willamette Valley Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:57033",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "The News Coop",
+     "url": "https://www.thenews.coop/?p=197416",
+     "type": "trade_press"
+    },
+    {
+     "label": "The News Coop",
+     "url": "https://www.thenews.coop/?p=197416",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive topic page",
+     "url": "https://www.bankingdive.com/topic/credit-unions/?page=1",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5,
+    "next_steps": 4
+   }
+  },
+  {
+   "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+   "set": {
+    "acquirer_city": "Rocky Hill",
+    "partner_city": "New Haven",
+    "acquirer_ceo": "John Holt",
+    "partner_ceo": "Joyce M Flynn",
+    "combined_members": 67903,
+    "combined_locations": 13,
+    "footprint": "CT"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA call report data, Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, New Haven Teachers FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/19",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Tyfone",
+     "url": "https://tyfone.com/news/breaking-news/in-connecticut-the-credit-union-mergers-keep-coming/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
+   "set": {
+    "acquirer_city": "Farmington",
+    "partner_city": "Brownstown",
+    "acquirer_ceo": "Stephen Grech",
+    "partner_ceo": "Chris Corkery",
+    "combined_members": 46304,
+    "combined_locations": 8,
+    "footprint": "MI",
+    "announced_figures": "$750M+ in assets, 47,000+ member accounts"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, LOC CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61404",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Advantage One",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68679",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "LOC CU merger page",
+     "url": "https://loccreditunion.com/merger-with-aocu",
+     "type": "primary"
+    },
+    {
+     "label": "LOC CU merger page",
+     "url": "https://loccreditunion.com/merger-with-aocu",
+     "type": "primary"
+    },
+    {
+     "label": "MCUL",
+     "url": "https://mcul.org/newsroom/loc-credit-union-and-advantage-one-credit-union-announce-intent-to-merge",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5
+   }
+  },
+  {
+   "id": "2026-05-05-team-one-credit-union-case-credit-union",
+   "set": {
+    "acquirer_city": "Saginaw",
+    "partner_city": "Lansing",
+    "acquirer_ceo": "Derrick Barber",
+    "partner_ceo": "Jeffrey S Benson",
+    "combined_members": 72340,
+    "combined_locations": 16,
+    "footprint": "MI"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Team One",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62141",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, CASE CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61908",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Team One partnership page",
+     "url": "https://www.teamonecu.org/bolder-together",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "2026-04-29-interra-credit-union-the-hicksville-bank",
+   "set": {
+    "acquirer_city": "Goshen",
+    "partner_city": "Hicksville",
+    "acquirer_ceo": "Amy Sink",
+    "partner_ceo": "Greg Smitley",
+    "combined_locations": 21,
+    "footprint": "IN, OH"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA call report data, Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, The Hicksville Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:16370",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Interra completion (CUInsight)",
+     "url": "https://www.cuinsight.com/?p=216626",
+     "type": "primary"
+    },
+    {
+     "label": "Interra acquisition page",
+     "url": "https://news.interracu.com/hicksvillebank",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+   "set": {
+    "acquirer_city": "Chelsea",
+    "partner_city": "Medford",
+    "acquirer_ceo": "Robert Cashman",
+    "partner_ceo": "Michael Wilberton",
+    "combined_members": 237664,
+    "combined_locations": 24,
+    "footprint": "MA",
+    "announced_figures": "$3.5B+ in assets, about 214,000 members, 25 branches"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Metro CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66364",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Members Plus CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66706",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Metro CU release",
+     "url": "https://www.metrocu.org/blog/metro-credit-union-and-members-plus-credit-union-announce-intent-to-merge-powered-by-partnership",
+     "type": "primary"
+    },
+    {
+     "label": "Metro CU release",
+     "url": "https://www.metrocu.org/blog/metro-credit-union-and-members-plus-credit-union-announce-intent-to-merge-powered-by-partnership",
+     "type": "primary"
+    },
+    {
+     "label": "Metro/Members Plus release (CUInsight)",
+     "url": "https://www.cuinsight.com/press-release/metro-credit-union-and-members-plus-credit-union-announce-intent-to-merge-powered-by-partnership/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5
+   }
+  },
+  {
+   "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
+   "set": {
+    "acquirer_city": "Brookfield",
+    "partner_city": "Appleton",
+    "acquirer_ceo": "Timothy Mackay",
+    "partner_ceo": "Paul Northway",
+    "combined_locations": 36,
+    "footprint": "WI",
+    "announced_figures": "Adds about $419M in assets"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Landmark CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66751",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, American National Bank-Fox Cities",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:33812",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Landmark CU completion (Urban Milwaukee)",
+     "url": "https://urbanmilwaukee.com/?p=1241543",
+     "type": "primary"
+    },
+    {
+     "label": "Landmark CU release",
+     "url": "https://landmarkcu.com/news/acquisition-announcement-of-american-national-bank-fox-cities-expands-northeast-wi-peresence",
+     "type": "primary"
+    },
+    {
+     "label": "BizTimes",
+     "url": "https://biztimes.com/landmark-credit-union-to-acquire-appleton-bank/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5
+   }
+  },
+  {
+   "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+   "set": {
+    "acquirer_city": "Tuscaloosa",
+    "partner_city": "Boaz",
+    "acquirer_ceo": "Whitney Oswalt",
+    "combined_locations": 41,
+    "footprint": "AL",
+    "announced_figures": "About $1.9B in assets"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Alabama ONE",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68595",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, Peoples Independent Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:27233",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Credit Union Times",
+     "url": "https://www.cutimes.com/amp/2026/02/19/alabama-one-continues-growth-strategy-with-proposed-acquisition-of-peoples-independent-bank/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Tyfone",
+     "url": "https://tyfone.com/?p=12155",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 4
+   }
+  },
+  {
+   "id": "2026-02-13-suncoast-credit-union-launch-credit-union",
+   "set": {
+    "acquirer_city": "Tampa",
+    "partner_city": "Merritt Island",
+    "acquirer_ceo": "Kevin Johnson",
+    "partner_ceo": "Joe Mirachi",
+    "combined_members": 1495391,
+    "combined_locations": 98,
+    "footprint": "FL",
+    "announced_figures": "$21B in assets, 1.4M members"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Suncoast",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68645",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Launch CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68716",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "WFTV",
+     "url": "https://www.wftv.com/news/local/launch-credit-union-members-approve-merger-with-suncoast-credit-union/AAPRKEDWPREALKNTOCIZH6X4SE/",
+     "type": "trade_press"
+    },
+    {
+     "label": "WFTV",
+     "url": "https://www.wftv.com/news/local/launch-credit-union-members-approve-merger-with-suncoast-credit-union/AAPRKEDWPREALKNTOCIZH6X4SE/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Tyfone",
+     "url": "https://tyfone.com/news/breaking-news/suncoast-credit-union-to-merge-with-launch-credit-union-in-major-florida-expansion",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5
+   }
+  },
+  {
+   "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+   "set": {
+    "acquirer_city": "Live Oak",
+    "partner_city": "Oklahoma City",
+    "acquirer_ceo": "Mark Sekula",
+    "partner_ceo": "Sean Cahill",
+    "combined_members": 1226847,
+    "combined_locations": 80,
+    "footprint": "TX, OK",
+    "announced_figures": "Nearly $20B in assets"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, RBFCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, True Sky",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24934",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "RBFCU merger page",
+     "url": "https://www.rbfcu.org/membership/true-sky-federal-credit-union-merger",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 3
+   }
+  },
+  {
+   "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
+   "set": {
+    "acquirer_city": "Livonia",
+    "partner_city": "Iron River",
+    "acquirer_ceo": "Julie Kreinbring",
+    "partner_ceo": "Paul Hinkson",
+    "combined_locations": 24,
+    "footprint": "MI",
+    "announced_figures": "$1.1B+ in assets, 22 branches",
+    "next_steps": "Regulatory approval and MSB Bankshares stockholder approval"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, Zeal",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62426",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, The Miners State Bank",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:10928",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/michigan-zeal-credit-union-to-acquire-miners-state-bank-upper-peninsula-icba/809233/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/michigan-zeal-credit-union-to-acquire-miners-state-bank-upper-peninsula-icba/809233/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Pulse 2.0",
+     "url": "https://pulse2.com/zeal-credit-union-to-acquire-the-miners-state-bank-in-all-cash-transaction",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5,
+    "next_steps": 5
+   }
+  },
+  {
+   "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+   "set": {
+    "acquirer_city": "Tukwila",
+    "partner_city": "Folsom",
+    "acquirer_ceo": "Beverly Anderson",
+    "partner_ceo": "Faye Nabhani",
+    "combined_members": 1842732,
+    "combined_locations": 88,
+    "footprint": "WA, CA, SC",
+    "announced_figures": "$33B+ in assets, 1.8M members, 80+ locations",
+    "next_steps": "Final approval from the CA DFPI"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, BECU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62604",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, SAFE CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68366",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "PYMNTS",
+     "url": "https://www.pymnts.com/?p=3242615",
+     "type": "trade_press"
+    },
+    {
+     "label": "PYMNTS",
+     "url": "https://www.pymnts.com/?p=3242615",
+     "type": "trade_press"
+    },
+    {
+     "label": "SAFE CU release",
+     "url": "https://www.safecu.org/news/2026/01/06/safe-credit-union-to-combine-with-becu",
+     "type": "primary"
+    },
+    {
+     "label": "SAFE CU vote page",
+     "url": "https://www.safecu.org/vote",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5,
+    "next_steps": 6
+   }
+  },
+  {
+   "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
+   "set": {
+    "acquirer_city": "El Paso",
+    "partner_city": "Roswell",
+    "acquirer_ceo": "Alex Rascon",
+    "partner_ceo": "Andrew Hogan",
+    "combined_locations": 35,
+    "footprint": "TX, NM",
+    "announced_figures": "$4.7B in assets, 440,000+ members and customers, 30+ branches"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, GECU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24941",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind locations, Bank of the Southwest",
+     "url": "https://api.fdic.gov/banks/locations?filters=CERT:2247",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "GECU completion (CUInsight)",
+     "url": "https://www.cuinsight.com/?p=218359",
+     "type": "primary"
+    },
+    {
+     "label": "Tyfone",
+     "url": "https://tyfone.com/?p=11729",
+     "type": "trade_press"
+    },
+    {
+     "label": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/el-paso-credit-union-to-buy-11-branch-bank/805816/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5
+   }
+  },
+  {
+   "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
+   "set": {
+    "acquirer_city": "Clarksville",
+    "partner_city": "Nashville",
+    "acquirer_ceo": "Jennifer Ventimiglia",
+    "partner_ceo": "Mike F McDonald",
+    "combined_members": 88449,
+    "combined_locations": 10,
+    "footprint": "TN, KY"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Fortera",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9759",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Vanderbilt CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68119",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
+   "set": {
+    "acquirer_city": "Houston",
+    "partner_city": "Houston",
+    "acquirer_ceo": "Isaac Johnson",
+    "partner_ceo": "LeAnn Kaczynski",
+    "combined_members": 452859,
+    "combined_locations": 45,
+    "footprint": "TX",
+    "announced_figures": "Nearly $6B in assets, 460,000+ members, 48 branches"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, TDECU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60705",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Smart Financial",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67927",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "TDECU release (GlobeNewswire)",
+     "url": "https://www.globenewswire.com/news-release/2026/11/09/3398452/0/en/tdecu-and-smart-financial-credit-union-complete-merger-to-build-a-stronger-organization.html",
+     "type": "primary"
+    },
+    {
+     "label": "TDECU release (GlobeNewswire)",
+     "url": "https://www.globenewswire.com/news-release/2026/11/09/3398452/0/en/tdecu-and-smart-financial-credit-union-complete-merger-to-build-a-stronger-organization.html",
+     "type": "primary"
+    },
+    {
+     "label": "TDECU/Smart release",
+     "url": "https://www.tdecu.org/images/press-room/press-releases/2025/tdecu-smart-financial-credit-union-announce-intent-to-merge.pdf",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 3,
+    "partner_ceo": 4,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "announced_figures": 5
+   }
+  },
+  {
+   "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+   "set": {
+    "acquirer_city": "Lombard",
+    "partner_city": "Corpus Christi",
+    "acquirer_ceo": "Todd Gunderson",
+    "partner_ceo": "Jeremy Garza",
+    "combined_members": 203229,
+    "combined_locations": 51,
+    "footprint": "IL, MN, IN, MI, TX, GA, FL, ND, NV, WI",
+    "next_steps": "Legal merger set for Dec 31, 2026"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint, announced figures and next steps",
+   "sources": [
+    {
+     "label": "NCUA record, CU1",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Gulf Coast FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4060",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    },
+    {
+     "label": "Credit Union 1 merger page",
+     "url": "https://www.creditunion1.org/about/mergers/gulf-coast/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2,
+    "next_steps": 3
+   }
+  },
+  {
+   "id": "undated-credit-union-1-first-class-community-credit-union",
+   "set": {
+    "acquirer_city": "Lombard",
+    "partner_city": "West Des Moines",
+    "acquirer_ceo": "Todd Gunderson",
+    "partner_ceo": "Zac Pollock",
+    "combined_members": 192817,
+    "combined_locations": 47,
+    "footprint": "IL, MN, IN, MI, GA, IA, FL, ND, NV, WI"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, CU1",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, First Class Community CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64231",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+   "set": {
+    "acquirer_city": "Jackson",
+    "partner_city": "Amarillo",
+    "acquirer_ceo": "Michael Waylett",
+    "partner_ceo": "Desiree Ramirez",
+    "combined_members": 23527,
+    "combined_locations": 7,
+    "footprint": "MS, TX"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Magnolia FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/224",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, City FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5665",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+   "set": {
+    "acquirer_city": "Pittsburgh",
+    "partner_city": "Pittsburgh",
+    "acquirer_ceo": "Michael T Korhnak",
+    "partner_ceo": "Sheree A Strayer",
+    "combined_members": 21622,
+    "combined_locations": 8,
+    "footprint": "PA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Allegent",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/205",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Penn Hills Municipal FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16636",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-bp-federal-credit-union-southern-star-credit-union",
+   "set": {
+    "acquirer_city": "Houston",
+    "partner_city": "Houston",
+    "acquirer_ceo": "Robert Corolla",
+    "partner_ceo": "Debra Callihan",
+    "combined_members": 8908,
+    "combined_locations": 6,
+    "footprint": "TX"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, BP FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24445",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Southern Star CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67660",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+   "set": {
+    "acquirer_city": "Sterling",
+    "partner_city": "Fort Morgan",
+    "acquirer_ceo": "Darrin Blankenbeckler",
+    "partner_ceo": "Phillip J Stadler",
+    "combined_members": 11504,
+    "footprint": "CO"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Sterling FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2840",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Fort Morgan Schools FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/10180",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+   "set": {
+    "acquirer_city": "Huntington Beach",
+    "partner_city": "Antioch",
+    "acquirer_ceo": "Roger D Ballard",
+    "partner_ceo": "Harinder Dhindsa",
+    "combined_members": 208702,
+    "combined_locations": 37,
+    "footprint": "CA, AK, WY, AZ, WA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Nuvision",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Dow Great Western CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64503",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
+   "set": {
+    "acquirer_city": "Cincinnati",
+    "partner_city": "Mason",
+    "acquirer_ceo": "Todd Cain",
+    "partner_ceo": "Darren Hartt",
+    "combined_members": 45521,
+    "combined_locations": 12,
+    "footprint": "OH, GA, TX"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Sharefax",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61090",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Members Trust FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15874",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+   "set": {
+    "acquirer_city": "Washington",
+    "partner_city": "Fort Worth",
+    "acquirer_ceo": "Margie Click",
+    "partner_ceo": "Paul Withey",
+    "combined_members": 23445,
+    "combined_locations": 3,
+    "footprint": "DC, MD, TX"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Agriculture FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16400",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, NRCS FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2158",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+   "set": {
+    "acquirer_city": "Streator",
+    "partner_city": "La Salle",
+    "acquirer_ceo": "Douglas Patterson",
+    "partner_ceo": "Wanda Bunzell",
+    "combined_members": 40220,
+    "combined_locations": 7,
+    "footprint": "IL"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Streator Onized CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68226",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, ANCO Community CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60184",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+   "set": {
+    "acquirer_city": "Falls Church",
+    "partner_city": "Portsmouth",
+    "acquirer_ceo": "William Hawkins",
+    "partner_ceo": "Bria Shaw",
+    "combined_members": 15081,
+    "combined_locations": 9,
+    "footprint": "VA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Healthcare Systems FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24564",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Summit Hampton Roads FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/19973",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+   "set": {
+    "acquirer_city": "Houston",
+    "partner_city": "Houston",
+    "acquirer_ceo": "Cameron Dickey",
+    "partner_ceo": "Mark A Levien",
+    "combined_members": 27374,
+    "combined_locations": 7,
+    "footprint": "TX"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Cy-Fair FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11452",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Baker Hughes FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16271",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+   "set": {
+    "acquirer_city": "Britton",
+    "partner_city": "Aberdeen",
+    "acquirer_ceo": "Jay Kruse",
+    "partner_ceo": "Guy J Trenhaile",
+    "combined_members": 7881,
+    "combined_locations": 2,
+    "footprint": "SD"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Norstar",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4951",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Healthcare Plus FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23371",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+   "set": {
+    "acquirer_city": "Vernon Hills",
+    "partner_city": "Lisle",
+    "acquirer_ceo": "Michael Valentine",
+    "partner_ceo": "Joseph J Kregul",
+    "combined_members": 400894,
+    "combined_locations": 45,
+    "footprint": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, BCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, HealthCare Associates CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+   "set": {
+    "acquirer_city": "Scobey",
+    "partner_city": "Fort Peck",
+    "acquirer_ceo": "Timothy Rask",
+    "partner_ceo": "Joe Vander Woude",
+    "combined_members": 4354,
+    "combined_locations": 4,
+    "footprint": "MT"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Daniels-Sheridan FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5063",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Fort Peck Community FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8037",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+   "set": {
+    "acquirer_city": "Bartlett",
+    "partner_city": "Memphis",
+    "acquirer_ceo": "W. Craig Esrael",
+    "partner_ceo": "Terrie L Snavely",
+    "combined_members": 72365,
+    "combined_locations": 16,
+    "footprint": "TN, MS"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, First South Financial",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24963",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Delta Refining FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9310",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+   "set": {
+    "acquirer_city": "Memphis",
+    "partner_city": "Atoka",
+    "acquirer_ceo": "Joel C Forbess",
+    "partner_ceo": "Kenneth E Newberry",
+    "combined_members": 9848,
+    "combined_locations": 2,
+    "footprint": "TN"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Kimberly Clark CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60928",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, West Tennessee CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60726",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+   "set": {
+    "acquirer_city": "Monterey Park",
+    "partner_city": "Ontario",
+    "acquirer_ceo": "Tim Green",
+    "partner_ceo": "John Meeks",
+    "combined_members": 46887,
+    "combined_locations": 3,
+    "footprint": "CA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, F&A FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Ontario Public Employees FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13044",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-communityamerica-credit-union-westreet-credit-union",
+   "set": {
+    "acquirer_city": "Lenexa",
+    "partner_city": "Tulsa",
+    "acquirer_ceo": "Lisa Ginter",
+    "partner_ceo": "Gregory Gallant",
+    "combined_members": 665808,
+    "combined_locations": 90,
+    "footprint": "MO, CA, OK, KS, AR, TX, AL, KY, MI, IN, MS, NC, NV, TN, WV"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, CommunityAmerica",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15732",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, WeStreet CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24812",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+   "set": {
+    "acquirer_city": "Draper",
+    "partner_city": "Salt Lake City",
+    "acquirer_ceo": "Thomas R Gourdin",
+    "partner_ceo": "Tammy Morgan",
+    "combined_members": 5586,
+    "combined_locations": 4,
+    "footprint": "UT, GA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Firefighters CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, P&S CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67056",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+   "set": {
+    "acquirer_city": "Tullahoma",
+    "partner_city": "Atlanta",
+    "acquirer_ceo": "Matthew Jernigan",
+    "partner_ceo": "Chris A Leggett",
+    "combined_members": 404547,
+    "combined_locations": 45,
+    "footprint": "TN, GA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Ascend",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7397",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, LGE",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68581",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+   "set": {
+    "acquirer_city": "Jackson",
+    "partner_city": "Birmingham",
+    "acquirer_ceo": "William Bynum",
+    "partner_ceo": "Brooke A Smedley",
+    "combined_members": 50243,
+    "combined_locations": 16,
+    "footprint": "MS, AL, AR, TN, FL, LA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Hope FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24829",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, NRS Community Development FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24583",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+   "set": {
+    "acquirer_city": "Buffalo",
+    "partner_city": "Buffalo",
+    "acquirer_ceo": "Charles D Kirsch",
+    "partner_ceo": "Ronna Sidoti",
+    "combined_members": 8855,
+    "combined_locations": 2,
+    "footprint": "NY"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, SJP FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3306",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Dunlop Employees FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7118",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+   "set": {
+    "acquirer_city": "West Chester",
+    "partner_city": "Cincinnati",
+    "acquirer_ceo": "Daniel L Sutton",
+    "partner_ceo": "Karen E Anderson",
+    "combined_members": 133739,
+    "combined_locations": 15,
+    "footprint": "OH, IN, KY"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Kemba",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61810",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Cincinnati Interagency FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7088",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
+   "set": {
+    "acquirer_city": "Crown Point",
+    "partner_city": "Munster",
+    "acquirer_ceo": "Eugene R Novello",
+    "partner_ceo": "Sarah Humenik",
+    "combined_members": 40127,
+    "combined_locations": 12,
+    "footprint": "IN, IL"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Tech CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68225",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Great Horizons FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/22695",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
+   "set": {
+    "acquirer_city": "Warner Robins",
+    "partner_city": "Cordele",
+    "acquirer_ceo": "Christina M O'Brien",
+    "partner_ceo": "Kay Burton",
+    "combined_members": 274411,
+    "combined_locations": 24,
+    "footprint": "GA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Robins Financial",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68670",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Harris Employees CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67563",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+   "set": {
+    "acquirer_city": "Port Washington",
+    "partner_city": "Great Neck",
+    "acquirer_ceo": "Michael J Fitzgerald",
+    "partner_ceo": "Flaviano Pereira",
+    "combined_members": 3294,
+    "footprint": "NY"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Port Washington FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18635",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Great Neck School Employees FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5163",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+   "set": {
+    "acquirer_city": "Lamesa",
+    "partner_city": "Plainview",
+    "acquirer_ceo": "Dale J Hansard",
+    "partner_ceo": "Mickie J Gregory",
+    "combined_members": 4811,
+    "combined_locations": 3,
+    "footprint": "TX"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Caprock FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16813",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Plains FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12274",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+   "set": {
+    "acquirer_city": "Bedford",
+    "partner_city": "Loogootee",
+    "acquirer_ceo": "Travis Markley",
+    "partner_ceo": "Michael E Hurt",
+    "combined_members": 41130,
+    "combined_locations": 11,
+    "footprint": "IN"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Hoosier Hills",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60768",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Martin County Co-Op CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67762",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
+   "set": {
+    "acquirer_city": "Hattiesburg",
+    "partner_city": "Biloxi",
+    "acquirer_ceo": "John S Harmond",
+    "partner_ceo": "Amy Olier",
+    "combined_members": 16669,
+    "combined_locations": 8,
+    "footprint": "MS"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, CenturyFirst",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24668",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Water's Edge FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8593",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
+   "set": {
+    "acquirer_city": "Winston Salem",
+    "partner_city": "Winston Salem",
+    "acquirer_ceo": "William Hall",
+    "partner_ceo": "Dion Williams",
+    "combined_members": 355762,
+    "combined_locations": 44,
+    "footprint": "NC, SC, VA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Truliant",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7840",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Piedmont Advantage CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60160",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
+   "set": {
+    "acquirer_city": "Parsippany",
+    "partner_city": "Parsippany",
+    "acquirer_ceo": "Michael Powers",
+    "partner_ceo": "Denise Faver",
+    "combined_members": 30517,
+    "combined_locations": 8,
+    "footprint": "NJ"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Garden Savings FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18710",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, GAF Linden Employees FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2348",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-texas-trust-credit-union-my-credit-union",
+   "set": {
+    "acquirer_city": "Arlington",
+    "partner_city": "Haslet",
+    "acquirer_ceo": "Jim Minge",
+    "partner_ceo": "Mark Massey",
+    "combined_members": 144592,
+    "combined_locations": 27,
+    "footprint": "TX"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Texas Trust",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68434",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, My CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68545",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+   "set": {
+    "acquirer_city": "Lexington",
+    "partner_city": "Ashland",
+    "acquirer_ceo": "Ryan Ross",
+    "partner_ceo": "Matt D Bell",
+    "combined_members": 124132,
+    "combined_locations": 9,
+    "footprint": "KY"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, UKFCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24165",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Bluegrass Community FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+   "set": {
+    "acquirer_city": "West Jordan",
+    "partner_city": "Salt Lake City",
+    "acquirer_ceo": "Jake Bowman",
+    "partner_ceo": "L William Christopherson",
+    "combined_members": 21669,
+    "combined_locations": 12,
+    "footprint": "UT, CA"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, American United FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, G&R FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  },
+  {
+   "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+   "set": {
+    "acquirer_city": "Whitefish",
+    "partner_city": "Libby",
+    "acquirer_ceo": "Jeremy Presta",
+    "partner_ceo": "Lindsay Beaty",
+    "combined_members": 35957,
+    "combined_locations": 10,
+    "footprint": "MT"
+   },
+   "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+   "sources": [
+    {
+     "label": "NCUA record, Park Side",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68647",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Lincoln County CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63199",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA call report data (branch file), Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_city": 0,
+    "partner_city": 1,
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "combined_members": 0,
+    "combined_locations": 2,
+    "footprint": 2
+   }
+  }
+ ],
+ "rechecked": []
+}

@@ -34,8 +34,14 @@ instructions: |
   - combined_assets = continuing assets + partner assets, same quarter.
   NCUA's details record also shows creditUnionStatus: when the merging credit union turns
   "Inactive", the merger has completed (the record can lag by several weeks).
+  Every deal also needs, for both sides: headquarters city, current CEO (NCUA's record has
+  creditUnionCeo and creditUnionCity; write names as "First Last"), and for the deal: combined
+  members and locations (sums, same quarter), footprint states (from the branch data), the combined
+  figures as the announcement stated them, and what the deal still needs to close.
+  Read both credit unions' own merger pages (usually <site>/merger), not only news: they give the
+  most precise timing (Legal Day 1), which members vote, and remaining approvals.
   Re-check every open deal for regulatory approval, member votes (and results), closing dates,
-  the continuing name and the continuing CEO.
+  the continuing name, the continuing CEO and what is still needed; clear next_steps when it completes.
   Merger of equals: Continuing CU is the credit union whose charter legally survives; put the
   brand the combined credit union will use in new_name (example: SELCO's charter continues under
   the Numerica name).
@@ -67,8 +73,9 @@ fields:
   - name: deal_type
     type: choice
     label: Deal type
-    choices: [CU merger, Bank purchase]
+    choices: [CU merger, Merger of equals, Bank purchase]
     required: true
+    help: Merger of equals only when the credit unions themselves call it that.
   - name: status
     type: choice
     label: Status
@@ -98,6 +105,22 @@ fields:
     type: text
     label: Continuing CEO
     help: Who will lead the combined credit union, only when a source says so.
+  - name: acquirer_ceo
+    type: text
+    label: Continuing CU CEO
+    help: The continuing credit union's current president/CEO, first and last name (NCUA's record gives it; news wins when newer).
+  - name: partner_ceo
+    type: text
+    label: Partner CEO
+    help: The merging credit union's or bank's current president/CEO, first and last name. For completed deals, the last CEO before the merger.
+  - name: acquirer_city
+    type: text
+    label: Continuing CU city
+    help: Headquarters city, in normal capitalization (Spokane Valley).
+  - name: partner_city
+    type: text
+    label: Partner city
+    help: Headquarters city of the merging credit union or bank.
   - name: acquirer_assets
     type: money
     label: Continuing CU assets
@@ -129,6 +152,28 @@ fields:
     label: Combined assets
     scored: true
     help: Continuing assets + partner assets, same quarter.
+  - name: combined_members
+    type: int
+    label: Combined members
+    help: Continuing members + partner members, same quarter. Credit union deals only; blank for bank purchases.
+  - name: combined_locations
+    type: int
+    label: Combined locations
+    help: Continuing locations + partner locations, before any closures.
+  - name: footprint
+    type: text
+    label: Footprint
+    pattern: '[A-Z]{2}(, [A-Z]{2})*'
+    pattern_hint: "must be two-letter states separated by commas, e.g. WA, OR, ID"
+    help: States where the combined credit union has member-service locations, most locations first (from the NCUA branch file; FDIC branch locations for banks).
+  - name: announced_figures
+    type: text
+    label: Figures as announced
+    help: The combined size the credit unions stated in their announcement, in their words, e.g. "Nearly $8B in assets, 325,000+ members, 38 branches". Never computed.
+  - name: next_steps
+    type: text
+    label: Still needed
+    help: What the deal still needs before it closes, as a source states it, e.g. "Regulatory approval and a Numerica member vote". Blank once completed.
   - name: size_as_of
     type: text
     label: Sizes as of
