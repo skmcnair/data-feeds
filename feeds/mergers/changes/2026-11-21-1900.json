@@ -1,0 +1,446 @@
+{
+ "feed": "mergers",
+ "run": {
+  "started": "2026-11-21T18:30:00-05:00",
+  "finished": "2026-11-21T19:00:00-05:00",
+  "searches": 0,
+  "errors": []
+ },
+ "reviewed": [],
+ "adds": [],
+ "updates": [
+  {
+   "id": "undated-communityamerica-credit-union-westreet-credit-union",
+   "set": {
+    "acquirer_locations": 81,
+    "combined_locations": 94,
+    "footprint": "MO, CA, OK, KS, AR, TX, AL, KY, MI, NE, IN, MS, NC, NV, TN, WV"
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), CommunityAmerica Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15732",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), WeStreet Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24812",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0,
+    "footprint": 0
+   }
+  },
+  {
+   "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+   "set": {
+    "acquirer_locations": 39,
+    "combined_locations": 68
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Michigan State University Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23279",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), University Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1367",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2026-10-01-consumers-credit-union-scott-credit-union",
+   "set": {
+    "acquirer_locations": 25,
+    "combined_locations": 48
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Consumers Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68588",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), Scott Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66370",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+   "set": {
+    "acquirer_locations": 19,
+    "combined_locations": 24
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Sierra Central Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68053",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), First U.S. Community Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68474",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
+   "set": {
+    "acquirer_locations": 137,
+    "combined_locations": 150
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), America First Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24694",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), Greater Nevada Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68228",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+   "set": {
+    "acquirer_locations": 16,
+    "combined_locations": 23
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Metro Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66364",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), Members Plus Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66706",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
+   "set": {
+    "acquirer_locations": 36,
+    "combined_locations": 37,
+    "footprint": "WI, IL"
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Landmark Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66751",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind, American National Bank-Fox Cities",
+     "url": "https://api.fdic.gov/banks/institutions?filters=CERT:33812",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0,
+    "footprint": 0
+   }
+  },
+  {
+   "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+   "set": {
+    "acquirer_locations": 84,
+    "combined_locations": 98
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Randolph-Brooks Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), True Sky Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24934",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+   "set": {
+    "acquirer_locations": 71,
+    "combined_locations": 89
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Boeing Employees Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62604",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), SAFE Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68366",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
+   "set": {
+    "acquirer_locations": 37,
+    "combined_locations": 48
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), GECU Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24941",
+     "type": "regulator"
+    },
+    {
+     "label": "FDIC BankFind, Bank of the Southwest",
+     "url": "https://api.fdic.gov/banks/institutions?filters=CERT:2247",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
+   "set": {
+    "acquirer_locations": 36,
+    "combined_locations": 48
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Texas Dow Employees Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60705",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), Smart Financial Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67927",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+   "set": {
+    "footprint": "IL, IN, MI, MN, TX, GA, FL, ND, NV, WI"
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Credit Union 1",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), Gulf Coast Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4060",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "footprint": 0
+   }
+  },
+  {
+   "id": "undated-credit-union-1-first-class-community-credit-union",
+   "set": {
+    "footprint": "IL, IN, MI, MN, GA, IA, FL, ND, NV, WI"
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Credit Union 1",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), First Class Community Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64231",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "footprint": 0
+   }
+  },
+  {
+   "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+   "set": {
+    "acquirer_locations": 37,
+    "combined_locations": 38
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Nuvision Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), Dow Great Western Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64503",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+   "set": {
+    "acquirer_locations": 42,
+    "combined_locations": 46
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Baxter Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), HealthCare Associates Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+   "set": {
+    "acquirer_locations": 28,
+    "combined_locations": 46
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), Ascend Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7397",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), LGE Community Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68581",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+   "set": {
+    "acquirer_locations": 9,
+    "combined_locations": 10
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), University of Kentucky Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24165",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), Bluegrass Community Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  },
+  {
+   "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+   "set": {
+    "acquirer_locations": 12,
+    "combined_locations": 13
+   },
+   "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+   "sources": [
+    {
+     "label": "NCUA record (current profile), American United Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record (current profile), G&R Federal Credit Union",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_locations": 0,
+    "combined_locations": 0
+   }
+  }
+ ],
+ "rechecked": []
+}

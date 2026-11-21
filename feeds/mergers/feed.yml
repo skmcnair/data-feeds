@@ -18,12 +18,31 @@ instructions: |
     https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers
     Add every row that isn't tracked yet (it names the merging and continuing credit unions and the
     vote date). It is a regulator source.
+  Coverage: besides the collected sources, check CU Today (cutoday.info), Credit Union Times
+  (cutimes.com), CUInsight (cuinsight.com), Credit Union Daily (thecudaily.com), Tyfone
+  (tyfone.com), Banking Dive, American Banker, PR Newswire, GlobeNewswire, Business Wire, the
+  credit unions' own newsrooms and merger pages, NCUA (proposed-merger list, regulations.gov
+  dockets, press releases) and state regulators' bulletins (CT DOB, NY DFS weekly bulletin, etc.).
+  On the first Monday of each month, run the review searches over the last 90 days and compare with
+  tracked deals, to catch anything missed. When you add a deal that was announced more than 7 days
+  ago, start notes with "Added <today> (missed at announcement)."
+  Credit unions' merger pages: find them through WebSearch (e.g. "<credit union> merger") so the
+  page comes back as a search result, then open it with WebFetch. If WebFetch still can't open a
+  credit union's own public page, read it from the shell with curl and a plain browser User-Agent
+  (the same way as logos) and pdftotext/HTML stripping. Never do this for a page that blocks you
+  or asks you to log in; skip it and say so in your message.
+  Sizes, locations, cities, CEOs and footprint: run
+    python3 feeds/mergers/tools/sizes.py cu:<charter> cu:<charter> bank:<FDIC cert>
+  (needs pdftotext: apt-get install -y poppler-utils). It reads NCUA's current profile (the newest
+  call report quarter, with today's branch list) and FDIC BankFind. Use it for every new deal and,
+  for open deals, whenever its quarter is newer than size_as_of. creditunions.online (which repackages
+  NCUA data) is a fallback only, labeled aggregator.
   Sizes: never take assets, members or locations from news stories.
-  - Credit unions: assets and members from NCUA's credit union details record for the charter,
+  - (sizes.py does all of the following.) Credit unions: assets and members from NCUA's details record,
     https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/<charter>
     (creditUnionAssets in dollars, creditUnionNom = members; callReportCycleDates shows the latest
-    cycle). Locations = member-service sites in the latest NCUA quarterly call report data zip
-    ("Credit Union Branch Information.txt", MemberServices = 1), from
+    cycle). Locations = member-service Branch/Corporate Office sites in NCUA's current profile;
+    fallback: the latest quarterly data zip ("Credit Union Branch Information.txt", MemberServices = 1),
     https://ncua.gov/files/publications/analysis/call-report-data-YYYY-MM.zip
   - Banks: assets and offices from FDIC BankFind, https://api.fdic.gov/banks/institutions?filters=CERT:<cert>
     (ASSET is in $ thousands). Banks have no member count.
@@ -238,7 +257,16 @@ sources:
   - {name: Google News - intent to merge, type: google_news, query: '"credit union" "intent to merge" when:7d'}
   - {name: Google News - CU buys bank, type: google_news, query: '"credit union" acquire bank when:7d'}
   - {name: Google News - CU Today, type: google_news, query: 'site:cutoday.info merger when:7d'}
+  - {name: Google News - CU Today (merge/acquire), type: google_news, query: 'site:cutoday.info merge OR acquire when:7d'}
   - {name: Google News - CU Times, type: google_news, query: 'site:cutimes.com merger when:7d'}
+  - {name: Google News - CUInsight, type: google_news, query: 'site:cuinsight.com merge when:7d'}
+  - {name: Google News - Credit Union Daily, type: google_news, query: 'site:thecudaily.com merger when:7d'}
+  - {name: Google News - Tyfone, type: google_news, query: 'site:tyfone.com merger when:7d'}
+  - {name: Google News - American Banker, type: google_news, query: 'site:americanbanker.com credit union merger when:7d'}
+  - {name: Google News - PR Newswire, type: google_news, query: 'site:prnewswire.com "credit union" merge when:7d'}
+  - {name: Google News - GlobeNewswire, type: google_news, query: 'site:globenewswire.com "credit union" merger when:7d'}
+  - {name: Google News - Business Wire, type: google_news, query: 'site:businesswire.com "credit union" merger when:7d'}
+  - {name: Google News - CreditUnions.com, type: google_news, query: 'site:creditunions.com merger when:7d'}
 
 collect:
   include_any: [merger, merge, acquire, acquisition, combine, consolidat]
@@ -259,6 +287,13 @@ review:
     - credit unions announce intent to combine
     - credit union definitive merger agreement
     - credit union merger of equals
+    - site:cutoday.info merger
+    - site:cutimes.com merger
+    - site:cuinsight.com merger
+    - site:thecudaily.com merger
+    - site:tyfone.com merger
+    - site:bankingdive.com credit union bank
+    - site:regulations.gov NCUA merger
 
 message:
   new_line: "{acquirer_short} + {partner_short} ({state}) - {status} - {combined_assets} combined - close {expected_close} - accuracy {accuracy}"
