@@ -1,6 +1,6 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-21T16:56:43-05:00",
+  "generated": "2026-11-21T16:58:20-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [],
@@ -710,16 +710,6 @@
   "organizations_needed": [],
   "logos_missing": [
     {
-      "slug": "advantage-one",
-      "name": "Advantage One Credit Union",
-      "website": "https://www.myaocu.com/"
-    },
-    {
-      "slug": "agriculture-fcu",
-      "name": "Agriculture Federal Credit Union",
-      "website": "http://www.agriculturefcu.org"
-    },
-    {
       "slug": "alabama-one",
       "name": "Alabama ONE Credit Union",
       "website": "http://www.alabamaone.org"
@@ -745,11 +735,6 @@
       "website": "http://www.americannickeloidemployeescreditunion.com"
     },
     {
-      "slug": "ascend",
-      "name": "Ascend Federal Credit Union",
-      "website": "https://www.ascend.org"
-    },
-    {
       "slug": "baker-hughes-fcu",
       "name": "Baker Hughes Federal Credit Union",
       "website": "http://www.bhfcu.org"
@@ -758,16 +743,6 @@
       "slug": "bank-of-the-southwest",
       "name": "Bank of the Southwest",
       "website": ""
-    },
-    {
-      "slug": "bcu",
-      "name": "Baxter Credit Union",
-      "website": "http://www.bcu.org"
-    },
-    {
-      "slug": "becu",
-      "name": "Boeing Employees Credit Union",
-      "website": "http://www.becu.org"
     },
     {
       "slug": "bluegrass-community-fcu",
@@ -785,11 +760,6 @@
       "website": "http://WWW.CAPROCKCU.COM"
     },
     {
-      "slug": "case-cu",
-      "name": "CASE Credit Union",
-      "website": "http://www.casecu.org"
-    },
-    {
       "slug": "centuryfirst",
       "name": "CenturyFirst Federal Credit Union",
       "website": "https://www.CenturyFirstFCU.com"
@@ -805,29 +775,9 @@
       "website": "https://www.cityfederalcu.com"
     },
     {
-      "slug": "communityamerica",
-      "name": "CommunityAmerica Credit Union",
-      "website": "https://www.communityamerica.com/"
-    },
-    {
-      "slug": "cu1",
-      "name": "Credit Union 1",
-      "website": "http://www.creditunion1.org"
-    },
-    {
       "slug": "cy-fair-fcu",
       "name": "Cy-Fair Federal Credit Union",
       "website": "http://www.cyfairfcu.org"
-    },
-    {
-      "slug": "daniels-sheridan-fcu",
-      "name": "Daniels-Sheridan Federal Credit Union",
-      "website": "https://www.dsfcu.net"
-    },
-    {
-      "slug": "dcfcu",
-      "name": "Dade County Federal Credit Union",
-      "website": "http://www.dcfcu.org"
     },
     {
       "slug": "delta-refining-fcu",
@@ -845,11 +795,6 @@
       "website": "http://www.directorschoicecu.com/"
     },
     {
-      "slug": "dow-great-western-cu",
-      "name": "Dow Great Western Credit Union",
-      "website": "http://www.dowcu.org"
-    },
-    {
       "slug": "dunlop-employees-fcu",
       "name": "Dunlop Employees Federal Credit Union",
       "website": ""
@@ -860,34 +805,9 @@
       "website": ""
     },
     {
-      "slug": "f-and-a-fcu",
-      "name": "F&A Federal Credit Union",
-      "website": "http://WWW.FAFCU.ORG"
-    },
-    {
-      "slug": "firefighters-cu",
-      "name": "Firefighters Credit Union",
-      "website": "https://www.firefighterscu.com"
-    },
-    {
       "slug": "first-class-community-cu",
       "name": "First Class Community Credit Union",
       "website": "http://www.gofirstclass.org"
-    },
-    {
-      "slug": "first-financial-bank",
-      "name": "First Financial Bank",
-      "website": "https://www.ffbalabama.com"
-    },
-    {
-      "slug": "first-south-financial",
-      "name": "First South Financial Federal Credit Union",
-      "website": "http://www.firstsouth.com"
-    },
-    {
-      "slug": "fort-mcclellan-cu",
-      "name": "Fort McClellan Credit Union",
-      "website": "https://www.fortmcclellancu.org/"
     },
     {
       "slug": "fort-morgan-schools-fcu",
@@ -900,11 +820,6 @@
       "website": "http://www.fortpeckcu.com"
     },
     {
-      "slug": "fortera",
-      "name": "Fortera Federal Credit Union",
-      "website": "http://www.forteracu.com"
-    },
-    {
       "slug": "g-and-r-fcu",
       "name": "G&R Federal Credit Union",
       "website": "http://www.grcreditunion.com"
@@ -913,11 +828,6 @@
       "slug": "gaf-linden-employees-fcu",
       "name": "GAF Linden Employees Federal Credit Union",
       "website": "http://www.gafcreditunion.org"
-    },
-    {
-      "slug": "garden-savings-fcu",
-      "name": "Garden Savings Federal Credit Union",
-      "website": "https://www.Gardensavingsfcu.org"
     },
     {
       "slug": "gecu",
@@ -945,11 +855,6 @@
       "website": "http://www.ccgcfcu.com"
     },
     {
-      "slug": "gulf-winds",
-      "name": "Gulf Winds Credit Union",
-      "website": "https://www.gogulfwinds.com"
-    },
-    {
       "slug": "gulfside-bank",
       "name": "Gulfside Bank",
       "website": "https://www.gulfsidebank.com"
@@ -965,11 +870,6 @@
       "website": "https://www.hacu.org"
     },
     {
-      "slug": "healthcare-plus-fcu",
-      "name": "Healthcare Plus Federal Credit Union",
-      "website": "http://www.hcpfcu.coop"
-    },
-    {
       "slug": "healthcare-systems-fcu",
       "name": "Healthcare Systems Federal Credit Union",
       "website": "http://www.Healthcarefcu.org"
@@ -980,11 +880,6 @@
       "website": "https://www.thb.bank"
     },
     {
-      "slug": "hoosier-hills",
-      "name": "Hoosier Hills Credit Union",
-      "website": "http://www.hoosierhills.com"
-    },
-    {
       "slug": "hope-fcu",
       "name": "Hope Federal Credit Union",
       "website": "https://www.hopecu.org"
@@ -993,11 +888,6 @@
       "slug": "interra",
       "name": "Interra Credit Union",
       "website": ""
-    },
-    {
-      "slug": "kemba",
-      "name": "Kemba Credit Union",
-      "website": "http://www.kemba.com"
     },
     {
       "slug": "kimberly-clark-cu",
@@ -1013,21 +903,6 @@
       "slug": "launch-cu",
       "name": "Launch Credit Union",
       "website": "http://www.launchcu.com"
-    },
-    {
-      "slug": "lge",
-      "name": "LGE Community Credit Union",
-      "website": "http://www.LGEccu.org"
-    },
-    {
-      "slug": "lincoln-county-cu",
-      "name": "Lincoln County Credit Union",
-      "website": "http://www.lincolncountycu.com"
-    },
-    {
-      "slug": "loc-cu",
-      "name": "LOC Credit Union",
-      "website": "http://www.loccreditunion.com"
     },
     {
       "slug": "madison-county-community-bank",
@@ -1050,11 +925,6 @@
       "website": "http://www.mymax.com"
     },
     {
-      "slug": "members-plus-cu",
-      "name": "Members Plus Credit Union",
-      "website": "https://www.memberspluscu.org"
-    },
-    {
       "slug": "members-trust-fcu",
       "name": "Members Trust Federal Credit Union",
       "website": "http://www.memberstrust.org"
@@ -1063,11 +933,6 @@
       "slug": "metro-cu",
       "name": "Metro Credit Union",
       "website": "http://www.metrocu.org"
-    },
-    {
-      "slug": "miners-state-bank",
-      "name": "The Miners State Bank",
-      "website": "https://www.theminersstatebank.com"
     },
     {
       "slug": "my-cu",
@@ -1080,11 +945,6 @@
       "website": ""
     },
     {
-      "slug": "norstar",
-      "name": "Norstar Federal Credit Union",
-      "website": "http://www.norstarfcu.com"
-    },
-    {
       "slug": "nrcs-fcu",
       "name": "Natural Resource Conservation Service Federal Credit Union",
       "website": "http://www.nrcscreditunion.org"
@@ -1095,24 +955,9 @@
       "website": "http://www.starfcu.net"
     },
     {
-      "slug": "numerica",
-      "name": "Numerica Credit Union",
-      "website": "https://www.numericacu.com"
-    },
-    {
       "slug": "nutmeg",
       "name": "Nutmeg State Financial Credit Union",
       "website": ""
-    },
-    {
-      "slug": "nuvision",
-      "name": "Nuvision Federal Credit Union",
-      "website": "http://www.nuvisionfederal.org"
-    },
-    {
-      "slug": "on-tap",
-      "name": "On Tap Credit Union",
-      "website": "http://www.ontapcu.org"
     },
     {
       "slug": "ontario-public-employees-fcu",
@@ -1125,24 +970,9 @@
       "website": "http://www.pandscu.org"
     },
     {
-      "slug": "park-side",
-      "name": "Park Side Credit Union",
-      "website": "http://www.parksidefcu.com"
-    },
-    {
-      "slug": "penair",
-      "name": "PenAir Credit Union",
-      "website": "https://www.penair.org"
-    },
-    {
       "slug": "penn-hills-municipal-fcu",
       "name": "Penn Hills Municipal Federal Credit Union",
       "website": ""
-    },
-    {
-      "slug": "peoples-exchange-bank",
-      "name": "Peoples Exchange Bank",
-      "website": "https://www.peb.bank"
     },
     {
       "slug": "peoples-independent-bank",
@@ -1165,59 +995,14 @@
       "website": "http://www.pwfcu.org"
     },
     {
-      "slug": "rbfcu",
-      "name": "Randolph-Brooks Federal Credit Union",
-      "website": "http://www.rbfcu.org"
-    },
-    {
-      "slug": "robins-financial",
-      "name": "Robins Financial Credit Union",
-      "website": "http://www.robinsfcu.org"
-    },
-    {
-      "slug": "safe-cu",
-      "name": "SAFE Credit Union",
-      "website": "http://www.safecu.org"
-    },
-    {
-      "slug": "selco",
-      "name": "SELCO Community Credit Union",
-      "website": "http://www.selco.org"
-    },
-    {
-      "slug": "sharefax",
-      "name": "Sharefax Credit Union",
-      "website": "http://WWW.SHAREFAX.ORG"
-    },
-    {
       "slug": "sjp-fcu",
       "name": "SJP Federal Credit Union",
       "website": "https://www.sjpfcu.org/"
     },
     {
-      "slug": "sky-fcu",
-      "name": "Sky Federal Credit Union",
-      "website": "http://www.skyfcu.org"
-    },
-    {
       "slug": "smart-financial",
       "name": "Smart Financial Credit Union",
       "website": "http://www.smartcu.org"
-    },
-    {
-      "slug": "southern-star-cu",
-      "name": "Southern Star Credit Union",
-      "website": "http://www.southernstarcu.org"
-    },
-    {
-      "slug": "sterling-fcu",
-      "name": "Sterling Federal Credit Union",
-      "website": "http://www.sterlingcreditunion.org"
-    },
-    {
-      "slug": "streator-onized-cu",
-      "name": "Streator Onized Credit Union",
-      "website": "http://www.socu.org"
     },
     {
       "slug": "summit-hampton-roads-fcu",
@@ -1235,21 +1020,6 @@
       "website": "http://www.sunmark.org"
     },
     {
-      "slug": "tdecu",
-      "name": "Texas Dow Employees Credit Union",
-      "website": "http://www.tdecu.org"
-    },
-    {
-      "slug": "team-one",
-      "name": "Team One Credit Union",
-      "website": "http://WWW.TEAMONECU.ORG"
-    },
-    {
-      "slug": "tech-cu",
-      "name": "Tech Credit Union",
-      "website": "http://www.techcu.org"
-    },
-    {
       "slug": "texas-trust",
       "name": "Texas Trust Credit Union",
       "website": "https://www.texastrustcu.org"
@@ -1265,11 +1035,6 @@
       "website": "https://WWW.TRULIANTFCU.ORG"
     },
     {
-      "slug": "ukfcu",
-      "name": "University of Kentucky Federal Credit Union",
-      "website": "https://www.ukcreditunion.org"
-    },
-    {
       "slug": "vanderbilt-cu",
       "name": "Vanderbilt Credit Union",
       "website": "https://www.vanderbiltcu.org"
@@ -1283,11 +1048,6 @@
       "slug": "west-tennessee-cu",
       "name": "The West Tennessee Credit Union",
       "website": "http://www.wtncu.org"
-    },
-    {
-      "slug": "westreet-cu",
-      "name": "WeStreet Credit Union",
-      "website": "http://www.westreet.org"
     },
     {
       "slug": "willamette-valley-bank",
