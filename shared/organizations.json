@@ -2284,6 +2284,46 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "first-responders-cu": {
+      "name": "First Responders Credit Union",
+      "added": "2026-11-21",
+      "short_name": "First Responders CU",
+      "kind": "credit_union",
+      "charter": "67837",
+      "state": "MA",
+      "aliases": [
+        "Boston Firefighters Credit Union"
+      ],
+      "logo": {
+        "file": "first-responders-cu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.firstresponderscu.org/images/default-source/template-images/1stresponderscu-primary-logo-rgb.svg?sfvrsn=c298ffde_2",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 1.822,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "lynn-firemen-s-fcu": {
+      "name": "Lynn Firemen's Federal Credit Union",
+      "added": "2026-11-21",
+      "short_name": "Lynn Firemen's FCU",
+      "kind": "credit_union",
+      "charter": "484",
+      "state": "MA"
+    },
+    "gold-coast-bank": {
+      "name": "Gold Coast Bank",
+      "added": "2026-11-21",
+      "short_name": "Gold Coast Bank",
+      "kind": "bank",
+      "state": "IL",
+      "fdic_cert": "58556"
     }
   }
 }
