@@ -1,0 +1,34 @@
+name: Collect
+
+# Every three hours: pull each feed's sources (RSS, RSS.app, Google News)
+# into its waiting list for Claude's next review, then refresh the worklists.
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-writes
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r engine/requirements.txt
+      - name: Collect sources
+        run: |
+          bash engine/run_and_push.sh "Collect sources $(date -u +%Y-%m-%dT%H:%MZ)" \
+            "python3 engine/collect.py --all && python3 engine/apply.py --all && python3 engine/build.py --all"

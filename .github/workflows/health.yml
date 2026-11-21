@@ -1,0 +1,72 @@
+name: Feed health
+
+# Every morning, independent of Claude: is every feed valid and fresh
+# (collected recently, reviewed by Claude this morning, last publish OK)?
+# If not, opens or comments on a "feed-health" issue, which emails the repo
+# owner, and closes it once everything is healthy again.
+
+on:
+  schedule:
+    - cron: "45 13 * * *"   # 8:45 a.m. Eastern in winter, 9:45 a.m. in summer
+  workflow_dispatch:
+    inputs:
+      simulate_failure:
+        description: "Test the alert: fail on purpose and open the feed-health issue"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r engine/requirements.txt
+      - name: Check every feed
+        shell: bash
+        run: |
+          if [ "${{ inputs.simulate_failure }}" = "true" ]; then
+            echo "FAILED: simulated failure (a test of the alert - nothing is actually wrong)" | tee result.txt
+            exit 1
+          fi
+          set -o pipefail
+          python3 engine/validate.py --all --health 2>&1 | tee result.txt
+
+      - name: Open or update the alert issue
+        if: failure()
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create feed-health --color B60205 --description "A data feed needs attention" --force
+          {
+            echo "The daily feed check failed on $(date -u '+%Y-%m-%d %H:%M UTC')."
+            echo
+            echo '```'
+            cat result.txt 2>/dev/null || echo "the check did not run"
+            echo '```'
+            echo
+            echo "Run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          } > body.md
+          n=$(gh issue list --label feed-health --state open --json number -q '.[0].number')
+          if [ -n "$n" ]; then
+            gh issue comment "$n" --body-file body.md
+          else
+            gh issue create --title "A data feed needs attention" --label feed-health --body-file body.md
+          fi
+
+      - name: Close the alert issue when healthy
+        if: success()
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --label feed-health --state open --json number -q '.[].number'); do
+            gh issue close "$n" --comment "Healthy again: $(tail -3 result.txt | tr '\n' ' ')"
+          done

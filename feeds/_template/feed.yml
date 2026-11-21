@@ -1,0 +1,92 @@
+# Copy this folder to feeds/<feed-name>/ (lowercase, hyphens) and fill it in.
+# Every setting is explained in docs/FEED_SETTINGS.md.
+
+title: Credit Union Mergers            # shown on the tracker and in messages
+item: deal                             # what one row is called (deal, move, opening...)
+trial: true                            # first week: every row goes in the morning message
+
+scope: |
+  In: U.S. credit union + credit union mergers and credit union acquisitions of banks,
+  from intent to merge through completion.
+  Out: league or trade-association mergers, non-U.S. credit unions, CUSO or vendor deals.
+
+instructions: |
+  Re-check every open deal daily for approvals, votes, closing dates and a named surviving CEO.
+
+date_field: announced                  # the item's main date; the feed is newest first by it
+key: [acquirer, partner]               # what makes two items the same
+
+fields:
+  - name: announced
+    type: date
+    label: Announced
+    required: true
+    help: Date of the first public announcement.
+  - name: acquirer
+    type: org
+    label: Acquirer
+    required: true
+    help: The continuing (surviving) institution, full legal name.
+  - name: partner
+    type: org
+    label: Partner
+    required: true
+  - name: status
+    type: choice
+    label: Status
+    choices: [Announced, Approved, Completed, Called off]
+    required: true
+  - name: combined_assets
+    type: money
+    label: Combined assets
+    scored: true
+    help: From the latest NCUA (or FDIC) call report, never from news stories.
+  - name: expected_close
+    type: text
+    label: Expected close
+    pattern: '(Q[1-4] \d{4}|H[12] \d{4}|\d{4}|Not Disclosed|Completed|Called off)'
+    pattern_hint: "must be a quarter (Q2 2027), half (H1 2027), year, Not Disclosed, Completed or Called off"
+    scored: true
+    help: Legal close as a quarter or half; "Not Disclosed" when no source gives timing.
+  - name: state
+    type: state
+    label: State
+  - name: notes
+    type: text
+    label: Notes
+
+derived:
+  - name: region
+    label: Region
+    map_from: state
+    groups:
+      New England: [CT, ME, MA, NH, RI, VT]
+      Rest of the Northeast: [NJ, NY, PA]
+    default: Elsewhere
+
+open_when: {field: status, not_in: [Completed, Called off]}   # open items are re-checked daily
+
+sources:
+  - {name: Google News - credit union merger, type: google_news, query: '"credit union" merger'}
+  # - {name: CU Today, type: rss, url: https://example.com/feed}
+
+collect:
+  include_any: [merger, merge, acquire, acquisition]
+  exclude_any: []
+
+review:
+  time: "06:37"                        # when the daily review runs (Eastern)
+  lookback_days: 3
+  monday_lookback_days: 30
+  recheck_max: 25
+  searches:
+    - credit union merger
+    - credit unions intent to merge
+    - credit union to acquire bank
+
+message:
+  new_line: "{acquirer_short} + {partner_short} - {combined_assets} combined - close {expected_close} - accuracy {accuracy}"
+  update_line: "{acquirer_short} + {partner_short}: <what changed>"
+  notes: List New England deals first.
+
+accuracy: {enabled: true}

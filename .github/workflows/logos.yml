@@ -1,0 +1,36 @@
+name: Logo check
+
+# Every Monday: re-read each organization's logo from its source and flag
+# real changes for Claude to confirm (see engine/logos.py).
+
+on:
+  schedule:
+    - cron: "23 14 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-writes
+  cancel-in-progress: false
+
+jobs:
+  logos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          sudo apt-get install -y -q librsvg2-bin
+          pip install -q -r engine/requirements.txt
+      - name: Check logos
+        run: |
+          bash engine/run_and_push.sh "Weekly logo check $(date -u +%Y-%m-%d)" \
+            "python3 engine/logos.py check && python3 engine/build.py --all"

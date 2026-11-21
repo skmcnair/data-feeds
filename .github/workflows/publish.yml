@@ -1,0 +1,45 @@
+name: Publish
+
+# Applies Claude's change files and Sean's corrections, rebuilds every feed,
+# checks it, and publishes. Runs when a change lands, and every hour as a
+# backstop in case a push didn't start it.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "feeds/*/changes/*.json"
+      - "feeds/*/corrections.json"
+      - "feeds/*/feed.yml"
+      - "shared/organizations.json"
+      - "engine/**"
+  schedule:
+    - cron: "47 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-writes
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r engine/requirements.txt
+      - name: Test the engine
+        run: python3 engine/tests/test_engine.py
+      - name: Apply changes, build, check and publish
+        run: |
+          bash engine/run_and_push.sh "Publish feeds $(date -u +%Y-%m-%dT%H:%MZ)" \
+            "python3 engine/apply.py --all && python3 engine/build.py --all"
