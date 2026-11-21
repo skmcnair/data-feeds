@@ -1,0 +1,254 @@
+{
+  "last_review": "2026-11-21T19:40:00-05:00",
+  "last_review_file": "2026-11-21-1940.json",
+  "last_review_result": "ok",
+  "last_review_errors": [],
+  "last_review_report": {
+    "added": [
+      {
+        "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+        "summary": "Nutmeg State Financial Credit Union / New Haven Teachers Federal Credit Union"
+      },
+      {
+        "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+        "summary": "Metro Credit Union / Members Plus Credit Union"
+      },
+      {
+        "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+        "summary": "Boeing Employees Credit Union / SAFE Credit Union"
+      },
+      {
+        "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
+        "summary": "Texas Dow Employees Credit Union / Smart Financial Credit Union"
+      },
+      {
+        "id": "2026-02-13-suncoast-credit-union-launch-credit-union",
+        "summary": "Suncoast Credit Union / Launch Credit Union"
+      },
+      {
+        "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+        "summary": "Randolph-Brooks Federal Credit Union / True Sky Federal Credit Union"
+      },
+      {
+        "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
+        "summary": "Fortera Federal Credit Union / Vanderbilt Credit Union"
+      },
+      {
+        "id": "2026-05-05-team-one-credit-union-case-credit-union",
+        "summary": "Team One Credit Union / CASE Credit Union"
+      },
+      {
+        "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
+        "summary": "LOC Credit Union / Advantage One Credit Union"
+      },
+      {
+        "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+        "summary": "Credit Union 1 / Gulf Coast Federal Credit Union"
+      },
+      {
+        "id": "undated-credit-union-1-first-class-community-credit-union",
+        "summary": "Credit Union 1 / First Class Community Credit Union"
+      },
+      {
+        "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+        "summary": "Magnolia Federal Credit Union / City Federal Credit Union"
+      },
+      {
+        "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+        "summary": "PenAir Credit Union / Fort McClellan Credit Union"
+      },
+      {
+        "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
+        "summary": "SELCO Community Credit Union / Numerica Credit Union"
+      },
+      {
+        "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+        "summary": "Sunmark Credit Union / Directors Choice Credit Union"
+      },
+      {
+        "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+        "summary": "On Tap Credit Union / Sky Federal Credit Union"
+      },
+      {
+        "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
+        "summary": "Landmark Credit Union / American National Bank-Fox Cities"
+      },
+      {
+        "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+        "summary": "Dade County Federal Credit Union / Evermore Bank"
+      },
+      {
+        "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
+        "summary": "Zeal Credit Union / The Miners State Bank"
+      },
+      {
+        "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+        "summary": "Alabama ONE Credit Union / Peoples Independent Bank"
+      },
+      {
+        "id": "2026-04-29-interra-credit-union-the-hicksville-bank",
+        "summary": "Interra Credit Union / The Hicksville Bank"
+      },
+      {
+        "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
+        "summary": "Gesa Credit Union / Willamette Valley Bank"
+      },
+      {
+        "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+        "summary": "Gulf Winds Credit Union / Madison County Community Bank"
+      },
+      {
+        "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+        "summary": "Gulf Winds Credit Union / Peoples Exchange Bank"
+      },
+      {
+        "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+        "summary": "DFCU Financial Credit Union / Gulfside Bank"
+      },
+      {
+        "id": "2026-11-10-max-credit-union-first-financial-bank",
+        "summary": "MAX Credit Union / First Financial Bank"
+      },
+      {
+        "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
+        "summary": "GECU Federal Credit Union / Bank of the Southwest"
+      },
+      {
+        "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+        "summary": "Allegent Community Federal Credit Union / Penn Hills Municipal Federal Credit Union"
+      },
+      {
+        "id": "undated-bp-federal-credit-union-southern-star-credit-union",
+        "summary": "BP Federal Credit Union / Southern Star Credit Union"
+      },
+      {
+        "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+        "summary": "Sterling Federal Credit Union / Fort Morgan Schools Federal Credit Union"
+      },
+      {
+        "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+        "summary": "Nuvision Federal Credit Union / Dow Great Western Credit Union"
+      },
+      {
+        "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
+        "summary": "Sharefax Credit Union / Members Trust Federal Credit Union"
+      },
+      {
+        "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+        "summary": "Agriculture Federal Credit Union / Natural Resource Conservation Service Federal Credit Union"
+      },
+      {
+        "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+        "summary": "Streator Onized Credit Union / ANCO Community Credit Union"
+      },
+      {
+        "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+        "summary": "Healthcare Systems Federal Credit Union / Summit Hampton Roads Federal Credit Union"
+      },
+      {
+        "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+        "summary": "Cy-Fair Federal Credit Union / Baker Hughes Federal Credit Union"
+      },
+      {
+        "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+        "summary": "Norstar Federal Credit Union / Healthcare Plus Federal Credit Union"
+      },
+      {
+        "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+        "summary": "Baxter Credit Union / HealthCare Associates Credit Union"
+      },
+      {
+        "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+        "summary": "Daniels-Sheridan Federal Credit Union / Fort Peck Community Federal Credit Union"
+      },
+      {
+        "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+        "summary": "First South Financial Federal Credit Union / Delta Refining Co Emp Federal Credit Union"
+      },
+      {
+        "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+        "summary": "Kimberly Clark Credit Union / The West Tennessee Credit Union"
+      },
+      {
+        "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+        "summary": "F&A Federal Credit Union / Ontario Public Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-communityamerica-credit-union-westreet-credit-union",
+        "summary": "CommunityAmerica Credit Union / WeStreet Credit Union"
+      },
+      {
+        "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+        "summary": "Firefighters Credit Union / P&S Credit Union"
+      },
+      {
+        "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+        "summary": "Ascend Federal Credit Union / LGE Community Credit Union"
+      },
+      {
+        "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+        "summary": "Hope Federal Credit Union / NRS Community Development Federal Credit Union"
+      },
+      {
+        "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+        "summary": "SJP Federal Credit Union / Dunlop Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+        "summary": "Kemba Credit Union / Cincinnati Interagency Federal Credit Union"
+      },
+      {
+        "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
+        "summary": "Tech Credit Union / Great Horizons Federal Credit Union"
+      },
+      {
+        "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
+        "summary": "Robins Financial Credit Union / Harris Employees Credit Union"
+      },
+      {
+        "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+        "summary": "Port Washington Federal Credit Union / Great Neck School Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+        "summary": "Caprock Federal Credit Union / Plains Federal Credit Union"
+      },
+      {
+        "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+        "summary": "Hoosier Hills Credit Union / Martin County Co-Op Credit Union"
+      },
+      {
+        "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
+        "summary": "CenturyFirst Federal Credit Union / Water's Edge Federal Credit Union"
+      },
+      {
+        "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
+        "summary": "Truliant Federal Credit Union / Piedmont Advantage Credit Union"
+      },
+      {
+        "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
+        "summary": "Garden Savings Federal Credit Union / GAF Linden Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-texas-trust-credit-union-my-credit-union",
+        "summary": "Texas Trust Credit Union / My Credit Union"
+      },
+      {
+        "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+        "summary": "University of Kentucky Federal Credit Union / Bluegrass Community Federal Credit Union"
+      },
+      {
+        "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+        "summary": "American United Federal Credit Union / G&R Federal Credit Union"
+      },
+      {
+        "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+        "summary": "Park Side Credit Union / Lincoln County Credit Union"
+      }
+    ],
+    "updated": [],
+    "rechecked": [],
+    "reviewed": 0,
+    "rejected": []
+  }
+}

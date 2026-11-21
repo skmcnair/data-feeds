@@ -1,0 +1,4363 @@
+{
+  "records": [
+    {
+      "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+      "fields": {
+        "announced": "2026-11-17",
+        "acquirer": "Dade County Federal Credit Union",
+        "partner": "Evermore Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "George Joseph",
+        "acquirer_assets": 1553.2,
+        "acquirer_members": 112662,
+        "acquirer_locations": 11,
+        "partner_assets": 316.9,
+        "partner_members": null,
+        "partner_locations": 2,
+        "combined_assets": 1870.1,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "FL",
+        "partner_state": "FL",
+        "notes": "10th CU purchase of a bank announced in 2026. Gives DCFCU its first Palm Beach County location."
+      },
+      "sources": [
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/florida-credit-union-dcfcu-to-buy-evermore-bank-palm-beach-lauderdale/875072/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, DCFCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24508",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Evermore Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:59306",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "partner_locations": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+      "fields": {
+        "announced": "2026-11-10",
+        "acquirer": "Sunmark Credit Union",
+        "partner": "Directors Choice Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q4 2026",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 1237.2,
+        "acquirer_members": 89715,
+        "acquirer_locations": 16,
+        "partner_assets": 11.3,
+        "partner_members": 720,
+        "partner_locations": 2,
+        "combined_assets": 1248.5,
+        "size_as_of": "Q3 2026",
+        "state": "NY",
+        "partner_state": "NY",
+        "notes": "Directors Choice serves funeral directors; application filed with NY DFS. It is to stop operating on its own at the end of 2026."
+      },
+      "sources": [
+        {
+          "label": "Credit Union Daily",
+          "url": "https://thecudaily.com/a-wake-for-a-cu-for-funeral-directors-as-it-puts-merger-vote-to-members/",
+          "type": "trade_press"
+        },
+        {
+          "label": "Connecting Directors",
+          "url": "https://connectingdirectors.com/directors-choice-sunmark-credit-union-merger/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, Sunmark (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68710",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Directors Choice CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68420",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "partner_members": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 3,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-11-10-max-credit-union-first-financial-bank",
+      "fields": {
+        "announced": "2026-11-10",
+        "acquirer": "MAX Credit Union",
+        "partner": "First Financial Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Martin Head",
+        "acquirer_assets": 2369.7,
+        "acquirer_members": 133913,
+        "acquirer_locations": 16,
+        "partner_assets": 248.1,
+        "partner_members": null,
+        "partner_locations": 8,
+        "combined_assets": 2617.8,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "AL",
+        "partner_state": "AL",
+        "notes": "First Financial Bank is in Bessemer, AL. Ninth CU purchase of a bank announced in 2026; MAX plans to keep all eight branches."
+      },
+      "sources": [
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/alabama-max-credit-union-first-financial-bank-birmingham/874276/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, MAX CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68575",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, First Financial Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:19440",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "partner_locations": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
+      "fields": {
+        "announced": "2026-10-28",
+        "acquirer": "SELCO Community Credit Union",
+        "partner": "Numerica Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "H1 2028",
+        "member_vote": null,
+        "completed": null,
+        "new_name": "Numerica Credit Union",
+        "ceo": "Carla Cicero",
+        "acquirer_assets": 3012.1,
+        "acquirer_members": 154291,
+        "acquirer_locations": 15,
+        "partner_assets": 4408.0,
+        "partner_members": 180587,
+        "partner_locations": 24,
+        "combined_assets": 7420.1,
+        "size_as_of": "Q3 2026",
+        "state": "OR",
+        "partner_state": "WA",
+        "notes": "Merger of equals: SELCO's Oregon charter continues, under the Numerica name, led by Numerica's CEO. SELCO CEO Bob Newcomb retires at completion. Expected by early 2028."
+      },
+      "sources": [
+        {
+          "label": "SELCO/Numerica release (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/numerica-credit-union-and-selco-community-credit-union-announce-merger-of-equals-302922066.html",
+          "type": "primary"
+        },
+        {
+          "label": "Coeur d'Alene Press",
+          "url": "https://cdapress.com/news/2026/oct/29/credit-unions-announce-merger/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, SELCO (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63196",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Numerica (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66841",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "expected_close": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "ceo": 0,
+        "new_name": 0,
+        "partner_members": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 3,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+      "fields": {
+        "announced": "2026-10-21",
+        "acquirer": "PenAir Credit Union",
+        "partner": "Fort McClellan Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Lee Morgan",
+        "acquirer_assets": 2880.6,
+        "acquirer_members": 143010,
+        "acquirer_locations": 16,
+        "partner_assets": 222.5,
+        "partner_members": 15587,
+        "partner_locations": 6,
+        "combined_assets": 3103.1,
+        "size_as_of": "Q3 2026",
+        "state": "FL",
+        "partner_state": "AL",
+        "notes": "Combined CU keeps the PenAir name: 22 locations in AL, FL and VA."
+      },
+      "sources": [
+        {
+          "label": "Business Alabama",
+          "url": "https://businessalabama.com/alabama-and-florida-based-credit-unions-to-merge/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, PenAir (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68734",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Fort McClellan CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61800",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+      "fields": {
+        "announced": "2026-10-19",
+        "acquirer": "DFCU Financial Credit Union",
+        "partner": "Gulfside Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Ryan Goldberg",
+        "acquirer_assets": 7969.0,
+        "acquirer_members": 242890,
+        "acquirer_locations": 39,
+        "partner_assets": 344.6,
+        "partner_members": null,
+        "partner_locations": 2,
+        "combined_assets": 8313.6,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "MI",
+        "partner_state": "FL",
+        "notes": "Gulfside branches to be rebranded DFCU, with integration in the second half of 2027."
+      },
+      "sources": [
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/michigan-credit-union-dfcu-to-buy-florida-bank-gulfside/833477/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, DFCU Financial (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61844",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Gulfside Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:59140",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "partner_locations": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+      "fields": {
+        "announced": "2026-10-05",
+        "acquirer": "On Tap Credit Union",
+        "partner": "Sky Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 474.1,
+        "acquirer_members": 19448,
+        "acquirer_locations": 3,
+        "partner_assets": 205.0,
+        "partner_members": 12976,
+        "partner_locations": 6,
+        "combined_assets": 679.1,
+        "size_as_of": "Q3 2026",
+        "state": "CO",
+        "partner_state": "MT",
+        "notes": "Subject to regulatory approval and a Sky FCU member vote; combined CU serves Montana and Colorado."
+      },
+      "sources": [
+        {
+          "label": "Sky FCU/On Tap release (CUInsight)",
+          "url": "https://www.cuinsight.com/press-release/two-credit-unions-one-stronger-future/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA record, On Tap (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64913",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Sky FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/761",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+      "fields": {
+        "announced": "2026-09-25",
+        "acquirer": "Gulf Winds Credit Union",
+        "partner": "Peoples Exchange Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": "TruWorth Credit Union",
+        "ceo": "Daniel Souers",
+        "acquirer_assets": 1374.8,
+        "acquirer_members": 75037,
+        "acquirer_locations": 12,
+        "partner_assets": 98.6,
+        "partner_members": null,
+        "partner_locations": 1,
+        "combined_assets": 1473.4,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "FL",
+        "partner_state": "AL",
+        "notes": "Announced in a Friday release (Banking Dive, Sep 29). Regulatory approval expected mid-2027; integration by 2028. One of two Gulf Winds bank purchases."
+      },
+      "sources": [
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-to-buy-alabama-bank-peoples-exchange-truworth/831653/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, Gulf Winds (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Peoples Exchange Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:70",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "new_name": 0,
+        "partner_locations": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+      "fields": {
+        "announced": "2026-08-25",
+        "acquirer": "Gulf Winds Credit Union",
+        "partner": "Madison County Community Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": "TruWorth Credit Union",
+        "ceo": "Daniel Souers",
+        "acquirer_assets": 1374.8,
+        "acquirer_members": 75037,
+        "acquirer_locations": 12,
+        "partner_assets": 211.7,
+        "partner_members": null,
+        "partner_locations": 2,
+        "combined_assets": 1586.5,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "FL",
+        "partner_state": "FL",
+        "notes": "Gulf Winds renames itself TruWorth CU in spring 2027. Regulatory approval expected mid-2027; integration by 2028. One of two Gulf Winds bank purchases."
+      },
+      "sources": [
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/gulf-winds-credit-union-florida-acquiring-madison-county-community-bank-rebrand/828841/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, Gulf Winds (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Madison County Community Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:35056",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "new_name": 0,
+        "partner_locations": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
+      "fields": {
+        "announced": "2026-07-21",
+        "acquirer": "Gesa Credit Union",
+        "partner": "Willamette Valley Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "H1 2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Don Miller",
+        "acquirer_assets": 6834.3,
+        "acquirer_members": 327834,
+        "acquirer_locations": 46,
+        "partner_assets": 465.4,
+        "partner_members": null,
+        "partner_locations": 4,
+        "combined_assets": 7299.7,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "WA",
+        "partner_state": "OR",
+        "notes": "Gives Gesa its first Oregon branches."
+      },
+      "sources": [
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/gesa-credit-union-acquire-willamette-valley-bank-oregon/825918/",
+          "type": "trade_press"
+        },
+        {
+          "label": "The News Coop",
+          "url": "https://www.thenews.coop/?p=197416",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, Gesa (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68278",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Willamette Valley Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:57033",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "expected_close": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "ceo": 0,
+        "partner_locations": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+      "fields": {
+        "announced": "2026-06-15",
+        "acquirer": "Nutmeg State Financial Credit Union",
+        "partner": "New Haven Teachers Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Approved",
+        "expected_close": "Q4 2026",
+        "member_vote": "2026-11-17",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 916.5,
+        "acquirer_members": 66866,
+        "acquirer_locations": 12,
+        "partner_assets": 10.2,
+        "partner_members": 1037,
+        "partner_locations": 1,
+        "combined_assets": 926.7,
+        "size_as_of": "Q2 2026",
+        "state": "CT",
+        "partner_state": "CT",
+        "notes": "Announced date is Nutmeg's application to the CT Dept. of Banking, which approved the merger Jul 29. Expected to close in December. Nutmeg is also converting to a federal charter as Nutmeg State FCU."
+      },
+      "sources": [
+        {
+          "label": "Hartford Business Journal",
+          "url": "https://hartfordbusiness.com/article/state-approves-credit-union-merger/",
+          "type": "trade_press"
+        },
+        {
+          "label": "Hartford Business Journal (application)",
+          "url": "https://hartfordbusiness.com/article/nutmeg-state-financial-seeks-merger-with-new-haven-teachers-fcu-as-federal-charter-switch-advances/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data, Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "member_vote": 2,
+        "partner_members": 3,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "partner_assets": 3,
+        "combined_assets": 3,
+        "size_as_of": 3,
+        "partner_locations": 3,
+        "state": 3,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
+      "fields": {
+        "announced": "2026-05-15",
+        "acquirer": "LOC Credit Union",
+        "partner": "Advantage One Credit Union",
+        "deal_type": "CU merger",
+        "status": "Members approved",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-07-15",
+        "completed": null,
+        "new_name": "Advantage One Credit Union",
+        "ceo": "Stephen Grech",
+        "acquirer_assets": 478.6,
+        "acquirer_members": 27573,
+        "acquirer_locations": 6,
+        "partner_assets": 265.1,
+        "partner_members": 18731,
+        "partner_locations": 2,
+        "combined_assets": 743.7,
+        "size_as_of": "Q3 2026",
+        "state": "MI",
+        "partner_state": "MI",
+        "notes": "Advantage One members approved Jul 15. LOC takes the Advantage One name on the effective date; Chris Corkery becomes president. Systems and brand integration planned for May 2027."
+      },
+      "sources": [
+        {
+          "label": "LOC CU merger page",
+          "url": "https://loccreditunion.com/merger-with-aocu",
+          "type": "primary"
+        },
+        {
+          "label": "Advantage One vote release (CUInsight)",
+          "url": "https://www.cuinsight.com/press-release/advantage-one-credit-union-members-approve-merger-with-loc-credit-union-creating-36th-largest-in-michigan/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, LOC CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61404",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Advantage One (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68679",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "new_name": 0,
+        "member_vote": 2,
+        "partner_members": 4,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "partner_assets": 4,
+        "combined_assets": 3,
+        "size_as_of": 3,
+        "partner_locations": 4,
+        "state": 3,
+        "partner_state": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-05-05-team-one-credit-union-case-credit-union",
+      "fields": {
+        "announced": "2026-05-05",
+        "acquirer": "Team One Credit Union",
+        "partner": "CASE Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q1 2027",
+        "member_vote": "2026-10-20",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 756.1,
+        "acquirer_members": 46194,
+        "acquirer_locations": 11,
+        "partner_assets": 391.2,
+        "partner_members": 26146,
+        "partner_locations": 5,
+        "combined_assets": 1147.3,
+        "size_as_of": "Q3 2026",
+        "state": "MI",
+        "partner_state": "MI",
+        "notes": "Member vote was set for Oct 20, 2026; result not yet confirmed. Expected to take effect in January 2027 (\"Bolder Together\")."
+      },
+      "sources": [
+        {
+          "label": "CASE/Team One release",
+          "url": "https://creditunions.com/?p=113757",
+          "type": "primary"
+        },
+        {
+          "label": "Credit Union Times",
+          "url": "https://www.cutimes.com/amp/2026/05/06/team-one-case-credit-unions-plan-merger-under-bolder-together-initiative/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Team One (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62141",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, CASE CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61908",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "expected_close": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "member_vote": 2,
+        "partner_members": 4,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "partner_assets": 4,
+        "combined_assets": 3,
+        "size_as_of": 3,
+        "partner_locations": 4,
+        "state": 3,
+        "partner_state": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-04-29-interra-credit-union-the-hicksville-bank",
+      "fields": {
+        "announced": "2026-04-29",
+        "acquirer": "Interra Credit Union",
+        "partner": "The Hicksville Bank",
+        "deal_type": "Bank purchase",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": null,
+        "completed": "2026-10-12",
+        "new_name": null,
+        "ceo": "Amy Sink",
+        "acquirer_assets": 2069.3,
+        "acquirer_members": 90096,
+        "acquirer_locations": 16,
+        "partner_assets": 220.6,
+        "partner_members": null,
+        "partner_locations": 5,
+        "combined_assets": 2289.9,
+        "size_as_of": "Q2 2026",
+        "state": "IN",
+        "partner_state": "OH",
+        "notes": "Completion date is Interra's announcement. First CU purchase of an Ohio bank; Ohio regulators cleared it in August over bankers' objections."
+      },
+      "sources": [
+        {
+          "label": "Interra completion (CUInsight)",
+          "url": "https://www.cuinsight.com/?p=216626",
+          "type": "primary"
+        },
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/interra-credit-union-hicksville-ohio-bank-deal/818969/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA call report data, Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, The Hicksville Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:16370",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 1,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "completed": 0,
+        "partner_locations": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+      "fields": {
+        "announced": "2026-04-02",
+        "acquirer": "Metro Credit Union",
+        "partner": "Members Plus Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q4 2026",
+        "member_vote": "2026-10-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": "Robert Cashman",
+        "acquirer_assets": 3399.9,
+        "acquirer_members": 224044,
+        "acquirer_locations": 17,
+        "partner_assets": 338.6,
+        "partner_members": 13620,
+        "partner_locations": 7,
+        "combined_assets": 3738.5,
+        "size_as_of": "Q3 2026",
+        "state": "MA",
+        "partner_state": "MA",
+        "notes": "Member vote was set for Oct 16, 2026; result not yet confirmed. Combined: 25 branches."
+      },
+      "sources": [
+        {
+          "label": "Metro CU release",
+          "url": "https://www.metrocu.org/blog/metro-credit-union-and-members-plus-credit-union-announce-intent-to-merge-powered-by-partnership",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Metro CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66364",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Members Plus CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66706",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "member_vote": 1,
+        "partner_members": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 3,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
+      "fields": {
+        "announced": "2026-03-10",
+        "acquirer": "Landmark Credit Union",
+        "partner": "American National Bank-Fox Cities",
+        "deal_type": "Bank purchase",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": null,
+        "completed": "2026-11-19",
+        "new_name": null,
+        "ceo": "Timothy Mackay",
+        "acquirer_assets": 8198.6,
+        "acquirer_members": 407110,
+        "acquirer_locations": 35,
+        "partner_assets": 432.6,
+        "partner_members": null,
+        "partner_locations": 1,
+        "combined_assets": 8631.2,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "WI",
+        "partner_state": "WI",
+        "notes": "Completion date is Landmark's announcement; adds about $420M in assets."
+      },
+      "sources": [
+        {
+          "label": "Landmark CU release",
+          "url": "https://landmarkcu.com/news/acquisition-announcement-of-american-national-bank-fox-cities-expands-northeast-wi-peresence",
+          "type": "primary"
+        },
+        {
+          "label": "Landmark CU completion (Urban Milwaukee)",
+          "url": "https://urbanmilwaukee.com/?p=1241543",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA record, Landmark CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66751",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, American National Bank-Fox Cities (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:33812",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "completed": 1,
+        "status": 1,
+        "expected_close": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "ceo": 0,
+        "partner_locations": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+      "fields": {
+        "announced": "2026-02-18",
+        "acquirer": "Alabama ONE Credit Union",
+        "partner": "Peoples Independent Bank",
+        "deal_type": "Bank purchase",
+        "status": "Approved",
+        "expected_close": "H2 2026",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Whitney Oswalt",
+        "acquirer_assets": 1518.1,
+        "acquirer_members": 97116,
+        "acquirer_locations": 32,
+        "partner_assets": 485.7,
+        "partner_members": null,
+        "partner_locations": 9,
+        "combined_assets": 2003.8,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "AL",
+        "partner_state": "AL",
+        "notes": "Alabama State Banking Dept. approved the purchase in July 2026. Expected to close in the third or fourth quarter of 2026."
+      },
+      "sources": [
+        {
+          "label": "Credit Union Times",
+          "url": "https://www.cutimes.com/amp/2026/02/19/alabama-one-continues-growth-strategy-with-proposed-acquisition-of-peoples-independent-bank/",
+          "type": "trade_press"
+        },
+        {
+          "label": "Alabama State Banking Dept., July 2026 actions",
+          "url": "https://banking.alabama.gov/wp-content/uploads/2026/09/July-2026.pdf",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Alabama ONE (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68595",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Peoples Independent Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:27233",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "partner_locations": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-02-13-suncoast-credit-union-launch-credit-union",
+      "fields": {
+        "announced": "2026-02-13",
+        "acquirer": "Suncoast Credit Union",
+        "partner": "Launch Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-08-24",
+        "completed": "2026-09-01",
+        "new_name": null,
+        "ceo": "Kevin Johnson",
+        "acquirer_assets": 20779.0,
+        "acquirer_members": 1408203,
+        "acquirer_locations": 79,
+        "partner_assets": 1440.6,
+        "partner_members": 87188,
+        "partner_locations": 19,
+        "combined_assets": 22219.6,
+        "size_as_of": "Q2 2026",
+        "state": "FL",
+        "partner_state": "FL",
+        "notes": "79.5% of Launch members who voted approved. Launch operates as a branch of Suncoast during integration."
+      },
+      "sources": [
+        {
+          "label": "Launch CU merger page",
+          "url": "https://www.launchcu.com/?p=47873",
+          "type": "primary"
+        },
+        {
+          "label": "Suncoast/Launch vote release (CUInsight)",
+          "url": "https://www.cuinsight.com/?p=213475",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data, Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "completed": 0,
+        "member_vote": 2,
+        "partner_members": 3,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "partner_assets": 3,
+        "combined_assets": 3,
+        "size_as_of": 3,
+        "partner_locations": 3,
+        "state": 3,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+      "fields": {
+        "announced": "2026-01-29",
+        "acquirer": "Randolph-Brooks Federal Credit Union",
+        "partner": "True Sky Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-08-12",
+        "completed": "2026-10-01",
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 19938.5,
+        "acquirer_members": 1162377,
+        "acquirer_locations": 66,
+        "partner_assets": 759.6,
+        "partner_members": 64470,
+        "partner_locations": 14,
+        "combined_assets": 20698.1,
+        "size_as_of": "Q3 2026",
+        "state": "TX",
+        "partner_state": "OK",
+        "notes": "NCUA approved in May; True Sky members approved in August. RBFCU's first expansion into Oklahoma."
+      },
+      "sources": [
+        {
+          "label": "RBFCU release",
+          "url": "https://www.rbfcu.org/news/rbfcu-true-sky-federal-credit-union-boards-approve-merger-agreement",
+          "type": "primary"
+        },
+        {
+          "label": "RBFCU completion (CUInsight)",
+          "url": "https://www.cuinsight.com/?p=215968",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, RBFCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, True Sky (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24934",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "completed": 1,
+        "status": 1,
+        "expected_close": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 2,
+        "partner_members": 4,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "partner_assets": 4,
+        "combined_assets": 3,
+        "size_as_of": 3,
+        "partner_locations": 4,
+        "state": 3,
+        "partner_state": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
+      "fields": {
+        "announced": "2026-01-08",
+        "acquirer": "Zeal Credit Union",
+        "partner": "The Miners State Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Q4 2026",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Julie Kreinbring",
+        "acquirer_assets": 1047.1,
+        "acquirer_members": 68036,
+        "acquirer_locations": 18,
+        "partner_assets": 134.8,
+        "partner_members": null,
+        "partner_locations": 6,
+        "combined_assets": 1181.9,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "MI",
+        "partner_state": "MI",
+        "notes": "First CU purchase of a bank announced in 2026. Adds five Upper Peninsula branches."
+      },
+      "sources": [
+        {
+          "label": "Zeal/Miners release (CUInsight)",
+          "url": "https://www.cuinsight.com/?p=196805",
+          "type": "primary"
+        },
+        {
+          "label": "Pulse 2.0",
+          "url": "https://pulse2.com/zeal-credit-union-to-acquire-the-miners-state-bank-in-all-cash-transaction/amp/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, Zeal (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62426",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, The Miners State Bank (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:10928",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "expected_close": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "ceo": 0,
+        "partner_locations": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+      "fields": {
+        "announced": "2025-11-18",
+        "acquirer": "Boeing Employees Credit Union",
+        "partner": "SAFE Credit Union",
+        "deal_type": "CU merger",
+        "status": "Members approved",
+        "expected_close": "Q1 2027",
+        "member_vote": "2026-10-27",
+        "completed": null,
+        "new_name": null,
+        "ceo": "Beverly Anderson",
+        "acquirer_assets": 29406.7,
+        "acquirer_members": 1597078,
+        "acquirer_locations": 70,
+        "partner_assets": 4396.3,
+        "partner_members": 245654,
+        "partner_locations": 18,
+        "combined_assets": 33803.0,
+        "size_as_of": "Q3 2026",
+        "state": "WA",
+        "partner_state": "CA",
+        "notes": "NCUA, CA DFPI and WA DFI approved Aug 4, 2026. SAFE says the vote closed Oct 27 with strong member support; awaiting final CA DFPI sign-off. Some SAFE members petitioned DFPI to investigate the vote. Expected to close Jan 1, 2027."
+      },
+      "sources": [
+        {
+          "label": "SAFE CU vote page",
+          "url": "https://www.safecu.org/vote",
+          "type": "primary"
+        },
+        {
+          "label": "BECU/SAFE approval release (CUInsight)",
+          "url": "https://www.cuinsight.com/press-release/ncua-ca-dfpi-and-wa-dfi-grant-regulatory-approval-for-proposed-combination-of-becu-and-safe-credit-union/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, BECU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62604",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, SAFE CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68366",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "member_vote": 2,
+        "partner_members": 4,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "partner_assets": 4,
+        "combined_assets": 3,
+        "size_as_of": 3,
+        "partner_locations": 4,
+        "state": 3,
+        "partner_state": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
+      "fields": {
+        "announced": "2025-11-17",
+        "acquirer": "GECU Federal Credit Union",
+        "partner": "Bank of the Southwest",
+        "deal_type": "Bank purchase",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": null,
+        "completed": "2026-11-01",
+        "new_name": null,
+        "ceo": "Alex Rascon",
+        "acquirer_assets": 4832.0,
+        "acquirer_members": 447666,
+        "acquirer_locations": 24,
+        "partner_assets": 176.3,
+        "partner_members": null,
+        "partner_locations": 11,
+        "combined_assets": 5008.3,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "TX",
+        "partner_state": "NM",
+        "notes": "Regulators (NCUA, FDIC, NM) approved in August 2026. Operates as BOSW by GECU until integration in June 2027."
+      },
+      "sources": [
+        {
+          "label": "GECU release (CUInsight)",
+          "url": "https://www.cuinsight.com/press-release/gecu-announces-intent-to-acquire-bank-of-the-southwest-expand-in-new-mexico/",
+          "type": "primary"
+        },
+        {
+          "label": "ATM Marketplace",
+          "url": "https://www.atmmarketplace.com/news/gecu-federal-credit-union-to-acquire-bank-of-the-southwest/",
+          "type": "trade_press"
+        },
+        {
+          "label": "GECU completion (CUInsight)",
+          "url": "https://www.cuinsight.com/?p=218359",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA record, GECU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24941",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Bank of the Southwest (Jun 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:2247",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "completed": 1,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "partner_locations": 0,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "partner_assets": 4,
+        "combined_assets": 3,
+        "size_as_of": 3,
+        "state": 3,
+        "partner_state": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
+      "fields": {
+        "announced": "2025-11-05",
+        "acquirer": "Fortera Federal Credit Union",
+        "partner": "Vanderbilt Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-09-02",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 990.6,
+        "acquirer_members": 83117,
+        "acquirer_locations": 8,
+        "partner_assets": 53.6,
+        "partner_members": 5332,
+        "partner_locations": 2,
+        "combined_assets": 1044.2,
+        "size_as_of": "Q3 2026",
+        "state": "TN",
+        "partner_state": "TN",
+        "notes": "Vanderbilt keeps its name and brand. NCUA lists Vanderbilt as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026."
+      },
+      "sources": [
+        {
+          "label": "Fortera/Vanderbilt release (CUInsight)",
+          "url": "https://www.cuinsight.com/?p=192742",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Fortera (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9759",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Vanderbilt CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68119",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 3,
+        "expected_close": 3,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 3,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
+      "fields": {
+        "announced": "2025-10-22",
+        "acquirer": "Texas Dow Employees Credit Union",
+        "partner": "Smart Financial Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-09-28",
+        "completed": "2026-11-01",
+        "new_name": null,
+        "ceo": "Isaac Johnson",
+        "acquirer_assets": 4957.5,
+        "acquirer_members": 394218,
+        "acquirer_locations": 33,
+        "partner_assets": 806.3,
+        "partner_members": 58641,
+        "partner_locations": 12,
+        "combined_assets": 5763.8,
+        "size_as_of": "Q3 2026",
+        "state": "TX",
+        "partner_state": "TX",
+        "notes": "Regulators approved Jul 22, 2026; Smart Financial members approved Sep 28. Smart Financial CEO LeAnn Kaczynski becomes chief integration officer."
+      },
+      "sources": [
+        {
+          "label": "TDECU merger page",
+          "url": "https://www.tdecu.org/merger/",
+          "type": "primary"
+        },
+        {
+          "label": "TDECU release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398452/0/en/tdecu-and-smart-financial-credit-union-complete-merger-to-build-a-stronger-organization.html",
+          "type": "primary"
+        },
+        {
+          "label": "Houston Chronicle",
+          "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/houston-credit-unions-tdecu-smart-financial-merger-22521789.php",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, TDECU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60705",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Smart Financial (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67927",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "completed": 2,
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "ceo": 0,
+        "member_vote": 3,
+        "partner_members": 5,
+        "acquirer_assets": 4,
+        "acquirer_members": 4,
+        "acquirer_locations": 4,
+        "partner_assets": 5,
+        "combined_assets": 4,
+        "size_as_of": 4,
+        "partner_locations": 5,
+        "state": 4,
+        "partner_state": 5
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Credit Union 1",
+        "partner": "Gulf Coast Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Members approved",
+        "expected_close": "Q4 2026",
+        "member_vote": "2026-09-29",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 2774.1,
+        "acquirer_members": 186078,
+        "acquirer_locations": 45,
+        "partner_assets": 260.6,
+        "partner_members": 17151,
+        "partner_locations": 6,
+        "combined_assets": 3034.7,
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "TX",
+        "notes": "Gulf Coast FCU (Corpus Christi, TX) members approved Sep 29; legal merger date Dec 31, 2026."
+      },
+      "sources": [
+        {
+          "label": "Credit Union 1 merger page",
+          "url": "https://www.creditunion1.org/about/mergers/gulf-coast/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, CU1 (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Gulf Coast FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4060",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "member_vote": 1,
+        "partner_members": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 3,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-credit-union-1-first-class-community-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Credit Union 1",
+        "partner": "First Class Community Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-11-30",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 2774.1,
+        "acquirer_members": 186078,
+        "acquirer_locations": 45,
+        "partner_assets": 95.0,
+        "partner_members": 6739,
+        "partner_locations": 2,
+        "combined_assets": 2869.1,
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "IA",
+        "notes": "A first member meeting was set for Jul 23, 2026 (proposed legal date Oct 31); NCUA now lists a member vote on Nov 30, 2026. Core conversion planned Jan 31, 2027."
+      },
+      "sources": [
+        {
+          "label": "Credit Union 1 merger page",
+          "url": "https://www.creditunion1.org/first-class/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, CU1 (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, First Class Community CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64231",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "member_vote": 1,
+        "partner_members": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 3,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Magnolia Federal Credit Union",
+        "partner": "City Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-09-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 182.3,
+        "acquirer_members": 20785,
+        "acquirer_locations": 5,
+        "partner_assets": 80.3,
+        "partner_members": 2742,
+        "partner_locations": 2,
+        "combined_assets": 262.6,
+        "size_as_of": "Q3 2026",
+        "state": "MS",
+        "partner_state": "TX",
+        "notes": "City FCU is in Amarillo, TX. Member vote was set for Sep 16, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "City FCU merger meeting notice",
+          "url": "https://www.cityfederalcu.com/merger-meeting/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Magnolia FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/224",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, City FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5665",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "member_vote": 1,
+        "partner_members": 3,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 3,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 3,
+        "state": 2,
+        "partner_state": 3
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Allegent Community Federal Credit Union",
+        "partner": "Penn Hills Municipal Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-22",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 272.1,
+        "acquirer_members": 21420,
+        "acquirer_locations": 7,
+        "partner_assets": 2.1,
+        "partner_members": 202,
+        "partner_locations": 1,
+        "combined_assets": 274.2,
+        "size_as_of": "Q3 2026",
+        "state": "PA",
+        "partner_state": "PA",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Allegent (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/205",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Penn Hills Municipal FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16636",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-bp-federal-credit-union-southern-star-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "BP Federal Credit Union",
+        "partner": "Southern Star Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 124.8,
+        "acquirer_members": 6222,
+        "acquirer_locations": 5,
+        "partner_assets": 17.3,
+        "partner_members": 2686,
+        "partner_locations": 1,
+        "combined_assets": 142.1,
+        "size_as_of": "Q3 2026",
+        "state": "TX",
+        "partner_state": "TX",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, BP FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24445",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Southern Star CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67660",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Sterling Federal Credit Union",
+        "partner": "Fort Morgan Schools Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-15",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 260.0,
+        "acquirer_members": 11088,
+        "acquirer_locations": 3,
+        "partner_assets": 5.6,
+        "partner_members": 416,
+        "partner_locations": null,
+        "combined_assets": 265.6,
+        "size_as_of": "Q3 2026",
+        "state": "CO",
+        "partner_state": "CO",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Sterling FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2840",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Fort Morgan Schools FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/10180",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Nuvision Federal Credit Union",
+        "partner": "Dow Great Western Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-12",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 4012.3,
+        "acquirer_members": 206853,
+        "acquirer_locations": 36,
+        "partner_assets": 46.9,
+        "partner_members": 1849,
+        "partner_locations": 1,
+        "combined_assets": 4059.2,
+        "size_as_of": "Q3 2026",
+        "state": "CA",
+        "partner_state": "CA",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Nuvision (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Dow Great Western CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64503",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Sharefax Credit Union",
+        "partner": "Members Trust Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-18",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 720.7,
+        "acquirer_members": 42478,
+        "acquirer_locations": 9,
+        "partner_assets": 22.2,
+        "partner_members": 3043,
+        "partner_locations": 3,
+        "combined_assets": 742.9,
+        "size_as_of": "Q3 2026",
+        "state": "OH",
+        "partner_state": "OH",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Sharefax (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61090",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Members Trust FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15874",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+      "fields": {
+        "announced": null,
+        "acquirer": "Agriculture Federal Credit Union",
+        "partner": "Natural Resource Conservation Service Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 344.6,
+        "acquirer_members": 22865,
+        "acquirer_locations": 2,
+        "partner_assets": 4.5,
+        "partner_members": 580,
+        "partner_locations": 1,
+        "combined_assets": 349.1,
+        "size_as_of": "Q3 2026",
+        "state": "DC",
+        "partner_state": "TX",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Agriculture FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16400",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, NRCS FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2158",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Streator Onized Credit Union",
+        "partner": "ANCO Community Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-09",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 426.3,
+        "acquirer_members": 38855,
+        "acquirer_locations": 6,
+        "partner_assets": 10.3,
+        "partner_members": 1365,
+        "partner_locations": 1,
+        "combined_assets": 436.6,
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "IL",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Streator Onized CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68226",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, ANCO Community CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60184",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Healthcare Systems Federal Credit Union",
+        "partner": "Summit Hampton Roads Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-09",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 137.4,
+        "acquirer_members": 13987,
+        "acquirer_locations": 7,
+        "partner_assets": 8.2,
+        "partner_members": 1094,
+        "partner_locations": 2,
+        "combined_assets": 145.6,
+        "size_as_of": "Q3 2026",
+        "state": "VA",
+        "partner_state": "VA",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Healthcare Systems FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24564",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Summit Hampton Roads FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/19973",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Cy-Fair Federal Credit Union",
+        "partner": "Baker Hughes Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-08",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 394.9,
+        "acquirer_members": 25984,
+        "acquirer_locations": 6,
+        "partner_assets": 11.1,
+        "partner_members": 1390,
+        "partner_locations": 1,
+        "combined_assets": 406.0,
+        "size_as_of": "Q3 2026",
+        "state": "TX",
+        "partner_state": "TX",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Cy-Fair FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11452",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Baker Hughes FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16271",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Norstar Federal Credit Union",
+        "partner": "Healthcare Plus Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-08",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 78.5,
+        "acquirer_members": 2836,
+        "acquirer_locations": 1,
+        "partner_assets": 70.4,
+        "partner_members": 5045,
+        "partner_locations": 1,
+        "combined_assets": 148.9,
+        "size_as_of": "Q3 2026",
+        "state": "SD",
+        "partner_state": "SD",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Norstar (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4951",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Healthcare Plus FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23371",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Baxter Credit Union",
+        "partner": "HealthCare Associates Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-04",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 6450.9,
+        "acquirer_members": 371640,
+        "acquirer_locations": 41,
+        "partner_assets": 467.1,
+        "partner_members": 29254,
+        "partner_locations": 4,
+        "combined_assets": 6918.0,
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "IL",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, BCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, HealthCare Associates CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Daniels-Sheridan Federal Credit Union",
+        "partner": "Fort Peck Community Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-04",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 91.0,
+        "acquirer_members": 3198,
+        "acquirer_locations": 2,
+        "partner_assets": 13.5,
+        "partner_members": 1156,
+        "partner_locations": 2,
+        "combined_assets": 104.5,
+        "size_as_of": "Q3 2026",
+        "state": "MT",
+        "partner_state": "MT",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Daniels-Sheridan FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5063",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Fort Peck Community FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8037",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+      "fields": {
+        "announced": null,
+        "acquirer": "First South Financial Federal Credit Union",
+        "partner": "Delta Refining Co Emp Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-02",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 849.4,
+        "acquirer_members": 72112,
+        "acquirer_locations": 15,
+        "partner_assets": 4.6,
+        "partner_members": 253,
+        "partner_locations": 1,
+        "combined_assets": 854.0,
+        "size_as_of": "Q3 2026",
+        "state": "TN",
+        "partner_state": "TN",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, First South Financial (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24963",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Delta Refining FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9310",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Kimberly Clark Credit Union",
+        "partner": "The West Tennessee Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-01",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 144.5,
+        "acquirer_members": 8222,
+        "acquirer_locations": 1,
+        "partner_assets": 17.2,
+        "partner_members": 1626,
+        "partner_locations": 1,
+        "combined_assets": 161.7,
+        "size_as_of": "Q3 2026",
+        "state": "TN",
+        "partner_state": "TN",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Kimberly Clark CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60928",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, West Tennessee CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60726",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "F&A Federal Credit Union",
+        "partner": "Ontario Public Employees Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-11-24",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 3135.0,
+        "acquirer_members": 45118,
+        "acquirer_locations": 2,
+        "partner_assets": 23.9,
+        "partner_members": 1769,
+        "partner_locations": 1,
+        "combined_assets": 3158.9,
+        "size_as_of": "Q3 2026",
+        "state": "CA",
+        "partner_state": "CA",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, F&A FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Ontario Public Employees FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13044",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-communityamerica-credit-union-westreet-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "CommunityAmerica Credit Union",
+        "partner": "WeStreet Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-11-20",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 9224.9,
+        "acquirer_members": 604252,
+        "acquirer_locations": 77,
+        "partner_assets": 955.7,
+        "partner_members": 61556,
+        "partner_locations": 13,
+        "combined_assets": 10180.6,
+        "size_as_of": "Q3 2026",
+        "state": "KS",
+        "partner_state": "OK",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Nov 20, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, CommunityAmerica (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15732",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, WeStreet CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24812",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Firefighters Credit Union",
+        "partner": "P&S Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-11-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 71.4,
+        "acquirer_members": 3461,
+        "acquirer_locations": 2,
+        "partner_assets": 24.8,
+        "partner_members": 2125,
+        "partner_locations": 2,
+        "combined_assets": 96.2,
+        "size_as_of": "Q3 2026",
+        "state": "UT",
+        "partner_state": "UT",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Nov 16, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Firefighters CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, P&S CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67056",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Ascend Federal Credit Union",
+        "partner": "LGE Community Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-11-09",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 4924.3,
+        "acquirer_members": 274961,
+        "acquirer_locations": 27,
+        "partner_assets": 2413.6,
+        "partner_members": 129586,
+        "partner_locations": 18,
+        "combined_assets": 7337.9,
+        "size_as_of": "Q3 2026",
+        "state": "TN",
+        "partner_state": "GA",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Nov 9, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Ascend (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7397",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, LGE (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68581",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Hope Federal Credit Union",
+        "partner": "NRS Community Development Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-11-08",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 882.3,
+        "acquirer_members": 49335,
+        "acquirer_locations": 14,
+        "partner_assets": 1.0,
+        "partner_members": 908,
+        "partner_locations": 2,
+        "combined_assets": 883.3,
+        "size_as_of": "Q3 2026",
+        "state": "MS",
+        "partner_state": "AL",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Nov 8, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Hope FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24829",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, NRS Community Development FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24583",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "SJP Federal Credit Union",
+        "partner": "Dunlop Employees Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-10-28",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 185.7,
+        "acquirer_members": 7450,
+        "acquirer_locations": 1,
+        "partner_assets": 14.1,
+        "partner_members": 1405,
+        "partner_locations": 1,
+        "combined_assets": 199.8,
+        "size_as_of": "Q3 2026",
+        "state": "NY",
+        "partner_state": "NY",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 28, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, SJP FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3306",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Dunlop Employees FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7118",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Kemba Credit Union",
+        "partner": "Cincinnati Interagency Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-10-13",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 1753.2,
+        "acquirer_members": 131790,
+        "acquirer_locations": 14,
+        "partner_assets": 30.0,
+        "partner_members": 1949,
+        "partner_locations": 1,
+        "combined_assets": 1783.2,
+        "size_as_of": "Q3 2026",
+        "state": "OH",
+        "partner_state": "OH",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 13, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Kemba (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61810",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Cincinnati Interagency FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7088",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Tech Credit Union",
+        "partner": "Great Horizons Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-10-08",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 632.8,
+        "acquirer_members": 39707,
+        "acquirer_locations": 11,
+        "partner_assets": 3.6,
+        "partner_members": 420,
+        "partner_locations": 1,
+        "combined_assets": 636.4,
+        "size_as_of": "Q3 2026",
+        "state": "IN",
+        "partner_state": "IN",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 8, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Tech CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68225",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Great Horizons FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/22695",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Robins Financial Credit Union",
+        "partner": "Harris Employees Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-10-06",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 4968.3,
+        "acquirer_members": 274255,
+        "acquirer_locations": 23,
+        "partner_assets": 0.6,
+        "partner_members": 156,
+        "partner_locations": 1,
+        "combined_assets": 4968.9,
+        "size_as_of": "Q3 2026",
+        "state": "GA",
+        "partner_state": "GA",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 6, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Robins Financial (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68670",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Harris Employees CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67563",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+      "fields": {
+        "announced": null,
+        "acquirer": "Port Washington Federal Credit Union",
+        "partner": "Great Neck School Employees Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-10-06",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 115.7,
+        "acquirer_members": 2985,
+        "acquirer_locations": null,
+        "partner_assets": 2.4,
+        "partner_members": 309,
+        "partner_locations": 1,
+        "combined_assets": 118.1,
+        "size_as_of": "Q3 2026",
+        "state": "NY",
+        "partner_state": "NY",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 6, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Port Washington FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18635",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Great Neck School Employees FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5163",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Caprock Federal Credit Union",
+        "partner": "Plains Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-08-24",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 40.5,
+        "acquirer_members": 4405,
+        "acquirer_locations": 2,
+        "partner_assets": 3.7,
+        "partner_members": 406,
+        "partner_locations": 1,
+        "combined_assets": 44.2,
+        "size_as_of": "Q3 2026",
+        "state": "TX",
+        "partner_state": "TX",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Aug 24, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Caprock FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16813",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Plains FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12274",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Hoosier Hills Credit Union",
+        "partner": "Martin County Co-Op Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-08-24",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 931.4,
+        "acquirer_members": 39910,
+        "acquirer_locations": 10,
+        "partner_assets": 25.0,
+        "partner_members": 1220,
+        "partner_locations": 1,
+        "combined_assets": 956.4,
+        "size_as_of": "Q3 2026",
+        "state": "IN",
+        "partner_state": "IN",
+        "notes": "On NCUA's proposed-merger list. Member vote was set for Aug 24, 2026; result not yet confirmed."
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Hoosier Hills (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60768",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Martin County Co-Op CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67762",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "CenturyFirst Federal Credit Union",
+        "partner": "Water's Edge Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-08-25",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 144.9,
+        "acquirer_members": 16069,
+        "acquirer_locations": 7,
+        "partner_assets": 5.0,
+        "partner_members": 600,
+        "partner_locations": 1,
+        "combined_assets": 149.9,
+        "size_as_of": "Q2 2026",
+        "state": "MS",
+        "partner_state": "MS",
+        "notes": "NCUA lists Water's Edge as inactive; its last call report was Jun 30, 2026, so the merger took effect by Sep 30."
+      },
+      "sources": [
+        {
+          "label": "NCUA record, Water's Edge FCU (inactive)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8593",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data, Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 2,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 2,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 2,
+        "state": 2,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Truliant Federal Credit Union",
+        "partner": "Piedmont Advantage Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-08-25",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 5615.2,
+        "acquirer_members": 328760,
+        "acquirer_locations": 38,
+        "partner_assets": 367.9,
+        "partner_members": 27002,
+        "partner_locations": 6,
+        "combined_assets": 5983.1,
+        "size_as_of": "Q2 2026",
+        "state": "NC",
+        "partner_state": "NC",
+        "notes": "NCUA lists Piedmont Advantage as inactive; its last call report was Jun 30, 2026, so the merger took effect by Sep 30."
+      },
+      "sources": [
+        {
+          "label": "NCUA record, Piedmont Advantage CU (inactive)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60160",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data, Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 2,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 2,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 2,
+        "state": 2,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Garden Savings Federal Credit Union",
+        "partner": "GAF Linden Employees Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-08-10",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 495.5,
+        "acquirer_members": 30058,
+        "acquirer_locations": 7,
+        "partner_assets": 3.9,
+        "partner_members": 459,
+        "partner_locations": 1,
+        "combined_assets": 499.4,
+        "size_as_of": "Q2 2026",
+        "state": "NJ",
+        "partner_state": "NJ",
+        "notes": "NCUA lists GAF Linden as inactive; its last call report was Jun 30, 2026, so the merger took effect between the Aug 10 vote and Sep 30."
+      },
+      "sources": [
+        {
+          "label": "NCUA record, GAF Linden Employees FCU (inactive)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2348",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data, Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 2,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 2,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 2,
+        "state": 2,
+        "partner_state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-texas-trust-credit-union-my-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Texas Trust Credit Union",
+        "partner": "My Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-08-17",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 2125.1,
+        "acquirer_members": 138710,
+        "acquirer_locations": 21,
+        "partner_assets": 57.6,
+        "partner_members": 5882,
+        "partner_locations": 6,
+        "combined_assets": 2182.7,
+        "size_as_of": "Q3 2026",
+        "state": "TX",
+        "partner_state": "TX",
+        "notes": "NCUA lists My CU as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026."
+      },
+      "sources": [
+        {
+          "label": "NCUA record, My CU (inactive)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68545",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Texas Trust (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68434",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 0,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 0,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 0,
+        "state": 2,
+        "partner_state": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+      "fields": {
+        "announced": null,
+        "acquirer": "University of Kentucky Federal Credit Union",
+        "partner": "Bluegrass Community Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-08-17",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 1868.1,
+        "acquirer_members": 122283,
+        "acquirer_locations": 8,
+        "partner_assets": 13.2,
+        "partner_members": 1849,
+        "partner_locations": 1,
+        "combined_assets": 1881.3,
+        "size_as_of": "Q3 2026",
+        "state": "KY",
+        "partner_state": "KY",
+        "notes": "NCUA lists Bluegrass Community as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026."
+      },
+      "sources": [
+        {
+          "label": "NCUA record, Bluegrass Community FCU (inactive)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, UKFCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24165",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 0,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 0,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 0,
+        "state": 2,
+        "partner_state": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "American United Federal Credit Union",
+        "partner": "G&R Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-07-09",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 382.2,
+        "acquirer_members": 20597,
+        "acquirer_locations": 11,
+        "partner_assets": 6.3,
+        "partner_members": 1072,
+        "partner_locations": 1,
+        "combined_assets": 388.5,
+        "size_as_of": "Q3 2026",
+        "state": "UT",
+        "partner_state": "UT",
+        "notes": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026."
+      },
+      "sources": [
+        {
+          "label": "NCUA record, G&R FCU (inactive)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, American United FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 0,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 0,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 0,
+        "state": 2,
+        "partner_state": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+      "fields": {
+        "announced": null,
+        "acquirer": "Park Side Credit Union",
+        "partner": "Lincoln County Credit Union",
+        "deal_type": "CU merger",
+        "status": "Completed",
+        "expected_close": "Completed",
+        "member_vote": "2026-07-09",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 388.9,
+        "acquirer_members": 30166,
+        "acquirer_locations": 8,
+        "partner_assets": 191.6,
+        "partner_members": 5791,
+        "partner_locations": 2,
+        "combined_assets": 580.5,
+        "size_as_of": "Q3 2026",
+        "state": "MT",
+        "partner_state": "MT",
+        "notes": "NCUA lists Lincoln County CU as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026."
+      },
+      "sources": [
+        {
+          "label": "NCUA record, Lincoln County CU (inactive)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63199",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Park Side (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68647",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 1,
+        "partner_members": 0,
+        "acquirer_assets": 2,
+        "acquirer_members": 2,
+        "acquirer_locations": 2,
+        "partner_assets": 0,
+        "combined_assets": 2,
+        "size_as_of": 2,
+        "partner_locations": 0,
+        "state": 2,
+        "partner_state": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Credit Union Mergers",
+  "item": "deal",
+  "columns": [
+    {
+      "name": "announced",
+      "label": "Announced",
+      "kind": "date",
+      "sort": "announced_iso"
+    },
+    {
+      "name": "acquirer",
+      "label": "Continuing CU",
+      "kind": "org",
+      "short": "acquirer_short",
+      "logo": "acquirer_logo_url",
+      "style": "acquirer_logo_style"
+    },
+    {
+      "name": "partner",
+      "label": "Merging partner",
+      "kind": "org",
+      "short": "partner_short",
+      "logo": "partner_logo_url",
+      "style": "partner_logo_style"
+    },
+    {
+      "name": "deal_type",
+      "label": "Deal type",
+      "kind": "choice",
+      "choices": [
+        "CU merger",
+        "Bank purchase"
+      ]
+    },
+    {
+      "name": "status",
+      "label": "Status",
+      "kind": "choice",
+      "choices": [
+        "Announced",
+        "Approved",
+        "Members approved",
+        "Completed",
+        "Called off"
+      ]
+    },
+    {
+      "name": "expected_close",
+      "label": "Expected close",
+      "kind": "text"
+    },
+    {
+      "name": "member_vote",
+      "label": "Member vote",
+      "kind": "datetext",
+      "sort": "member_vote_iso"
+    },
+    {
+      "name": "completed",
+      "label": "Completed",
+      "kind": "date",
+      "sort": "completed_iso"
+    },
+    {
+      "name": "new_name",
+      "label": "Name after merger",
+      "kind": "text"
+    },
+    {
+      "name": "ceo",
+      "label": "Continuing CEO",
+      "kind": "text"
+    },
+    {
+      "name": "acquirer_assets",
+      "label": "Continuing CU assets",
+      "kind": "money",
+      "sort": "acquirer_assets_m"
+    },
+    {
+      "name": "acquirer_members",
+      "label": "Continuing CU members",
+      "kind": "int"
+    },
+    {
+      "name": "acquirer_locations",
+      "label": "Continuing CU locations",
+      "kind": "int"
+    },
+    {
+      "name": "partner_assets",
+      "label": "Partner assets",
+      "kind": "money",
+      "sort": "partner_assets_m"
+    },
+    {
+      "name": "partner_members",
+      "label": "Partner members",
+      "kind": "int"
+    },
+    {
+      "name": "partner_locations",
+      "label": "Partner locations",
+      "kind": "int"
+    },
+    {
+      "name": "combined_assets",
+      "label": "Combined assets",
+      "kind": "money",
+      "sort": "combined_assets_m"
+    },
+    {
+      "name": "size_as_of",
+      "label": "Sizes as of",
+      "kind": "text"
+    },
+    {
+      "name": "state",
+      "label": "State",
+      "kind": "state"
+    },
+    {
+      "name": "partner_state",
+      "label": "Partner state",
+      "kind": "state"
+    },
+    {
+      "name": "notes",
+      "label": "Notes",
+      "kind": "text"
+    },
+    {
+      "name": "region",
+      "label": "Region",
+      "kind": "choice"
+    },
+    {
+      "name": "accuracy",
+      "label": "Accuracy",
+      "kind": "percent",
+      "note": "accuracy_notes"
+    },
+    {
+      "name": "updates",
+      "label": "Updates",
+      "kind": "text"
+    },
+    {
+      "name": "source_url",
+      "label": "Source",
+      "kind": "url"
+    }
+  ]
+}

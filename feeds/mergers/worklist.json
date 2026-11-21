@@ -1,0 +1,1795 @@
+{
+  "feed": "mergers",
+  "generated": "2026-11-21T16:56:43-05:00",
+  "trial": true,
+  "lookback_days": 3,
+  "pending_inbox": [],
+  "recheck": [
+    {
+      "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+      "summary": "Dade County Federal Credit Union / Evermore Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-11-17",
+        "acquirer": "Dade County Federal Credit Union",
+        "partner": "Evermore Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "George Joseph",
+        "acquirer_assets": 1553.2,
+        "acquirer_members": 112662,
+        "acquirer_locations": 11,
+        "partner_assets": 316.9,
+        "partner_members": null,
+        "partner_locations": 2,
+        "combined_assets": 1870.1,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "FL",
+        "partner_state": "FL",
+        "notes": "10th CU purchase of a bank announced in 2026. Gives DCFCU its first Palm Beach County location."
+      }
+    },
+    {
+      "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+      "summary": "Sunmark Credit Union / Directors Choice Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-11-10",
+        "acquirer": "Sunmark Credit Union",
+        "partner": "Directors Choice Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q4 2026",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 1237.2,
+        "acquirer_members": 89715,
+        "acquirer_locations": 16,
+        "partner_assets": 11.3,
+        "partner_members": 720,
+        "partner_locations": 2,
+        "combined_assets": 1248.5,
+        "size_as_of": "Q3 2026",
+        "state": "NY",
+        "partner_state": "NY",
+        "notes": "Directors Choice serves funeral directors; application filed with NY DFS. It is to stop operating on its own at the end of 2026."
+      }
+    },
+    {
+      "id": "2026-11-10-max-credit-union-first-financial-bank",
+      "summary": "MAX Credit Union / First Financial Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-11-10",
+        "acquirer": "MAX Credit Union",
+        "partner": "First Financial Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Martin Head",
+        "acquirer_assets": 2369.7,
+        "acquirer_members": 133913,
+        "acquirer_locations": 16,
+        "partner_assets": 248.1,
+        "partner_members": null,
+        "partner_locations": 8,
+        "combined_assets": 2617.8,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "AL",
+        "partner_state": "AL",
+        "notes": "First Financial Bank is in Bessemer, AL. Ninth CU purchase of a bank announced in 2026; MAX plans to keep all eight branches."
+      }
+    },
+    {
+      "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
+      "summary": "SELCO Community Credit Union / Numerica Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-28",
+        "acquirer": "SELCO Community Credit Union",
+        "partner": "Numerica Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "H1 2028",
+        "member_vote": null,
+        "completed": null,
+        "new_name": "Numerica Credit Union",
+        "ceo": "Carla Cicero",
+        "acquirer_assets": 3012.1,
+        "acquirer_members": 154291,
+        "acquirer_locations": 15,
+        "partner_assets": 4408.0,
+        "partner_members": 180587,
+        "partner_locations": 24,
+        "combined_assets": 7420.1,
+        "size_as_of": "Q3 2026",
+        "state": "OR",
+        "partner_state": "WA",
+        "notes": "Merger of equals: SELCO's Oregon charter continues, under the Numerica name, led by Numerica's CEO. SELCO CEO Bob Newcomb retires at completion. Expected by early 2028."
+      }
+    },
+    {
+      "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+      "summary": "PenAir Credit Union / Fort McClellan Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-21",
+        "acquirer": "PenAir Credit Union",
+        "partner": "Fort McClellan Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Lee Morgan",
+        "acquirer_assets": 2880.6,
+        "acquirer_members": 143010,
+        "acquirer_locations": 16,
+        "partner_assets": 222.5,
+        "partner_members": 15587,
+        "partner_locations": 6,
+        "combined_assets": 3103.1,
+        "size_as_of": "Q3 2026",
+        "state": "FL",
+        "partner_state": "AL",
+        "notes": "Combined CU keeps the PenAir name: 22 locations in AL, FL and VA."
+      }
+    },
+    {
+      "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+      "summary": "DFCU Financial Credit Union / Gulfside Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-19",
+        "acquirer": "DFCU Financial Credit Union",
+        "partner": "Gulfside Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Ryan Goldberg",
+        "acquirer_assets": 7969.0,
+        "acquirer_members": 242890,
+        "acquirer_locations": 39,
+        "partner_assets": 344.6,
+        "partner_members": null,
+        "partner_locations": 2,
+        "combined_assets": 8313.6,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "MI",
+        "partner_state": "FL",
+        "notes": "Gulfside branches to be rebranded DFCU, with integration in the second half of 2027."
+      }
+    },
+    {
+      "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+      "summary": "On Tap Credit Union / Sky Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-10-05",
+        "acquirer": "On Tap Credit Union",
+        "partner": "Sky Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 474.1,
+        "acquirer_members": 19448,
+        "acquirer_locations": 3,
+        "partner_assets": 205.0,
+        "partner_members": 12976,
+        "partner_locations": 6,
+        "combined_assets": 679.1,
+        "size_as_of": "Q3 2026",
+        "state": "CO",
+        "partner_state": "MT",
+        "notes": "Subject to regulatory approval and a Sky FCU member vote; combined CU serves Montana and Colorado."
+      }
+    },
+    {
+      "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+      "summary": "Gulf Winds Credit Union / Peoples Exchange Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-09-25",
+        "acquirer": "Gulf Winds Credit Union",
+        "partner": "Peoples Exchange Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": "TruWorth Credit Union",
+        "ceo": "Daniel Souers",
+        "acquirer_assets": 1374.8,
+        "acquirer_members": 75037,
+        "acquirer_locations": 12,
+        "partner_assets": 98.6,
+        "partner_members": null,
+        "partner_locations": 1,
+        "combined_assets": 1473.4,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "FL",
+        "partner_state": "AL",
+        "notes": "Announced in a Friday release (Banking Dive, Sep 29). Regulatory approval expected mid-2027; integration by 2028. One of two Gulf Winds bank purchases."
+      }
+    },
+    {
+      "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+      "summary": "Gulf Winds Credit Union / Madison County Community Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-08-25",
+        "acquirer": "Gulf Winds Credit Union",
+        "partner": "Madison County Community Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": null,
+        "completed": null,
+        "new_name": "TruWorth Credit Union",
+        "ceo": "Daniel Souers",
+        "acquirer_assets": 1374.8,
+        "acquirer_members": 75037,
+        "acquirer_locations": 12,
+        "partner_assets": 211.7,
+        "partner_members": null,
+        "partner_locations": 2,
+        "combined_assets": 1586.5,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "FL",
+        "partner_state": "FL",
+        "notes": "Gulf Winds renames itself TruWorth CU in spring 2027. Regulatory approval expected mid-2027; integration by 2028. One of two Gulf Winds bank purchases."
+      }
+    },
+    {
+      "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
+      "summary": "Gesa Credit Union / Willamette Valley Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-07-21",
+        "acquirer": "Gesa Credit Union",
+        "partner": "Willamette Valley Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "H1 2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Don Miller",
+        "acquirer_assets": 6834.3,
+        "acquirer_members": 327834,
+        "acquirer_locations": 46,
+        "partner_assets": 465.4,
+        "partner_members": null,
+        "partner_locations": 4,
+        "combined_assets": 7299.7,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "WA",
+        "partner_state": "OR",
+        "notes": "Gives Gesa its first Oregon branches."
+      }
+    },
+    {
+      "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+      "summary": "Nutmeg State Financial Credit Union / New Haven Teachers Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-06-15",
+        "acquirer": "Nutmeg State Financial Credit Union",
+        "partner": "New Haven Teachers Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Approved",
+        "expected_close": "Q4 2026",
+        "member_vote": "2026-11-17",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 916.5,
+        "acquirer_members": 66866,
+        "acquirer_locations": 12,
+        "partner_assets": 10.2,
+        "partner_members": 1037,
+        "partner_locations": 1,
+        "combined_assets": 926.7,
+        "size_as_of": "Q2 2026",
+        "state": "CT",
+        "partner_state": "CT",
+        "notes": "Announced date is Nutmeg's application to the CT Dept. of Banking, which approved the merger Jul 29. Expected to close in December. Nutmeg is also converting to a federal charter as Nutmeg State FCU."
+      }
+    },
+    {
+      "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
+      "summary": "LOC Credit Union / Advantage One Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-05-15",
+        "acquirer": "LOC Credit Union",
+        "partner": "Advantage One Credit Union",
+        "deal_type": "CU merger",
+        "status": "Members approved",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-07-15",
+        "completed": null,
+        "new_name": "Advantage One Credit Union",
+        "ceo": "Stephen Grech",
+        "acquirer_assets": 478.6,
+        "acquirer_members": 27573,
+        "acquirer_locations": 6,
+        "partner_assets": 265.1,
+        "partner_members": 18731,
+        "partner_locations": 2,
+        "combined_assets": 743.7,
+        "size_as_of": "Q3 2026",
+        "state": "MI",
+        "partner_state": "MI",
+        "notes": "Advantage One members approved Jul 15. LOC takes the Advantage One name on the effective date; Chris Corkery becomes president. Systems and brand integration planned for May 2027."
+      }
+    },
+    {
+      "id": "2026-05-05-team-one-credit-union-case-credit-union",
+      "summary": "Team One Credit Union / CASE Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-05-05",
+        "acquirer": "Team One Credit Union",
+        "partner": "CASE Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q1 2027",
+        "member_vote": "2026-10-20",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 756.1,
+        "acquirer_members": 46194,
+        "acquirer_locations": 11,
+        "partner_assets": 391.2,
+        "partner_members": 26146,
+        "partner_locations": 5,
+        "combined_assets": 1147.3,
+        "size_as_of": "Q3 2026",
+        "state": "MI",
+        "partner_state": "MI",
+        "notes": "Member vote was set for Oct 20, 2026; result not yet confirmed. Expected to take effect in January 2027 (\"Bolder Together\")."
+      }
+    },
+    {
+      "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+      "summary": "Metro Credit Union / Members Plus Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-04-02",
+        "acquirer": "Metro Credit Union",
+        "partner": "Members Plus Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q4 2026",
+        "member_vote": "2026-10-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": "Robert Cashman",
+        "acquirer_assets": 3399.9,
+        "acquirer_members": 224044,
+        "acquirer_locations": 17,
+        "partner_assets": 338.6,
+        "partner_members": 13620,
+        "partner_locations": 7,
+        "combined_assets": 3738.5,
+        "size_as_of": "Q3 2026",
+        "state": "MA",
+        "partner_state": "MA",
+        "notes": "Member vote was set for Oct 16, 2026; result not yet confirmed. Combined: 25 branches."
+      }
+    },
+    {
+      "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+      "summary": "Alabama ONE Credit Union / Peoples Independent Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-02-18",
+        "acquirer": "Alabama ONE Credit Union",
+        "partner": "Peoples Independent Bank",
+        "deal_type": "Bank purchase",
+        "status": "Approved",
+        "expected_close": "H2 2026",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Whitney Oswalt",
+        "acquirer_assets": 1518.1,
+        "acquirer_members": 97116,
+        "acquirer_locations": 32,
+        "partner_assets": 485.7,
+        "partner_members": null,
+        "partner_locations": 9,
+        "combined_assets": 2003.8,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "AL",
+        "partner_state": "AL",
+        "notes": "Alabama State Banking Dept. approved the purchase in July 2026. Expected to close in the third or fourth quarter of 2026."
+      }
+    },
+    {
+      "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
+      "summary": "Zeal Credit Union / The Miners State Bank",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2026-01-08",
+        "acquirer": "Zeal Credit Union",
+        "partner": "The Miners State Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Q4 2026",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "Julie Kreinbring",
+        "acquirer_assets": 1047.1,
+        "acquirer_members": 68036,
+        "acquirer_locations": 18,
+        "partner_assets": 134.8,
+        "partner_members": null,
+        "partner_locations": 6,
+        "combined_assets": 1181.9,
+        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "state": "MI",
+        "partner_state": "MI",
+        "notes": "First CU purchase of a bank announced in 2026. Adds five Upper Peninsula branches."
+      }
+    },
+    {
+      "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+      "summary": "Boeing Employees Credit Union / SAFE Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": "2025-11-18",
+        "acquirer": "Boeing Employees Credit Union",
+        "partner": "SAFE Credit Union",
+        "deal_type": "CU merger",
+        "status": "Members approved",
+        "expected_close": "Q1 2027",
+        "member_vote": "2026-10-27",
+        "completed": null,
+        "new_name": null,
+        "ceo": "Beverly Anderson",
+        "acquirer_assets": 29406.7,
+        "acquirer_members": 1597078,
+        "acquirer_locations": 70,
+        "partner_assets": 4396.3,
+        "partner_members": 245654,
+        "partner_locations": 18,
+        "combined_assets": 33803.0,
+        "size_as_of": "Q3 2026",
+        "state": "WA",
+        "partner_state": "CA",
+        "notes": "NCUA, CA DFPI and WA DFI approved Aug 4, 2026. SAFE says the vote closed Oct 27 with strong member support; awaiting final CA DFPI sign-off. Some SAFE members petitioned DFPI to investigate the vote. Expected to close Jan 1, 2027."
+      }
+    },
+    {
+      "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+      "summary": "Credit Union 1 / Gulf Coast Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "Credit Union 1",
+        "partner": "Gulf Coast Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Members approved",
+        "expected_close": "Q4 2026",
+        "member_vote": "2026-09-29",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 2774.1,
+        "acquirer_members": 186078,
+        "acquirer_locations": 45,
+        "partner_assets": 260.6,
+        "partner_members": 17151,
+        "partner_locations": 6,
+        "combined_assets": 3034.7,
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "TX",
+        "notes": "Gulf Coast FCU (Corpus Christi, TX) members approved Sep 29; legal merger date Dec 31, 2026."
+      }
+    },
+    {
+      "id": "undated-credit-union-1-first-class-community-credit-union",
+      "summary": "Credit Union 1 / First Class Community Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "Credit Union 1",
+        "partner": "First Class Community Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-11-30",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 2774.1,
+        "acquirer_members": 186078,
+        "acquirer_locations": 45,
+        "partner_assets": 95.0,
+        "partner_members": 6739,
+        "partner_locations": 2,
+        "combined_assets": 2869.1,
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "IA",
+        "notes": "A first member meeting was set for Jul 23, 2026 (proposed legal date Oct 31); NCUA now lists a member vote on Nov 30, 2026. Core conversion planned Jan 31, 2027."
+      }
+    },
+    {
+      "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+      "summary": "Magnolia Federal Credit Union / City Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "Magnolia Federal Credit Union",
+        "partner": "City Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-09-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 182.3,
+        "acquirer_members": 20785,
+        "acquirer_locations": 5,
+        "partner_assets": 80.3,
+        "partner_members": 2742,
+        "partner_locations": 2,
+        "combined_assets": 262.6,
+        "size_as_of": "Q3 2026",
+        "state": "MS",
+        "partner_state": "TX",
+        "notes": "City FCU is in Amarillo, TX. Member vote was set for Sep 16, 2026; result not yet confirmed."
+      }
+    },
+    {
+      "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+      "summary": "Allegent Community Federal Credit Union / Penn Hills Municipal Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "Allegent Community Federal Credit Union",
+        "partner": "Penn Hills Municipal Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-22",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 272.1,
+        "acquirer_members": 21420,
+        "acquirer_locations": 7,
+        "partner_assets": 2.1,
+        "partner_members": 202,
+        "partner_locations": 1,
+        "combined_assets": 274.2,
+        "size_as_of": "Q3 2026",
+        "state": "PA",
+        "partner_state": "PA",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      }
+    },
+    {
+      "id": "undated-bp-federal-credit-union-southern-star-credit-union",
+      "summary": "BP Federal Credit Union / Southern Star Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "BP Federal Credit Union",
+        "partner": "Southern Star Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 124.8,
+        "acquirer_members": 6222,
+        "acquirer_locations": 5,
+        "partner_assets": 17.3,
+        "partner_members": 2686,
+        "partner_locations": 1,
+        "combined_assets": 142.1,
+        "size_as_of": "Q3 2026",
+        "state": "TX",
+        "partner_state": "TX",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      }
+    },
+    {
+      "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+      "summary": "Sterling Federal Credit Union / Fort Morgan Schools Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "Sterling Federal Credit Union",
+        "partner": "Fort Morgan Schools Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-15",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 260.0,
+        "acquirer_members": 11088,
+        "acquirer_locations": 3,
+        "partner_assets": 5.6,
+        "partner_members": 416,
+        "partner_locations": null,
+        "combined_assets": 265.6,
+        "size_as_of": "Q3 2026",
+        "state": "CO",
+        "partner_state": "CO",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      }
+    },
+    {
+      "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+      "summary": "Nuvision Federal Credit Union / Dow Great Western Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "Nuvision Federal Credit Union",
+        "partner": "Dow Great Western Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2027-01-12",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 4012.3,
+        "acquirer_members": 206853,
+        "acquirer_locations": 36,
+        "partner_assets": 46.9,
+        "partner_members": 1849,
+        "partner_locations": 1,
+        "combined_assets": 4059.2,
+        "size_as_of": "Q3 2026",
+        "state": "CA",
+        "partner_state": "CA",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      }
+    },
+    {
+      "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
+      "summary": "Sharefax Credit Union / Members Trust Federal Credit Union",
+      "last_checked": "2026-11-21",
+      "fields": {
+        "announced": null,
+        "acquirer": "Sharefax Credit Union",
+        "partner": "Members Trust Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-18",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 720.7,
+        "acquirer_members": 42478,
+        "acquirer_locations": 9,
+        "partner_assets": 22.2,
+        "partner_members": 3043,
+        "partner_locations": 3,
+        "combined_assets": 742.9,
+        "size_as_of": "Q3 2026",
+        "state": "OH",
+        "partner_state": "OH",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet."
+      }
+    }
+  ],
+  "open_items": 46,
+  "organizations_needed": [],
+  "logos_missing": [
+    {
+      "slug": "advantage-one",
+      "name": "Advantage One Credit Union",
+      "website": "https://www.myaocu.com/"
+    },
+    {
+      "slug": "agriculture-fcu",
+      "name": "Agriculture Federal Credit Union",
+      "website": "http://www.agriculturefcu.org"
+    },
+    {
+      "slug": "alabama-one",
+      "name": "Alabama ONE Credit Union",
+      "website": "http://www.alabamaone.org"
+    },
+    {
+      "slug": "allegent",
+      "name": "Allegent Community Federal Credit Union",
+      "website": "http://www.allegentfcu.org"
+    },
+    {
+      "slug": "american-united-fcu",
+      "name": "American United Federal Credit Union",
+      "website": "https://www.amucu.org"
+    },
+    {
+      "slug": "anb-fox-cities",
+      "name": "American National Bank-Fox Cities",
+      "website": ""
+    },
+    {
+      "slug": "anco-community-cu",
+      "name": "ANCO Community Credit Union",
+      "website": "http://www.americannickeloidemployeescreditunion.com"
+    },
+    {
+      "slug": "ascend",
+      "name": "Ascend Federal Credit Union",
+      "website": "https://www.ascend.org"
+    },
+    {
+      "slug": "baker-hughes-fcu",
+      "name": "Baker Hughes Federal Credit Union",
+      "website": "http://www.bhfcu.org"
+    },
+    {
+      "slug": "bank-of-the-southwest",
+      "name": "Bank of the Southwest",
+      "website": ""
+    },
+    {
+      "slug": "bcu",
+      "name": "Baxter Credit Union",
+      "website": "http://www.bcu.org"
+    },
+    {
+      "slug": "becu",
+      "name": "Boeing Employees Credit Union",
+      "website": "http://www.becu.org"
+    },
+    {
+      "slug": "bluegrass-community-fcu",
+      "name": "Bluegrass Community Federal Credit Union",
+      "website": "http://www.bluegrasscreditunion.com"
+    },
+    {
+      "slug": "bp-fcu",
+      "name": "BP Federal Credit Union",
+      "website": "http://www.bpfcu.org"
+    },
+    {
+      "slug": "caprock-fcu",
+      "name": "Caprock Federal Credit Union",
+      "website": "http://WWW.CAPROCKCU.COM"
+    },
+    {
+      "slug": "case-cu",
+      "name": "CASE Credit Union",
+      "website": "http://www.casecu.org"
+    },
+    {
+      "slug": "centuryfirst",
+      "name": "CenturyFirst Federal Credit Union",
+      "website": "https://www.CenturyFirstFCU.com"
+    },
+    {
+      "slug": "cincinnati-interagency-fcu",
+      "name": "Cincinnati Interagency Federal Credit Union",
+      "website": "http://www.cifcu.org"
+    },
+    {
+      "slug": "city-fcu",
+      "name": "City Federal Credit Union",
+      "website": "https://www.cityfederalcu.com"
+    },
+    {
+      "slug": "communityamerica",
+      "name": "CommunityAmerica Credit Union",
+      "website": "https://www.communityamerica.com/"
+    },
+    {
+      "slug": "cu1",
+      "name": "Credit Union 1",
+      "website": "http://www.creditunion1.org"
+    },
+    {
+      "slug": "cy-fair-fcu",
+      "name": "Cy-Fair Federal Credit Union",
+      "website": "http://www.cyfairfcu.org"
+    },
+    {
+      "slug": "daniels-sheridan-fcu",
+      "name": "Daniels-Sheridan Federal Credit Union",
+      "website": "https://www.dsfcu.net"
+    },
+    {
+      "slug": "dcfcu",
+      "name": "Dade County Federal Credit Union",
+      "website": "http://www.dcfcu.org"
+    },
+    {
+      "slug": "delta-refining-fcu",
+      "name": "Delta Refining Co Emp Federal Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "dfcu-financial",
+      "name": "DFCU Financial Credit Union",
+      "website": "http://www.dfcufinancial.com"
+    },
+    {
+      "slug": "directors-choice-cu",
+      "name": "Directors Choice Credit Union",
+      "website": "http://www.directorschoicecu.com/"
+    },
+    {
+      "slug": "dow-great-western-cu",
+      "name": "Dow Great Western Credit Union",
+      "website": "http://www.dowcu.org"
+    },
+    {
+      "slug": "dunlop-employees-fcu",
+      "name": "Dunlop Employees Federal Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "evermore-bank",
+      "name": "Evermore Bank",
+      "website": ""
+    },
+    {
+      "slug": "f-and-a-fcu",
+      "name": "F&A Federal Credit Union",
+      "website": "http://WWW.FAFCU.ORG"
+    },
+    {
+      "slug": "firefighters-cu",
+      "name": "Firefighters Credit Union",
+      "website": "https://www.firefighterscu.com"
+    },
+    {
+      "slug": "first-class-community-cu",
+      "name": "First Class Community Credit Union",
+      "website": "http://www.gofirstclass.org"
+    },
+    {
+      "slug": "first-financial-bank",
+      "name": "First Financial Bank",
+      "website": "https://www.ffbalabama.com"
+    },
+    {
+      "slug": "first-south-financial",
+      "name": "First South Financial Federal Credit Union",
+      "website": "http://www.firstsouth.com"
+    },
+    {
+      "slug": "fort-mcclellan-cu",
+      "name": "Fort McClellan Credit Union",
+      "website": "https://www.fortmcclellancu.org/"
+    },
+    {
+      "slug": "fort-morgan-schools-fcu",
+      "name": "Fort Morgan Schools Federal Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "fort-peck-community-fcu",
+      "name": "Fort Peck Community Federal Credit Union",
+      "website": "http://www.fortpeckcu.com"
+    },
+    {
+      "slug": "fortera",
+      "name": "Fortera Federal Credit Union",
+      "website": "http://www.forteracu.com"
+    },
+    {
+      "slug": "g-and-r-fcu",
+      "name": "G&R Federal Credit Union",
+      "website": "http://www.grcreditunion.com"
+    },
+    {
+      "slug": "gaf-linden-employees-fcu",
+      "name": "GAF Linden Employees Federal Credit Union",
+      "website": "http://www.gafcreditunion.org"
+    },
+    {
+      "slug": "garden-savings-fcu",
+      "name": "Garden Savings Federal Credit Union",
+      "website": "https://www.Gardensavingsfcu.org"
+    },
+    {
+      "slug": "gecu",
+      "name": "GECU Federal Credit Union",
+      "website": "https://www.gecu.com"
+    },
+    {
+      "slug": "gesa",
+      "name": "Gesa Credit Union",
+      "website": "http://www.gesa.com"
+    },
+    {
+      "slug": "great-horizons-fcu",
+      "name": "Great Horizons Federal Credit Union",
+      "website": "http://www.greathorizonsfcu.org"
+    },
+    {
+      "slug": "great-neck-school-employees-fcu",
+      "name": "Great Neck School Employees Federal Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "gulf-coast-fcu",
+      "name": "Gulf Coast Federal Credit Union",
+      "website": "http://www.ccgcfcu.com"
+    },
+    {
+      "slug": "gulf-winds",
+      "name": "Gulf Winds Credit Union",
+      "website": "https://www.gogulfwinds.com"
+    },
+    {
+      "slug": "gulfside-bank",
+      "name": "Gulfside Bank",
+      "website": "https://www.gulfsidebank.com"
+    },
+    {
+      "slug": "harris-employees-cu",
+      "name": "Harris Employees Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "healthcare-associates-cu",
+      "name": "HealthCare Associates Credit Union",
+      "website": "https://www.hacu.org"
+    },
+    {
+      "slug": "healthcare-plus-fcu",
+      "name": "Healthcare Plus Federal Credit Union",
+      "website": "http://www.hcpfcu.coop"
+    },
+    {
+      "slug": "healthcare-systems-fcu",
+      "name": "Healthcare Systems Federal Credit Union",
+      "website": "http://www.Healthcarefcu.org"
+    },
+    {
+      "slug": "hicksville-bank",
+      "name": "The Hicksville Bank",
+      "website": "https://www.thb.bank"
+    },
+    {
+      "slug": "hoosier-hills",
+      "name": "Hoosier Hills Credit Union",
+      "website": "http://www.hoosierhills.com"
+    },
+    {
+      "slug": "hope-fcu",
+      "name": "Hope Federal Credit Union",
+      "website": "https://www.hopecu.org"
+    },
+    {
+      "slug": "interra",
+      "name": "Interra Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "kemba",
+      "name": "Kemba Credit Union",
+      "website": "http://www.kemba.com"
+    },
+    {
+      "slug": "kimberly-clark-cu",
+      "name": "Kimberly Clark Credit Union",
+      "website": "http://www.kimberlyclarkcu.org"
+    },
+    {
+      "slug": "landmark-cu",
+      "name": "Landmark Credit Union",
+      "website": "https://www.landmarkcu.com"
+    },
+    {
+      "slug": "launch-cu",
+      "name": "Launch Credit Union",
+      "website": "http://www.launchcu.com"
+    },
+    {
+      "slug": "lge",
+      "name": "LGE Community Credit Union",
+      "website": "http://www.LGEccu.org"
+    },
+    {
+      "slug": "lincoln-county-cu",
+      "name": "Lincoln County Credit Union",
+      "website": "http://www.lincolncountycu.com"
+    },
+    {
+      "slug": "loc-cu",
+      "name": "LOC Credit Union",
+      "website": "http://www.loccreditunion.com"
+    },
+    {
+      "slug": "madison-county-community-bank",
+      "name": "Madison County Community Bank",
+      "website": "https://www.mccbflorida.com"
+    },
+    {
+      "slug": "magnolia-fcu",
+      "name": "Magnolia Federal Credit Union",
+      "website": "http://www.magfedcu.org"
+    },
+    {
+      "slug": "martin-county-co-op-cu",
+      "name": "Martin County Co-Op Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "max-cu",
+      "name": "MAX Credit Union",
+      "website": "http://www.mymax.com"
+    },
+    {
+      "slug": "members-plus-cu",
+      "name": "Members Plus Credit Union",
+      "website": "https://www.memberspluscu.org"
+    },
+    {
+      "slug": "members-trust-fcu",
+      "name": "Members Trust Federal Credit Union",
+      "website": "http://www.memberstrust.org"
+    },
+    {
+      "slug": "metro-cu",
+      "name": "Metro Credit Union",
+      "website": "http://www.metrocu.org"
+    },
+    {
+      "slug": "miners-state-bank",
+      "name": "The Miners State Bank",
+      "website": "https://www.theminersstatebank.com"
+    },
+    {
+      "slug": "my-cu",
+      "name": "My Credit Union",
+      "website": "http://www.mycutx.com"
+    },
+    {
+      "slug": "new-haven-teachers-fcu",
+      "name": "New Haven Teachers Federal Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "norstar",
+      "name": "Norstar Federal Credit Union",
+      "website": "http://www.norstarfcu.com"
+    },
+    {
+      "slug": "nrcs-fcu",
+      "name": "Natural Resource Conservation Service Federal Credit Union",
+      "website": "http://www.nrcscreditunion.org"
+    },
+    {
+      "slug": "nrs-community-development-fcu",
+      "name": "NRS Community Development Federal Credit Union",
+      "website": "http://www.starfcu.net"
+    },
+    {
+      "slug": "numerica",
+      "name": "Numerica Credit Union",
+      "website": "https://www.numericacu.com"
+    },
+    {
+      "slug": "nutmeg",
+      "name": "Nutmeg State Financial Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "nuvision",
+      "name": "Nuvision Federal Credit Union",
+      "website": "http://www.nuvisionfederal.org"
+    },
+    {
+      "slug": "on-tap",
+      "name": "On Tap Credit Union",
+      "website": "http://www.ontapcu.org"
+    },
+    {
+      "slug": "ontario-public-employees-fcu",
+      "name": "Ontario Public Employees Federal Credit Union",
+      "website": "http://www.opefcu.org"
+    },
+    {
+      "slug": "p-and-s-cu",
+      "name": "P&S Credit Union",
+      "website": "http://www.pandscu.org"
+    },
+    {
+      "slug": "park-side",
+      "name": "Park Side Credit Union",
+      "website": "http://www.parksidefcu.com"
+    },
+    {
+      "slug": "penair",
+      "name": "PenAir Credit Union",
+      "website": "https://www.penair.org"
+    },
+    {
+      "slug": "penn-hills-municipal-fcu",
+      "name": "Penn Hills Municipal Federal Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "peoples-exchange-bank",
+      "name": "Peoples Exchange Bank",
+      "website": "https://www.peb.bank"
+    },
+    {
+      "slug": "peoples-independent-bank",
+      "name": "Peoples Independent Bank",
+      "website": "http://www.pibonline.com"
+    },
+    {
+      "slug": "piedmont-advantage-cu",
+      "name": "Piedmont Advantage Credit Union",
+      "website": "http://www.pacu.com"
+    },
+    {
+      "slug": "plains-fcu",
+      "name": "Plains Federal Credit Union",
+      "website": "http://www.plainsfcu.com"
+    },
+    {
+      "slug": "port-washington-fcu",
+      "name": "Port Washington Federal Credit Union",
+      "website": "http://www.pwfcu.org"
+    },
+    {
+      "slug": "rbfcu",
+      "name": "Randolph-Brooks Federal Credit Union",
+      "website": "http://www.rbfcu.org"
+    },
+    {
+      "slug": "robins-financial",
+      "name": "Robins Financial Credit Union",
+      "website": "http://www.robinsfcu.org"
+    },
+    {
+      "slug": "safe-cu",
+      "name": "SAFE Credit Union",
+      "website": "http://www.safecu.org"
+    },
+    {
+      "slug": "selco",
+      "name": "SELCO Community Credit Union",
+      "website": "http://www.selco.org"
+    },
+    {
+      "slug": "sharefax",
+      "name": "Sharefax Credit Union",
+      "website": "http://WWW.SHAREFAX.ORG"
+    },
+    {
+      "slug": "sjp-fcu",
+      "name": "SJP Federal Credit Union",
+      "website": "https://www.sjpfcu.org/"
+    },
+    {
+      "slug": "sky-fcu",
+      "name": "Sky Federal Credit Union",
+      "website": "http://www.skyfcu.org"
+    },
+    {
+      "slug": "smart-financial",
+      "name": "Smart Financial Credit Union",
+      "website": "http://www.smartcu.org"
+    },
+    {
+      "slug": "southern-star-cu",
+      "name": "Southern Star Credit Union",
+      "website": "http://www.southernstarcu.org"
+    },
+    {
+      "slug": "sterling-fcu",
+      "name": "Sterling Federal Credit Union",
+      "website": "http://www.sterlingcreditunion.org"
+    },
+    {
+      "slug": "streator-onized-cu",
+      "name": "Streator Onized Credit Union",
+      "website": "http://www.socu.org"
+    },
+    {
+      "slug": "summit-hampton-roads-fcu",
+      "name": "Summit Hampton Roads Federal Credit Union",
+      "website": "http://www.shrfcu.com"
+    },
+    {
+      "slug": "suncoast",
+      "name": "Suncoast Credit Union",
+      "website": "https://www.suncoast.com"
+    },
+    {
+      "slug": "sunmark",
+      "name": "Sunmark Credit Union",
+      "website": "http://www.sunmark.org"
+    },
+    {
+      "slug": "tdecu",
+      "name": "Texas Dow Employees Credit Union",
+      "website": "http://www.tdecu.org"
+    },
+    {
+      "slug": "team-one",
+      "name": "Team One Credit Union",
+      "website": "http://WWW.TEAMONECU.ORG"
+    },
+    {
+      "slug": "tech-cu",
+      "name": "Tech Credit Union",
+      "website": "http://www.techcu.org"
+    },
+    {
+      "slug": "texas-trust",
+      "name": "Texas Trust Credit Union",
+      "website": "https://www.texastrustcu.org"
+    },
+    {
+      "slug": "true-sky",
+      "name": "True Sky Federal Credit Union",
+      "website": "https://www.TrueSkyCU.org"
+    },
+    {
+      "slug": "truliant",
+      "name": "Truliant Federal Credit Union",
+      "website": "https://WWW.TRULIANTFCU.ORG"
+    },
+    {
+      "slug": "ukfcu",
+      "name": "University of Kentucky Federal Credit Union",
+      "website": "https://www.ukcreditunion.org"
+    },
+    {
+      "slug": "vanderbilt-cu",
+      "name": "Vanderbilt Credit Union",
+      "website": "https://www.vanderbiltcu.org"
+    },
+    {
+      "slug": "water-s-edge-fcu",
+      "name": "Water's Edge Federal Credit Union",
+      "website": "http://www.WEFCU.org"
+    },
+    {
+      "slug": "west-tennessee-cu",
+      "name": "The West Tennessee Credit Union",
+      "website": "http://www.wtncu.org"
+    },
+    {
+      "slug": "westreet-cu",
+      "name": "WeStreet Credit Union",
+      "website": "http://www.westreet.org"
+    },
+    {
+      "slug": "willamette-valley-bank",
+      "name": "Willamette Valley Bank",
+      "website": "https://www.willamettevalleybank.com"
+    },
+    {
+      "slug": "zeal",
+      "name": "Zeal Credit Union",
+      "website": "http://www.zealcu.org"
+    }
+  ],
+  "logo_reviews": [],
+  "warnings": [],
+  "last_review": {
+    "added": [
+      {
+        "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+        "summary": "Nutmeg State Financial Credit Union / New Haven Teachers Federal Credit Union"
+      },
+      {
+        "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+        "summary": "Metro Credit Union / Members Plus Credit Union"
+      },
+      {
+        "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+        "summary": "Boeing Employees Credit Union / SAFE Credit Union"
+      },
+      {
+        "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
+        "summary": "Texas Dow Employees Credit Union / Smart Financial Credit Union"
+      },
+      {
+        "id": "2026-02-13-suncoast-credit-union-launch-credit-union",
+        "summary": "Suncoast Credit Union / Launch Credit Union"
+      },
+      {
+        "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+        "summary": "Randolph-Brooks Federal Credit Union / True Sky Federal Credit Union"
+      },
+      {
+        "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
+        "summary": "Fortera Federal Credit Union / Vanderbilt Credit Union"
+      },
+      {
+        "id": "2026-05-05-team-one-credit-union-case-credit-union",
+        "summary": "Team One Credit Union / CASE Credit Union"
+      },
+      {
+        "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
+        "summary": "LOC Credit Union / Advantage One Credit Union"
+      },
+      {
+        "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+        "summary": "Credit Union 1 / Gulf Coast Federal Credit Union"
+      },
+      {
+        "id": "undated-credit-union-1-first-class-community-credit-union",
+        "summary": "Credit Union 1 / First Class Community Credit Union"
+      },
+      {
+        "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+        "summary": "Magnolia Federal Credit Union / City Federal Credit Union"
+      },
+      {
+        "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+        "summary": "PenAir Credit Union / Fort McClellan Credit Union"
+      },
+      {
+        "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
+        "summary": "SELCO Community Credit Union / Numerica Credit Union"
+      },
+      {
+        "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+        "summary": "Sunmark Credit Union / Directors Choice Credit Union"
+      },
+      {
+        "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+        "summary": "On Tap Credit Union / Sky Federal Credit Union"
+      },
+      {
+        "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
+        "summary": "Landmark Credit Union / American National Bank-Fox Cities"
+      },
+      {
+        "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+        "summary": "Dade County Federal Credit Union / Evermore Bank"
+      },
+      {
+        "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
+        "summary": "Zeal Credit Union / The Miners State Bank"
+      },
+      {
+        "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+        "summary": "Alabama ONE Credit Union / Peoples Independent Bank"
+      },
+      {
+        "id": "2026-04-29-interra-credit-union-the-hicksville-bank",
+        "summary": "Interra Credit Union / The Hicksville Bank"
+      },
+      {
+        "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
+        "summary": "Gesa Credit Union / Willamette Valley Bank"
+      },
+      {
+        "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+        "summary": "Gulf Winds Credit Union / Madison County Community Bank"
+      },
+      {
+        "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+        "summary": "Gulf Winds Credit Union / Peoples Exchange Bank"
+      },
+      {
+        "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+        "summary": "DFCU Financial Credit Union / Gulfside Bank"
+      },
+      {
+        "id": "2026-11-10-max-credit-union-first-financial-bank",
+        "summary": "MAX Credit Union / First Financial Bank"
+      },
+      {
+        "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
+        "summary": "GECU Federal Credit Union / Bank of the Southwest"
+      },
+      {
+        "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+        "summary": "Allegent Community Federal Credit Union / Penn Hills Municipal Federal Credit Union"
+      },
+      {
+        "id": "undated-bp-federal-credit-union-southern-star-credit-union",
+        "summary": "BP Federal Credit Union / Southern Star Credit Union"
+      },
+      {
+        "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+        "summary": "Sterling Federal Credit Union / Fort Morgan Schools Federal Credit Union"
+      },
+      {
+        "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+        "summary": "Nuvision Federal Credit Union / Dow Great Western Credit Union"
+      },
+      {
+        "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
+        "summary": "Sharefax Credit Union / Members Trust Federal Credit Union"
+      },
+      {
+        "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+        "summary": "Agriculture Federal Credit Union / Natural Resource Conservation Service Federal Credit Union"
+      },
+      {
+        "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+        "summary": "Streator Onized Credit Union / ANCO Community Credit Union"
+      },
+      {
+        "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+        "summary": "Healthcare Systems Federal Credit Union / Summit Hampton Roads Federal Credit Union"
+      },
+      {
+        "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+        "summary": "Cy-Fair Federal Credit Union / Baker Hughes Federal Credit Union"
+      },
+      {
+        "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+        "summary": "Norstar Federal Credit Union / Healthcare Plus Federal Credit Union"
+      },
+      {
+        "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+        "summary": "Baxter Credit Union / HealthCare Associates Credit Union"
+      },
+      {
+        "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+        "summary": "Daniels-Sheridan Federal Credit Union / Fort Peck Community Federal Credit Union"
+      },
+      {
+        "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+        "summary": "First South Financial Federal Credit Union / Delta Refining Co Emp Federal Credit Union"
+      },
+      {
+        "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+        "summary": "Kimberly Clark Credit Union / The West Tennessee Credit Union"
+      },
+      {
+        "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+        "summary": "F&A Federal Credit Union / Ontario Public Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-communityamerica-credit-union-westreet-credit-union",
+        "summary": "CommunityAmerica Credit Union / WeStreet Credit Union"
+      },
+      {
+        "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+        "summary": "Firefighters Credit Union / P&S Credit Union"
+      },
+      {
+        "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+        "summary": "Ascend Federal Credit Union / LGE Community Credit Union"
+      },
+      {
+        "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+        "summary": "Hope Federal Credit Union / NRS Community Development Federal Credit Union"
+      },
+      {
+        "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+        "summary": "SJP Federal Credit Union / Dunlop Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+        "summary": "Kemba Credit Union / Cincinnati Interagency Federal Credit Union"
+      },
+      {
+        "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
+        "summary": "Tech Credit Union / Great Horizons Federal Credit Union"
+      },
+      {
+        "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
+        "summary": "Robins Financial Credit Union / Harris Employees Credit Union"
+      },
+      {
+        "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+        "summary": "Port Washington Federal Credit Union / Great Neck School Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+        "summary": "Caprock Federal Credit Union / Plains Federal Credit Union"
+      },
+      {
+        "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+        "summary": "Hoosier Hills Credit Union / Martin County Co-Op Credit Union"
+      },
+      {
+        "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
+        "summary": "CenturyFirst Federal Credit Union / Water's Edge Federal Credit Union"
+      },
+      {
+        "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
+        "summary": "Truliant Federal Credit Union / Piedmont Advantage Credit Union"
+      },
+      {
+        "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
+        "summary": "Garden Savings Federal Credit Union / GAF Linden Employees Federal Credit Union"
+      },
+      {
+        "id": "undated-texas-trust-credit-union-my-credit-union",
+        "summary": "Texas Trust Credit Union / My Credit Union"
+      },
+      {
+        "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+        "summary": "University of Kentucky Federal Credit Union / Bluegrass Community Federal Credit Union"
+      },
+      {
+        "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+        "summary": "American United Federal Credit Union / G&R Federal Credit Union"
+      },
+      {
+        "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+        "summary": "Park Side Credit Union / Lincoln County Credit Union"
+      }
+    ],
+    "updated": [],
+    "rechecked": [],
+    "reviewed": 0,
+    "rejected": []
+  },
+  "tracked": [
+    {
+      "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+      "summary": "Dade County Federal Credit Union / Evermore Bank"
+    },
+    {
+      "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+      "summary": "Sunmark Credit Union / Directors Choice Credit Union"
+    },
+    {
+      "id": "2026-11-10-max-credit-union-first-financial-bank",
+      "summary": "MAX Credit Union / First Financial Bank"
+    },
+    {
+      "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
+      "summary": "SELCO Community Credit Union / Numerica Credit Union"
+    },
+    {
+      "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+      "summary": "PenAir Credit Union / Fort McClellan Credit Union"
+    },
+    {
+      "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+      "summary": "DFCU Financial Credit Union / Gulfside Bank"
+    },
+    {
+      "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+      "summary": "On Tap Credit Union / Sky Federal Credit Union"
+    },
+    {
+      "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+      "summary": "Gulf Winds Credit Union / Peoples Exchange Bank"
+    },
+    {
+      "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+      "summary": "Gulf Winds Credit Union / Madison County Community Bank"
+    },
+    {
+      "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
+      "summary": "Gesa Credit Union / Willamette Valley Bank"
+    },
+    {
+      "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+      "summary": "Nutmeg State Financial Credit Union / New Haven Teachers Federal Credit Union"
+    },
+    {
+      "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
+      "summary": "LOC Credit Union / Advantage One Credit Union"
+    },
+    {
+      "id": "2026-05-05-team-one-credit-union-case-credit-union",
+      "summary": "Team One Credit Union / CASE Credit Union"
+    },
+    {
+      "id": "2026-04-29-interra-credit-union-the-hicksville-bank",
+      "summary": "Interra Credit Union / The Hicksville Bank"
+    },
+    {
+      "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+      "summary": "Metro Credit Union / Members Plus Credit Union"
+    },
+    {
+      "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
+      "summary": "Landmark Credit Union / American National Bank-Fox Cities"
+    },
+    {
+      "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+      "summary": "Alabama ONE Credit Union / Peoples Independent Bank"
+    },
+    {
+      "id": "2026-02-13-suncoast-credit-union-launch-credit-union",
+      "summary": "Suncoast Credit Union / Launch Credit Union"
+    },
+    {
+      "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+      "summary": "Randolph-Brooks Federal Credit Union / True Sky Federal Credit Union"
+    },
+    {
+      "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
+      "summary": "Zeal Credit Union / The Miners State Bank"
+    },
+    {
+      "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+      "summary": "Boeing Employees Credit Union / SAFE Credit Union"
+    },
+    {
+      "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
+      "summary": "GECU Federal Credit Union / Bank of the Southwest"
+    },
+    {
+      "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
+      "summary": "Fortera Federal Credit Union / Vanderbilt Credit Union"
+    },
+    {
+      "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
+      "summary": "Texas Dow Employees Credit Union / Smart Financial Credit Union"
+    },
+    {
+      "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+      "summary": "Credit Union 1 / Gulf Coast Federal Credit Union"
+    },
+    {
+      "id": "undated-credit-union-1-first-class-community-credit-union",
+      "summary": "Credit Union 1 / First Class Community Credit Union"
+    },
+    {
+      "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+      "summary": "Magnolia Federal Credit Union / City Federal Credit Union"
+    },
+    {
+      "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+      "summary": "Allegent Community Federal Credit Union / Penn Hills Municipal Federal Credit Union"
+    },
+    {
+      "id": "undated-bp-federal-credit-union-southern-star-credit-union",
+      "summary": "BP Federal Credit Union / Southern Star Credit Union"
+    },
+    {
+      "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+      "summary": "Sterling Federal Credit Union / Fort Morgan Schools Federal Credit Union"
+    },
+    {
+      "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+      "summary": "Nuvision Federal Credit Union / Dow Great Western Credit Union"
+    },
+    {
+      "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
+      "summary": "Sharefax Credit Union / Members Trust Federal Credit Union"
+    },
+    {
+      "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+      "summary": "Agriculture Federal Credit Union / Natural Resource Conservation Service Federal Credit Union"
+    },
+    {
+      "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+      "summary": "Streator Onized Credit Union / ANCO Community Credit Union"
+    },
+    {
+      "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+      "summary": "Healthcare Systems Federal Credit Union / Summit Hampton Roads Federal Credit Union"
+    },
+    {
+      "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+      "summary": "Cy-Fair Federal Credit Union / Baker Hughes Federal Credit Union"
+    },
+    {
+      "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+      "summary": "Norstar Federal Credit Union / Healthcare Plus Federal Credit Union"
+    },
+    {
+      "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+      "summary": "Baxter Credit Union / HealthCare Associates Credit Union"
+    },
+    {
+      "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+      "summary": "Daniels-Sheridan Federal Credit Union / Fort Peck Community Federal Credit Union"
+    },
+    {
+      "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+      "summary": "First South Financial Federal Credit Union / Delta Refining Co Emp Federal Credit Union"
+    },
+    {
+      "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+      "summary": "Kimberly Clark Credit Union / The West Tennessee Credit Union"
+    },
+    {
+      "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+      "summary": "F&A Federal Credit Union / Ontario Public Employees Federal Credit Union"
+    },
+    {
+      "id": "undated-communityamerica-credit-union-westreet-credit-union",
+      "summary": "CommunityAmerica Credit Union / WeStreet Credit Union"
+    },
+    {
+      "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+      "summary": "Firefighters Credit Union / P&S Credit Union"
+    },
+    {
+      "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+      "summary": "Ascend Federal Credit Union / LGE Community Credit Union"
+    },
+    {
+      "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+      "summary": "Hope Federal Credit Union / NRS Community Development Federal Credit Union"
+    },
+    {
+      "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+      "summary": "SJP Federal Credit Union / Dunlop Employees Federal Credit Union"
+    },
+    {
+      "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+      "summary": "Kemba Credit Union / Cincinnati Interagency Federal Credit Union"
+    },
+    {
+      "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
+      "summary": "Tech Credit Union / Great Horizons Federal Credit Union"
+    },
+    {
+      "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
+      "summary": "Robins Financial Credit Union / Harris Employees Credit Union"
+    },
+    {
+      "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+      "summary": "Port Washington Federal Credit Union / Great Neck School Employees Federal Credit Union"
+    },
+    {
+      "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+      "summary": "Caprock Federal Credit Union / Plains Federal Credit Union"
+    },
+    {
+      "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+      "summary": "Hoosier Hills Credit Union / Martin County Co-Op Credit Union"
+    },
+    {
+      "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
+      "summary": "CenturyFirst Federal Credit Union / Water's Edge Federal Credit Union"
+    },
+    {
+      "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
+      "summary": "Truliant Federal Credit Union / Piedmont Advantage Credit Union"
+    },
+    {
+      "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
+      "summary": "Garden Savings Federal Credit Union / GAF Linden Employees Federal Credit Union"
+    },
+    {
+      "id": "undated-texas-trust-credit-union-my-credit-union",
+      "summary": "Texas Trust Credit Union / My Credit Union"
+    },
+    {
+      "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+      "summary": "University of Kentucky Federal Credit Union / Bluegrass Community Federal Credit Union"
+    },
+    {
+      "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+      "summary": "American United Federal Credit Union / G&R Federal Credit Union"
+    },
+    {
+      "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+      "summary": "Park Side Credit Union / Lincoln County Credit Union"
+    }
+  ]
+}
