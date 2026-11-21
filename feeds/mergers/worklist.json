@@ -1,6 +1,6 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-21T18:35:34-05:00",
+  "generated": "2026-11-21T18:51:23-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [],
@@ -907,16 +907,6 @@
   "organizations_needed": [],
   "logos_missing": [
     {
-      "slug": "alabama-one",
-      "name": "Alabama ONE Credit Union",
-      "website": "http://www.alabamaone.org"
-    },
-    {
-      "slug": "allegent",
-      "name": "Allegent Community Federal Credit Union",
-      "website": "http://www.allegentfcu.org"
-    },
-    {
       "slug": "american-united-fcu",
       "name": "American United Federal Credit Union",
       "website": "https://www.amucu.org"
@@ -952,16 +942,6 @@
       "website": "http://www.bpfcu.org"
     },
     {
-      "slug": "caprock-fcu",
-      "name": "Caprock Federal Credit Union",
-      "website": "http://WWW.CAPROCKCU.COM"
-    },
-    {
-      "slug": "centuryfirst",
-      "name": "CenturyFirst Federal Credit Union",
-      "website": "https://www.CenturyFirstFCU.com"
-    },
-    {
       "slug": "cincinnati-interagency-fcu",
       "name": "Cincinnati Interagency Federal Credit Union",
       "website": "http://www.cifcu.org"
@@ -972,29 +952,14 @@
       "website": "https://www.cityfederalcu.com"
     },
     {
-      "slug": "cy-fair-fcu",
-      "name": "Cy-Fair Federal Credit Union",
-      "website": "http://www.cyfairfcu.org"
-    },
-    {
       "slug": "delta-refining-fcu",
       "name": "Delta Refining Co Emp Federal Credit Union",
       "website": ""
     },
     {
-      "slug": "directors-choice-cu",
-      "name": "Directors Choice Credit Union",
-      "website": "http://www.directorschoicecu.com/"
-    },
-    {
       "slug": "dunlop-employees-fcu",
       "name": "Dunlop Employees Federal Credit Union",
       "website": ""
-    },
-    {
-      "slug": "first-class-community-cu",
-      "name": "First Class Community Credit Union",
-      "website": "http://www.gofirstclass.org"
     },
     {
       "slug": "fort-morgan-schools-fcu",
@@ -1037,11 +1002,6 @@
       "website": ""
     },
     {
-      "slug": "gulf-coast-fcu",
-      "name": "Gulf Coast Federal Credit Union",
-      "website": "http://www.ccgcfcu.com"
-    },
-    {
       "slug": "harris-employees-cu",
       "name": "Harris Employees Credit Union",
       "website": ""
@@ -1067,44 +1027,9 @@
       "website": "https://www.hopecu.org"
     },
     {
-      "slug": "interra",
-      "name": "Interra Credit Union",
-      "website": ""
-    },
-    {
-      "slug": "kimberly-clark-cu",
-      "name": "Kimberly Clark Credit Union",
-      "website": "http://www.kimberlyclarkcu.org"
-    },
-    {
-      "slug": "landmark-cu",
-      "name": "Landmark Credit Union",
-      "website": "https://www.landmarkcu.com"
-    },
-    {
-      "slug": "launch-cu",
-      "name": "Launch Credit Union",
-      "website": "http://www.launchcu.com"
-    },
-    {
-      "slug": "magnolia-fcu",
-      "name": "Magnolia Federal Credit Union",
-      "website": "http://www.magfedcu.org"
-    },
-    {
       "slug": "martin-county-co-op-cu",
       "name": "Martin County Co-Op Credit Union",
       "website": ""
-    },
-    {
-      "slug": "members-trust-fcu",
-      "name": "Members Trust Federal Credit Union",
-      "website": "http://www.memberstrust.org"
-    },
-    {
-      "slug": "metro-cu",
-      "name": "Metro Credit Union",
-      "website": "http://www.metrocu.org"
     },
     {
       "slug": "my-cu",
@@ -1117,19 +1042,9 @@
       "website": ""
     },
     {
-      "slug": "nrcs-fcu",
-      "name": "Natural Resource Conservation Service Federal Credit Union",
-      "website": "http://www.nrcscreditunion.org"
-    },
-    {
       "slug": "nrs-community-development-fcu",
       "name": "NRS Community Development Federal Credit Union",
       "website": "http://www.starfcu.net"
-    },
-    {
-      "slug": "nutmeg",
-      "name": "Nutmeg State Financial Credit Union",
-      "website": ""
     },
     {
       "slug": "ontario-public-employees-fcu",
@@ -1172,24 +1087,9 @@
       "website": "https://www.sjpfcu.org/"
     },
     {
-      "slug": "smart-financial",
-      "name": "Smart Financial Credit Union",
-      "website": "http://www.smartcu.org"
-    },
-    {
-      "slug": "summit-hampton-roads-fcu",
-      "name": "Summit Hampton Roads Federal Credit Union",
-      "website": "http://www.shrfcu.com"
-    },
-    {
       "slug": "suncoast",
       "name": "Suncoast Credit Union",
       "website": "https://www.suncoast.com"
-    },
-    {
-      "slug": "sunmark",
-      "name": "Sunmark Credit Union",
-      "website": "http://www.sunmark.org"
     },
     {
       "slug": "texas-trust",
@@ -1202,34 +1102,9 @@
       "website": "https://www.TrueSkyCU.org"
     },
     {
-      "slug": "truliant",
-      "name": "Truliant Federal Credit Union",
-      "website": "https://WWW.TRULIANTFCU.ORG"
-    },
-    {
-      "slug": "vanderbilt-cu",
-      "name": "Vanderbilt Credit Union",
-      "website": "https://www.vanderbiltcu.org"
-    },
-    {
-      "slug": "water-s-edge-fcu",
-      "name": "Water's Edge Federal Credit Union",
-      "website": "http://www.WEFCU.org"
-    },
-    {
-      "slug": "west-tennessee-cu",
-      "name": "The West Tennessee Credit Union",
-      "website": "http://www.wtncu.org"
-    },
-    {
       "slug": "willamette-valley-bank",
       "name": "Willamette Valley Bank",
       "website": "https://www.willamettevalleybank.com"
-    },
-    {
-      "slug": "zeal",
-      "name": "Zeal Credit Union",
-      "website": "http://www.zealcu.org"
     }
   ],
   "logo_reviews": [],
