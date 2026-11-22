@@ -63,6 +63,23 @@ instructions: |
     4. Lockups: when the only mark is the logo plus "powered by X", "a division of X", "previously X" or an
        anniversary badge, crop the organization's own mark out of it where a divider line or blank row
        separates them (see the crops in this feed's history); otherwise keep looking.
+  Accuracy: a logo must be the organization's CURRENT logo, not just its logo. Gesa's was taken from a
+  2021 press-release letterhead and was out of date; True Sky's came from a 2020 sharing image while
+  its header showed a newer mark. So:
+    - Take it from the live site's header first. A sharing image (og:image), site icon or document is
+      a fallback, and its date matters: use a document or image from the last 12 months, or confirm an
+      older one against a newer source that shows the same logo.
+    - After adding or changing any logo, run python3 feeds/mergers/tools/verify_logos.py <slug> ...;
+      every Monday run it with no slugs (all organizations). It compares each saved logo with the logo
+      in the organization's live header today. Only current, reviewed, confirmed or pinned counts.
+      MISMATCH: view /tmp/logo-verify/sheet-N.png; replace the logo, or, if it is deliberate (a crop of
+      the organization's own mark, a merged organization's pre-merger logo), run --ok <slug> --note
+      "<why>". STALE-RISK/BLOCKED/NO-SITE: find a source from the last 12 months that shows the same
+      logo and run --confirm <slug> --source <url> --date YYYY-MM-DD, or replace it. Run --ok/--confirm
+      one at a time (they share one state file). RETRY: run again later. Don't re-request a site that
+      has started refusing you.
+    - A logo Sean supplies is added with --pin and never second-guessed.
+    - List any logo still unresolved (MISMATCH, STALE-RISK, BLOCKED, NO-SITE) in the morning message.
   Never use: the acquirer's logo on a merged organization, online-banking product marks ("It's Me 247",
   "My247"), anniversary or award badges, NCUA/Equal Housing marks, signatures, photos or a third party's
   own logo. Once a site has refused you (403), don't request it again with different headers. A tiny

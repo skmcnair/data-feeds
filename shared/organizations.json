@@ -170,16 +170,18 @@
       "website": "https://www.suncoast.com",
       "state": "FL",
       "logo": {
-        "file": "suncoast-v1.png",
-        "version": 1,
+        "file": "suncoast-v2.png",
+        "version": 2,
         "style": "color",
-        "source_url": "https://edge.sitecorecloud.io/suncoastcre57dd-suncoast-suncoastprod-d848/media/Project/suncoast/Files/Press-Releases/2025/Suncoast-Credit-Union-Scott-Binder-Press-Release.pdf",
-        "fingerprint": "c801c300cc01c92bcbb5cd9cce5ace55c71ccc94ca9bc619ca15cd96c100c800",
-        "aspect": 3.518,
+        "source_url": "https://edge.sitecorecloud.io/suncoastcre57dd-suncoast-suncoastprod-d848/media/Project/suncoast/Files/Press-Releases/2026/FINAL-Juntos-y-con-Ritmo-News-Release_RH.pdf",
+        "fingerprint": "c801c320cc01c92bcbb5cd9cce5bce55c71ccc94ca9bc619ca15cd96c952c000",
+        "aspect": 3.531,
         "pinned": false,
         "added": "2026-11-21",
         "checked": "2026-11-21",
-        "previous": [],
+        "previous": [
+          "suncoast-v1.png"
+        ],
         "ignored": []
       }
     },
@@ -236,16 +238,18 @@
       "website": "https://www.TrueSkyCU.org",
       "state": "OK",
       "logo": {
-        "file": "true-sky-v1.png",
-        "version": 1,
+        "file": "true-sky-v2.png",
+        "version": 2,
         "style": "color",
-        "source_url": "https://trueskycu.org/wp-content/uploads/2020/09/TrueSKy-logo-Retina-01.png",
-        "fingerprint": "005800580058005800de001c82dc81c0a6aaeeba9c549c6490d4929ce524d125",
-        "aspect": 2.067,
+        "source_url": "https://trueskycu.org/wp-content/uploads/2026/10/TrueSky-Powered-by-RBFCU-HORZ-Logo-Lockup-1500x2881-1.png",
+        "fingerprint": "b2a2b262906895ad1dad1928133293929332933292a692ae0002b19abd923cb0",
+        "aspect": 4.376,
         "pinned": false,
         "added": "2026-11-21",
         "checked": "2026-11-21",
-        "previous": [],
+        "previous": [
+          "true-sky-v1.png"
+        ],
         "ignored": []
       }
     },
@@ -867,16 +871,18 @@
       "website": "http://www.gesa.com",
       "state": "WA",
       "logo": {
-        "file": "gesa-v1.png",
-        "version": 1,
+        "file": "gesa-v2.png",
+        "version": 2,
         "style": "color",
-        "source_url": "https://www.yakima.org/img/pdf/1891.pdf",
-        "fingerprint": "c910a644364c2d3b099b6d59606311b13193a56fc64c921caa6c64e244f3a8d5",
-        "aspect": 2.339,
-        "pinned": false,
+        "source_url": "https://www.gesa.com/",
+        "fingerprint": "7200c900b440302032d56ac06ab572b94ae152a652d5ea0090808c00d9006200",
+        "aspect": 2.217,
+        "pinned": true,
         "added": "2026-11-21",
         "checked": "2026-11-21",
-        "previous": [],
+        "previous": [
+          "gesa-v1.png"
+        ],
         "ignored": []
       }
     },
@@ -1865,16 +1871,18 @@
       "website": "https://www.sjpfcu.org/",
       "state": "NY",
       "logo": {
-        "file": "sjp-fcu-v1.png",
-        "version": 1,
+        "file": "sjp-fcu-v2.png",
+        "version": 2,
         "style": "color",
-        "source_url": "https://www.sjpfcu.org/wp-content/uploads/2016/08/cropped-favicon-192x192.png",
-        "fingerprint": "b140bca16ca9dcd9f9c8a9b08846c16ca17270f0a5b0c718e61868221c804600",
-        "aspect": 0.979,
+        "source_url": "https://sjpfcu.wpengine.com/wp-content/uploads/2016/07/cropped-sjpfcu-logo.png",
+        "fingerprint": "acb6a0d434912d67aa67ac666d364c6612221000944984d926ca2daaacaab813",
+        "aspect": 7.641,
         "pinned": false,
         "added": "2026-11-21",
         "checked": "2026-11-21",
-        "previous": [],
+        "previous": [
+          "sjp-fcu-v1.png"
+        ],
         "ignored": []
       }
     },

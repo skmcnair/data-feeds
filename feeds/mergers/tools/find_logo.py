@@ -40,8 +40,18 @@ MAX_PER_SOURCE = 4
 ARCHIVE_OK = True
 
 def get(url, n=3_000_000):
-    r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=25)
-    return r.read(n), r.geturl()
+    """Fetch a URL. A dropped connection or timeout is retried once; a refusal (HTTP 4xx/5xx) is not."""
+    import time
+    for attempt in (1, 2):
+        try:
+            r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=25)
+            return r.read(n), r.geturl()
+        except urllib.error.HTTPError:
+            raise
+        except Exception:
+            if attempt == 2:
+                raise
+            time.sleep(3)
 
 def ncua_web(ch):
     try:
@@ -146,9 +156,11 @@ def css_logos(t, base):
                     pass
     out = []
     for css, b in sheets:
-        for m in re.finditer(r"([^{}]*(?:logo|brand)[^{}]*)\{([^}]*)\}", css, re.I):
+        for m in re.finditer(r"([^{}]*)\{([^}]*)\}", css):
             u = re.search(r"background(?:-image)?\s*:[^;]*url\(\s*[\"']?([^\"')]+)", m.group(2), re.I)
-            if u and not u.group(1).startswith("data:"):
+            if not u or u.group(1).startswith("data:"):
+                continue
+            if re.search(r"logo|brand", m.group(1), re.I) or re.search(r"logo", u.group(1).split("/")[-1], re.I):
                 out.append((7, "url", urllib.parse.urljoin(b, u.group(1)), "css " + m.group(1).strip()[:80]))
     return out
 
@@ -194,6 +206,7 @@ def save(slug, n, origin, kind, val, page_text, fetch_prefix=""):
         data, _ = get(fetch_prefix + val, 8_000_000)
         if len(data) < 300:
             return None
+        data = re.sub(rb"encoding=[\"']utf-16[\"']", b'encoding="utf-8"', data, flags=re.I)  # mislabeled SVGs
         ext = "svg" if (val.lower().split("?")[0].endswith(".svg") or data.lstrip()[:5] in (b"<?xml", b"<svg ")) else \
             (re.search(r"\.(png|webp|jpe?g|gif)", val, re.I) or [None, "png"])[1].lower().replace("jpeg", "jpg")
     p = f"{d}/{n}-{origin}.{ext}"
