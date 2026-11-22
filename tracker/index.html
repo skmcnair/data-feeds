@@ -188,7 +188,7 @@
       rows.sort(function (a, b) {
         var x = a[state.sort] || '', y = b[state.sort] || '';
         var nx = parseFloat(String(x).replace(/[$,%BM]/g, '')), ny = parseFloat(String(y).replace(/[$,%BM]/g, ''));
-        var r = (!isNaN(nx) && !isNaN(ny) && /_m$|accuracy/.test(state.sort)) ? nx - ny : String(x).localeCompare(String(y));
+        var r = (!isNaN(nx) && !isNaN(ny) && /_m$|confidence/.test(state.sort)) ? nx - ny : String(x).localeCompare(String(y));
         return state.asc ? r : -r;
       });
       cols.forEach(function (c) { c.th.className = ((c.sort || c.name) === state.sort ? 'sorted' + (state.asc ? ' asc' : '') : ''); });

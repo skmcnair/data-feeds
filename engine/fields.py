@@ -1,6 +1,6 @@
 """Field types: how a value is cleaned when it comes in, and how it is
 written out in the published feed. Also derived fields, open/closed items
-and the accuracy score."""
+and the confidence score."""
 import datetime as dt
 import re
 
@@ -173,9 +173,9 @@ def is_open(s, rec, fields, today):
     return open_
 
 
-def accuracy(s, rec, fields, corrected):
-    """Score from how each fact was sourced, capped at 99%."""
-    weights = s["accuracy"]["weights"]
+def confidence(s, rec, fields, corrected):
+    """Confidence score from how each fact was sourced, capped at 99%."""
+    weights = s["confidence"]["weights"]
     scored = [f for f in s["fields"]
               if f.get("scored", f.get("required", False)) and f["type"] != "url"]
     if not scored:

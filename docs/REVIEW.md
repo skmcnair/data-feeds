@@ -134,7 +134,7 @@ Write it even when nothing is new: it is the run's heartbeat. Name it
   FDIC, a state regulator), `trade_press` (CU Today, Credit Union Times,
   CUInsight and other news), `aggregator` (sites that repackage data, such
   as creditunions.online) or `social` (LinkedIn and other social posts).
-  The accuracy score comes from these, so label them honestly.
+  The confidence score comes from these, so label them honestly.
 - `field_sources` points a field at the source it came from (by its place in
   your `sources` list, from 0) when that differs from the strongest one.
 - An update names the item by `id` (from `tracked` or `recheck`), changes

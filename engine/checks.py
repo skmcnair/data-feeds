@@ -65,9 +65,9 @@ def check_items(s, items):
             if f.get("pattern") and t not in ("date", "money", "int", "percent", "org") \
                     and not re.fullmatch(f["pattern"], v):
                 errs.append(f"{tag}: {n} {v!r} doesn't match its pattern")
-        if s["accuracy"]["enabled"] and it.get("accuracy") and \
-                not re.fullmatch(r"\d{1,2}%", it["accuracy"]):
-            errs.append(f"{tag}: accuracy {it['accuracy']!r} must be 1-99%")
+        if s["confidence"]["enabled"] and it.get("confidence") and \
+                not re.fullmatch(r"\d{1,2}%", it["confidence"]):
+            errs.append(f"{tag}: confidence {it['confidence']!r} must be 1-99%")
     return errs
 
 

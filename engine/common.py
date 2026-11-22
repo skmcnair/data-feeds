@@ -298,7 +298,7 @@ DEFAULTS = {
     "review": {"time": "06:37", "grace_minutes": 120, "lookback_days": 3,
                "monday_lookback_days": 30, "recheck_max": 25, "searches": []},
     "publish": {"max_age_days": None},
-    "accuracy": {"enabled": True, "weights": DEFAULT_WEIGHTS},
+    "confidence": {"enabled": True, "weights": DEFAULT_WEIGHTS},
     "health": {"collect_max_hours": 8},
     "trial": True,
 }
@@ -322,6 +322,8 @@ def load_feed(name):
     path = feed_dir(name) / "feed.yml"
     with open(path, encoding="utf-8") as f:
         raw = yaml.safe_load(f) or {}
+    if "accuracy" in raw and "confidence" not in raw:  # the setting's old name still works
+        raw["confidence"] = raw.pop("accuracy")
     s = _merge(DEFAULTS, raw)
     s["name"] = name
     check_settings(s)
@@ -365,7 +367,7 @@ def check_settings(s):
         if df["type"] not in ("date", "datetext"):
             errs.append("date_field must be a date or datetext field")
     reserved = {"id", "sort_date", "sources", "source_url", "updates", "added", "updated",
-                "accuracy", "accuracy_notes", "open", "last_checked"}
+                "confidence", "confidence_notes", "open", "last_checked"}
     for f in s["fields"]:
         if f.get("name") in reserved:
             errs.append(f"field {f['name']}: that name is reserved")

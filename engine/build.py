@@ -26,7 +26,7 @@ from common import (
     load_orgs, now_et, org_index, resolve_org, save_json, today_et,
 )
 from fields import (
-    accuracy, derived_value, history_text, is_open, normalize_value, output_field, summary,
+    confidence, derived_value, history_text, is_open, normalize_value, output_field, summary,
 )
 
 PAGES = f"https://{REPO.split('/')[0]}.github.io/{REPO.split('/')[1]}"
@@ -70,8 +70,8 @@ def build_item(s, rec, fields, corrected, orgs, idx, today):
     out["updated"] = rec.get("updated", "")
     out["last_checked"] = rec.get("last_checked", "")
     out["open"] = "yes" if is_open(s, rec, fields, today) else "no"
-    if s["accuracy"]["enabled"]:
-        out["accuracy"], out["accuracy_notes"] = accuracy(s, rec, fields, corrected)
+    if s["confidence"]["enabled"]:
+        out["confidence"], out["confidence_notes"] = confidence(s, rec, fields, corrected)
     return {k: ascii_text(v) if isinstance(v, str) else str(v) for k, v in out.items()}
 
 
@@ -96,8 +96,8 @@ def columns(s):
         if dv.get("tracker", True):
             cols.append({"name": dv["name"], "label": dv.get("label", dv["name"].replace("_", " ").title()),
                          "kind": "choice" if dv.get("groups") or dv.get("map") else "text"})
-    if s["accuracy"]["enabled"]:
-        cols.append({"name": "accuracy", "label": "Confidence", "kind": "percent", "note": "accuracy_notes"})
+    if s["confidence"]["enabled"]:
+        cols.append({"name": "confidence", "label": "Confidence", "kind": "percent", "note": "confidence_notes"})
     cols.append({"name": "updates", "label": "Updates", "kind": "text"})
     cols.append({"name": "source_url", "label": "Source", "kind": "url"})
     return cols

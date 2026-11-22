@@ -162,7 +162,7 @@ def main():
     expect(it["region"] == "New England", "derived groups")
     expect(it["headline"] == "Alpha CU and Beta FCU to merge", f"derived cases: {it['headline']}")
     expect(it["open"] == "yes", "open item")
-    expect(it["accuracy"] == "97%", f"accuracy from sources: {it['accuracy']} {it['accuracy_notes']}")
+    expect(it["confidence"] == "97%", f"confidence from sources: {it['confidence']} {it['confidence_notes']}")
     expect(" - needs member vote" in it["notes"], "ASCII dash")
     wl = json.loads((fd / "worklist.json").read_text())
     expect([x["slug"] for x in wl["logos_missing"]] == ["beta-fcu"], "worklist lists missing logos")

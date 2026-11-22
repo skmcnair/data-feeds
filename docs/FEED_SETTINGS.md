@@ -21,7 +21,7 @@ is a worked example.
 never renamed once a board uses it), a `type`, a `label`, and optionally
 `required`, `help` (guidance for Claude), `pattern` and `pattern_hint`
 (a rule the value must match, and how to explain it), `scored` (counts
-toward accuracy; required fields count by default) and `tracker: false`
+toward confidence; required fields count by default) and `tracker: false`
 (hide on the tracker page).
 
 | Type | Stored as | Published as |
@@ -41,8 +41,8 @@ toward accuracy; required fields count by default) and `tracker: false`
 
 Every published row also has `id`, `sort_date`, `source_url`, `sources`
 ("Label: url | ..."), `updates` (dated notes, newest first), `added`,
-`updated`, `last_checked`, `open` (yes/no), and with accuracy on,
-`accuracy` and `accuracy_notes`.
+`updated`, `last_checked`, `open` (yes/no), and with confidence on,
+`confidence` and `confidence_notes`.
 
 ## Identity and change over time
 
@@ -99,14 +99,11 @@ Collection runs on GitHub every three hours. Sites behind a login
 | `health.collect_max_hours` | Alert if collection is older than this (default 8). |
 | `message.new_line`, `message.update_line`, `message.notes` | How the morning message reads. Templates use published field names. |
 
-## Confidence (the `accuracy` setting)
+## Confidence
 
-Shown to Sean as "Confidence": the tracker column and morning messages say Confidence. The setting
-and the published fields keep their original names, `accuracy` and `accuracy_notes`, so boards that
-read them don't break.
-
-`accuracy: {enabled: true}` scores each row from how its facts were
+`confidence: {enabled: true}` scores each row from how its facts were
 sourced: primary and regulator sources 1.0, trade press 0.9, aggregators
 0.75, social media 0.7, blanks 0; Sean's corrections count as confirmed.
 The score is capped at 99%. Change the weights with
-`accuracy: {weights: {trade_press: 0.85}}`.
+`confidence: {weights: {trade_press: 0.85}}`. (This setting used to be called
+`accuracy`; the old name is still accepted.)
