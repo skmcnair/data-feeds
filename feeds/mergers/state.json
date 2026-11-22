@@ -566,16 +566,7 @@
     "reviewed": 15,
     "rejected": []
   },
-  "last_collect": "2026-11-22T05:00:28-05:00",
-  "last_collect_result": "partial",
-  "collect_errors": [
-    "Google News - CUInsight deals: https://news.google.com/rss/search?q=site%3Acuinsight.com%20%28acquire%20OR%20acquisition%20OR%20%22members%20approve%22%20OR%20%22completes%20merger%22%20OR%20%22intent%20to%20merge%22%29%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable",
-    "Google News - credit union merger: https://news.google.com/rss/search?q=%22credit%20union%22%20merger%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable",
-    "Google News - intent to merge: https://news.google.com/rss/search?q=%22credit%20union%22%20%22intent%20to%20merge%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable",
-    "Google News - CU buys bank: https://news.google.com/rss/search?q=%22credit%20union%22%20acquire%20bank%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable",
-    "Google News - CU Today: https://news.google.com/rss/search?q=site%3Acutoday.info%20merger%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable",
-    "Google News - CU Today (merge/acquire): https://news.google.com/rss/search?q=site%3Acutoday.info%20merge%20OR%20acquire%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable",
-    "Google News - CU Times: https://news.google.com/rss/search?q=site%3Acutimes.com%20merger%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable",
-    "Google News - CUInsight: https://news.google.com/rss/search?q=site%3Acuinsight.com%20merge%20when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTP Error 503: Service Unavailable"
-  ]
+  "last_collect": "2026-11-22T08:12:11-05:00",
+  "last_collect_result": "ok",
+  "collect_errors": []
 }
