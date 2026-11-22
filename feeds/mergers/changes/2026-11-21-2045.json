@@ -1,0 +1,1027 @@
+{
+ "feed": "mergers",
+ "run": {
+  "started": "2026-11-21T20:30:00-05:00",
+  "finished": "2026-11-21T20:45:00-05:00",
+  "searches": 12,
+  "errors": []
+ },
+ "reviewed": [],
+ "adds": [],
+ "updates": [
+  {
+   "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+   "set": {
+    "ceo": "Jerilee Beaudoin"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Sunmark (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68710",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "2026-11-10-max-credit-union-first-financial-bank",
+   "set": {
+    "partner_ceo": "Kyle Goodwin IV"
+   },
+   "note": "CEO names cleaned up",
+   "sources": [
+    {
+     "label": "Credit Union Daily",
+     "url": "https://thecudaily.com/in-ninth-such-deal-of-2026-max-credit-union-to-acquire-first-financial-bank-of-bessemer/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0
+   }
+  },
+  {
+   "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+   "set": {
+    "acquirer_ceo": "Brad Bergmooser",
+    "ceo": "Brad Bergmooser"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Financial Plus",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68646",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "Danielle Milner",
+    "partner_ceo": "John Gallagher",
+    "ceo": "Danielle Milner"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, First Responders CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67837",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Lynn Firemen's FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/484",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+   "set": {
+    "ceo": "Douglas Patterson"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Streator Onized CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68226",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "2026-10-01-consumers-credit-union-scott-credit-union",
+   "set": {
+    "partner_ceo": "Frank Padak",
+    "ceo": "Sean Rathjen"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Scott CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66370",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Consumers CU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68588",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
+   "set": {
+    "partner_ceo": "Daniel DeLaRosa"
+   },
+   "note": "CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Greater Nevada",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68228",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0
+   }
+  },
+  {
+   "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+   "set": {
+    "partner_ceo": "Joyce Flynn",
+    "ceo": "John Holt"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, New Haven Teachers FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/19",
+     "type": "regulator"
+    },
+    {
+     "label": "Tyfone",
+     "url": "https://tyfone.com/news/breaking-news/in-connecticut-the-credit-union-mergers-keep-coming/",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+   "set": {
+    "partner_ceo": "Joseph Kregul",
+    "ceo": "Michael Valentine"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, HealthCare Associates CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, BCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "2026-05-13-michigan-state-university-federal-credit-union-gold-coast-bank",
+   "set": {
+    "ceo": "April Clobes"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA call report data, Jun 30, 2026",
+     "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "2026-05-05-team-one-credit-union-case-credit-union",
+   "set": {
+    "partner_ceo": "Jeffrey Benson",
+    "ceo": "Derrick Barber"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, CASE CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61908",
+     "type": "regulator"
+    },
+    {
+     "label": "Team One partnership page",
+     "url": "https://www.teamonecu.org/bolder-together",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+   "set": {
+    "partner_ceo": "Chris Leggett",
+    "ceo": "Matthew Jernigan"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, LGE (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68581",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Ascend (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7397",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
+   "set": {
+    "acquirer_ceo": "Todd Hall",
+    "ceo": "Todd Hall",
+    "completed": "2026-09-01",
+    "notes": "Legally effective Sep 1, 2026. Piedmont Advantage operates as a division of Truliant during the transition."
+   },
+   "note": "Completed date set (2026-09-01); Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "CU Times, Apr 22, 2026",
+     "url": "https://www.cutimes.com/amp/2026/04/22/north-carolina-credit-unions-announce-merger-plans-for-next-year/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Piedmont Advantage merger page",
+     "url": "https://www.pacu.com/strongertogether/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0,
+    "completed": 1,
+    "notes": 1
+   }
+  },
+  {
+   "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
+   "set": {
+    "ceo": "Mark Sekula"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, RBFCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
+   "set": {
+    "partner_ceo": "Mike McDonald",
+    "ceo": "Jennifer Ventimiglia",
+    "completed": "2026-10-01",
+    "notes": "Legally effective Oct 1, 2026. Vanderbilt keeps its name and brand as a division of Fortera."
+   },
+   "note": "Completed date set (2026-10-01); Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Vanderbilt CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68119",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Fortera (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9759",
+     "type": "regulator"
+    },
+    {
+     "label": "Fortera/Vanderbilt completion release (CUInsight)",
+     "url": "https://www.cuinsight.com/?p=216177",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1,
+    "completed": 2,
+    "notes": 2
+   }
+  },
+  {
+   "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+   "set": {
+    "ceo": "Todd Gunderson"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, CU1 (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-credit-union-1-first-class-community-credit-union",
+   "set": {
+    "ceo": "Todd Gunderson"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, CU1 (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+   "set": {
+    "ceo": "Michael Waylett"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Magnolia FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/224",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "Michael Korhnak",
+    "partner_ceo": "Sheree Strayer",
+    "ceo": "Michael Korhnak"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Allegent (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/205",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Penn Hills Municipal FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16636",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-bp-federal-credit-union-southern-star-credit-union",
+   "set": {
+    "ceo": "Robert Corolla"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, BP FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24445",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+   "set": {
+    "partner_ceo": "Phillip Stadler",
+    "ceo": "Darrin Blankenbeckler"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Fort Morgan Schools FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/10180",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Sterling FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2840",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+   "set": {
+    "acquirer_ceo": "Roger Ballard",
+    "ceo": "Roger Ballard"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Nuvision (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
+   "set": {
+    "ceo": "Todd Cain"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Sharefax (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61090",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+   "set": {
+    "ceo": "Margie Click"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Agriculture FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16400",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+   "set": {
+    "ceo": "William Hawkins"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Healthcare Systems FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24564",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+   "set": {
+    "partner_ceo": "Mark Levien",
+    "ceo": "Cameron Dickey"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Baker Hughes FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16271",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Cy-Fair FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11452",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+   "set": {
+    "partner_ceo": "Guy Trenhaile",
+    "ceo": "Jay Kruse"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Healthcare Plus FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23371",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Norstar (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4951",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+   "set": {
+    "ceo": "Timothy Rask"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Daniels-Sheridan FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5063",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+   "set": {
+    "acquirer_ceo": "Craig Esrael",
+    "partner_ceo": "Terrie Snavely",
+    "ceo": "Craig Esrael"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, First South Financial (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24963",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Delta Refining FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9310",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+   "set": {
+    "acquirer_ceo": "Joel Forbess",
+    "partner_ceo": "Kenneth Newberry",
+    "ceo": "Joel Forbess"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Kimberly Clark CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60928",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, West Tennessee CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60726",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+   "set": {
+    "ceo": "Tim Green"
+   },
+   "note": "Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, F&A FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+   "set": {
+    "acquirer_ceo": "Thomas Gourdin",
+    "ceo": "Thomas Gourdin"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Firefighters CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "Bill Bynum",
+    "partner_ceo": "Brooke Smedley",
+    "ceo": "Bill Bynum"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "Atlanta Journal-Constitution, Aug 19, 2025",
+     "url": "https://www.ajc.com/business/2025/08/atlanta-credit-union-merging-with-top-black-and-woman-owned-financial-co-op",
+     "type": "trade_press"
+    },
+    {
+     "label": "NCUA record, NRS Community Development FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24583",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "Charles Kirsch",
+    "ceo": "Charles Kirsch"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, SJP FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3306",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "Daniel Sutton",
+    "partner_ceo": "Karen Anderson",
+    "ceo": "Daniel Sutton"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Kemba (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61810",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Cincinnati Interagency FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7088",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "Eugene Novello",
+    "ceo": "Eugene Novello"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Tech CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68225",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
+   "set": {
+    "acquirer_ceo": "Christina O'Brien",
+    "ceo": "Christina O'Brien"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Robins Financial (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68670",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+   "set": {
+    "acquirer_ceo": "Michael Fitzgerald",
+    "ceo": "Michael Fitzgerald"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Port Washington FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18635",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0
+   }
+  },
+  {
+   "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "Dale Hansard",
+    "partner_ceo": "Mickie Gregory",
+    "ceo": "Dale Hansard",
+    "completed": "Sep 2026",
+    "notes": "Reported complete Sep 30, 2026; exact legal date not published (NCUA still lists Plains as active)."
+   },
+   "note": "Completed date set (Sep 2026); Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Caprock FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16813",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Plains FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12274",
+     "type": "regulator"
+    },
+    {
+     "label": "Yahoo Finance (via Google News), Sep 30, 2026",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZE5adThmd0JweGFva29xdXFZazlLc3c4QlMzNXp3Z2IzZ0lqQm1hY0JoTEZ2TWJXSVZldElQelkwNzJ1Skl2V05CZ1BHTFViY0dXQVhKc0pZc3RNQ2RzVTZ6eFFUSlZDaTJOX282akRnY0FXanJNNEdqXzUxcmQtYXc3eEdDTVhjZUI5ZHlWd1U1OHVtYXc5WkhXM3I0dDJySU1MWg?oc=5",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "partner_ceo": 1,
+    "ceo": 0,
+    "completed": 2,
+    "notes": 2
+   }
+  },
+  {
+   "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+   "set": {
+    "partner_ceo": "Michael Hurt",
+    "ceo": "Travis Markley"
+   },
+   "note": "Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Martin County Co-Op CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67762",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Hoosier Hills (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60768",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1
+   }
+  },
+  {
+   "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
+   "set": {
+    "acquirer_ceo": "John Harmond",
+    "ceo": "John Harmond",
+    "completed": "Q3 2026"
+   },
+   "note": "Completed date set (Q3 2026); Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, CenturyFirst",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24668",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Water's Edge FCU (inactive)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8593",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "acquirer_ceo": 0,
+    "ceo": 0,
+    "completed": 1
+   }
+  },
+  {
+   "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
+   "set": {
+    "ceo": "Michael Powers",
+    "completed": "Q3 2026"
+   },
+   "note": "Completed date set (Q3 2026); Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Garden Savings FCU",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18710",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, GAF Linden Employees FCU (inactive)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2348",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0,
+    "completed": 1
+   }
+  },
+  {
+   "id": "undated-texas-trust-credit-union-my-credit-union",
+   "set": {
+    "ceo": "Jim Minge",
+    "completed": "Q4 2026"
+   },
+   "note": "Completed date set (Q4 2026); Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Texas Trust (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68434",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, My CU (inactive)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68545",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0,
+    "completed": 1
+   }
+  },
+  {
+   "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+   "set": {
+    "partner_ceo": "Matt Bell",
+    "ceo": "Ryan Ross",
+    "completed": "Oct 2026",
+    "notes": "Former Bluegrass members moved to UK Credit Union cards and online banking on Oct 1, 2026; NCUA shows Bluegrass's last call report was Sep 30. Exact legal date not published."
+   },
+   "note": "Completed date set (Oct 2026); Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, Bluegrass Community FCU (inactive)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, UKFCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24165",
+     "type": "regulator"
+    },
+    {
+     "label": "UK Credit Union homepage (Bluegrass conversion notice)",
+     "url": "https://ukcreditunion.org/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1,
+    "completed": 2,
+    "notes": 2
+   }
+  },
+  {
+   "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+   "set": {
+    "partner_ceo": "William Christopherson",
+    "ceo": "Jake Bowman",
+    "completed": "Q4 2026"
+   },
+   "note": "Completed date set (Q4 2026); Continuing CEO set; CEO names cleaned up",
+   "sources": [
+    {
+     "label": "NCUA record, G&R FCU (inactive)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, American United FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "partner_ceo": 0,
+    "ceo": 1,
+    "completed": 0
+   }
+  },
+  {
+   "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+   "set": {
+    "ceo": "Jeremy Presta",
+    "completed": "Q4 2026"
+   },
+   "note": "Completed date set (Q4 2026); Continuing CEO set",
+   "sources": [
+    {
+     "label": "NCUA record, Park Side (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68647",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Lincoln County CU (inactive)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63199",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "ceo": 0,
+    "completed": 1
+   }
+  }
+ ],
+ "rechecked": []
+}

@@ -89,6 +89,19 @@ instructions: |
   or closing still to come) > Members approved (the merging credit union's members voted yes) >
   Completed (legal effective date), or Called off. For bank purchases, skip Members approved.
   If a member vote fails, set Called off and say so in notes.
+  Completing a deal: in the same update that sets Completed, also set completed, ceo, expected_close
+  "Completed", clear next_steps and freeze sizes. completed is the legal effective date ("Legal Day 1")
+  from the credit union's merger page, a release or news. When no source gives the day, use what the
+  sources do prove: a month a source states ("Oct 2026"), otherwise the quarter from NCUA filings
+  (merging CU's last call report Jun 30 and Inactive by the Sep 30 cycle = "Q3 2026"; filed a Sep 30
+  report and now Inactive = "Q4 2026"). Then keep looking for the exact day.
+  Completed deals are not on the worklist, so every run also takes up to 5 Completed deals whose
+  completed is not a full date or whose ceo is blank, and searches for the missing facts
+  ("<partner> merger effective", the continuing credit union's merger or news page, NCUA press
+  releases, state bulletins).
+  CEO names: the name the person uses publicly, first and last, no middle initials. NCUA lists legal
+  names (Truliant's Todd Hall is "HALL, WILLIAM"; HOPE's Bill Bynum is "BYNUM, WILLIAM"), so for
+  credit unions over $1B confirm the name on the credit union's own site or a recent release.
 
 date_field: announced
 key: [acquirer, partner]
@@ -133,9 +146,9 @@ fields:
     label: Member vote
     help: Date of the merging credit union's member vote (NCUA's proposed-merger list gives it). Blank for banks.
   - name: completed
-    type: date
+    type: datetext
     label: Completed
-    help: Legal effective date, once completed.
+    help: Legal effective date ("Legal Day 1"); required once status is Completed. If no source gives the day, the month a source states (Oct 2026), else the quarter NCUA filings prove (Q3 2026). See "Completing a deal".
   - name: new_name
     type: text
     label: Name after merger
@@ -143,15 +156,15 @@ fields:
   - name: ceo
     type: text
     label: Continuing CEO
-    help: Who will lead the combined credit union, only when a source says so.
+    help: Who leads the combined credit union. For a CU merger or bank purchase, the continuing credit union's CEO (the acquirer_ceo person) unless a source names someone else, such as a named successor or the partner's CEO. For a merger of equals, only when a source names them. Never blank when acquirer_ceo is known, except a merger of equals.
   - name: acquirer_ceo
     type: text
     label: Continuing CU CEO
-    help: The continuing credit union's current president/CEO, first and last name (NCUA's record gives it; news wins when newer).
+    help: The continuing credit union's current president/CEO, first and last name as they use it publicly, no middle initials (NCUA's record gives a legal name; the credit union's own site or news wins).
   - name: partner_ceo
     type: text
     label: Partner CEO
-    help: The merging credit union's or bank's current president/CEO, first and last name. For completed deals, the last CEO before the merger.
+    help: The merging credit union's or bank's current president/CEO, first and last name as they use it publicly, no middle initials. For completed deals, the last CEO before the merger.
   - name: acquirer_city
     type: text
     label: Continuing CU city
