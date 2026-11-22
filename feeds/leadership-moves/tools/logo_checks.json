@@ -1,0 +1,278 @@
+{
+ "7-17-cu": {
+  "checked": "2026-11-22",
+  "file": "7-17-cu-v1.png",
+  "result": "current"
+ },
+ "afena-fcu": {
+  "checked": "2026-11-22",
+  "file": "afena-fcu-v1.png",
+  "result": "current"
+ },
+ "all-one": {
+  "checked": "2026-11-22",
+  "file": "all-one-v1.png",
+  "result": "current"
+ },
+ "altura-cu": {
+  "checked": "2026-11-22",
+  "file": "altura-cu-v1.png",
+  "result": "current"
+ },
+ "american-eagle": {
+  "checked": "2026-11-22",
+  "confirmed": {
+   "date": "2026-11-09",
+   "source": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html"
+  },
+  "file": "american-eagle-v1.png",
+  "note": "site refused us on 2026-11-22 (403); not asked again for 30 days; source undated",
+  "result": "confirmed"
+ },
+ "andrews-fcu": {
+  "checked": "2026-11-22",
+  "file": "andrews-fcu-v1.png",
+  "result": "current"
+ },
+ "apgfcu": {
+  "checked": "2026-11-22",
+  "file": "apgfcu-v1.png",
+  "result": "current"
+ },
+ "arsenal-cu": {
+  "checked": "2026-11-22",
+  "file": "arsenal-cu-v1.png",
+  "result": "current"
+ },
+ "aurora-fcu": {
+  "checked": "2026-11-22",
+  "file": "aurora-fcu-v1.png",
+  "result": "current"
+ },
+ "chartway": {
+  "checked": "2026-11-22",
+  "file": "chartway-v1.png",
+  "result": "current"
+ },
+ "consumers-cu": {
+  "checked": "2026-11-22",
+  "file": "consumers-cu-v2.png",
+  "live_sig": [
+   [
+    "12232d63346636d41a5889591d9134953a992b092b090400948019801d801d80",
+    4.959
+   ],
+   [
+    "600060946091690261266086622a622268269426808408000160226002602260",
+    4.967
+   ]
+  ],
+  "result": "current"
+ },
+ "credit-union-one": {
+  "checked": "2026-11-22",
+  "file": "credit-union-one-v1.png",
+  "result": "current"
+ },
+ "financial-center": {
+  "checked": "2026-11-22",
+  "confirmed": {
+   "date": "2026-11-22",
+   "source": "https://healthsavingshub.fcfcu.com/"
+  },
+  "file": "financial-center-v1.png",
+  "note": "site refused us on 2026-11-22 (403); not asked again for 30 days; source undated",
+  "result": "confirmed"
+ },
+ "first-city-cu": {
+  "checked": "2026-11-22",
+  "file": "first-city-cu-v1.png",
+  "note": "site refused us on 2026-11-22 (403); not asked again for 30 days; source undated",
+  "result": "BLOCKED"
+ },
+ "forum-cu": {
+  "checked": "2026-11-22",
+  "file": "forum-cu-v1.png",
+  "note": "site refused us on 2026-11-22 (403); not asked again for 30 days; source dated 2021-03-01; confirm against a source from the last 12 months",
+  "result": "STALE-RISK"
+ },
+ "fremont-fcu": {
+  "checked": "2026-11-22",
+  "file": "fremont-fcu-v1.png",
+  "result": "current"
+ },
+ "georgia-s-own": {
+  "checked": "2026-11-22",
+  "file": "georgia-s-own-v1.png",
+  "result": "current"
+ },
+ "gfa-fcu": {
+  "checked": "2026-11-22",
+  "file": "gfa-fcu-v1.png",
+  "result": "current"
+ },
+ "greater-iowa-cu": {
+  "checked": "2026-11-22",
+  "file": "greater-iowa-cu-v1.png",
+  "result": "current"
+ },
+ "interra": {
+  "checked": "2026-11-22",
+  "file": "interra-v1.png",
+  "result": "current"
+ },
+ "iucu": {
+  "checked": "2026-11-22",
+  "file": "iucu-v1.png",
+  "result": "current"
+ },
+ "jeanne-d-arc-cu": {
+  "checked": "2026-11-22",
+  "file": "jeanne-d-arc-cu-v1.png",
+  "result": "current"
+ },
+ "journey-fcu": {
+  "checked": "2026-11-22",
+  "file": "journey-fcu-v1.png",
+  "result": "current"
+ },
+ "lafcu": {
+  "checked": "2026-11-22",
+  "file": "lafcu-v1.png",
+  "result": "current"
+ },
+ "lake-trust": {
+  "checked": "2026-11-22",
+  "file": "lake-trust-v1.png",
+  "result": "current"
+ },
+ "mid-oregon-cu": {
+  "checked": "2026-11-22",
+  "file": "mid-oregon-cu-v1.png",
+  "result": "current"
+ },
+ "navy-federal": {
+  "checked": "2026-11-22",
+  "file": "navy-federal-v1.png",
+  "result": "current"
+ },
+ "park-view-fcu": {
+  "checked": "2026-11-22",
+  "file": "park-view-fcu-v1.png",
+  "result": "current"
+ },
+ "peach-state-fcu": {
+  "checked": "2026-11-22",
+  "file": "peach-state-fcu-v1.png",
+  "result": "current"
+ },
+ "peak-cu": {
+  "checked": "2026-11-22",
+  "file": "peak-cu-v1.png",
+  "result": "current"
+ },
+ "plus-cu": {
+  "checked": "2026-11-22",
+  "file": "plus-cu-v1.png",
+  "result": "current"
+ },
+ "point-west-cu": {
+  "checked": "2026-11-22",
+  "file": "point-west-cu-v1.png",
+  "result": "current"
+ },
+ "redwood-cu": {
+  "file": "redwood-cu-v2.png",
+  "live_sig": [
+   [
+    "0000000000000000000000000000000000000000000000000000000000000000",
+    1.5
+   ]
+  ],
+  "note": "Live header logo is a lazy-load placeholder and the site only exposes the tree icon, which matches. Saved lockup is from RCU's own Spring 2026 Redwood Review (image.info.redwoodcu.org); same lockup on its May 8, 2026 press-release letterhead.",
+  "ok": true,
+  "reviewed": "2026-11-22"
+ },
+ "rev-fcu": {
+  "checked": "2026-11-22",
+  "file": "rev-fcu-v1.png",
+  "result": "current"
+ },
+ "service-cu": {
+  "checked": "2026-11-22",
+  "file": "service-cu-v1.png",
+  "result": "current"
+ },
+ "sun-east-fcu": {
+  "checked": "2026-11-22",
+  "file": "sun-east-fcu-v1.png",
+  "result": "current"
+ },
+ "tba-cu": {
+  "checked": "2026-11-22",
+  "file": "tba-cu-v1.png",
+  "result": "current"
+ },
+ "tdecu": {
+  "checked": "2026-11-22",
+  "file": "tdecu-v1.png",
+  "result": "current"
+ },
+ "tlc": {
+  "checked": "2026-11-22",
+  "file": "tlc-v1.png",
+  "result": "current"
+ },
+ "topline": {
+  "checked": "2026-11-22",
+  "file": "topline-v1.png",
+  "result": "current"
+ },
+ "united-fcu": {
+  "checked": "2026-11-22",
+  "file": "united-fcu-v1.png",
+  "note": "site refused us on 2026-11-22 (403); not asked again for 30 days; source undated",
+  "result": "BLOCKED"
+ },
+ "united-heritage-cu": {
+  "checked": "2026-11-22",
+  "file": "united-heritage-cu-v1.png",
+  "result": "current"
+ },
+ "unitus": {
+  "checked": "2026-11-22",
+  "file": "unitus-v1.png",
+  "result": "current"
+ },
+ "usalliance": {
+  "checked": "2026-11-22",
+  "file": "usalliance-v1.png",
+  "result": "current"
+ },
+ "usf-cu": {
+  "checked": "2026-11-22",
+  "file": "usf-cu-v1.png",
+  "result": "current"
+ },
+ "vystar": {
+  "checked": "2026-11-22",
+  "confirmed": {
+   "date": "2026-11-22",
+   "source": "https://www.vystarcu.org/"
+  },
+  "file": "vystar-v1.png",
+  "note": "no logo found on the live site; source undated",
+  "result": "confirmed"
+ },
+ "westconsin-cu": {
+  "checked": "2026-11-22",
+  "file": "westconsin-cu-v1.png",
+  "result": "current"
+ },
+ "whitefish-cu": {
+  "checked": "2026-11-22",
+  "file": "whitefish-cu-v1.png",
+  "note": "site refused us on 2026-11-22 (403); not asked again for 30 days; source dated 2024-05-01; confirm against a source from the last 12 months",
+  "result": "STALE-RISK"
+ }
+}

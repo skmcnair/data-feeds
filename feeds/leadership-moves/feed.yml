@@ -46,10 +46,20 @@ instructions: |
     "Confirmed by <source>" with that source so it is on the row.
   - LinkedIn: never log in and never open LinkedIn pages directly (LinkedIn refuses automated
     reading). Find public posts through WebSearch results only, e.g. site:linkedin.com/posts
-    "credit union" "new role", and Sean's two pages: CU Circle
-    (linkedin.com/company/cucircle-the-credit-union-ai-community) and The Credit Union Connection
+    "credit union" "new role", and The Credit Union Connection's page
     (linkedin.com/company/the-credit-union-connection; its website thecreditunionconnection.com
     is collected directly). Use what the search result shows; never guess what a post says.
+  - CU Circle: Sean's RSS.app feed of CU Circle's LinkedIn posts (the "CU Circle" source) holds only
+    the newest ~16 posts, about 11 days, and the inbox keeps 240 characters of each. Every run, read
+    it in full with python3 feeds/leadership-moves/tools/cu_circle.py (Mondays: --days 30) and
+    handle every post before it falls off. Each post is CU Circle reposting a move ("Leadership
+    Appointment" / "Leadership Elevation"), often days or weeks after the credit union announced it:
+    find the credit union's own release or a story, date the row from that (announced = the first
+    public announcement, not CU Circle's post date) and list the post as a social source after it.
+    A post with no other source can be a LinkedIn-only row. Skip posts whose move was first announced
+    before Oct 20, 2026 (St. Mary's CU, Heritage Family CU and Service One CU on Nov 22 were reposts
+    of Sept 30, Oct 19 and Oct 5 releases), roles below Director (branch managers), and posts that
+    hide the surname ("Brandon S." at Worth CU) unless another source names the person.
   - CU Times article bodies are paywalled and don't open (only the headline and summary). Use CU
     Times roundups ("Credit Unions in 11 States Appoint New CEOs", "Career Moves") as leads only and
     confirm each move from the credit union's release, another outlet or its own site.
@@ -73,10 +83,49 @@ instructions: |
     "Federal Credit Union", confirmed on its site; brand names like LAFCU or BECU go in the
     organization list as the short name, and as the name only when that is the legal name).
   - Refresh org_assets and org_members only for Announced rows, when NCUA has a newer quarter.
-  Logos: every credit union needs one. Run python3 feeds/mergers/tools/find_logo.py <slug> ...
-  (shared with the mergers feed; follow its notes on Cloudflare-blocked sites, press-release PDFs and
-  what never to use), view /tmp/logo-candidates/sheet-N.png, then engine/logos.py add. List any
-  credit union still without a logo in the morning message.
+  Logos: every credit union needs its CURRENT logo, found the day it is first added. Use only this
+  feed's own tools (feeds/leadership-moves/tools); never another feed's tools, files or notes.
+    1. python3 feeds/leadership-moves/tools/find_logo.py <slug> ...   then view every
+       /tmp/logo-candidates/sheet-N.png. It reads the live homepage (header, schema.org logo,
+       og:image, CSS background logos, large site icons; follows redirect stubs), the press-wire
+       releases this feed cites for the credit union (PR Newswire, GlobeNewswire, Business Wire, EIN
+       Presswire carry the issuer's logo), Wikimedia Commons and Wikipedia. Take the logo in the live
+       header first; a clean og:image is the fallback.
+    2. Sites that refuse (401/403/429, e.g. Cloudflare's bot check) are remembered for 30 days in
+       tools/refused_sites.json and not asked again. Never retry one with other headers, a cache, a
+       mirror or curl. Instead WebSearch "<name> logo", "<name> press release pdf" and "<name> 2026",
+       then rerun with:
+         --page slug=<url>   the credit union's other own domains (newsletters, careers, product
+                             sub-sites), chamber, sponsor and member-directory pages, its releases
+         --pdf slug=<url>    its own press-release PDFs (often reposted on creditunions.com, chambers
+                             and partners); the letterhead carries the logo, transparency kept
+         --image slug=<url>  an image address seen in a search result
+       On someone else's page the finder keeps only images that name the credit union, which drops the
+       publisher's own logo, share buttons and headshots; still check every candidate.
+       What worked: Redwood from its own Spring 2026 newsletter (image.info.redwoodcu.org), Financial
+       Center First from its own healthsavingshub.fcfcu.com, American Eagle from its PR Newswire
+       release, United FCU from the St. Joseph Today member directory, Redwood's dating from its May
+       2026 press-release PDF on creditunions.com. CUInsight company pages draw logos with JavaScript
+       and yield nothing; LinkedIn is never opened.
+    3. Lockups: when the only mark carries "powered by X", "a division of X" or an anniversary badge,
+       crop the credit union's own mark out where a divider or blank row separates them; otherwise
+       keep looking.
+    4. python3 engine/logos.py add --slug S --file F --source-url URL (--style white for a white logo;
+       --pin only for a logo Sean supplies, which is never second-guessed).
+  Logo accuracy: a sharing image, site icon, document or third-party copy counts only if it is from
+  the last 12 months or a newer source shows the same logo (Consumers CU's stored mark predated its
+  2025 rebrand; Redwood's came from an undated job-board copy). After adding or changing a logo run
+  python3 feeds/leadership-moves/tools/verify_logos.py <slug> ...; every Monday run it with no slugs
+  (every credit union in this feed). Only current, confirmed, reviewed or pinned counts:
+    - MISMATCH: view /tmp/logo-verify/sheet-N.png, then replace the logo, or, when the site only hides
+      it (lazy-load placeholder, icon only), --ok <slug> --note "<why>".
+    - STALE-RISK, BLOCKED, NO-SITE: find a source from the last 12 months that shows the same logo and
+      run --confirm <slug> --source <url> --date YYYY-MM-DD, or replace the logo.
+    - RETRY: run again later. Run --ok and --confirm one at a time (one state file).
+  Never use: another organization's logo (league, vendor, publisher, acquirer), online-banking product
+  marks, anniversary or award badges, NCUA/Equal Housing marks, social icons, signatures or photos.
+  The morning message lists every credit union whose logo is missing or unresolved, with what was
+  tried.
   Names and titles:
   - The name the person uses publicly, first and last, no credentials (PHR, CPA, MBA) and no middle
     initials. Titles as the source gives them; the engine applies the house style ("VP, X").
@@ -217,6 +266,7 @@ publish:
 sources:
   - {name: The Credit Union Connection - People, type: rss, url: https://thecreditunionconnection.com/category/people/feed/}
   - {name: Credit Union Daily, type: rss, url: https://thecudaily.com/feed/}
+  - {name: CU Circle, type: rss, url: https://rss.app/feeds/jXHvxXgW9PzMNEUr.xml}
   - {name: Google News - CUInsight people, type: google_news, query: 'site:cuinsight.com (names OR promotes OR appoints OR welcomes OR hires OR joins OR retire OR retirement) when:7d'}
   - {name: Google News - CU Times and CU Today people, type: google_news, query: '(site:cutimes.com OR site:cutoday.info OR site:thecudaily.com) (names OR promotes OR appoints OR hires OR retire OR retirement OR successor OR CEO OR "career moves") when:7d'}
   - {name: Google News - credit union appointments, type: google_news, query: '"credit union" (names OR appoints OR selects OR promotes OR hires OR welcomes) (CEO OR chief OR president OR "vice president" OR director) when:7d'}
@@ -241,7 +291,7 @@ review:
     - site:cutimes.com career moves
     - site:linkedin.com/posts credit union "new role"
     - site:linkedin.com/posts credit union "promoted to"
-    - CU Circle credit union new role linkedin
+    - site:linkedin.com/posts credit union retirement CEO
 
 message:
   new_line: "{organization_short} ({state}) - {name}, {title} - {move} - confidence {confidence}"

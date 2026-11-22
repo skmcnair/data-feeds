@@ -2476,16 +2476,18 @@
       "website": "https://www.consumerscu.org",
       "state": "MI",
       "logo": {
-        "file": "consumers-cu-v1.png",
-        "version": 1,
+        "file": "consumers-cu-v2.png",
+        "version": 2,
         "style": "white",
-        "source_url": "https://raw.githubusercontent.com/skmcnair/cu-merger-feed/main/logos/consumers-cu.png",
-        "fingerprint": "c000c0001000721866584cc61848acccd21a92328000a917cd17ce324d366826",
-        "aspect": 3.801,
+        "source_url": "https://www.consumerscu.org/wp-content/uploads/2025/08/ConsumersCreditUnion_Logo2025-1-1.png",
+        "fingerprint": "932bad63b56696d49a5899599d9194d5ba996b092b0904801e815d805d805d80",
+        "aspect": 4.959,
         "pinned": false,
-        "added": "2026-11-21",
-        "checked": "2026-11-21",
-        "previous": [],
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [
+          "consumers-cu-v1.png"
+        ],
         "ignored": []
       }
     },
@@ -2939,7 +2941,20 @@
       "kind": "credit_union",
       "charter": "6288",
       "website": "https://www.unitedfcu.com",
-      "state": "MI"
+      "state": "MI",
+      "logo": {
+        "file": "united-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.studentchoice.org/wp-content/uploads/United_02-04-21_RSP-1.jpg",
+        "fingerprint": "6a23670b693779b665596459646164496549d4a696b6000086a2734a531a8896",
+        "aspect": 2.364,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "lafcu": {
       "name": "LAFCU",
@@ -3149,7 +3164,22 @@
       "kind": "credit_union",
       "charter": "60793",
       "website": "https://www.redwoodcu.org",
-      "state": "CA"
+      "state": "CA",
+      "logo": {
+        "file": "redwood-cu-v2.png",
+        "version": 2,
+        "style": "color",
+        "source_url": "https://image.info.redwoodcu.org/lib/fe2f11747364047c731c72/m/1/404cd66a-c821-4f73-9e3b-c25667b607f8.png",
+        "fingerprint": "88819210998199959a959aea9d4a9c1588a099b5969b9eb5c936ca1048004800",
+        "aspect": 2.646,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [
+          "redwood-cu-v1.png"
+        ],
+        "ignored": []
+      }
     },
     "aurora-fcu": {
       "name": "Aurora Federal Credit Union",
@@ -3337,7 +3367,20 @@
       "kind": "credit_union",
       "charter": "68659",
       "website": "https://www.americaneagle.org",
-      "state": "CT"
+      "state": "CT",
+      "logo": {
+        "file": "american-eagle-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://mmx.prnewswire.com/media/MS1785201/American-Eagle-Logo.jpg?id=OA2963780",
+        "fingerprint": "028005800b900f9007a01720572006260e66498d35ab259ad335d32c25acb1b2",
+        "aspect": 3.008,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "unitus": {
       "name": "Unitus Community Credit Union",
@@ -3484,7 +3527,20 @@
       "kind": "credit_union",
       "charter": "68503",
       "website": "https://www.Firstcitycu.org",
-      "state": "CA"
+      "state": "CA",
+      "logo": {
+        "file": "first-city-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://cdn.freebiesupply.com/logos/large/2x/first-city-credit-union-logo-svg-vector.svg",
+        "fingerprint": "8000800090008000a400a440a203887098f41a4c1cab16b505b788aadc66ce6a",
+        "aspect": 2.815,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "all-one": {
       "name": "All One Credit Union",
@@ -3537,7 +3593,20 @@
       "kind": "credit_union",
       "charter": "68658",
       "website": "https://www.fcfcu.com/",
-      "state": "IN"
+      "state": "IN",
+      "logo": {
+        "file": "financial-center-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://healthsavingshub.fcfcu.com/build/_assets/fcfcu-logo-TXUBDELS.png",
+        "fingerprint": "008001802a902d940b844d34b369a652c456c8446c9601800d9005a005a00180",
+        "aspect": 5.231,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "service-cu": {
       "name": "Service Credit Union",
@@ -3568,7 +3637,20 @@
       "kind": "credit_union",
       "charter": "68248",
       "website": "https://www.forumcu.com",
-      "state": "IN"
+      "state": "IN",
+      "logo": {
+        "file": "forum-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://techpoint.org/wp-content/uploads/2021/03/forum-credit-union-logo.png",
+        "fingerprint": "b553b5122a9a2ada2a5a9308130c8b0c8b8cab8ca56aa56a0800b4247276a464",
+        "aspect": 4.718,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "topline": {
       "name": "TopLine Financial Credit Union",
@@ -3643,7 +3725,20 @@
       "kind": "credit_union",
       "charter": "68490",
       "website": "https://www.vystarcu.org",
-      "state": "FL"
+      "state": "FL",
+      "logo": {
+        "file": "vystar-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.ctfassets.net/kw2oi7dtt7lh/4b9djZFsdD4Aja61WBgPyO/674a5b2727d72615d16e8c7761ead0cf/logo-vystar-blue.svg",
+        "fingerprint": "5200ca60aac02ad15ad05ad55a455d66c53455345532555c754d23b0a364caee",
+        "aspect": 3.32,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "altura-cu": {
       "name": "Altura Credit Union",
@@ -3673,7 +3768,21 @@
       "short_name": "Plus CU",
       "kind": "credit_union",
       "charter": "86756",
-      "state": "NV"
+      "state": "NV",
+      "website": "https://pluscu.org",
+      "logo": {
+        "file": "plus-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/65200f621ba0da53e0274304/96625116-7461-49e1-917f-1766742021db/PlusCU_logo.png?format=1500w",
+        "fingerprint": "18009800d0006008ed02ed19ea1c6c9669466bd63bd69b94c2107c0203a02b32",
+        "aspect": 2.236,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "gfa-fcu": {
       "name": "GFA Federal Credit Union",
@@ -3754,7 +3863,20 @@
       "state": "MT",
       "aliases": [
         "Whitefish Credit Union"
-      ]
+      ],
+      "logo": {
+        "file": "whitefish-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.cardrates.com/images/uploads/2024/05/Whitefish-CU-logo.jpg?width=362&height=148",
+        "fingerprint": "8800a000240065284080d12991291ad41ab8ce649a933db39c399e94d8006000",
+        "aspect": 2.446,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "andrews-fcu": {
       "name": "Andrews Federal Credit Union",
