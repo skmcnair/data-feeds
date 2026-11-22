@@ -1,0 +1,50 @@
+{
+ "feed": "mergers",
+ "run": {
+  "started": "2026-11-21T20:00:00-05:00",
+  "finished": "2026-11-21T20:15:00-05:00",
+  "searches": 30,
+  "errors": []
+ },
+ "reviewed": [],
+ "adds": [],
+ "updates": [
+  {
+   "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+   "set": {
+    "announced": "2026-06-05"
+   },
+   "note": "Announced Jun 5, 2026",
+   "sources": [
+    {
+     "label": "CUToday (via Google News)",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHJPZlZIeGNSbDJhWUhWS1U0R3FlanNQUjdjektxYVI2b2pTOVM3RWpObnJnSTR1Y2JPdGZHdE1LbDJXZXh0RmxjSGNxaWF1Z0NuTTRNSzN1aHI2VHcwQ0FZUFpwVXpXRE5GWHNXOFJYczg0eFRzVEMzM3ZKbldQQVBWSWpwYXZWeTl2bzhiYW9VR2dlNkxhNUdORjQ1RFFzcl93a0c3N0Y0ZDRMdVRjRzVpLUVuVEo5?oc=5",
+     "type": "trade_press"
+    }
+   ],
+   "field_sources": {
+    "announced": 0
+   }
+  },
+  {
+   "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+   "set": {
+    "expected_close": "Q4 2026",
+    "next_steps": "Legal merger Dec 31, 2026"
+   },
+   "note": "Legal merger date set for Dec 31, 2026",
+   "sources": [
+    {
+     "label": "Credit Union 1 merger page, Gulf Coast FCU",
+     "url": "https://www.creditunion1.org/about/mergers/gulf-coast/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "expected_close": 0,
+    "next_steps": 0
+   }
+  }
+ ],
+ "rechecked": []
+}
