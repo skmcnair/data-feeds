@@ -1,0 +1,1133 @@
+{
+  "feed": "leadership-moves",
+  "generated": "2026-11-22T06:39:14-05:00",
+  "trial": true,
+  "lookback_days": 3,
+  "pending_inbox": [],
+  "recheck": [
+    {
+      "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
+      "summary": "Tina Tracy / Credit Union ONE / Promoted",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "Tina Tracy",
+        "organization": "Credit Union ONE",
+        "move": "Promoted",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "President & Chief Operating Officer",
+        "previous_org": null,
+        "succeeds": "Gary Moody",
+        "successor": null,
+        "city": "Ferndale",
+        "state": "MI",
+        "org_assets": 1820.6,
+        "org_members": 107235,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Gary Moody, CEO for 20 years. Former CFO at Credit Union ONE."
+      }
+    },
+    {
+      "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+      "summary": "Meghan Chenoweth / TBA Credit Union / Promoted",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Meghan Chenoweth",
+        "organization": "TBA Credit Union",
+        "move": "Promoted",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-05",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": "Karen Browne",
+        "successor": null,
+        "city": "Traverse City",
+        "state": "MI",
+        "org_assets": 391.3,
+        "org_members": 21050,
+        "assets_as_of": "Q3 2026",
+        "notes": "With TBACU since 2012. Succeeds retiring President/CEO Karen Browne."
+      }
+    },
+    {
+      "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
+      "summary": "Karen Browne / TBA Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Karen Browne",
+        "organization": "TBA Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Meghan Chenoweth",
+        "city": "Traverse City",
+        "state": "MI",
+        "org_assets": 391.3,
+        "org_members": 21050,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO since Jan 2008 (interim from Aug 2007); with TBACU since 1991. Successor: Meghan Chenoweth, starting Jan 5, 2027."
+      }
+    },
+    {
+      "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+      "summary": "Steve Pagenstecher / Point West Credit Union / Promoted",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-12",
+        "name": "Steve Pagenstecher",
+        "organization": "Point West Credit Union",
+        "move": "Promoted",
+        "title": "Co-CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "Chief Innovation Officer",
+        "previous_org": null,
+        "succeeds": "Amy Nelson",
+        "successor": null,
+        "city": "Portland",
+        "state": "OR",
+        "org_assets": 95.0,
+        "org_members": 7036,
+        "assets_as_of": "Q3 2026",
+        "notes": "Co-leads with Amy Nelson through 2027; becomes sole CEO when she retires Jan 31, 2028."
+      }
+    },
+    {
+      "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+      "summary": "Amy Nelson / Point West Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-12",
+        "name": "Amy Nelson",
+        "organization": "Point West Credit Union",
+        "move": "Retiring",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2028-01-31",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Steve Pagenstecher",
+        "city": "Portland",
+        "state": "OR",
+        "org_assets": 95.0,
+        "org_members": 7036,
+        "assets_as_of": "Q3 2026",
+        "notes": "Becomes Co-CEO Jan 1, 2027. Successor: Steve Pagenstecher."
+      }
+    },
+    {
+      "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+      "summary": "Bryan Price / Indiana University Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-11",
+        "name": "Bryan Price",
+        "organization": "Indiana University Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "Apr 2027",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Andy Allard",
+        "city": "Bloomington",
+        "state": "IN",
+        "org_assets": 2139.5,
+        "org_members": 72593,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO since 2007, about 40 years at IUCU (formerly CFO/EVP). Successor: COO Andy Allard, from Jan 1, 2027."
+      }
+    },
+    {
+      "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+      "summary": "Andy Allard / Indiana University Credit Union / Promoted",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-11",
+        "name": "Andy Allard",
+        "organization": "Indiana University Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "Chief Operating Officer",
+        "previous_org": null,
+        "succeeds": "Bryan Price",
+        "successor": null,
+        "city": "Bloomington",
+        "state": "IN",
+        "org_assets": 2139.5,
+        "org_members": 72593,
+        "assets_as_of": "Q3 2026",
+        "notes": "Chosen after a national search; COO since 2007. Succeeds Bryan Price."
+      }
+    },
+    {
+      "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+      "summary": "Jim Wookey / WESTconsin Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-06",
+        "name": "Jim Wookey",
+        "organization": "WESTconsin Credit Union",
+        "move": "Retiring",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Menomonie",
+        "state": "WI",
+        "org_assets": 2250.9,
+        "org_members": 129221,
+        "assets_as_of": "Q3 2026",
+        "notes": "Retiring later in 2027 after 32 years; successor search under way."
+      }
+    },
+    {
+      "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+      "summary": "Alycia Nichols / TLC Community Credit Union / Promoted",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-02",
+        "name": "Alycia Nichols",
+        "organization": "TLC Community Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-07-01",
+        "previous_title": "EVP",
+        "previous_org": null,
+        "succeeds": "Jeff Brehmer",
+        "successor": null,
+        "city": "Adrian",
+        "state": "MI",
+        "org_assets": 938.8,
+        "org_members": 47594,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds retiring CEO Jeff Brehmer. With TLC since 2002 (started as a part-time teller); EVP over lending and operations since 2022."
+      }
+    },
+    {
+      "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+      "summary": "Jeff Brehmer / TLC Community Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-11-02",
+        "name": "Jeff Brehmer",
+        "organization": "TLC Community Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Alycia Nichols",
+        "city": "Adrian",
+        "state": "MI",
+        "org_assets": 938.8,
+        "org_members": 47594,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO for 8 years. Successor: Alycia Nichols, from Jul 1, 2027."
+      }
+    },
+    {
+      "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+      "summary": "Christine Monteiro / All One Credit Union / Hired",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Christine Monteiro",
+        "organization": "All One Credit Union",
+        "move": "Hired",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "SVP, Chief Member Experience Officer",
+        "previous_org": "St. Mary's Credit Union",
+        "succeeds": "Barbara Mahoney",
+        "successor": null,
+        "city": "Leominster",
+        "state": "MA",
+        "org_assets": 886.3,
+        "org_members": 36080,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Barbara Mahoney, retiring Dec 31, 2026 (announced May 2026). 22 years at St. Mary's CU; placed by CU Leadership."
+      }
+    },
+    {
+      "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+      "summary": "Walt Martin / Peach State Federal Credit Union / Hired",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-10-26",
+        "name": "Walt Martin",
+        "organization": "Peach State Federal Credit Union",
+        "move": "Hired",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-04",
+        "previous_title": "Deputy Superintendent",
+        "previous_org": "Gwinnett County Public Schools",
+        "succeeds": "Marshall Boutwell",
+        "successor": null,
+        "city": "Lawrenceville",
+        "state": "GA",
+        "org_assets": 1113.7,
+        "org_members": 75966,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joins Jan 4, 2027 as CEO-elect; becomes CEO after a transition. Succeeds Marshall Boutwell (CEO 32+ years), who becomes CEO emeritus."
+      }
+    },
+    {
+      "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+      "summary": "Julie Willse / Greater Iowa Credit Union / Promoted",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-10-23",
+        "name": "Julie Willse",
+        "organization": "Greater Iowa Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "Jan 2027",
+        "previous_title": "Chief Operations Officer",
+        "previous_org": null,
+        "succeeds": "Scott Zahnle",
+        "successor": null,
+        "city": "Ames",
+        "state": "IA",
+        "org_assets": 717.0,
+        "org_members": 38826,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Scott Zahnle when he retires Jan 29, 2027."
+      }
+    },
+    {
+      "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+      "summary": "Scott Zahnle / Greater Iowa Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-10-23",
+        "name": "Scott Zahnle",
+        "organization": "Greater Iowa Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-29",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Julie Willse",
+        "city": "Ames",
+        "state": "IA",
+        "org_assets": 717.0,
+        "org_members": 38826,
+        "assets_as_of": "Q3 2026",
+        "notes": "With Greater Iowa since 2012. Successor: COO Julie Willse."
+      }
+    },
+    {
+      "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+      "summary": "Carol Schumacher / Plus Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-10-22",
+        "name": "Carol Schumacher",
+        "organization": "Plus Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "Dec 2026",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Las Vegas",
+        "state": "NV",
+        "org_assets": 126.1,
+        "org_members": 8751,
+        "assets_as_of": "Q2 2026",
+        "notes": "Retiring at the end of 2026 after 27+ years; successor search under way."
+      }
+    },
+    {
+      "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
+      "summary": "Debbie Cook / Sun East Federal Credit Union / Retiring",
+      "last_checked": "2026-11-22",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Debbie Cook",
+        "organization": "Sun East Federal Credit Union",
+        "move": "Retiring",
+        "title": "President",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2026-12-31",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Jeff Gehris",
+        "city": "Aston",
+        "state": "PA",
+        "org_assets": 928.5,
+        "org_members": 49096,
+        "assets_as_of": "Q3 2026",
+        "notes": "Handed the CEO role to Jeff Gehris on Nov 2; stays as President in an advisory role until she retires."
+      }
+    }
+  ],
+  "open_items": 16,
+  "organizations_needed": [],
+  "logos_missing": [
+    {
+      "slug": "american-eagle",
+      "name": "American Eagle Financial Credit Union",
+      "website": "https://www.americaneagle.org"
+    },
+    {
+      "slug": "financial-center",
+      "name": "Financial Center First Credit Union",
+      "website": "https://www.fcfcu.com/"
+    },
+    {
+      "slug": "first-city-cu",
+      "name": "First City Credit Union",
+      "website": "https://www.Firstcitycu.org"
+    },
+    {
+      "slug": "forum-cu",
+      "name": "FORUM Credit Union",
+      "website": "https://www.forumcu.com"
+    },
+    {
+      "slug": "plus-cu",
+      "name": "Plus Credit Union",
+      "website": ""
+    },
+    {
+      "slug": "redwood-cu",
+      "name": "Redwood Credit Union",
+      "website": "https://www.redwoodcu.org"
+    },
+    {
+      "slug": "united-fcu",
+      "name": "United Federal Credit Union",
+      "website": "https://www.unitedfcu.com"
+    },
+    {
+      "slug": "vystar",
+      "name": "VyStar Credit Union",
+      "website": "https://www.vystarcu.org"
+    },
+    {
+      "slug": "whitefish-cu",
+      "name": "Whitefish Credit Union Association",
+      "website": "https://www.whitefishcu.com"
+    }
+  ],
+  "logo_reviews": [
+    {
+      "slug": "peoples-independent-bank",
+      "name": "Peoples Independent Bank",
+      "reason": "logo check requested",
+      "requested": "2026-11-22"
+    }
+  ],
+  "warnings": [],
+  "last_review": {
+    "added": [
+      {
+        "id": "2026-11-19-christian-marcussen-arsenal-credit-union-hired",
+        "summary": "Christian Marcussen / Arsenal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-19-duane-wilcoxson-lake-trust-credit-union-hired",
+        "summary": "Duane Wilcoxson / Lake Trust Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-19-jim-maskell-united-federal-credit-union-hired",
+        "summary": "Jim Maskell / United Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-19-earvin-pugh-lafcu-hired",
+        "summary": "Earvin Pugh / LAFCU / Hired"
+      },
+      {
+        "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
+        "summary": "Tina Tracy / Credit Union ONE / Promoted"
+      },
+      {
+        "id": "2026-11-19-brenda-arndt-rev-federal-credit-union-hired",
+        "summary": "Brenda Arndt / REV Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-19-william-mcsweeney-journey-federal-credit-union-promoted",
+        "summary": "William McSweeney / Journey Federal Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-18-gina-o-neil-jeanne-d-arc-credit-union-hired",
+        "summary": "Gina O'Neil / Jeanne D'Arc Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired",
+        "summary": "Chris Turnley / Texas Dow Employees Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-18-christopher-repetto-usalliance-federal-credit-union-hired",
+        "summary": "Christopher Repetto / USAlliance Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-18-amit-parmar-navy-federal-credit-union-hired",
+        "summary": "Amit Parmar / Navy Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+        "summary": "Meghan Chenoweth / TBA Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
+        "summary": "Karen Browne / TBA Credit Union / Retiring"
+      },
+      {
+        "id": "2026-11-17-jeffrey-yoder-mid-oregon-credit-union-hired",
+        "summary": "Jeffrey Yoder / Mid Oregon Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-17-sarah-hix-mid-oregon-credit-union-promoted",
+        "summary": "Sarah Hix / Mid Oregon Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-16-meredith-innes-redwood-credit-union-hired",
+        "summary": "Meredith Innes / Redwood Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-16-alannah-hernandez-aurora-federal-credit-union-hired",
+        "summary": "Alannah Hernandez / Aurora Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+        "summary": "Steve Pagenstecher / Point West Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+        "summary": "Amy Nelson / Point West Credit Union / Retiring"
+      },
+      {
+        "id": "2026-11-12-sean-rodman-fremont-federal-credit-union-hired",
+        "summary": "Sean Rodman / Fremont Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+        "summary": "Bryan Price / Indiana University Credit Union / Retiring"
+      },
+      {
+        "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+        "summary": "Andy Allard / Indiana University Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-10-deena-lenertz-united-heritage-credit-union-promoted",
+        "summary": "Deena Lenertz / United Heritage Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-10-stacy-koos-peak-credit-union-hired",
+        "summary": "Stacy Koos / Peak Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-10-abbey-elkin-park-view-federal-credit-union-hired",
+        "summary": "Abbey Elkin / Park View Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-09-dustin-montoya-chartway-federal-credit-union-hired",
+        "summary": "Dustin Montoya / Chartway Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-09-matthew-saunig-american-eagle-financial-credit-union-hired",
+        "summary": "Matthew Saunig / American Eagle Financial Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-09-dele-shell-american-eagle-financial-credit-union-hired",
+        "summary": "Dele Shell / American Eagle Financial Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-09-pamela-villanova-american-eagle-financial-credit-union-promoted",
+        "summary": "Pamela Villanova / American Eagle Financial Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-09-ann-riley-american-eagle-financial-credit-union-promoted",
+        "summary": "Ann Riley / American Eagle Financial Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-09-leann-kaczynski-texas-dow-employees-credit-union-hired",
+        "summary": "LeAnn Kaczynski / Texas Dow Employees Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-09-heather-bianchini-unitus-community-credit-union-promoted",
+        "summary": "Heather Bianchini / Unitus Community Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-09-jill-vanwyk-consumers-credit-union-hired",
+        "summary": "Jill VanWyk / Consumers Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-08-amit-nandy-aberdeen-proving-ground-federal-credit-union-hired",
+        "summary": "Amit Nandy / Aberdeen Proving Ground Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+        "summary": "Jim Wookey / WESTconsin Credit Union / Retiring"
+      },
+      {
+        "id": "2026-11-04-kristen-saito-aurora-federal-credit-union-hired",
+        "summary": "Kristen Saito / Aurora Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-04-megan-torzewski-interra-credit-union-promoted",
+        "summary": "Megan Torzewski / Interra Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+        "summary": "Alycia Nichols / TLC Community Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+        "summary": "Jeff Brehmer / TLC Community Credit Union / Retiring"
+      },
+      {
+        "id": "2026-10-31-deborah-grubach-seven-seventeen-credit-union-promoted",
+        "summary": "Deborah Grubach / Seven Seventeen Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-30-eric-broome-georgia-s-own-credit-union-promoted",
+        "summary": "Eric Broome / Georgia's Own Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-30-kelli-kind-first-city-credit-union-hired",
+        "summary": "Kelli Kind / First City Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-30-mindy-estok-chartway-federal-credit-union-promoted",
+        "summary": "Mindy Estok / Chartway Federal Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+        "summary": "Christine Monteiro / All One Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-29-misty-harrison-afena-federal-credit-union-hired",
+        "summary": "Misty Harrison / Afena Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-29-tony-molina-lafcu-hired",
+        "summary": "Tony Molina / LAFCU / Hired"
+      },
+      {
+        "id": "2026-10-29-patrick-haughey-lafcu-hired",
+        "summary": "Patrick Haughey / LAFCU / Hired"
+      },
+      {
+        "id": "2026-10-29-kevin-kelly-financial-center-first-credit-union-hired",
+        "summary": "Kevin Kelly / Financial Center First Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-29-brittany-johnson-united-heritage-credit-union-promoted",
+        "summary": "Brittany Johnson / United Heritage Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-29-laura-blanding-lafcu-promoted",
+        "summary": "Laura Blanding / LAFCU / Promoted"
+      },
+      {
+        "id": "2026-10-28-tyler-kuhn-service-credit-union-promoted",
+        "summary": "Tyler Kuhn / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-amanda-misilo-service-credit-union-hired",
+        "summary": "Amanda Misilo / Service Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-28-meagan-barstow-service-credit-union-promoted",
+        "summary": "Meagan Barstow / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-jillian-cote-service-credit-union-promoted",
+        "summary": "Jillian Cote / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-christine-fitchett-service-credit-union-promoted",
+        "summary": "Christine Fitchett / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-alexander-laham-service-credit-union-promoted",
+        "summary": "Alexander Laham / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-diane-towle-service-credit-union-promoted",
+        "summary": "Diane Towle / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-brian-regan-service-credit-union-promoted",
+        "summary": "Brian Regan / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-crystal-richardson-service-credit-union-promoted",
+        "summary": "Crystal Richardson / Service Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-jessica-roeder-forum-credit-union-hired",
+        "summary": "Jessica Roeder / FORUM Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-27-mike-schenck-topline-financial-credit-union-hired",
+        "summary": "Mike Schenck / TopLine Financial Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+        "summary": "Walt Martin / Peach State Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-26-royce-ngiam-topline-financial-credit-union-hired",
+        "summary": "Royce Ngiam / TopLine Financial Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+        "summary": "Julie Willse / Greater Iowa Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+        "summary": "Scott Zahnle / Greater Iowa Credit Union / Retiring"
+      },
+      {
+        "id": "2026-10-23-katie-averill-vystar-credit-union-hired",
+        "summary": "Katie Averill / VyStar Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-23-laura-chavez-altura-credit-union-hired",
+        "summary": "Laura Chavez / Altura Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+        "summary": "Carol Schumacher / Plus Credit Union / Retiring"
+      },
+      {
+        "id": "2026-10-21-patrick-cucinotta-gfa-federal-credit-union-hired",
+        "summary": "Patrick Cucinotta / GFA Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-20-jeff-gehris-sun-east-federal-credit-union-hired",
+        "summary": "Jeff Gehris / Sun East Federal Credit Union / Hired"
+      },
+      {
+        "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
+        "summary": "Debbie Cook / Sun East Federal Credit Union / Retiring"
+      },
+      {
+        "id": "2026-10-20-richard-sellwood-usf-federal-credit-union-promoted",
+        "summary": "Richard Sellwood / USF Federal Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-20-scott-bolster-whitefish-credit-union-association-promoted",
+        "summary": "Scott Bolster / Whitefish Credit Union Association / Promoted"
+      },
+      {
+        "id": "2026-10-20-colleen-murphy-whitefish-credit-union-association-promoted",
+        "summary": "Colleen Murphy / Whitefish Credit Union Association / Promoted"
+      },
+      {
+        "id": "2026-10-20-josh-wilson-whitefish-credit-union-association-promoted",
+        "summary": "Josh Wilson / Whitefish Credit Union Association / Promoted"
+      },
+      {
+        "id": "2026-10-20-matt-venturini-whitefish-credit-union-association-promoted",
+        "summary": "Matt Venturini / Whitefish Credit Union Association / Promoted"
+      },
+      {
+        "id": "2026-10-20-stephanie-schrock-interra-credit-union-hired",
+        "summary": "Stephanie Schrock / Interra Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-17-andy-tarantino-interra-credit-union-hired",
+        "summary": "Andy Tarantino / Interra Credit Union / Hired"
+      },
+      {
+        "id": "2026-11-17-robert-dennis-mid-oregon-credit-union-promoted",
+        "summary": "Robert Dennis / Mid Oregon Credit Union / Promoted"
+      },
+      {
+        "id": "2026-10-28-tanya-evans-andrews-federal-credit-union-promoted",
+        "summary": "Tanya Evans / Andrews Federal Credit Union / Promoted"
+      }
+    ],
+    "updated": [],
+    "rechecked": [],
+    "reviewed": 0,
+    "rejected": []
+  },
+  "tracked": [
+    {
+      "id": "2026-11-19-christian-marcussen-arsenal-credit-union-hired",
+      "summary": "Christian Marcussen / Arsenal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-19-duane-wilcoxson-lake-trust-credit-union-hired",
+      "summary": "Duane Wilcoxson / Lake Trust Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-19-jim-maskell-united-federal-credit-union-hired",
+      "summary": "Jim Maskell / United Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-19-earvin-pugh-lafcu-hired",
+      "summary": "Earvin Pugh / LAFCU / Hired"
+    },
+    {
+      "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
+      "summary": "Tina Tracy / Credit Union ONE / Promoted"
+    },
+    {
+      "id": "2026-11-19-brenda-arndt-rev-federal-credit-union-hired",
+      "summary": "Brenda Arndt / REV Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-19-william-mcsweeney-journey-federal-credit-union-promoted",
+      "summary": "William McSweeney / Journey Federal Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-18-gina-o-neil-jeanne-d-arc-credit-union-hired",
+      "summary": "Gina O'Neil / Jeanne D'Arc Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired",
+      "summary": "Chris Turnley / Texas Dow Employees Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-18-christopher-repetto-usalliance-federal-credit-union-hired",
+      "summary": "Christopher Repetto / USAlliance Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-18-amit-parmar-navy-federal-credit-union-hired",
+      "summary": "Amit Parmar / Navy Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+      "summary": "Meghan Chenoweth / TBA Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
+      "summary": "Karen Browne / TBA Credit Union / Retiring"
+    },
+    {
+      "id": "2026-11-17-jeffrey-yoder-mid-oregon-credit-union-hired",
+      "summary": "Jeffrey Yoder / Mid Oregon Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-17-sarah-hix-mid-oregon-credit-union-promoted",
+      "summary": "Sarah Hix / Mid Oregon Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-17-andy-tarantino-interra-credit-union-hired",
+      "summary": "Andy Tarantino / Interra Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-17-robert-dennis-mid-oregon-credit-union-promoted",
+      "summary": "Robert Dennis / Mid Oregon Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-16-meredith-innes-redwood-credit-union-hired",
+      "summary": "Meredith Innes / Redwood Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-16-alannah-hernandez-aurora-federal-credit-union-hired",
+      "summary": "Alannah Hernandez / Aurora Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+      "summary": "Steve Pagenstecher / Point West Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+      "summary": "Amy Nelson / Point West Credit Union / Retiring"
+    },
+    {
+      "id": "2026-11-12-sean-rodman-fremont-federal-credit-union-hired",
+      "summary": "Sean Rodman / Fremont Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+      "summary": "Bryan Price / Indiana University Credit Union / Retiring"
+    },
+    {
+      "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+      "summary": "Andy Allard / Indiana University Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-10-deena-lenertz-united-heritage-credit-union-promoted",
+      "summary": "Deena Lenertz / United Heritage Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-10-stacy-koos-peak-credit-union-hired",
+      "summary": "Stacy Koos / Peak Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-10-abbey-elkin-park-view-federal-credit-union-hired",
+      "summary": "Abbey Elkin / Park View Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-09-dustin-montoya-chartway-federal-credit-union-hired",
+      "summary": "Dustin Montoya / Chartway Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-09-matthew-saunig-american-eagle-financial-credit-union-hired",
+      "summary": "Matthew Saunig / American Eagle Financial Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-09-dele-shell-american-eagle-financial-credit-union-hired",
+      "summary": "Dele Shell / American Eagle Financial Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-09-pamela-villanova-american-eagle-financial-credit-union-promoted",
+      "summary": "Pamela Villanova / American Eagle Financial Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-09-ann-riley-american-eagle-financial-credit-union-promoted",
+      "summary": "Ann Riley / American Eagle Financial Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-09-leann-kaczynski-texas-dow-employees-credit-union-hired",
+      "summary": "LeAnn Kaczynski / Texas Dow Employees Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-09-heather-bianchini-unitus-community-credit-union-promoted",
+      "summary": "Heather Bianchini / Unitus Community Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-09-jill-vanwyk-consumers-credit-union-hired",
+      "summary": "Jill VanWyk / Consumers Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-08-amit-nandy-aberdeen-proving-ground-federal-credit-union-hired",
+      "summary": "Amit Nandy / Aberdeen Proving Ground Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+      "summary": "Jim Wookey / WESTconsin Credit Union / Retiring"
+    },
+    {
+      "id": "2026-11-04-kristen-saito-aurora-federal-credit-union-hired",
+      "summary": "Kristen Saito / Aurora Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-11-04-megan-torzewski-interra-credit-union-promoted",
+      "summary": "Megan Torzewski / Interra Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+      "summary": "Alycia Nichols / TLC Community Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+      "summary": "Jeff Brehmer / TLC Community Credit Union / Retiring"
+    },
+    {
+      "id": "2026-10-31-deborah-grubach-seven-seventeen-credit-union-promoted",
+      "summary": "Deborah Grubach / Seven Seventeen Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-30-eric-broome-georgia-s-own-credit-union-promoted",
+      "summary": "Eric Broome / Georgia's Own Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-30-kelli-kind-first-city-credit-union-hired",
+      "summary": "Kelli Kind / First City Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-30-mindy-estok-chartway-federal-credit-union-promoted",
+      "summary": "Mindy Estok / Chartway Federal Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+      "summary": "Christine Monteiro / All One Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-29-misty-harrison-afena-federal-credit-union-hired",
+      "summary": "Misty Harrison / Afena Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-29-tony-molina-lafcu-hired",
+      "summary": "Tony Molina / LAFCU / Hired"
+    },
+    {
+      "id": "2026-10-29-patrick-haughey-lafcu-hired",
+      "summary": "Patrick Haughey / LAFCU / Hired"
+    },
+    {
+      "id": "2026-10-29-kevin-kelly-financial-center-first-credit-union-hired",
+      "summary": "Kevin Kelly / Financial Center First Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-29-brittany-johnson-united-heritage-credit-union-promoted",
+      "summary": "Brittany Johnson / United Heritage Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-29-laura-blanding-lafcu-promoted",
+      "summary": "Laura Blanding / LAFCU / Promoted"
+    },
+    {
+      "id": "2026-10-28-tyler-kuhn-service-credit-union-promoted",
+      "summary": "Tyler Kuhn / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-amanda-misilo-service-credit-union-hired",
+      "summary": "Amanda Misilo / Service Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-28-meagan-barstow-service-credit-union-promoted",
+      "summary": "Meagan Barstow / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-jillian-cote-service-credit-union-promoted",
+      "summary": "Jillian Cote / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-christine-fitchett-service-credit-union-promoted",
+      "summary": "Christine Fitchett / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-alexander-laham-service-credit-union-promoted",
+      "summary": "Alexander Laham / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-diane-towle-service-credit-union-promoted",
+      "summary": "Diane Towle / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-brian-regan-service-credit-union-promoted",
+      "summary": "Brian Regan / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-crystal-richardson-service-credit-union-promoted",
+      "summary": "Crystal Richardson / Service Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-28-jessica-roeder-forum-credit-union-hired",
+      "summary": "Jessica Roeder / FORUM Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-28-tanya-evans-andrews-federal-credit-union-promoted",
+      "summary": "Tanya Evans / Andrews Federal Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-27-mike-schenck-topline-financial-credit-union-hired",
+      "summary": "Mike Schenck / TopLine Financial Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+      "summary": "Walt Martin / Peach State Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-26-royce-ngiam-topline-financial-credit-union-hired",
+      "summary": "Royce Ngiam / TopLine Financial Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+      "summary": "Julie Willse / Greater Iowa Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+      "summary": "Scott Zahnle / Greater Iowa Credit Union / Retiring"
+    },
+    {
+      "id": "2026-10-23-katie-averill-vystar-credit-union-hired",
+      "summary": "Katie Averill / VyStar Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-23-laura-chavez-altura-credit-union-hired",
+      "summary": "Laura Chavez / Altura Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+      "summary": "Carol Schumacher / Plus Credit Union / Retiring"
+    },
+    {
+      "id": "2026-10-21-patrick-cucinotta-gfa-federal-credit-union-hired",
+      "summary": "Patrick Cucinotta / GFA Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-20-jeff-gehris-sun-east-federal-credit-union-hired",
+      "summary": "Jeff Gehris / Sun East Federal Credit Union / Hired"
+    },
+    {
+      "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
+      "summary": "Debbie Cook / Sun East Federal Credit Union / Retiring"
+    },
+    {
+      "id": "2026-10-20-richard-sellwood-usf-federal-credit-union-promoted",
+      "summary": "Richard Sellwood / USF Federal Credit Union / Promoted"
+    },
+    {
+      "id": "2026-10-20-scott-bolster-whitefish-credit-union-association-promoted",
+      "summary": "Scott Bolster / Whitefish Credit Union Association / Promoted"
+    },
+    {
+      "id": "2026-10-20-colleen-murphy-whitefish-credit-union-association-promoted",
+      "summary": "Colleen Murphy / Whitefish Credit Union Association / Promoted"
+    },
+    {
+      "id": "2026-10-20-josh-wilson-whitefish-credit-union-association-promoted",
+      "summary": "Josh Wilson / Whitefish Credit Union Association / Promoted"
+    },
+    {
+      "id": "2026-10-20-matt-venturini-whitefish-credit-union-association-promoted",
+      "summary": "Matt Venturini / Whitefish Credit Union Association / Promoted"
+    },
+    {
+      "id": "2026-10-20-stephanie-schrock-interra-credit-union-hired",
+      "summary": "Stephanie Schrock / Interra Credit Union / Hired"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "title": "Credit Union Leadership Moves",
+  "item": "move",
+  "columns": [
+    {
+      "name": "announced",
+      "label": "Announced",
+      "kind": "date",
+      "sort": "announced_iso"
+    },
+    {
+      "name": "name",
+      "label": "Name",
+      "kind": "text"
+    },
+    {
+      "name": "organization",
+      "label": "Credit union",
+      "kind": "org",
+      "short": "organization_short",
+      "logo": "organization_logo_url",
+      "style": "organization_logo_style"
+    },
+    {
+      "name": "move",
+      "label": "Move",
+      "kind": "choice",
+      "choices": [
+        "Hired",
+        "Promoted",
+        "Retiring"
+      ]
+    },
+    {
+      "name": "title",
+      "label": "Title",
+      "kind": "title"
+    },
+    {
+      "name": "level",
+      "label": "Level",
+      "kind": "choice",
+      "choices": [
+        "CEO",
+        "C-suite",
+        "EVP / SVP",
+        "VP",
+        "AVP",
+        "Director"
+      ]
+    },
+    {
+      "name": "function",
+      "label": "Function",
+      "kind": "choice",
+      "choices": [
+        "Executive",
+        "Finance",
+        "Lending",
+        "Commercial",
+        "Operations",
+        "Technology",
+        "Risk & Compliance",
+        "Marketing",
+        "Member Experience",
+        "Retail",
+        "People",
+        "Strategy",
+        "Other"
+      ]
+    },
+    {
+      "name": "status",
+      "label": "Status",
+      "kind": "choice",
+      "choices": [
+        "Announced",
+        "In effect"
+      ]
+    },
+    {
+      "name": "effective",
+      "label": "Effective",
+      "kind": "datetext",
+      "sort": "effective_iso"
+    },
+    {
+      "name": "previous_title",
+      "label": "Previous title",
+      "kind": "title"
+    },
+    {
+      "name": "previous_org",
+      "label": "Previous organization",
+      "kind": "text"
+    },
+    {
+      "name": "succeeds",
+      "label": "Succeeds",
+      "kind": "text"
+    },
+    {
+      "name": "successor",
+      "label": "Successor",
+      "kind": "text"
+    },
+    {
+      "name": "city",
+      "label": "City",
+      "kind": "text"
+    },
+    {
+      "name": "state",
+      "label": "State",
+      "kind": "state"
+    },
+    {
+      "name": "org_assets",
+      "label": "CU assets",
+      "kind": "money",
+      "sort": "org_assets_m"
+    },
+    {
+      "name": "org_members",
+      "label": "CU members",
+      "kind": "int"
+    },
+    {
+      "name": "assets_as_of",
+      "label": "Assets as of",
+      "kind": "text"
+    },
+    {
+      "name": "notes",
+      "label": "Notes",
+      "kind": "text"
+    },
+    {
+      "name": "region",
+      "label": "Region",
+      "kind": "choice"
+    },
+    {
+      "name": "new_ceo",
+      "label": "New CEO",
+      "kind": "text"
+    },
+    {
+      "name": "headline",
+      "label": "Headline",
+      "kind": "text"
+    },
+    {
+      "name": "location",
+      "label": "Location",
+      "kind": "text"
+    },
+    {
+      "name": "confidence",
+      "label": "Confidence",
+      "kind": "percent",
+      "note": "confidence_notes"
+    },
+    {
+      "name": "updates",
+      "label": "Updates",
+      "kind": "text"
+    },
+    {
+      "name": "source_url",
+      "label": "Source",
+      "kind": "url"
+    }
+  ]
+}

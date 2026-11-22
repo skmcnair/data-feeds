@@ -1,0 +1,20 @@
+{
+  "feed": "leadership-moves",
+  "title": "Credit Union Leadership Moves",
+  "result": "ok",
+  "last_build": "2026-11-22T06:39:14-05:00",
+  "last_collect": "",
+  "last_collect_result": "",
+  "collect_errors": [],
+  "last_review": "2026-11-22T07:40:00-05:00",
+  "last_review_result": "ok",
+  "review_errors": [],
+  "items": 80,
+  "open_items": 16,
+  "pending_inbox": 0,
+  "organizations_needed": 0,
+  "logos_missing": 9,
+  "warnings": [],
+  "errors": [],
+  "trial": true
+}

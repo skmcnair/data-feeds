@@ -1,0 +1,5138 @@
+{
+  "records": [
+    {
+      "id": "2026-11-19-christian-marcussen-arsenal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "Christian Marcussen",
+        "organization": "Arsenal Credit Union",
+        "move": "Hired",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "In effect",
+        "effective": "2026-11-16",
+        "previous_title": "Chief Innovation Officer",
+        "previous_org": "Ascentra Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Arnold",
+        "state": "MO",
+        "org_assets": 380.7,
+        "org_members": 29392,
+        "assets_as_of": "Q3 2026",
+        "notes": "Started Nov 16, 2026; earlier Chief Strategy Officer at Abound Credit Union. Predecessor not named in release."
+      },
+      "sources": [
+        {
+          "label": "Arsenal CU",
+          "url": "https://arsenalcu.com/2026/11/christian-marcussen-named-new-president-ceo/",
+          "type": "primary"
+        },
+        {
+          "label": "EIN Presswire",
+          "url": "https://www.einnews.com/pr_news/957552087/arsenal-credit-union-names-christian-marcussen-as-president-and-chief-executive-officer",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67195",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-19-duane-wilcoxson-lake-trust-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "Duane Wilcoxson",
+        "organization": "Lake Trust Credit Union",
+        "move": "Hired",
+        "title": "Chief Information & Operations Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Information Officer",
+        "previous_org": "United Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Brighton",
+        "state": "MI",
+        "org_assets": 2923.1,
+        "org_members": 176789,
+        "assets_as_of": "Q3 2026",
+        "notes": "Combined CIO/COO role."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/lake-trust-cu-names-duane-wilcoxson-as-cio-coo/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62047",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-19-jim-maskell-united-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "Jim Maskell",
+        "organization": "United Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Commercial Officer",
+        "level": "C-suite",
+        "function": "Commercial",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Commercial Officer",
+        "previous_org": "Lake Michigan Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Saint Joseph",
+        "state": "MI",
+        "org_assets": 4436.3,
+        "org_members": 194074,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joins from Lake Michigan CU."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/united-fcu-names-jim-maskell-as-chief-commercial-officer/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6288",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-19-earvin-pugh-lafcu-hired",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "Earvin Pugh",
+        "organization": "LAFCU",
+        "move": "Hired",
+        "title": "Chief Experience Officer",
+        "level": "C-suite",
+        "function": "Member Experience",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "VP, Commercial Loan Operations, Syndications & Servicing",
+        "previous_org": "Comerica Bank",
+        "succeeds": null,
+        "successor": null,
+        "city": "Lansing",
+        "state": "MI",
+        "org_assets": 1100.1,
+        "org_members": 72182,
+        "assets_as_of": "Q3 2026",
+        "notes": "Newly created role; joins from Comerica Bank."
+      },
+      "sources": [
+        {
+          "label": "CreditUnions.com",
+          "url": "https://creditunions.com/press_releases/lafcu-names-earvin-pugh-to-newly-created-chief-experience-officer-position/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68632",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "Tina Tracy",
+        "organization": "Credit Union ONE",
+        "move": "Promoted",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "President & Chief Operating Officer",
+        "previous_org": null,
+        "succeeds": "Gary Moody",
+        "successor": null,
+        "city": "Ferndale",
+        "state": "MI",
+        "org_assets": 1820.6,
+        "org_members": 107235,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Gary Moody, CEO for 20 years. Former CFO at Credit Union ONE."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/credit-union-one-announces-tina-tracy-as-chief-executive-officer/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/credit-union-one-selects-tina-tracy-to-succeed-gary-moody-as-ceo/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62562",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-19-brenda-arndt-rev-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "Brenda Arndt",
+        "organization": "REV Federal Credit Union",
+        "move": "Hired",
+        "title": "SVP, Marketing",
+        "level": "EVP / SVP",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Marketing Officer",
+        "previous_org": "Southeast Bank",
+        "succeeds": null,
+        "successor": null,
+        "city": "Summerville",
+        "state": "SC",
+        "org_assets": 1385.2,
+        "org_members": 71145,
+        "assets_as_of": "Q3 2026",
+        "notes": "Also leads REV's UpTheGood Foundation."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/rev-appoints-brenda-arndt-as-senior-vice-president-of-marketing/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9986",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-19-william-mcsweeney-journey-federal-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-19",
+        "name": "William McSweeney",
+        "organization": "Journey Federal Credit Union",
+        "move": "Promoted",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Interim CEO",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Saint Johns",
+        "state": "MI",
+        "org_assets": 185.5,
+        "org_members": 17419,
+        "assets_as_of": "Q3 2026",
+        "notes": "Effective immediately; interim CEO since Oct 2025. Earlier COO and VP, Member Experience at Journey, and leadership roles at CASE Credit Union."
+      },
+      "sources": [
+        {
+          "label": "MCUL",
+          "url": "https://www.mcul.org/newsroom/journey-federal-credit-union-appoints-william-mcsweeney-as-ceo",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/20943",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-18-gina-o-neil-jeanne-d-arc-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Gina O'Neil",
+        "organization": "Jeanne D'Arc Credit Union",
+        "move": "Hired",
+        "title": "SVP, Chief Human Resources Officer",
+        "level": "C-suite",
+        "function": "People",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "Digital Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Lowell",
+        "state": "MA",
+        "org_assets": 2199.4,
+        "org_members": 103174,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joins after 18 years at DCU."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/?p=219498",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67352",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Chris Turnley",
+        "organization": "Texas Dow Employees Credit Union",
+        "move": "Hired",
+        "title": "Chief Revenue Officer",
+        "level": "C-suite",
+        "function": "Strategy",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "EVP, Chief Operating Officer",
+        "previous_org": "CoastHills Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Houston",
+        "state": "TX",
+        "org_assets": 4957.5,
+        "org_members": 394218,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joins from CoastHills CU."
+      },
+      "sources": [
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/18/3406068/0/en/tdecu-names-chris-turnley-chief-revenue-officer.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60705",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-18-christopher-repetto-usalliance-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Christopher Repetto",
+        "organization": "USAlliance Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Rye",
+        "state": "NY",
+        "org_assets": 3329.2,
+        "org_members": 197730,
+        "assets_as_of": "Q3 2026",
+        "notes": "Named after a national search. Earlier roles include Chief Client Officer at Milepost Capital Management, Promontory and BlackRock FMA."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/usalliance-fcu-appoints-christopher-repetto-as-cfo/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/17587",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-18-amit-parmar-navy-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Amit Parmar",
+        "organization": "Navy Federal Credit Union",
+        "move": "Hired",
+        "title": "SVP, Business Lending",
+        "level": "EVP / SVP",
+        "function": "Commercial",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "Uptiq",
+        "succeeds": null,
+        "successor": null,
+        "city": "Vienna",
+        "state": "VA",
+        "org_assets": 204332.6,
+        "org_members": 15722352,
+        "assets_as_of": "Q3 2026",
+        "notes": "Led product, data and AI strategy at Uptiq; earlier at JPMorgan Chase and American Express."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/amit-parmar-joins-navy-fcu-as-senior-vp-of-business-lending/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5536",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Meghan Chenoweth",
+        "organization": "TBA Credit Union",
+        "move": "Promoted",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-05",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": "Karen Browne",
+        "successor": null,
+        "city": "Traverse City",
+        "state": "MI",
+        "org_assets": 391.3,
+        "org_members": 21050,
+        "assets_as_of": "Q3 2026",
+        "notes": "With TBACU since 2012. Succeeds retiring President/CEO Karen Browne."
+      },
+      "sources": [
+        {
+          "label": "Traverse City Record-Eagle",
+          "url": "https://www.record-eagle.com/news/business/business-memoranda-11-18-2026/article_48a7e3d6-d17b-4b0c-bb0b-d0fc370c965f.html",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61795",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
+      "fields": {
+        "announced": "2026-11-18",
+        "name": "Karen Browne",
+        "organization": "TBA Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Meghan Chenoweth",
+        "city": "Traverse City",
+        "state": "MI",
+        "org_assets": 391.3,
+        "org_members": 21050,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO since Jan 2008 (interim from Aug 2007); with TBACU since 1991. Successor: Meghan Chenoweth, starting Jan 5, 2027."
+      },
+      "sources": [
+        {
+          "label": "Traverse City Record-Eagle",
+          "url": "https://www.record-eagle.com/news/business/business-memoranda-11-18-2026/article_48a7e3d6-d17b-4b0c-bb0b-d0fc370c965f.html",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61795",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "successor": 0,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-17-jeffrey-yoder-mid-oregon-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-17",
+        "name": "Jeffrey Yoder",
+        "organization": "Mid Oregon Credit Union",
+        "move": "Hired",
+        "title": "SVP, Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Accounting Officer",
+        "previous_org": "Peak Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Bend",
+        "state": "OR",
+        "org_assets": 943.0,
+        "org_members": 54401,
+        "assets_as_of": "Q3 2026",
+        "notes": "Earlier CFO of Northwest Community CU before its merger into Peak. Part of a leadership realignment."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/mid-oregon-names-new-cfo-realigns-leadership-team-for-growth/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68748",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-17-sarah-hix-mid-oregon-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-17",
+        "name": "Sarah Hix",
+        "organization": "Mid Oregon Credit Union",
+        "move": "Promoted",
+        "title": "SVP, Operations",
+        "level": "EVP / SVP",
+        "function": "Operations",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Bend",
+        "state": "OR",
+        "org_assets": 943.0,
+        "org_members": 54401,
+        "assets_as_of": "Q3 2026",
+        "notes": "Part of a Mid Oregon leadership realignment."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/mid-oregon-names-new-cfo-realigns-leadership-team-for-growth/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68748",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-17-andy-tarantino-interra-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-17",
+        "name": "Andy Tarantino",
+        "organization": "Interra Credit Union",
+        "move": "Hired",
+        "title": "Head of Consumer Services",
+        "level": "Director",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "United Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Goshen",
+        "state": "IN",
+        "org_assets": 2069.3,
+        "org_members": 90096,
+        "assets_as_of": "Q2 2026",
+        "notes": "Oversees consumer loan operations and specialized services; 21 years at United FCU."
+      },
+      "sources": [
+        {
+          "label": "Interra CU release (CUInsight)",
+          "url": "https://www.cuinsight.com/press-release/interra-welcomes-new-head-of-consumer-services/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_org": 0,
+        "state": 1,
+        "notes": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-17-robert-dennis-mid-oregon-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-17",
+        "name": "Robert Dennis",
+        "organization": "Mid Oregon Credit Union",
+        "move": "Promoted",
+        "title": "SVP, Lending",
+        "level": "EVP / SVP",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Risk Management",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Bend",
+        "state": "OR",
+        "org_assets": 943.0,
+        "org_members": 54401,
+        "assets_as_of": "Q3 2026",
+        "notes": "Part of a Mid Oregon leadership realignment."
+      },
+      "sources": [
+        {
+          "label": "Mid Oregon CU release (CUInsight)",
+          "url": "https://www.cuinsight.com/press-release/mid-oregon-names-new-cfo-realigns-leadership-team-for-growth/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68748",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_title": 0,
+        "state": 1,
+        "notes": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-16-meredith-innes-redwood-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-16",
+        "name": "Meredith Innes",
+        "organization": "Redwood Credit Union",
+        "move": "Hired",
+        "title": "SVP, Enterprise Risk",
+        "level": "EVP / SVP",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Managing Director",
+        "previous_org": "Wells Fargo",
+        "succeeds": null,
+        "successor": null,
+        "city": "Santa Rosa",
+        "state": "CA",
+        "org_assets": 10328.2,
+        "org_members": 429841,
+        "assets_as_of": "Q3 2026",
+        "notes": "Led product enablement for Wells Fargo's global payments business."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/?p=219284",
+          "type": "primary"
+        },
+        {
+          "label": "CreditUnions.com",
+          "url": "https://creditunions.com/press_releases/redwood-credit-union-welcomes-meredith-innes-as-senior-vice-president-of-enterprise-risk/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60793",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-16-alannah-hernandez-aurora-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-16",
+        "name": "Alannah Hernandez",
+        "organization": "Aurora Federal Credit Union",
+        "move": "Hired",
+        "title": "Director, Operations",
+        "level": "Director",
+        "function": "Operations",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Operations Manager",
+        "previous_org": "Northern Colorado Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Aurora",
+        "state": "CO",
+        "org_assets": 138.6,
+        "org_members": 7406,
+        "assets_as_of": "Q3 2026",
+        "notes": "Leads branches and member services as a new branch opens in southeast Aurora in early 2027. Earlier rose to Branch Lead at Public Service CU (now Canvas CU)."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/?p=219212",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18574",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-12",
+        "name": "Steve Pagenstecher",
+        "organization": "Point West Credit Union",
+        "move": "Promoted",
+        "title": "Co-CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "Chief Innovation Officer",
+        "previous_org": null,
+        "succeeds": "Amy Nelson",
+        "successor": null,
+        "city": "Portland",
+        "state": "OR",
+        "org_assets": 95.0,
+        "org_members": 7036,
+        "assets_as_of": "Q3 2026",
+        "notes": "Co-leads with Amy Nelson through 2027; becomes sole CEO when she retires Jan 31, 2028."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/?p=219090",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63971",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+      "fields": {
+        "announced": "2026-11-12",
+        "name": "Amy Nelson",
+        "organization": "Point West Credit Union",
+        "move": "Retiring",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2028-01-31",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Steve Pagenstecher",
+        "city": "Portland",
+        "state": "OR",
+        "org_assets": 95.0,
+        "org_members": 7036,
+        "assets_as_of": "Q3 2026",
+        "notes": "Becomes Co-CEO Jan 1, 2027. Successor: Steve Pagenstecher."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/?p=219090",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63971",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 1,
+        "successor": 0,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-12-sean-rodman-fremont-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-12",
+        "name": "Sean Rodman",
+        "organization": "Fremont Federal Credit Union",
+        "move": "Hired",
+        "title": "VP, Marketing",
+        "level": "VP",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Fremont",
+        "state": "OH",
+        "org_assets": 395.5,
+        "org_members": 23418,
+        "assets_as_of": "Q3 2026",
+        "notes": "25+ years at advertising agencies, most recently as an executive creative director."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/fremont-federal-credit-union-names-sean-rodman-vice-president-of-marketing/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5370",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+      "fields": {
+        "announced": "2026-11-11",
+        "name": "Bryan Price",
+        "organization": "Indiana University Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "Apr 2027",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Andy Allard",
+        "city": "Bloomington",
+        "state": "IN",
+        "org_assets": 2139.5,
+        "org_members": 72593,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO since 2007, about 40 years at IUCU (formerly CFO/EVP). Successor: COO Andy Allard, from Jan 1, 2027."
+      },
+      "sources": [
+        {
+          "label": "Indiana Daily Student",
+          "url": "https://www.idsnews.com/article/2026/11/iu-credit-union-111026",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/iucu-ceo-bryan-price-sets-retirement-date-successor-is-named/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68577",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "successor": 0,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-11",
+        "name": "Andy Allard",
+        "organization": "Indiana University Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "Chief Operating Officer",
+        "previous_org": null,
+        "succeeds": "Bryan Price",
+        "successor": null,
+        "city": "Bloomington",
+        "state": "IN",
+        "org_assets": 2139.5,
+        "org_members": 72593,
+        "assets_as_of": "Q3 2026",
+        "notes": "Chosen after a national search; COO since 2007. Succeeds Bryan Price."
+      },
+      "sources": [
+        {
+          "label": "Indiana Daily Student",
+          "url": "https://www.idsnews.com/article/2026/11/iu-credit-union-111026",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/iucu-ceo-bryan-price-sets-retirement-date-successor-is-named/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68577",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-10-deena-lenertz-united-heritage-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-10",
+        "name": "Deena Lenertz",
+        "organization": "United Heritage Credit Union",
+        "move": "Promoted",
+        "title": "VP, Branch Operations",
+        "level": "VP",
+        "function": "Retail",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP, Operations",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Austin",
+        "state": "TX",
+        "org_assets": 1717.9,
+        "org_members": 84800,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/?p=218992",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68251",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-10-stacy-koos-peak-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-10",
+        "name": "Stacy Koos",
+        "organization": "Peak Credit Union",
+        "move": "Hired",
+        "title": "VP, Business Services",
+        "level": "VP",
+        "function": "Commercial",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Market Development Officer",
+        "previous_org": "Summit Bank",
+        "succeeds": null,
+        "successor": null,
+        "city": "Lacey",
+        "state": "WA",
+        "org_assets": 4323.1,
+        "org_members": 267179,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/stacy-koos-named-vp-business-services-by-peak-credit-union/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68271",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-10-abbey-elkin-park-view-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-10",
+        "name": "Abbey Elkin",
+        "organization": "Park View Federal Credit Union",
+        "move": "Hired",
+        "title": "VP, Organizational Development",
+        "level": "VP",
+        "function": "People",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "VP, HR Business Partnerships",
+        "previous_org": "Valley Health",
+        "succeeds": null,
+        "successor": null,
+        "city": "Harrisonburg",
+        "state": "VA",
+        "org_assets": 406.5,
+        "org_members": 14826,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joins the senior leadership team."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/park-view-federal-credit-union-welcomes-abbey-elkin-as-vice-president-of-organizational-development/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/19541",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-dustin-montoya-chartway-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "Dustin Montoya",
+        "organization": "Chartway Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Information Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Technology Officer",
+        "previous_org": "Elevations Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Virginia Beach",
+        "state": "VA",
+        "org_assets": 3355.7,
+        "org_members": 256755,
+        "assets_as_of": "Q3 2026",
+        "notes": "Will be based in Salt Lake City."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/?p=218783",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/chartway-cu-names-dustin-montoya-as-cio/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13242",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-matthew-saunig-american-eagle-financial-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "Matthew Saunig",
+        "organization": "American Eagle Financial Credit Union",
+        "move": "Hired",
+        "title": "SVP, General Counsel",
+        "level": "EVP / SVP",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "Connecticut Department of Banking",
+        "succeeds": null,
+        "successor": null,
+        "city": "East Hartford",
+        "state": "CT",
+        "org_assets": 2720.6,
+        "org_members": 167419,
+        "assets_as_of": "Q3 2026",
+        "notes": "Newly created role overseeing legal, compliance and enterprise risk."
+      },
+      "sources": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68659",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-dele-shell-american-eagle-financial-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "Dele Shell",
+        "organization": "American Eagle Financial Credit Union",
+        "move": "Hired",
+        "title": "SVP, Chief People & Culture Officer",
+        "level": "C-suite",
+        "function": "People",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "East Hartford",
+        "state": "CT",
+        "org_assets": 2720.6,
+        "org_members": 167419,
+        "assets_as_of": "Q3 2026",
+        "notes": "28+ years' experience, two decades in HR leadership; prior employer not named."
+      },
+      "sources": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68659",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-pamela-villanova-american-eagle-financial-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "Pamela Villanova",
+        "organization": "American Eagle Financial Credit Union",
+        "move": "Promoted",
+        "title": "SVP, Chief Digital & Operations Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "East Hartford",
+        "state": "CT",
+        "org_assets": 2720.6,
+        "org_members": 167419,
+        "assets_as_of": "Q3 2026",
+        "notes": "Release doesn't say whether hired or promoted (CEO congratulates her on her new role). Earlier held leadership roles at Rockville Bank."
+      },
+      "sources": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68659",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-ann-riley-american-eagle-financial-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "Ann Riley",
+        "organization": "American Eagle Financial Credit Union",
+        "move": "Promoted",
+        "title": "SVP, Retail Transformation",
+        "level": "EVP / SVP",
+        "function": "Retail",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "East Hartford",
+        "state": "CT",
+        "org_assets": 2720.6,
+        "org_members": 167419,
+        "assets_as_of": "Q3 2026",
+        "notes": "Release doesn't say whether hired or promoted (CEO congratulates her on her new role)."
+      },
+      "sources": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68659",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-leann-kaczynski-texas-dow-employees-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "LeAnn Kaczynski",
+        "organization": "Texas Dow Employees Credit Union",
+        "move": "Hired",
+        "title": "Chief Integration Officer",
+        "level": "C-suite",
+        "function": "Strategy",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "CEO",
+        "previous_org": "Smart Financial Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Houston",
+        "state": "TX",
+        "org_assets": 4957.5,
+        "org_members": 394218,
+        "assets_as_of": "Q3 2026",
+        "notes": "Named as TDECU completed its merger with Smart Financial CU."
+      },
+      "sources": [
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398452/0/en/tdecu-and-smart-financial-credit-union-complete-merger-to-build-a-stronger-organization.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60705",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-heather-bianchini-unitus-community-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "Heather Bianchini",
+        "organization": "Unitus Community Credit Union",
+        "move": "Promoted",
+        "title": "VP, Digital Delivery (Member Experience Administration)",
+        "level": "VP",
+        "function": "Technology",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Tigard",
+        "state": "OR",
+        "org_assets": 1816.3,
+        "org_members": 108984,
+        "assets_as_of": "Q3 2026",
+        "notes": "With Unitus since 2019; leads digital banking strategy."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/unitus-community-credit-union-promotes-new-vice-president/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/consumers-credit-union-announces-new-hires-unitus-community-credit-union-promotes-new-vice-president/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63440",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-09-jill-vanwyk-consumers-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-09",
+        "name": "Jill VanWyk",
+        "organization": "Consumers Credit Union",
+        "move": "Hired",
+        "title": "Regional VP, Investment Services",
+        "level": "VP",
+        "function": "Other",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Regional Manager",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Kalamazoo",
+        "state": "MI",
+        "org_assets": 2940.0,
+        "org_members": 158766,
+        "assets_as_of": "Q3 2026",
+        "notes": "Leads Consumers Investment Services; joins from a private bank where she was SVP, regional manager."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/consumers-credit-union-adds-investment-services-leader-and-two-mortgage-loan-officers/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62172",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-08-amit-nandy-aberdeen-proving-ground-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-08",
+        "name": "Amit Nandy",
+        "organization": "Aberdeen Proving Ground Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Information Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Chief Information Officer",
+        "previous_org": "Educational Systems Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Edgewood",
+        "state": "MD",
+        "org_assets": 2779.1,
+        "org_members": 191416,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/apgfcu-names-amit-nandy-as-cio/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2540",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+      "fields": {
+        "announced": "2026-11-06",
+        "name": "Jim Wookey",
+        "organization": "WESTconsin Credit Union",
+        "move": "Retiring",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Menomonie",
+        "state": "WI",
+        "org_assets": 2250.9,
+        "org_members": 129221,
+        "assets_as_of": "Q3 2026",
+        "notes": "Retiring later in 2027 after 32 years; successor search under way."
+      },
+      "sources": [
+        {
+          "label": "The Credit Union Connection",
+          "url": "https://thecreditunionconnection.com/westconsin-credit-union-ceo-jim-wookey-to-retire-in-2027-after-32-years/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66742",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-04-kristen-saito-aurora-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-04",
+        "name": "Kristen Saito",
+        "organization": "Aurora Federal Credit Union",
+        "move": "Hired",
+        "title": "VP, Lending",
+        "level": "VP",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Lending Officer",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Aurora",
+        "state": "CO",
+        "org_assets": 138.6,
+        "org_members": 7406,
+        "assets_as_of": "Q3 2026",
+        "notes": "Earlier Chief Lending Officer at a $700M credit union; 20+ years in lending incl. Elevations CU and Bellco CU."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/aurora-federal-credit-union-announces-kristen-saito-as-vice-president-of-lending/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18574",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-04-megan-torzewski-interra-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-04",
+        "name": "Megan Torzewski",
+        "organization": "Interra Credit Union",
+        "move": "Promoted",
+        "title": "VP, Digital Strategy Manager",
+        "level": "VP",
+        "function": "Technology",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Digital Product Specialist",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Goshen",
+        "state": "IN",
+        "org_assets": 2069.3,
+        "org_members": 90096,
+        "assets_as_of": "Q2 2026",
+        "notes": "Joined Interra in May 2026; earlier VP, Digital Integration Leader at Broadway Bank."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/interra-credit-union-names-new-vice-president-manager-digital-strategy/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-02",
+        "name": "Alycia Nichols",
+        "organization": "TLC Community Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-07-01",
+        "previous_title": "EVP",
+        "previous_org": null,
+        "succeeds": "Jeff Brehmer",
+        "successor": null,
+        "city": "Adrian",
+        "state": "MI",
+        "org_assets": 938.8,
+        "org_members": 47594,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds retiring CEO Jeff Brehmer. With TLC since 2002 (started as a part-time teller); EVP over lending and operations since 2022."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/",
+          "type": "trade_press"
+        },
+        {
+          "label": "Tyfone",
+          "url": "https://tyfone.com/news/breaking-news/georgia-michigan-credit-unions-name-their-next-ceos/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60509",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+      "fields": {
+        "announced": "2026-11-02",
+        "name": "Jeff Brehmer",
+        "organization": "TLC Community Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Alycia Nichols",
+        "city": "Adrian",
+        "state": "MI",
+        "org_assets": 938.8,
+        "org_members": 47594,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO for 8 years. Successor: Alycia Nichols, from Jul 1, 2027."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/",
+          "type": "trade_press"
+        },
+        {
+          "label": "Tyfone",
+          "url": "https://tyfone.com/news/breaking-news/georgia-michigan-credit-unions-name-their-next-ceos/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60509",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 2,
+        "successor": 0,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-31-deborah-grubach-seven-seventeen-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-31",
+        "name": "Deborah Grubach",
+        "organization": "Seven Seventeen Credit Union",
+        "move": "Promoted",
+        "title": "Market VP, Northern Market",
+        "level": "VP",
+        "function": "Retail",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Director, Western Market",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Warren",
+        "state": "OH",
+        "org_assets": 2278.6,
+        "org_members": 136539,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joined 7 17 in March; reports to SVP Sherri Bercheni."
+      },
+      "sources": [
+        {
+          "label": "Business Journal Daily",
+          "url": "https://businessjournaldaily.com/7-17-credit-union-announces-2-promotions/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61077",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-30-eric-broome-georgia-s-own-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-30",
+        "name": "Eric Broome",
+        "organization": "Georgia's Own Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "EVP",
+        "previous_org": null,
+        "succeeds": "Dave Preter",
+        "successor": null,
+        "city": "Atlanta",
+        "state": "GA",
+        "org_assets": 4184.4,
+        "org_members": 238034,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Dave Preter, CEO for nearly 18 years (release doesn't say he's retiring). Earlier COO, CRO and general counsel; fifth CEO in 92 years."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/georgias-own-credit-union-names-eric-s-broome-as-next-president-and-ceo/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67390",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-30-kelli-kind-first-city-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-30",
+        "name": "Kelli Kind",
+        "organization": "First City Credit Union",
+        "move": "Hired",
+        "title": "SVP, Chief Marketing Officer",
+        "level": "C-suite",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Brand & Marketing Officer",
+        "previous_org": "Superior Choice Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Altadena",
+        "state": "CA",
+        "org_assets": 925.0,
+        "org_members": 58639,
+        "assets_as_of": "Q3 2026",
+        "notes": "Oversees marketing and business development, previously led by Royce Ngiam (left for TopLine Financial CU)."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/first-city-credit-union-names-kelli-kind-senior-vice-president-and-chief-marketing-officer/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68503",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-30-mindy-estok-chartway-federal-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-30",
+        "name": "Mindy Estok",
+        "organization": "Chartway Federal Credit Union",
+        "move": "Promoted",
+        "title": "Chief Lending Officer",
+        "level": "C-suite",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Real Estate Lending",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Virginia Beach",
+        "state": "VA",
+        "org_assets": 3355.7,
+        "org_members": 256755,
+        "assets_as_of": "Q3 2026",
+        "notes": "27 years at Chartway; joins the executive leadership team."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/chartway-credit-union-promotes-mindy-estok-to-chief-lending-officer/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/chartway-cu-names-mindy-estok-as-chief-lending-officer/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13242",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Christine Monteiro",
+        "organization": "All One Credit Union",
+        "move": "Hired",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-01",
+        "previous_title": "SVP, Chief Member Experience Officer",
+        "previous_org": "St. Mary's Credit Union",
+        "succeeds": "Barbara Mahoney",
+        "successor": null,
+        "city": "Leominster",
+        "state": "MA",
+        "org_assets": 886.3,
+        "org_members": 36080,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Barbara Mahoney, retiring Dec 31, 2026 (announced May 2026). 22 years at St. Mary's CU; placed by CU Leadership."
+      },
+      "sources": [
+        {
+          "label": "All One CU",
+          "url": "https://all-onecu.com/all-one-credit-union-announces-new-president-ceo/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66699",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-29-misty-harrison-afena-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Misty Harrison",
+        "organization": "Afena Federal Credit Union",
+        "move": "Hired",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "In effect",
+        "effective": "2026-11-09",
+        "previous_title": "CEO",
+        "previous_org": "Community Link Federal Credit Union",
+        "succeeds": "Karen Madry",
+        "successor": null,
+        "city": "Marion",
+        "state": "IN",
+        "org_assets": 93.5,
+        "org_members": 7840,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds longtime CEO Karen Madry, who retired. Community Link CEO since 2009 (started there as a teller in 1999)."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/afena-federal-credit-union-announces-hiring-of-misty-harrison-as-new-ceo/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/from-teller-to-ceo-2-0-afena-fcu-names-a-new-leader/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12153",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-29-tony-molina-lafcu-hired",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Tony Molina",
+        "organization": "LAFCU",
+        "move": "Hired",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Fractional & Interim Chief Financial Officer",
+        "previous_org": "Charles River CFO",
+        "succeeds": null,
+        "successor": null,
+        "city": "Lansing",
+        "state": "MI",
+        "org_assets": 1100.1,
+        "org_members": 72182,
+        "assets_as_of": "Q3 2026",
+        "notes": "Former CEO of two credit unions in NY and NJ."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/lafcu-builds-on-90-year-legacy-with-two-key-financial-leadership-appointments/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/lafcu-adds-two-finance-veterans-building-on-90-year-legacy/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68632",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-29-patrick-haughey-lafcu-hired",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Patrick Haughey",
+        "organization": "LAFCU",
+        "move": "Hired",
+        "title": "VP, Finance",
+        "level": "VP",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "MiCUSO",
+        "succeeds": null,
+        "successor": null,
+        "city": "Lansing",
+        "state": "MI",
+        "org_assets": 1100.1,
+        "org_members": 72182,
+        "assets_as_of": "Q3 2026",
+        "notes": "CPA; hired alongside CFO Tony Molina."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/lafcu-builds-on-90-year-legacy-with-two-key-financial-leadership-appointments/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/lafcu-adds-two-finance-veterans-building-on-90-year-legacy/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68632",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-29-kevin-kelly-financial-center-first-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Kevin Kelly",
+        "organization": "Financial Center First Credit Union",
+        "move": "Hired",
+        "title": "VP, Internal Audit",
+        "level": "VP",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Director, Audit",
+        "previous_org": "Elements Financial Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Indianapolis",
+        "state": "IN",
+        "org_assets": 978.3,
+        "org_members": 53009,
+        "assets_as_of": "Q3 2026",
+        "notes": "Leads the internal audit program."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/financial-center-first-credit-union-names-kevin-kelly-vice-president-of-internal-audit/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68658",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-29-brittany-johnson-united-heritage-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Brittany Johnson",
+        "organization": "United Heritage Credit Union",
+        "move": "Promoted",
+        "title": "VP, Organizational Development",
+        "level": "VP",
+        "function": "People",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Austin",
+        "state": "TX",
+        "org_assets": 1717.9,
+        "org_members": 84800,
+        "assets_as_of": "Q3 2026",
+        "notes": "Leads a new department. With United Heritage since 2017; earlier AVP of Talent Management and AVP of Human Resources."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/united-heritage-credit-union-promotes-brittany-johnson-to-vice-president-of-organizational-development/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68251",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-29-laura-blanding-lafcu-promoted",
+      "fields": {
+        "announced": "2026-10-29",
+        "name": "Laura Blanding",
+        "organization": "LAFCU",
+        "move": "Promoted",
+        "title": "Director, Corporate Education",
+        "level": "Director",
+        "function": "People",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Lansing",
+        "state": "MI",
+        "org_assets": 1100.1,
+        "org_members": 72182,
+        "assets_as_of": "Q3 2026",
+        "notes": "Newly created role focused on employee development and future leaders. Listed under promotions by CU Connection; prior role not stated."
+      },
+      "sources": [
+        {
+          "label": "CreditUnions.com",
+          "url": "https://creditunions.com/press_releases/lafcu-names-laura-blanding-director-of-corporate-education/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/orsa-cu-welcomes-new-governance-leaders-and-board-member-chartway-vp-named-a-top-forty-under-40-honoree/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68632",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-tyler-kuhn-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Tyler Kuhn",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "SVP, Marketing & Digital Strategy",
+        "level": "EVP / SVP",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "VP, Marketing & Digital Strategy",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": "Part of an expanded senior leadership team (8 promotions, 1 hire)."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-amanda-misilo-service-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Amanda Misilo",
+        "organization": "Service Credit Union",
+        "move": "Hired",
+        "title": "VP, Retail",
+        "level": "VP",
+        "function": "Retail",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "VP, Head of Retail Banking & Sales",
+        "previous_org": "Savers Bank",
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": "Earlier at Berkshire Bank and Harvard University FCU."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-meagan-barstow-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Meagan Barstow",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "VP, Accounting & Finance",
+        "level": "VP",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-jillian-cote-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Jillian Cote",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "VP, Legal & Compliance",
+        "level": "VP",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-christine-fitchett-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Christine Fitchett",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "VP, Operations",
+        "level": "VP",
+        "function": "Operations",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-alexander-laham-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Alexander Laham",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "VP, Enterprise Risk",
+        "level": "VP",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-diane-towle-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Diane Towle",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "VP, Loss Mitigation",
+        "level": "VP",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-brian-regan-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Brian Regan",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "VP, Service Ventures",
+        "level": "VP",
+        "function": "Other",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-crystal-richardson-service-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Crystal Richardson",
+        "organization": "Service Credit Union",
+        "move": "Promoted",
+        "title": "VP, Internal Audit",
+        "level": "VP",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "AVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Portsmouth",
+        "state": "NH",
+        "org_assets": 6907.1,
+        "org_members": 396543,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/service-credit-union-expands-senior-leadership-team/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24921",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-jessica-roeder-forum-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Jessica Roeder",
+        "organization": "FORUM Credit Union",
+        "move": "Hired",
+        "title": "VP, Fraud Strategies & Operations",
+        "level": "VP",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Fishers",
+        "state": "IN",
+        "org_assets": 2338.5,
+        "org_members": 166298,
+        "assets_as_of": "Q3 2026",
+        "notes": "Rejoins FORUM, where she was Internal Auditor and then Internal Audit Manager (2019-2024)."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/forum-credit-union-names-jessica-roeder-vice-president-of-fraud-strategies-and-operations/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68248",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-28-tanya-evans-andrews-federal-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-28",
+        "name": "Tanya Evans",
+        "organization": "Andrews Federal Credit Union",
+        "move": "Promoted",
+        "title": "Director, Consumer Lending",
+        "level": "Director",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Branch Manager",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Suitland",
+        "state": "MD",
+        "org_assets": 2712.7,
+        "org_members": 166502,
+        "assets_as_of": "Q3 2026",
+        "notes": "With Andrews Federal since 2002."
+      },
+      "sources": [
+        {
+          "label": "Andrews FCU release (CUInsight)",
+          "url": "https://www.cuinsight.com/press-release/andrews-federal-credit-union-announces-promotion-of-tanya-evans-to-director-of-consumer-lending/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5754",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_title": 0,
+        "state": 1,
+        "notes": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-27-mike-schenck-topline-financial-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-27",
+        "name": "Mike Schenck",
+        "organization": "TopLine Financial Credit Union",
+        "move": "Hired",
+        "title": "SVP, Chief Lending Officer",
+        "level": "C-suite",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "President & CEO",
+        "previous_org": "Westmark Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Maple Grove",
+        "state": "MN",
+        "org_assets": 1121.8,
+        "org_members": 70984,
+        "assets_as_of": "Q3 2026",
+        "notes": "Leaves a CEO post to join TopLine; 30+ years in the industry."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/mike-schenck-named-new-senior-vice-president-and-chief-lending-officer-at-topline-financial-credit-union/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68731",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-26",
+        "name": "Walt Martin",
+        "organization": "Peach State Federal Credit Union",
+        "move": "Hired",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-04",
+        "previous_title": "Deputy Superintendent",
+        "previous_org": "Gwinnett County Public Schools",
+        "succeeds": "Marshall Boutwell",
+        "successor": null,
+        "city": "Lawrenceville",
+        "state": "GA",
+        "org_assets": 1113.7,
+        "org_members": 75966,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joins Jan 4, 2027 as CEO-elect; becomes CEO after a transition. Succeeds Marshall Boutwell (CEO 32+ years), who becomes CEO emeritus."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/peach-state-federal-credit-union-welcomes-mr-walt-martin-as-next-ceo/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/peach-state-walt-martin-marshall-boutwell/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14676",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-26-royce-ngiam-topline-financial-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-26",
+        "name": "Royce Ngiam",
+        "organization": "TopLine Financial Credit Union",
+        "move": "Hired",
+        "title": "SVP, Chief Experience Officer",
+        "level": "C-suite",
+        "function": "Member Experience",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "First City Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Maple Grove",
+        "state": "MN",
+        "org_assets": 1121.8,
+        "org_members": 70984,
+        "assets_as_of": "Q3 2026",
+        "notes": "Led marketing and business development at First City CU; leads TopLine's new Member Experience group."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/royce-ngiam-named-new-senior-vice-president-and-chief-experience-officer-at-topline-financial-credit-union/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68731",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-23",
+        "name": "Julie Willse",
+        "organization": "Greater Iowa Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "Jan 2027",
+        "previous_title": "Chief Operations Officer",
+        "previous_org": null,
+        "succeeds": "Scott Zahnle",
+        "successor": null,
+        "city": "Ames",
+        "state": "IA",
+        "org_assets": 717.0,
+        "org_members": 38826,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Scott Zahnle when he retires Jan 29, 2027."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/scott-zahnle-president-and-chief-executive-officer-announces-retirement/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/greater-iowa-cu-ceo-scott-zahlne-sets-retirement-date-successor-is-named/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64203",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+      "fields": {
+        "announced": "2026-10-23",
+        "name": "Scott Zahnle",
+        "organization": "Greater Iowa Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2027-01-29",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Julie Willse",
+        "city": "Ames",
+        "state": "IA",
+        "org_assets": 717.0,
+        "org_members": 38826,
+        "assets_as_of": "Q3 2026",
+        "notes": "With Greater Iowa since 2012. Successor: COO Julie Willse."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/scott-zahnle-president-and-chief-executive-officer-announces-retirement/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/greater-iowa-cu-ceo-scott-zahlne-sets-retirement-date-successor-is-named/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64203",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "successor": 0,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-23-katie-averill-vystar-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-23",
+        "name": "Katie Averill",
+        "organization": "VyStar Credit Union",
+        "move": "Hired",
+        "title": "Chief Risk & Compliance Officer",
+        "level": "C-suite",
+        "function": "Risk & Compliance",
+        "status": "In effect",
+        "effective": "2026-11-02",
+        "previous_title": "Superintendent of Credit Unions",
+        "previous_org": "Iowa Division of Credit Unions",
+        "succeeds": null,
+        "successor": null,
+        "city": "Jacksonville",
+        "state": "FL",
+        "org_assets": 14437.0,
+        "org_members": 1033625,
+        "assets_as_of": "Q3 2026",
+        "notes": "Reports to Chief Legal Officer Lance Davies. Earlier 10 years as SVP at Citizens Community CU (IA)."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/vystar-credit-union-welcomes-katie-averill-as-chief-risk-and-compliance-officer/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/katie-averill-who-just-exited-as-iowas-regulator-named-chief-risk-officer-at-floridas-vystar-cu/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68490",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-23-laura-chavez-altura-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-23",
+        "name": "Laura Chavez",
+        "organization": "Altura Credit Union",
+        "move": "Hired",
+        "title": "VP, Marketing",
+        "level": "VP",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "VP, Marketing",
+        "previous_org": "Farmers Insurance Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Riverside",
+        "state": "CA",
+        "org_assets": 2638.3,
+        "org_members": 223121,
+        "assets_as_of": "Q3 2026",
+        "notes": "Placed by DDJ Myers."
+      },
+      "sources": [
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/four-credit-unions-announce-new-hires-cooperative-credit-union-association-elects-board-members/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24969",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+      "fields": {
+        "announced": "2026-10-22",
+        "name": "Carol Schumacher",
+        "organization": "Plus Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "Dec 2026",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Las Vegas",
+        "state": "NV",
+        "org_assets": 126.1,
+        "org_members": 8751,
+        "assets_as_of": "Q2 2026",
+        "notes": "Retiring at the end of 2026 after 27+ years; successor search under way."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/plus-credit-union-announces-retirement-of-longtime-ceo-carol-j-schumacher-after-more-than-27-years-of-service/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/plus-cu-ceo-carol-schumacher-to-retire-search-on-for-successor/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-21-patrick-cucinotta-gfa-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-21",
+        "name": "Patrick Cucinotta",
+        "organization": "GFA Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Chief Financial Officer & Treasurer",
+        "previous_org": "Walpole Co-operative Bank",
+        "succeeds": null,
+        "successor": null,
+        "city": "Gardner",
+        "state": "MA",
+        "org_assets": 742.0,
+        "org_members": 32348,
+        "assets_as_of": "Q3 2026",
+        "notes": "Earlier 10+ years at Leader Bank."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/gfa-federal-credit-union-names-new-cfo/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24279",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-jeff-gehris-sun-east-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Jeff Gehris",
+        "organization": "Sun East Federal Credit Union",
+        "move": "Hired",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "In effect",
+        "effective": "2026-11-02",
+        "previous_title": "EVP, Chief Strategy & Experience Officer",
+        "previous_org": "Securityplus Federal Credit Union",
+        "succeeds": "Debbie Cook",
+        "successor": null,
+        "city": "Aston",
+        "state": "PA",
+        "org_assets": 928.5,
+        "org_members": 49096,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Debbie Cook as CEO; placed by DDJ Myers."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/sun-east-federal-credit-union-names-jeff-gehris-as-new-ceo/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/credit-unions-in-two-states-name-new-leadership/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6160",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "succeeds": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Debbie Cook",
+        "organization": "Sun East Federal Credit Union",
+        "move": "Retiring",
+        "title": "President",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": "2026-12-31",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Jeff Gehris",
+        "city": "Aston",
+        "state": "PA",
+        "org_assets": 928.5,
+        "org_members": 49096,
+        "assets_as_of": "Q3 2026",
+        "notes": "Handed the CEO role to Jeff Gehris on Nov 2; stays as President in an advisory role until she retires."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/sun-east-federal-credit-union-names-jeff-gehris-as-new-ceo/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/credit-unions-in-two-states-name-new-leadership/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6160",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "effective": 0,
+        "notes": 0,
+        "state": 2,
+        "successor": 0,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-richard-sellwood-usf-federal-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Richard Sellwood",
+        "organization": "USF Federal Credit Union",
+        "move": "Promoted",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Chief Operating Officer",
+        "previous_org": null,
+        "succeeds": "Rick Skaggs",
+        "successor": null,
+        "city": "Temple Terrace",
+        "state": "FL",
+        "org_assets": 1474.3,
+        "org_members": 81832,
+        "assets_as_of": "Q3 2026",
+        "notes": "Succeeds Rick Skaggs, who is leaving after 16 years (not described as a retirement)."
+      },
+      "sources": [
+        {
+          "label": "Business Observer",
+          "url": "https://www.businessobserverfl.com/news/2026/oct/20/tampa-credit-union-new-ceo/",
+          "type": "trade_press"
+        },
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/credit-unions-in-two-states-name-new-leadership/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24223",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-scott-bolster-whitefish-credit-union-association-promoted",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Scott Bolster",
+        "organization": "Whitefish Credit Union Association",
+        "move": "Promoted",
+        "title": "EVP, Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Whitefish",
+        "state": "MT",
+        "org_assets": 2062.2,
+        "org_members": 66244,
+        "assets_as_of": "Q3 2026",
+        "notes": "One of four promotions as Whitefish expands across Montana; joined 2021."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/whitefish-credit-union-announces-four-leadership-promotions-as-montana-expansion-continues/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/whitefish-credit-union-promotes-four-leaders-as-it-grows-across-montana/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61949",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-colleen-murphy-whitefish-credit-union-association-promoted",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Colleen Murphy",
+        "organization": "Whitefish Credit Union Association",
+        "move": "Promoted",
+        "title": "EVP, Chief Operating Officer",
+        "level": "C-suite",
+        "function": "Operations",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Whitefish",
+        "state": "MT",
+        "org_assets": 2062.2,
+        "org_members": 66244,
+        "assets_as_of": "Q3 2026",
+        "notes": "One of four promotions; joined 2015."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/whitefish-credit-union-announces-four-leadership-promotions-as-montana-expansion-continues/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/whitefish-credit-union-promotes-four-leaders-as-it-grows-across-montana/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61949",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-josh-wilson-whitefish-credit-union-association-promoted",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Josh Wilson",
+        "organization": "Whitefish Credit Union Association",
+        "move": "Promoted",
+        "title": "Chief Marketing Officer",
+        "level": "C-suite",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Marketing",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Whitefish",
+        "state": "MT",
+        "org_assets": 2062.2,
+        "org_members": 66244,
+        "assets_as_of": "Q3 2026",
+        "notes": "Joined 2017; chairs America's Credit Unions' Marketing, PR & Development Council."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/whitefish-credit-union-announces-four-leadership-promotions-as-montana-expansion-continues/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/whitefish-credit-union-promotes-four-leaders-as-it-grows-across-montana/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61949",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-matt-venturini-whitefish-credit-union-association-promoted",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Matt Venturini",
+        "organization": "Whitefish Credit Union Association",
+        "move": "Promoted",
+        "title": "Chief Lending Officer",
+        "level": "C-suite",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Lending",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Whitefish",
+        "state": "MT",
+        "org_assets": 2062.2,
+        "org_members": 66244,
+        "assets_as_of": "Q3 2026",
+        "notes": "One of four promotions."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/whitefish-credit-union-announces-four-leadership-promotions-as-montana-expansion-continues/",
+          "type": "primary"
+        },
+        {
+          "label": "CU Connection",
+          "url": "https://thecreditunionconnection.com/whitefish-credit-union-promotes-four-leaders-as-it-grows-across-montana/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61949",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "state": 2,
+        "function": 0,
+        "status": 0,
+        "city": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    },
+    {
+      "id": "2026-10-20-stephanie-schrock-interra-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Stephanie Schrock",
+        "organization": "Interra Credit Union",
+        "move": "Hired",
+        "title": "VP, Community Development & Market Engagement",
+        "level": "VP",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Chief Marketing Officer",
+        "previous_org": "Notre Dame Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Goshen",
+        "state": "IN",
+        "org_assets": 2069.3,
+        "org_members": 90096,
+        "assets_as_of": "Q2 2026",
+        "notes": "Leads community engagement across Interra's markets."
+      },
+      "sources": [
+        {
+          "label": "CUInsight",
+          "url": "https://www.cuinsight.com/press-release/interra-strengthens-community-engagement-strategy-with-addition-of-stephanie-schrock/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "state": 1,
+        "function": 0,
+        "status": 0,
+        "city": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-22",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "last_checked": "2026-11-22"
+    }
+  ]
+}
