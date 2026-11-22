@@ -2793,6 +2793,181 @@
       "last_checked": "2026-11-21"
     },
     {
+      "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+      "fields": {
+        "announced": "2026-06-05",
+        "acquirer": "Baxter Credit Union",
+        "partner": "HealthCare Associates Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Not Disclosed",
+        "member_vote": "2026-12-04",
+        "completed": null,
+        "new_name": null,
+        "ceo": null,
+        "acquirer_assets": 6450.9,
+        "acquirer_members": 371640,
+        "acquirer_locations": 42,
+        "partner_assets": 467.1,
+        "partner_members": 29254,
+        "partner_locations": 4,
+        "combined_assets": 6918.0,
+        "size_as_of": "Q3 2026",
+        "state": "IL",
+        "partner_state": "IL",
+        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
+        "acquirer_city": "Vernon Hills",
+        "partner_city": "Lisle",
+        "acquirer_ceo": "Michael Valentine",
+        "partner_ceo": "Joseph J Kregul",
+        "combined_members": 400894,
+        "combined_locations": 46,
+        "footprint": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, BCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, HealthCare Associates CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data (branch file), Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        },
+        {
+          "label": "CUToday (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHJPZlZIeGNSbDJhWUhWS1U0R3FlanNQUjdjektxYVI2b2pTOVM3RWpObnJnSTR1Y2JPdGZHdE1LbDJXZXh0RmxjSGNxaWF1Z0NuTTRNSzN1aHI2VHcwQ0FZUFpwVXpXRE5GWHNXOFJYczg0eFRzVEMzM3ZKbldQQVBWSWpwYXZWeTl2bzhiYW9VR2dlNkxhNUdORjQ1RFFzcl93a0c3N0Y0ZDRMdVRjRzVpLUVuVEo5?oc=5",
+          "type": "trade_press"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2,
+        "acquirer_city": 1,
+        "partner_city": 2,
+        "acquirer_ceo": 1,
+        "partner_ceo": 2,
+        "combined_members": 1,
+        "combined_locations": 1,
+        "footprint": 3,
+        "announced": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+          "changes": [
+            {
+              "field": "acquirer_city",
+              "old": null,
+              "new": "Vernon Hills"
+            },
+            {
+              "field": "partner_city",
+              "old": null,
+              "new": "Lisle"
+            },
+            {
+              "field": "acquirer_ceo",
+              "old": null,
+              "new": "Michael Valentine"
+            },
+            {
+              "field": "partner_ceo",
+              "old": null,
+              "new": "Joseph J Kregul"
+            },
+            {
+              "field": "combined_members",
+              "old": null,
+              "new": 400894
+            },
+            {
+              "field": "combined_locations",
+              "old": null,
+              "new": 45
+            },
+            {
+              "field": "footprint",
+              "old": null,
+              "new": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
+            "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
+          "changes": [
+            {
+              "field": "acquirer_locations",
+              "old": 41,
+              "new": 42
+            },
+            {
+              "field": "combined_locations",
+              "old": 45,
+              "new": 46
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Announced Jun 5, 2026",
+          "changes": [
+            {
+              "field": "announced",
+              "old": null,
+              "new": "2026-06-05"
+            }
+          ],
+          "sources": [
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHJPZlZIeGNSbDJhWUhWS1U0R3FlanNQUjdjektxYVI2b2pTOVM3RWpObnJnSTR1Y2JPdGZHdE1LbDJXZXh0RmxjSGNxaWF1Z0NuTTRNSzN1aHI2VHcwQ0FZUFpwVXpXRE5GWHNXOFJYczg0eFRzVEMzM3ZKbldQQVBWSWpwYXZWeTl2bzhiYW9VR2dlNkxhNUdORjQ1RFFzcl93a0c3N0Y0ZDRMdVRjRzVpLUVuVEo5?oc=5"
+          ]
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "last_checked": "2026-11-21"
+    },
+    {
       "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
       "fields": {
         "announced": "2026-05-15",
@@ -5467,7 +5642,7 @@
         "combined_members": 203229,
         "combined_locations": 51,
         "footprint": "IL, IN, MI, MN, TX, GA, FL, ND, NV, WI",
-        "next_steps": "Legal merger set for Dec 31, 2026"
+        "next_steps": "Legal merger Dec 31, 2026"
       },
       "sources": [
         {
@@ -5592,6 +5767,20 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4060"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Legal merger date set for Dec 31, 2026",
+          "changes": [
+            {
+              "field": "next_steps",
+              "old": "Legal merger set for Dec 31, 2026",
+              "new": "Legal merger Dec 31, 2026"
+            }
+          ],
+          "sources": [
+            "https://www.creditunion1.org/about/mergers/gulf-coast/"
           ]
         }
       ],
@@ -7134,161 +7323,6 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4951",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23371",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
-          ]
-        }
-      ],
-      "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
-    },
-    {
-      "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
-      "fields": {
-        "announced": null,
-        "acquirer": "Baxter Credit Union",
-        "partner": "HealthCare Associates Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2026-12-04",
-        "completed": null,
-        "new_name": null,
-        "ceo": null,
-        "acquirer_assets": 6450.9,
-        "acquirer_members": 371640,
-        "acquirer_locations": 42,
-        "partner_assets": 467.1,
-        "partner_members": 29254,
-        "partner_locations": 4,
-        "combined_assets": 6918.0,
-        "size_as_of": "Q3 2026",
-        "state": "IL",
-        "partner_state": "IL",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
-        "acquirer_city": "Vernon Hills",
-        "partner_city": "Lisle",
-        "acquirer_ceo": "Michael Valentine",
-        "partner_ceo": "Joseph J Kregul",
-        "combined_members": 400894,
-        "combined_locations": 46,
-        "footprint": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
-      },
-      "sources": [
-        {
-          "label": "NCUA proposed-merger list",
-          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA record, BCU (Sep 30, 2026 call report)",
-          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA record, HealthCare Associates CU (Sep 30, 2026 call report)",
-          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA call report data (branch file), Jun 30, 2026",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "status": 0,
-        "expected_close": 0,
-        "acquirer": 0,
-        "partner": 0,
-        "deal_type": 0,
-        "member_vote": 0,
-        "partner_members": 2,
-        "acquirer_assets": 1,
-        "acquirer_members": 1,
-        "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
-        "partner_locations": 2,
-        "state": 1,
-        "partner_state": 2,
-        "acquirer_city": 1,
-        "partner_city": 2,
-        "acquirer_ceo": 1,
-        "partner_ceo": 2,
-        "combined_members": 1,
-        "combined_locations": 1,
-        "footprint": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-21",
-          "note": "Added"
-        },
-        {
-          "date": "2026-11-21",
-          "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-          "changes": [
-            {
-              "field": "acquirer_city",
-              "old": null,
-              "new": "Vernon Hills"
-            },
-            {
-              "field": "partner_city",
-              "old": null,
-              "new": "Lisle"
-            },
-            {
-              "field": "acquirer_ceo",
-              "old": null,
-              "new": "Michael Valentine"
-            },
-            {
-              "field": "partner_ceo",
-              "old": null,
-              "new": "Joseph J Kregul"
-            },
-            {
-              "field": "combined_members",
-              "old": null,
-              "new": 400894
-            },
-            {
-              "field": "combined_locations",
-              "old": null,
-              "new": 45
-            },
-            {
-              "field": "footprint",
-              "old": null,
-              "new": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
-            }
-          ],
-          "sources": [
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
-            "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
-          ]
-        },
-        {
-          "date": "2026-11-21",
-          "note": "Refreshed sizes, branch counts and footprint from NCUA's current profile (Q3 2026)",
-          "changes": [
-            {
-              "field": "acquirer_locations",
-              "old": 41,
-              "new": 42
-            },
-            {
-              "field": "combined_locations",
-              "old": 45,
-              "new": 46
-            }
-          ],
-          "sources": [
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187",
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421"
           ]
         }
       ],
