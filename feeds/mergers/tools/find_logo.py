@@ -4,6 +4,8 @@
     python3 feeds/mergers/tools/find_logo.py [options] <slug> [<slug> ...]
       --site slug=https://...   use this homepage (when NCUA has no website or the wrong one)
       --page slug=https://...   also look on this page (e.g. a WebSearch result for "<name> logo")
+      --pdf slug=https://...    also take the page-1 images of this PDF (a press release the organization
+                                issued, often posted on a chamber, city or partner site): its letterhead
       --before YYYY-MM-DD       archive cutoff for every slug (default: per slug, the day before its
                                 earliest announced deal in feeds/mergers/feed.json, else 180 days ago)
 
@@ -16,6 +18,8 @@ For each organization it collects every plausible logo, from:
           live site refused us (401/403/429): never get around a site that blocks automated requests.
   wiki    the Wikipedia infobox image, when the article title matches
   page    any --page given
+  pdf     any --pdf given (how Suncoast's and Gesa's logos were found: their sites block cloud servers
+          with Cloudflare's bot check, but their own press-release PDFs are posted elsewhere)
 Candidates go to /tmp/logo-candidates/<slug>/<n>-<origin>.<ext>, listed in results.json, and every one
 is drawn on /tmp/logo-candidates/sheet-N.png (ten organizations per sheet, one row each, flagged ones marked "!").
 View the sheet with the Read tool, pick the right one, then run engine/logos.py add with its file and
@@ -196,7 +200,28 @@ def save(slug, n, origin, kind, val, page_text, fetch_prefix=""):
     open(p, "wb").write(data)
     return p, hashlib.md5(data).hexdigest()
 
-def one(slug, site=None, pages=(), before=None):
+def pdf_images(slug, url, first_n):
+    """Page-1 images of a PDF (press-release letterhead), with their transparency masks applied."""
+    from PIL import Image
+    d = f"{OUT}/{slug}"
+    pdf = f"{d}/src-{first_n}.pdf"
+    open(pdf, "wb").write(get(url, 40_000_000)[0])
+    rows = [r.split() for r in subprocess.run(["pdfimages", "-list", "-f", "1", "-l", "1", pdf],
+            capture_output=True, text=True).stdout.splitlines()[2:]]
+    subprocess.run(["pdfimages", "-png", "-f", "1", "-l", "1", pdf, f"{d}/pdf{first_n}"], capture_output=True)
+    out = []
+    for i, r in enumerate(rows):
+        if len(r) < 5 or r[2] != "image" or int(r[3]) < 80:
+            continue
+        im = Image.open(f"{d}/pdf{first_n}-{i:03d}.png").convert("RGB")
+        if i + 1 < len(rows) and rows[i + 1][2] == "smask":
+            im.putalpha(Image.open(f"{d}/pdf{first_n}-{i + 1:03d}.png").convert("L").resize(im.size))
+        p = f"{d}/pdf{first_n}-{i:03d}-logo.png"
+        im.save(p)
+        out.append(p)
+    return out
+
+def one(slug, site=None, pages=(), before=None, pdfs=()):
     o = orgs[slug]
     os.makedirs(f"{OUT}/{slug}", exist_ok=True)
     cands, notes, hashes = [], [], set()
@@ -235,7 +260,10 @@ def one(slug, site=None, pages=(), before=None):
             take("live", sorted(found, key=lambda c: -c[0]), t, final)
         except urllib.error.HTTPError as e:
             blocked = e.code in (401, 403, 429)
-            notes.append(f"live site {e.code}" + (" (refused us: archive not used)" if blocked else ""))
+            cf_ = "cloudflare" in (e.headers.get("server") or "").lower()
+            notes.append(f"live site {e.code}" + (" from Cloudflare's bot check" if cf_ else "") + (
+                f": don't retry it. WebSearch '{o['name']} press release pdf' and '{o['name']} logo', then rerun with "
+                f"--pdf {slug}=<pdf url> / --page {slug}=<page url>" if blocked else ""))
         except Exception as e:
             notes.append(f"live site error {str(e)[:60]}")
         if not blocked and ARCHIVE_OK:
@@ -258,6 +286,12 @@ def one(slug, site=None, pages=(), before=None):
             take("wiki", [(5, "url", w[0], w[1])], "", w[0])
     except Exception:
         pass
+    for url in pdfs:
+        try:
+            for f in pdf_images(slug, url, len(cands) + 1):
+                cands.append({"n": len(cands) + 1, "origin": "pdf", "file": f, "flag": False, "source": url, "hint": "PDF letterhead"})
+        except Exception as e:
+            notes.append(f"pdf error {str(e)[:60]}")
     for pg in pages:
         try:
             page, final = get(pg)
@@ -302,18 +336,20 @@ def sheet_page(rows, path):
     img.save(path)
 
 def main(argv):
-    sites, pages, before, slugs = {}, {}, None, []
+    sites, pages, pdfs, before, slugs = {}, {}, {}, None, []
     it = iter(argv)
     for a in it:
         if a == "--site":
             k, v = next(it).split("=", 1); sites[k] = v
         elif a == "--page":
             k, v = next(it).split("=", 1); pages.setdefault(k, []).append(v)
+        elif a == "--pdf":
+            k, v = next(it).split("=", 1); pdfs.setdefault(k, []).append(v)
         elif a == "--before":
             before = next(it)
         else:
             slugs.append(a)
-    slugs += [s for s in list(sites) + list(pages) if s not in slugs]
+    slugs += [s for s in list(sites) + list(pages) + list(pdfs) if s not in slugs]
     os.makedirs(OUT, exist_ok=True)
     global ARCHIVE_OK
     try:
@@ -323,7 +359,7 @@ def main(argv):
         print("Internet Archive not reachable from here: archive copies skipped")
     res = {}
     with cf.ThreadPoolExecutor(8) as ex:
-        for slug, r in ex.map(lambda s: one(s, sites.get(s), pages.get(s, ()), before), slugs):
+        for slug, r in ex.map(lambda s: one(s, sites.get(s), pages.get(s, ()), before, pdfs.get(s, ())), slugs):
             res[slug] = r
     json.dump(res, open(f"{OUT}/results.json", "w"), indent=1)
     try:

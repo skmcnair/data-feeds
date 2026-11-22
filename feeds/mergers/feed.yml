@@ -49,10 +49,17 @@ instructions: |
     2. Nothing right: WebSearch "<name>" (to find the real website when NCUA/FDIC has none or the wrong
        one) and "<name> logo", then rerun with --site slug=<homepage> and --page slug=<result page> for
        each promising result (lender directories such as elementix.ai, chamber, sponsor and news pages).
-    3. Then press releases issued by the organization itself: its own press-release PDFs (WebSearch
-       "<name> press release"; curl the PDF, pdfimages -png -f 1 -l 1, view the letterhead image) and its
-       PR Newswire / GlobeNewswire / Business Wire releases (images on mma.prnewswire.com etc.). A vendor's
-       release usually carries the vendor's logo, not the credit union's.
+    3. Then press releases issued by the organization itself. Its press-release PDFs carry the logo in
+       the letterhead and are often reposted on other sites (chambers of commerce, city and tourism
+       sites, partners): WebSearch "<name> press release pdf" and rerun with --pdf slug=<pdf url>; the
+       finder pulls the page-1 images with their transparency. Also its PR Newswire / GlobeNewswire /
+       Business Wire releases (images on mma.prnewswire.com etc.). A vendor's release usually carries
+       the vendor's logo, not the credit union's.
+       This is the route for sites behind a bot check: some sites (Gesa, Suncoast) use Cloudflare, which
+       answers every cloud server, this review included, with a 403 challenge page no matter what is
+       requested; the finder reports "403 from Cloudflare's bot check". Never try to get past the check
+       or ask Sean to fetch it; go straight to steps 2 and 3 (Gesa's logo came from its own press
+       release PDF on yakima.org, Suncoast's from its press-release PDFs on its media host).
     4. Lockups: when the only mark is the logo plus "powered by X", "a division of X", "previously X" or an
        anniversary badge, crop the organization's own mark out of it where a divider line or blank row
        separates them (see the crops in this feed's history); otherwise keep looking.
