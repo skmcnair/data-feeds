@@ -37,22 +37,29 @@ instructions: |
   call report quarter, with today's branch list) and FDIC BankFind. Use it for every new deal and,
   for open deals, whenever its quarter is newer than size_as_of. creditunions.online (which repackages
   NCUA data) is a fallback only, labeled aggregator.
-  Logos (every organization in a tracked deal needs one; check logos_missing every run):
-    python3 feeds/mergers/tools/find_logo.py <slug> <slug> ...   then view /tmp/logo-candidates/sheet.png.
-  It handles header images, inline SVG and SVG sprites. If a site blocks you (403) or shows only an
-  anniversary/co-branded/promo mark: use the logo from the organization's own press release (search
-  https://www.prnewswire.com/search/news/?keyword="<name>", GlobeNewswire, Business Wire; release
-  images are on mma.prnewswire.com) or from its own press-release PDF (pdfimages). For a merged
-  organization whose site now shows the acquirer, use its own logo from a press release dated before
-  the merger. Press-release PDFs are the most reliable fallback: WebSearch "<name> press release"
-  and look for PDFs on the organization's own media host (e.g. Suncoast's are on edge.sitecorecloud.io);
-  download one with curl, run pdfimages -png -f 1 -l 1, and view the letterhead image. A vendor's release
-  on PR Newswire usually carries the vendor's logo, not the credit union's, so check before using it.
-  If the only mark is a lockup of the logo plus "25 years" or similar, separated by a divider line,
-  crop the organization's own mark out of it. Never use online-banking product marks (e.g. "It's Me
-  247", "My247"), anniversary badges, signatures or CEO photos. Once a site has refused you (403),
-  don't request it again with different headers. Tiny credit unions with no website may have no
-  public logo; list them in your message.
+  Logos: every organization in a tracked deal needs one. Check logos_missing every run; a logo still
+  missing after the run that added its deal is a problem to fix or report, not an accepted gap.
+  Get logos at the moment a deal is added: a merging organization's own site is replaced by the
+  acquirer's brand soon after completion, and then its logo is much harder to find.
+    1. python3 feeds/mergers/tools/find_logo.py <slug> ...   then view every /tmp/logo-candidates/sheet-N.png
+       (all candidates per organization, flagged ones marked "!"). It reads the live homepage (header,
+       schema.org logo, og:image, CSS background logos, large site icons; follows redirect stubs; banks'
+       websites come from FDIC), the Internet Archive's copy from before the deal when that is reachable,
+       and Wikipedia. Pick the organization's own logo: a clean og:image often beats a co-branded header.
+    2. Nothing right: WebSearch "<name>" (to find the real website when NCUA/FDIC has none or the wrong
+       one) and "<name> logo", then rerun with --site slug=<homepage> and --page slug=<result page> for
+       each promising result (lender directories such as elementix.ai, chamber, sponsor and news pages).
+    3. Then press releases issued by the organization itself: its own press-release PDFs (WebSearch
+       "<name> press release"; curl the PDF, pdfimages -png -f 1 -l 1, view the letterhead image) and its
+       PR Newswire / GlobeNewswire / Business Wire releases (images on mma.prnewswire.com etc.). A vendor's
+       release usually carries the vendor's logo, not the credit union's.
+    4. Lockups: when the only mark is the logo plus "powered by X", "a division of X", "previously X" or an
+       anniversary badge, crop the organization's own mark out of it where a divider line or blank row
+       separates them (see the crops in this feed's history); otherwise keep looking.
+  Never use: the acquirer's logo on a merged organization, online-banking product marks ("It's Me 247",
+  "My247"), anniversary or award badges, NCUA/Equal Housing marks, signatures, photos or a third party's
+  own logo. Once a site has refused you (403), don't request it again with different headers. A tiny
+  credit union with no website and no logo anywhere public: list it in your message as checked.
   Sizes: never take assets, members or locations from news stories.
   - (sizes.py does all of the following.) Credit unions: assets and members from NCUA's details record,
     https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/<charter>
