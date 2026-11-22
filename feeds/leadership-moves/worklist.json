@@ -1,9 +1,18 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-22T16:26:33-05:00",
+  "generated": "2026-11-22T16:56:41-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "e948090b3412",
+      "title": "Hwasun Credit Union Chief Inspects Loan Collateral in Person - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWZfRnk5YjR0d1p2QllrOVpiX1FPOWhtRnBOeTY5bzZJbVZMY0JTU0w4cHVQZnBXREpaNTVSLTNBclU2cm1fWlljOE1FN0lhV3dKWVZrcEw0cXMxUkVqc1dnaFVuV3Rma2sweXJnM1BuUklSaVE5dW8tYnVhdmFZa05saDd6aHpJRUhlVTFLeDA1Z0R1TUQtcEl0d0pYNk9PUHZnRQ",
+      "source": "Google News - credit union retirements",
+      "published": "2026-11-22T16:30:05-05:00",
+      "found": "2026-11-22T16:56:35-05:00",
+      "summary": "Hwasun Credit Union Chief Inspects Loan Collateral in Person Seoul Economic Daily"
+    },
     {
       "id": "847611e613e0",
       "title": "Business People: Old National promotes longtime Bremer Bank exec - Pioneer Press",
@@ -266,6 +275,15 @@
       "summary": "Leadership Appointment Congratulations to Misty Harrison on their appointment as Chief Executive Officer at Afena Federal Credit Union ! In this role, Misty will guide the overall strategic direction and leadership of the credit union, stee"
     },
     {
+      "id": "55a084a9c61a",
+      "title": "Copper Financial selects Osaic Institutions for credit union growth - InvestmentNews",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRnBnMHdfbnUtZmtWVHNwbFUtRElnV255THY0eVZEc1ljZV93SWNTck8zd2l6VTNybzZlbFR4UW11TVd1Y0RxYnl2a2tEMDhTQTZHWkhlNFpxaFJJeWRaX3M4dTVTSTdJVjhFdDJTVlN5N184TFVROVhBM3M3bUlvanV0TzQ5V195Y3h5WFRJRzlXaFYzenREQ0U0cmJKSkxRME5YY0QxdHRuVy1HRGhDaUFqVmhJZkpSV2FzRG9CUGlkOEdlNXlaSVpnTXY",
+      "source": "Google News - credit union retirements",
+      "published": "2026-11-19T06:45:46-05:00",
+      "found": "2026-11-22T16:56:35-05:00",
+      "summary": "Copper Financial selects Osaic Institutions for credit union growth InvestmentNews"
+    },
+    {
       "id": "8e2763ccda51",
       "title": "GWLN Names First Recipients of Impact Grants; CU Impact Foundation Selects 4 Scholarship Winners - Credit Union Daily",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2tzR2c3NzdocXBzdTN2NFEyLURXTUVTNjM2eDd6U3lEbm5mRU56LU1jb3hYWlZQR2dRS1pwRm5abkUyRndRMEc1QmRUdUo0U1RSaVZONjN4cHZxVlZ0NW5NbWZJS2I3N3diRjN1RElXWnVoUl8xbF9rS0xuU3UyUGtrcEk0MzZOU0s2UXVLd091T2psRV9EQVlzX00",
@@ -399,6 +417,15 @@
       "published": "2026-11-17T20:46:03-05:00",
       "found": "2026-11-22T10:58:01-05:00",
       "summary": "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley ehextra.com"
+    },
+    {
+      "id": "abbe6228e210",
+      "title": "Webster First CEO highlights financial literacy gap in Worcester Business Journal thought leadership article - CUInsight",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSktRNzRWbzdLc0JUdHp0anMyVkFXbk10V2FFeHQ4ZnY0V2ZVVzdSZm53aXRnRXVBWkdPemM1UWJrZWlNOUg0cHdRcmppdE4zQ004TlRWVXlOQVJhckdId1pWeWRBN1JIQ184aXNlSnlCUzZkX2pnMkVkZFF0eWh3UllBeXlOT1Z6YXlyUUtUajFJdjEzdWZmcWl5THRDWnVvbVp2Q2hVVjNuWURxTkFyV0lod3p5ZFpRb21NN3hkVWVhS3dpNWY5NTYtcWthR1oydGlwZXFXcHV2YUhaOGJBOEptOA",
+      "source": "Google News - CUInsight people",
+      "published": "2026-11-17T20:30:49-05:00",
+      "found": "2026-11-22T16:56:35-05:00",
+      "summary": "Webster First CEO highlights financial literacy gap in Worcester Business Journal thought leadership article CUInsight"
     },
     {
       "id": "e3102df6d7a8",
