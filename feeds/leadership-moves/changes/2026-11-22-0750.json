@@ -1,0 +1,12 @@
+{
+ "feed": "leadership-moves",
+ "run": {"started": "2026-11-22T07:42:00-05:00", "finished": "2026-11-22T07:50:00-05:00", "searches": 3, "errors": []},
+ "updates": [
+  {"id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+   "set": {"previous_title": "Chief Experience Officer"},
+   "note": "Previous title added (TBACU named her Chief Experience Officer in Dec 2024)",
+   "sources": [{"label": "TBA CU release (CUInsight)", "url": "https://cuinsight.com/?p=169346", "type": "primary"}]}
+ ],
+ "rechecked": ["2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired"],
+ "reviewed": []
+}
