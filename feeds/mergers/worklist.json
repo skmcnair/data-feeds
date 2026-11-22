@@ -1,9 +1,19 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-22T10:28:06-05:00",
+  "generated": "2026-11-22T10:58:07-05:00",
   "trial": true,
   "lookback_days": 3,
-  "pending_inbox": [],
+  "pending_inbox": [
+    {
+      "id": "47dd89e09e6e",
+      "title": "Dade County Federal Credit Union and Evermore Bank Announce Acquisition Agreement, Expanding DCFCU's Presence in South Florida - Miami's Community News",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOYVNFVmxTdGJoYnp2bFFOQ3ZkcWp6c3RGaUlkTmJiOUljMHA1Ylh6LWw5cXdkNElJWi03TkhkYTBiZzlYX2RIQmNSeFFoX1JTcU9UM3hGcG05NWUwN3AtODZCRkhHVjlpTVNkR3dlNjZ4V0NVXy1GMVZRNUtnYlMwOXQ3Y2NJTnZyZGxQTFFTZjZxRUgwS1ZOcFZxOWRlYnJoNi1NbVhEeUJUbVFzLXNiSHJobG9UQXduWWYwRTd5SXhPVkFaMGdmWC1yNDdFb3dPTUVPOUdDdkZ6b1Vjd0RKc1JTYlotMXVuWDNHSExKREExSXk5cDBUaUo1ZUNENE9rZGxDUjdDTHRYY0RUOWlF",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-17T13:15:12-05:00",
+      "found": "2026-11-22T10:58:03-05:00",
+      "summary": "Dade County Federal Credit Union and Evermore Bank Announce Acquisition Agreement, Expanding DCFCU's Presence in South Florida Miami's Community News"
+    }
+  ],
   "recheck": [
     {
       "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
