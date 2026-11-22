@@ -1,4 +1,9 @@
 {
+ "access-of-louisiana-fcu": {
+  "checked": "2026-11-22",
+  "file": "access-of-louisiana-fcu-v1.png",
+  "result": "current"
+ },
  "advantage-one": {
   "checked": "2026-11-21",
   "file": "advantage-one-v1.png",
@@ -42,8 +47,8 @@
   "result": "current"
  },
  "american-united-fcu": {
-  "checked": "2026-11-21",
-  "file": "american-united-fcu-v1.png",
+  "checked": "2026-11-22",
+  "file": "american-united-fcu-v2.png",
   "result": "current"
  },
  "anb-fox-cities": {
@@ -325,8 +330,14 @@
   "result": "pinned"
  },
  "gold-coast-bank": {
-  "checked": "2026-11-21",
-  "result": "MISSING"
+  "checked": "2026-11-22",
+  "confirmed": {
+   "date": "2026-05-01",
+   "source": "https://media.msufcu.org/publicsites/publicsite/documents/y1aalv74iydpdsc91eaq.pdf"
+  },
+  "file": "gold-coast-bank-v1.png",
+  "note": "no logo found on the live site; matches https://media.msufcu.org/publicsites/publicsite/documents/y1aalv74iydpdsc91eaq.pdf (2026-05-01)",
+  "result": "confirmed"
  },
  "great-horizons-fcu": {
   "checked": "2026-11-21",
@@ -340,6 +351,11 @@
  "greater-nevada": {
   "checked": "2026-11-21",
   "file": "greater-nevada-v1.png",
+  "result": "current"
+ },
+ "guardian-cu": {
+  "checked": "2026-11-22",
+  "file": "guardian-cu-v1.png",
   "result": "current"
  },
  "gulf-coast-fcu": {
@@ -372,12 +388,23 @@
   "result": "current"
  },
  "healthcare-systems-fcu": {
-  "checked": "2026-11-21",
-  "result": "MISSING"
+  "checked": "2026-11-22",
+  "confirmed": {
+   "date": "2026-11-22",
+   "source": "https://www.healthcarefcu.org"
+  },
+  "file": "healthcare-systems-fcu-v1.png",
+  "note": "site 404; matches https://www.healthcarefcu.org (2026-11-22)",
+  "result": "confirmed"
  },
  "hicksville-bank": {
   "checked": "2026-11-21",
   "result": "MISSING"
+ },
+ "home-fcu": {
+  "checked": "2026-11-22",
+  "file": "home-fcu-v1.png",
+  "result": "current"
  },
  "hoosier-hills": {
   "checked": "2026-11-21",
@@ -405,6 +432,11 @@
   "ok": true,
   "result": "reviewed",
   "reviewed": "2026-11-21"
+ },
+ "illinois-valley-cu": {
+  "checked": "2026-11-22",
+  "file": "illinois-valley-cu-v1.png",
+  "result": "current"
  },
  "interra": {
   "checked": "2026-11-21",
@@ -575,12 +607,31 @@
   "result": "current"
  },
  "ontario-public-employees-fcu": {
-  "checked": "2026-11-21",
-  "result": "MISSING"
+  "checked": "2026-11-22",
+  "file": "ontario-public-employees-fcu-v1.png",
+  "live_sig": [
+   [
+    "20f800f6005c2658263c272c272a271a275a265a235a19ba01ba015a00d860f8",
+    5.0
+   ],
+   [
+    "2710ce0438c1f0e0c1388dcecc0ccd4ccc0ccd4cc13cc000c9b4e938f624dc44",
+    0.872
+   ]
+  ],
+  "note": "OPEFCU's own oval logo, cropped from its Sep 30, 2026 member letter posted on opefcu.org; the site header is a photo banner with no logo, and the other site images are the It's Me 247 online-banking mark and the Equal Housing mark",
+  "ok": true,
+  "result": "reviewed",
+  "reviewed": "2026-11-22"
  },
  "p-and-s-cu": {
   "checked": "2026-11-21",
   "file": "p-and-s-cu-v1.png",
+  "result": "current"
+ },
+ "paho-who-fcu": {
+  "checked": "2026-11-22",
+  "file": "paho-who-fcu-v1.png",
   "result": "current"
  },
  "park-side": {
@@ -603,8 +654,30 @@
   "result": "current"
  },
  "peoples-independent-bank": {
-  "checked": "2026-11-21",
-  "result": "MISSING"
+  "checked": "2026-11-22",
+  "file": "peoples-independent-bank-v1.png",
+  "live_sig": [
+   [
+    "d424546a147a765aaa5a2cdce9a4e5a644a209410000003200d000c500e700e6",
+    4.286
+   ],
+   [
+    "8000c000600038001c000e000700038001c000e000700038001c000e00070001",
+    0.733
+   ],
+   [
+    "2a516a956a8509a554a55323165b1a593b4d44a2005a00a500a5009200910016",
+    4.235
+   ],
+   [
+    "d426946a147af21a2a5a2cdce924e5a644a2004900000052005a006c00680069",
+    4.188
+   ]
+  ],
+  "note": "Pre-merger logo of Peoples Independent Bank (purchased by Alabama ONE Oct 30, 2026), from the bank's own site media library; pibonline.com now shows the acquirer's Alabama ONE brand (uploaded Oct 2026)",
+  "ok": true,
+  "result": "reviewed",
+  "reviewed": "2026-11-22"
  },
  "piedmont-advantage-cu": {
   "checked": "2026-11-21",
@@ -633,8 +706,14 @@
   "result": "MISSING"
  },
  "port-washington-fcu": {
-  "checked": "2026-11-21",
-  "result": "MISSING"
+  "checked": "2026-11-22",
+  "confirmed": {
+   "date": "2026-11-22",
+   "source": "https://www.pwfcu.org"
+  },
+  "file": "port-washington-fcu-v1.png",
+  "note": "site 500; matches https://www.pwfcu.org (2026-11-22)",
+  "result": "confirmed"
  },
  "rbfcu": {
   "checked": "2026-11-21",
@@ -686,6 +765,18 @@
   "checked": "2026-11-21",
   "file": "smart-financial-v1.png",
   "result": "current"
+ },
+ "solutions-first-fcu": {
+  "file": "solutions-first-fcu-v1.png",
+  "live_sig": [
+   [
+    "00520893c26589ad9d8cd44aab0a2daa35a2b1ac11a52ba59429832d2ce54c61",
+    3.179
+   ]
+  ],
+  "note": "Solutions First's own mark cropped from Guardian's 2026 merger graphic; its old site shows only NCUA/EHL marks",
+  "ok": true,
+  "reviewed": "2026-11-22"
  },
  "southern-star-cu": {
   "checked": "2026-11-21",
@@ -812,6 +903,22 @@
   "checked": "2026-11-21",
   "file": "water-s-edge-fcu-v1.png",
   "result": "current"
+ },
+ "west-aircomm-fcu": {
+  "file": "west-aircomm-fcu-v1.png",
+  "live_sig": [
+   [
+    "ce3486643866246626428a4326533443164b26493899289b318a370a0e0299a4",
+    1.211
+   ],
+   [
+    "600062046d1a6d5a6d5b6c946c946d626d4c6fcc6d287d2a7ad0bad4b2d4952b",
+    4.6
+   ]
+  ],
+  "note": "Live header logo (lazy-loaded data-src wp-content/uploads/2020/11/logo.png), which the checker can't see",
+  "ok": true,
+  "reviewed": "2026-11-22"
  },
  "west-tennessee-cu": {
   "checked": "2026-11-21",

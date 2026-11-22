@@ -5,7 +5,7 @@
       "added": "2026-11-21",
       "short_name": "Nutmeg",
       "kind": "credit_union",
-      "charter": "68657",
+      "charter": "24998",
       "state": "CT",
       "logo": {
         "file": "nutmeg-v1.png",
@@ -19,7 +19,10 @@
         "checked": "2026-11-21",
         "previous": [],
         "ignored": []
-      }
+      },
+      "aliases": [
+        "Nutmeg State Federal Credit Union"
+      ]
     },
     "new-haven-teachers-fcu": {
       "name": "New Haven Teachers Federal Credit Union",
@@ -830,7 +833,21 @@
       "kind": "bank",
       "website": "http://www.pibonline.com",
       "state": "AL",
-      "fdic_cert": "27233"
+      "fdic_cert": "27233",
+      "logo": {
+        "file": "peoples-independent-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://pibonline.com/wp-content/uploads/2024/09/peoplesindependentlogo-1.png",
+        "fingerprint": "030003000b000b200b200b200b200780079000848522080c4d114525d645a6a5",
+        "aspect": 4.653,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": [],
+        "check_requested": "2026-11-22"
+      }
     },
     "interra": {
       "name": "Interra Credit Union",
@@ -1393,8 +1410,21 @@
       "short_name": "Healthcare Systems FCU",
       "kind": "credit_union",
       "charter": "24564",
-      "website": "http://www.Healthcarefcu.org",
-      "state": "VA"
+      "website": "https://www.healthcarefcu.org",
+      "state": "VA",
+      "logo": {
+        "file": "healthcare-systems-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.healthcarefcu.org/assets/1/6/LogoTop.png",
+        "fingerprint": "c800c010a484a3106354654c54dd449961102090a435ac27a555c000c6a617b6",
+        "aspect": 3.179,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "summit-hampton-roads-fcu": {
       "name": "Summit Hampton Roads Federal Credit Union",
@@ -1446,7 +1476,7 @@
       "short_name": "Baker Hughes FCU",
       "kind": "credit_union",
       "charter": "16271",
-      "website": "http://www.bhfcu.org",
+      "website": "https://www.bhfcu.com",
       "state": "TX"
     },
     "norstar": {
@@ -1684,7 +1714,20 @@
       "kind": "credit_union",
       "charter": "13044",
       "website": "http://www.opefcu.org",
-      "state": "CA"
+      "state": "CA",
+      "logo": {
+        "file": "ontario-public-employees-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.opefcu.org/pdfs/2026_10_Proposed-Merger_Important_Member_Information.pdf",
+        "fingerprint": "4f04be427079e03cc41c88a48016aaaaaaaaaaaa84168826c10c7079bee24b84",
+        "aspect": 1.575,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "communityamerica": {
       "name": "CommunityAmerica Credit Union",
@@ -2006,7 +2049,20 @@
       "kind": "credit_union",
       "charter": "18635",
       "website": "http://www.pwfcu.org",
-      "state": "NY"
+      "state": "NY",
+      "logo": {
+        "file": "port-washington-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.pwfcu.org/wp-content/uploads/2015/04/logo1.png",
+        "fingerprint": "c800e400b4001000520052814a024a254ba5400042405200d000b400e400c800",
+        "aspect": 3.272,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     },
     "great-neck-school-employees-fcu": {
       "name": "Great Neck School Employees Federal Credit Union",
@@ -2277,21 +2333,26 @@
       "short_name": "American United FCU",
       "kind": "credit_union",
       "charter": "8187",
-      "website": "https://www.amucu.org",
+      "website": "https://havencu.com",
       "state": "UT",
       "logo": {
-        "file": "american-united-fcu-v1.png",
-        "version": 1,
+        "file": "american-united-fcu-v2.png",
+        "version": 2,
         "style": "color",
-        "source_url": "https://i0.wp.com/havencu.com/wp-content/uploads/2026/10/haven-logo.png?fit=520%2C153&ssl=1",
+        "source_url": "https://havencu.com/wp-content/uploads/2026/10/haven-logo.png",
         "fingerprint": "5ab55aa55aa45aa69b265b27592759254d356d35020000216958f448f2ecccd8",
         "aspect": 3.399,
         "pinned": false,
-        "added": "2026-11-21",
-        "checked": "2026-11-21",
-        "previous": [],
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [
+          "american-united-fcu-v1.png"
+        ],
         "ignored": []
-      }
+      },
+      "aliases": [
+        "Haven Credit Union"
+      ]
     },
     "g-and-r-fcu": {
       "name": "G&R Federal Credit Union",
@@ -2617,7 +2678,212 @@
       "short_name": "Gold Coast Bank",
       "kind": "bank",
       "state": "IL",
-      "fdic_cert": "58556"
+      "fdic_cert": "58556",
+      "logo": {
+        "file": "gold-coast-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://media.msufcu.org/publicsites/publicsite/documents/y1aalv74iydpdsc91eaq.pdf",
+        "fingerprint": "0d202c800d402f502ea01e641b4065e29b99a58655545570a8a84256532852e9",
+        "aspect": 2.291,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "illinois-valley-cu": {
+      "name": "Illinois Valley Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Illinois Valley CU",
+      "kind": "credit_union",
+      "charter": "62121",
+      "website": "http://www.ivcu.com",
+      "state": "IL",
+      "logo": {
+        "file": "illinois-valley-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.creditunion1.org/media/3iwjujkv/illinois-valley-cu-logo_393x156.png",
+        "fingerprint": "f693d77396739672963296b296b296b692f69276925493190ca03da8ccee2caa",
+        "aspect": 2.593,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "paho-who-fcu": {
+      "name": "PAHO/WHO Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "PAHO/WHO FCU",
+      "kind": "credit_union",
+      "charter": "6464",
+      "website": "http://www.pahofcu.org",
+      "state": "VA",
+      "aliases": [
+        "Bienestar Federal Credit Union"
+      ],
+      "logo": {
+        "file": "paho-who-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.bienestarfcu.org/assets/theme/pah/img/bienstar-color.svg",
+        "fingerprint": "ca40c000d252da53b90d3a6fd896d8949aeac20a88d3aa45cf65ddaed000c000",
+        "aspect": 4.022,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "hema-fcu": {
+      "name": "HEMA Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "HEMA FCU",
+      "kind": "credit_union",
+      "charter": "19514",
+      "website": "https://www.hemafcu.org",
+      "state": "MD"
+    },
+    "guardian-cu": {
+      "name": "Guardian Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Guardian CU",
+      "kind": "credit_union",
+      "charter": "68374",
+      "website": "https://www.myguardiancu.com",
+      "state": "AL",
+      "logo": {
+        "file": "guardian-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.myguardiancu.com/assets/img/guardian-credit-union-logo.svg",
+        "fingerprint": "8aadca8d6b4d6b6c6a6c6a6a697a6d6a456a44aa54ab400f54e35ad390d18ca5",
+        "aspect": 5.614,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "solutions-first-fcu": {
+      "name": "Solutions First Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Solutions First FCU",
+      "kind": "credit_union",
+      "charter": "16556",
+      "website": "http://www.solutionsfirstcu.com",
+      "state": "AL",
+      "logo": {
+        "file": "solutions-first-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.myguardiancu.com/assets/files/Gv7an9ng/SFCU-and-Guardian_strong-together_520x180.png",
+        "fingerprint": "a84a28cca91e292a684a284a684a694aecca9ad9bb199acdb34d710870367271",
+        "aspect": 1.026,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "access-of-louisiana-fcu": {
+      "name": "Access of Louisiana Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Access of Louisiana FCU",
+      "kind": "credit_union",
+      "charter": "10353",
+      "website": "http://www.access.coop",
+      "state": "LA",
+      "logo": {
+        "file": "access-of-louisiana-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.access.coop/images/logo.png",
+        "fingerprint": "b712b712b692b6d2b4d2b4c2b412b162b0f24000b6d2a49b36db5d551455e38b",
+        "aspect": 0.94,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "gca-fcu": {
+      "name": "GCA Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "GCA FCU",
+      "kind": "credit_union",
+      "charter": "20529",
+      "state": "LA"
+    },
+    "home-fcu": {
+      "name": "Home Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Home FCU",
+      "kind": "credit_union",
+      "charter": "6674",
+      "website": "https://www.homefcu.org",
+      "state": "WV",
+      "logo": {
+        "file": "home-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.homefcu.org/images/2018_12_newLOGO.png",
+        "fingerprint": "0b6426a04ce4b1726299cd2c880625b3acb4aaa4eac4aa44aaf4a4b4934aeb1a",
+        "aspect": 1.77,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "cape-fcu": {
+      "name": "CAPE Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "CAPE FCU",
+      "kind": "credit_union",
+      "charter": "24841",
+      "website": "http://www.capecu.com",
+      "state": "WV"
+    },
+    "west-aircomm-fcu": {
+      "name": "West-Aircomm Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "West-Aircomm FCU",
+      "kind": "credit_union",
+      "charter": "6233",
+      "website": "http://www.westaircomm.com",
+      "state": "PA",
+      "logo": {
+        "file": "west-aircomm-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://westaircomm.com/wp-content/uploads/2020/11/logo.png",
+        "fingerprint": "e9c5e9d19959c14d47cdd6999b198b1ae3e6f3a600009306ab6eb1adb92dccda",
+        "aspect": 4.744,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "southwest-communities-fcu": {
+      "name": "SouthWest Communities Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "SouthWest Communities FCU",
+      "kind": "credit_union",
+      "charter": "3278",
+      "website": "http://www.swcfcu.org",
+      "state": "PA"
     }
   }
 }
