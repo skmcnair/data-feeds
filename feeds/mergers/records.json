@@ -10673,7 +10673,7 @@
         "expected_close": "Completed",
         "member_vote": "2026-07-09",
         "completed": "Q4 2026",
-        "new_name": null,
+        "new_name": "Haven Credit Union",
         "ceo": "Jake Bowman",
         "acquirer_assets": 382.2,
         "acquirer_members": 20597,
@@ -10685,7 +10685,7 @@
         "size_as_of": "Q3 2026",
         "state": "UT",
         "partner_state": "UT",
-        "notes": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+        "notes": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger).",
         "acquirer_city": "West Jordan",
         "partner_city": "Salt Lake City",
         "acquirer_ceo": "Jake Bowman",
@@ -10714,6 +10714,11 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "Haven Credit Union rebrand release (CUInsight), Nov 17, 2026",
+          "url": "https://www.cuinsight.com/?p=219408",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -10741,7 +10746,9 @@
         "combined_locations": 2,
         "footprint": 3,
         "ceo": 2,
-        "completed": 0
+        "completed": 0,
+        "new_name": 4,
+        "notes": 4
       },
       "history": [
         {
@@ -10837,6 +10844,25 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing credit union rebranded as Haven Credit Union",
+          "changes": [
+            {
+              "field": "new_name",
+              "old": null,
+              "new": "Haven Credit Union"
+            },
+            {
+              "field": "notes",
+              "old": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+              "new": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger)."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/?p=219408"
           ]
         }
       ],

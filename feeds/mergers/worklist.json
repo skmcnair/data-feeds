@@ -1,6 +1,6 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-21T19:25:07-05:00",
+  "generated": "2026-11-21T19:41:46-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
@@ -1045,29 +1045,9 @@
   "organizations_needed": [],
   "logos_missing": [
     {
-      "slug": "american-united-fcu",
-      "name": "American United Federal Credit Union",
-      "website": "https://www.amucu.org"
-    },
-    {
-      "slug": "anb-fox-cities",
-      "name": "American National Bank-Fox Cities",
-      "website": ""
-    },
-    {
-      "slug": "anco-community-cu",
-      "name": "ANCO Community Credit Union",
-      "website": "http://www.americannickeloidemployeescreditunion.com"
-    },
-    {
       "slug": "baker-hughes-fcu",
       "name": "Baker Hughes Federal Credit Union",
       "website": "http://www.bhfcu.org"
-    },
-    {
-      "slug": "bank-of-the-southwest",
-      "name": "Bank of the Southwest",
-      "website": ""
     },
     {
       "slug": "bluegrass-community-fcu",
@@ -1075,19 +1055,9 @@
       "website": "http://www.bluegrasscreditunion.com"
     },
     {
-      "slug": "bp-fcu",
-      "name": "BP Federal Credit Union",
-      "website": "http://www.bpfcu.org"
-    },
-    {
       "slug": "cincinnati-interagency-fcu",
       "name": "Cincinnati Interagency Federal Credit Union",
       "website": "http://www.cifcu.org"
-    },
-    {
-      "slug": "city-fcu",
-      "name": "City Federal Credit Union",
-      "website": "https://www.cityfederalcu.com"
     },
     {
       "slug": "delta-refining-fcu",
@@ -1105,24 +1075,9 @@
       "website": ""
     },
     {
-      "slug": "fort-peck-community-fcu",
-      "name": "Fort Peck Community Federal Credit Union",
-      "website": "http://www.fortpeckcu.com"
-    },
-    {
-      "slug": "g-and-r-fcu",
-      "name": "G&R Federal Credit Union",
-      "website": "http://www.grcreditunion.com"
-    },
-    {
       "slug": "gaf-linden-employees-fcu",
       "name": "GAF Linden Employees Federal Credit Union",
       "website": "http://www.gafcreditunion.org"
-    },
-    {
-      "slug": "gecu",
-      "name": "GECU Federal Credit Union",
-      "website": "https://www.gecu.com"
     },
     {
       "slug": "gesa",
@@ -1135,11 +1090,6 @@
       "website": ""
     },
     {
-      "slug": "great-horizons-fcu",
-      "name": "Great Horizons Federal Credit Union",
-      "website": "http://www.greathorizonsfcu.org"
-    },
-    {
       "slug": "great-neck-school-employees-fcu",
       "name": "Great Neck School Employees Federal Credit Union",
       "website": ""
@@ -1148,11 +1098,6 @@
       "slug": "harris-employees-cu",
       "name": "Harris Employees Credit Union",
       "website": ""
-    },
-    {
-      "slug": "healthcare-associates-cu",
-      "name": "HealthCare Associates Credit Union",
-      "website": "https://www.hacu.org"
     },
     {
       "slug": "healthcare-systems-fcu",
@@ -1165,11 +1110,6 @@
       "website": "https://www.thb.bank"
     },
     {
-      "slug": "hope-fcu",
-      "name": "Hope Federal Credit Union",
-      "website": "https://www.hopecu.org"
-    },
-    {
       "slug": "lynn-firemen-s-fcu",
       "name": "Lynn Firemen's Federal Credit Union",
       "website": ""
@@ -1180,29 +1120,14 @@
       "website": ""
     },
     {
-      "slug": "my-cu",
-      "name": "My Credit Union",
-      "website": "http://www.mycutx.com"
-    },
-    {
       "slug": "new-haven-teachers-fcu",
       "name": "New Haven Teachers Federal Credit Union",
       "website": ""
     },
     {
-      "slug": "nrs-community-development-fcu",
-      "name": "NRS Community Development Federal Credit Union",
-      "website": "http://www.starfcu.net"
-    },
-    {
       "slug": "ontario-public-employees-fcu",
       "name": "Ontario Public Employees Federal Credit Union",
       "website": "http://www.opefcu.org"
-    },
-    {
-      "slug": "p-and-s-cu",
-      "name": "P&S Credit Union",
-      "website": "http://www.pandscu.org"
     },
     {
       "slug": "penn-hills-municipal-fcu",
@@ -1215,11 +1140,6 @@
       "website": "http://www.pibonline.com"
     },
     {
-      "slug": "piedmont-advantage-cu",
-      "name": "Piedmont Advantage Credit Union",
-      "website": "http://www.pacu.com"
-    },
-    {
       "slug": "plains-fcu",
       "name": "Plains Federal Credit Union",
       "website": "http://www.plainsfcu.com"
@@ -1228,21 +1148,6 @@
       "slug": "port-washington-fcu",
       "name": "Port Washington Federal Credit Union",
       "website": "http://www.pwfcu.org"
-    },
-    {
-      "slug": "sjp-fcu",
-      "name": "SJP Federal Credit Union",
-      "website": "https://www.sjpfcu.org/"
-    },
-    {
-      "slug": "texas-trust",
-      "name": "Texas Trust Credit Union",
-      "website": "https://www.texastrustcu.org"
-    },
-    {
-      "slug": "true-sky",
-      "name": "True Sky Federal Credit Union",
-      "website": "https://www.TrueSkyCU.org"
     }
   ],
   "logo_reviews": [],
@@ -1251,793 +1156,18 @@
     "added": [],
     "updated": [
       {
-        "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Jerilee Beaudoin"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-11-10-max-credit-union-first-financial-bank",
-        "note": "CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "B. Kyle Goodwin IV",
-            "new": "Kyle Goodwin IV"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Brad R Bergmooser",
-            "new": "Brad Bergmooser"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Brad Bergmooser"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Danielle E Milner",
-            "new": "Danielle Milner"
-          },
-          {
-            "field": "partner_ceo",
-            "old": "John M Gallagher",
-            "new": "John Gallagher"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Danielle Milner"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-streator-onized-credit-union-anco-community-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Douglas Patterson"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-01-consumers-credit-union-scott-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Frank M Padak",
-            "new": "Frank Padak"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Sean Rathjen"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
-        "note": "CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Daniel A DeLaRosa",
-            "new": "Daniel DeLaRosa"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Joyce M Flynn",
-            "new": "Joyce Flynn"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "John Holt"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Joseph J Kregul",
-            "new": "Joseph Kregul"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Michael Valentine"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-05-13-michigan-state-university-federal-credit-union-gold-coast-bank",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "April Clobes"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-05-05-team-one-credit-union-case-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Jeffrey S Benson",
-            "new": "Jeffrey Benson"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Derrick Barber"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Chris A Leggett",
-            "new": "Chris Leggett"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Matthew Jernigan"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
-        "note": "Completed date set (2026-09-01); Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "William Hall",
-            "new": "Todd Hall"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Todd Hall"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "2026-09-01"
-          },
-          {
-            "field": "notes",
-            "old": "NCUA lists Piedmont Advantage as inactive; its last call report was Jun 30, 2026, so the merger took effect by Sep 30.",
-            "new": "Legally effective Sep 1, 2026. Piedmont Advantage operates as a division of Truliant during the transition."
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Mark Sekula"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
-        "note": "Completed date set (2026-10-01); Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Mike F McDonald",
-            "new": "Mike McDonald"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Jennifer Ventimiglia"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "2026-10-01"
-          },
-          {
-            "field": "notes",
-            "old": "Vanderbilt keeps its name and brand. NCUA lists Vanderbilt as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
-            "new": "Legally effective Oct 1, 2026. Vanderbilt keeps its name and brand as a division of Fortera."
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Todd Gunderson"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-credit-union-1-first-class-community-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Todd Gunderson"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Michael Waylett"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Michael T Korhnak",
-            "new": "Michael Korhnak"
-          },
-          {
-            "field": "partner_ceo",
-            "old": "Sheree A Strayer",
-            "new": "Sheree Strayer"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Michael Korhnak"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-bp-federal-credit-union-southern-star-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Robert Corolla"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Phillip J Stadler",
-            "new": "Phillip Stadler"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Darrin Blankenbeckler"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Roger D Ballard",
-            "new": "Roger Ballard"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Roger Ballard"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Todd Cain"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Margie Click"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "William Hawkins"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Mark A Levien",
-            "new": "Mark Levien"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Cameron Dickey"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Guy J Trenhaile",
-            "new": "Guy Trenhaile"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Jay Kruse"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Timothy Rask"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "W. Craig Esrael",
-            "new": "Craig Esrael"
-          },
-          {
-            "field": "partner_ceo",
-            "old": "Terrie L Snavely",
-            "new": "Terrie Snavely"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Craig Esrael"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Joel C Forbess",
-            "new": "Joel Forbess"
-          },
-          {
-            "field": "partner_ceo",
-            "old": "Kenneth E Newberry",
-            "new": "Kenneth Newberry"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Joel Forbess"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
-        "note": "Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Tim Green"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-firefighters-credit-union-p-and-s-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Thomas R Gourdin",
-            "new": "Thomas Gourdin"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Thomas Gourdin"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "William Bynum",
-            "new": "Bill Bynum"
-          },
-          {
-            "field": "partner_ceo",
-            "old": "Brooke A Smedley",
-            "new": "Brooke Smedley"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Bill Bynum"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Charles D Kirsch",
-            "new": "Charles Kirsch"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Charles Kirsch"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Daniel L Sutton",
-            "new": "Daniel Sutton"
-          },
-          {
-            "field": "partner_ceo",
-            "old": "Karen E Anderson",
-            "new": "Karen Anderson"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Daniel Sutton"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Eugene R Novello",
-            "new": "Eugene Novello"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Eugene Novello"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Christina M O'Brien",
-            "new": "Christina O'Brien"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Christina O'Brien"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Michael J Fitzgerald",
-            "new": "Michael Fitzgerald"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Michael Fitzgerald"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
-        "note": "Completed date set (Sep 2026); Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "Dale J Hansard",
-            "new": "Dale Hansard"
-          },
-          {
-            "field": "partner_ceo",
-            "old": "Mickie J Gregory",
-            "new": "Mickie Gregory"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Dale Hansard"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "Sep 2026"
-          },
-          {
-            "field": "notes",
-            "old": "Reported completed Sep 30, 2026 (NCUA still lists Plains as active).",
-            "new": "Reported complete Sep 30, 2026; exact legal date not published (NCUA still lists Plains as active)."
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
-        "note": "Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Michael E Hurt",
-            "new": "Michael Hurt"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Travis Markley"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
-        "note": "Completed date set (Q3 2026); Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "acquirer_ceo",
-            "old": "John S Harmond",
-            "new": "John Harmond"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "John Harmond"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
-        "note": "Completed date set (Q3 2026); Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Michael Powers"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-texas-trust-credit-union-my-credit-union",
-        "note": "Completed date set (Q4 2026); Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Jim Minge"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "Q4 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
-        "note": "Completed date set (Oct 2026); Continuing CEO set; CEO names cleaned up",
-        "changes": [
-          {
-            "field": "partner_ceo",
-            "old": "Matt D Bell",
-            "new": "Matt Bell"
-          },
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Ryan Ross"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "Oct 2026"
-          },
-          {
-            "field": "notes",
-            "old": "NCUA lists Bluegrass Community as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
-            "new": "Former Bluegrass members moved to UK Credit Union cards and online banking on Oct 1, 2026; NCUA shows Bluegrass's last call report was Sep 30. Exact legal date not published."
-          }
-        ],
-        "kept": []
-      },
-      {
         "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
-        "note": "Completed date set (Q4 2026); Continuing CEO set; CEO names cleaned up",
+        "note": "Continuing credit union rebranded as Haven Credit Union",
         "changes": [
           {
-            "field": "partner_ceo",
-            "old": "L William Christopherson",
-            "new": "William Christopherson"
+            "field": "new_name",
+            "old": null,
+            "new": "Haven Credit Union"
           },
           {
-            "field": "ceo",
-            "old": null,
-            "new": "Jake Bowman"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "Q4 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "undated-park-side-credit-union-lincoln-county-credit-union",
-        "note": "Completed date set (Q4 2026); Continuing CEO set",
-        "changes": [
-          {
-            "field": "ceo",
-            "old": null,
-            "new": "Jeremy Presta"
-          },
-          {
-            "field": "completed",
-            "old": null,
-            "new": "Q4 2026"
+            "field": "notes",
+            "old": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+            "new": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger)."
           }
         ],
         "kept": []
