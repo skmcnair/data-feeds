@@ -197,10 +197,10 @@
       "kind": "choice"
     },
     {
-      "name": "accuracy",
+      "name": "confidence",
       "label": "Confidence",
       "kind": "percent",
-      "note": "accuracy_notes"
+      "note": "confidence_notes"
     },
     {
       "name": "updates",
