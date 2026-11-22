@@ -712,7 +712,7 @@
         "function": "Executive",
         "status": "Announced",
         "effective": "2027-01-05",
-        "previous_title": null,
+        "previous_title": "Chief Experience Officer",
         "previous_org": null,
         "succeeds": "Karen Browne",
         "successor": null,
@@ -733,6 +733,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61795",
           "type": "regulator"
+        },
+        {
+          "label": "TBA CU release (CUInsight)",
+          "url": "https://cuinsight.com/?p=169346",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -751,12 +756,27 @@
         "city": 1,
         "org_assets": 1,
         "org_members": 1,
-        "assets_as_of": 1
+        "assets_as_of": 1,
+        "previous_title": 2
       },
       "history": [
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Previous title added (TBACU named her Chief Experience Officer in Dec 2024)",
+          "changes": [
+            {
+              "field": "previous_title",
+              "old": null,
+              "new": "Chief Experience Officer"
+            }
+          ],
+          "sources": [
+            "https://cuinsight.com/?p=169346"
+          ]
         }
       ],
       "added": "2026-11-22",
