@@ -1,0 +1,251 @@
+title: Credit Union Leadership Moves
+item: move
+trial: true
+
+scope: |
+  In: people hired into, promoted into, or retiring from Director-level and higher roles at U.S.
+  credit unions of every size: Director (incl. Senior and Executive Director), AVP, VP, SVP, EVP,
+  chief officers, President and CEO, including interim CEOs. One row per person per move.
+  The first load (Nov 22, 2026) covers moves announced since Oct 20, 2026. Moves stay in the
+  published feed for 90 days after they close.
+  Out: leagues and trade associations, CUSOs, vendors and fintechs, NCUA and other regulators,
+  banks, credit union foundations; board, committee and associate board seats (including board
+  chairs); roles below Director (managers, officers, loan officers, branch managers, specialists);
+  awards and recognitions; non-U.S. credit unions; resignations or exits with no retirement and no
+  new credit union role named.
+
+instructions: |
+  Rows:
+  - Each person in a multi-person release or roundup (CU Times "Career Moves", Credit Union
+    Connection roundups, "expands leadership team" releases) is a separate row; skip anyone below
+    Director or outside credit unions.
+  - A succession announcement is two linked rows: the retiring leader (move Retiring, successor =
+    the incoming leader) and the incoming leader (Hired or Promoted, succeeds = the retiring
+    leader). When a successor is named later for a tracked retirement, update that row's successor
+    and add the incoming leader's row with succeeds.
+  - Retiring needs a source that says retire or retirement. A leader "stepping down", "leaving" or
+    "departing" with no retirement stated is not a row of its own; name them in the successor's
+    succeeds and notes (e.g. Gary Moody at Credit Union ONE, Rick Skaggs at USF CU, Dave Preter at
+    Georgia's Own).
+  - Interim CEOs are rows (title "Interim President & CEO"). When the same person is later made
+    permanent, update that row's title and notes rather than adding a row.
+  - A person moving from one credit union to another is one Hired row at the new credit union, with
+    previous_org and previous_title. A credit union that renamed itself keeps its current name.
+  - Status: Announced while the start or retirement date is in the future or not stated for a CEO
+    or retirement; In effect once the person is in the role or has retired. Hires and promotions
+    below CEO with no stated future date are In effect. Re-checks of Announced rows look for the
+    effective date, a named successor and whether it has taken effect; set In effect once the date
+    has passed (NCUA's record naming the new CEO also confirms a CEO start).
+  Sources and evidence:
+  - CUInsight /press-release/ pages, PR Newswire, GlobeNewswire, Business Wire and EIN Presswire
+    posts are the credit union's own release: label them primary, as is the credit union's own
+    newsroom. CUInsight editorial, CU Times, CU Today, Credit Union Daily, The Credit Union
+    Connection, local business journals and newspapers are trade_press. LinkedIn posts are social.
+  - LinkedIn-only moves are allowed (they score lower confidence). Still look for a release or
+    story first, and if one turns up later for a LinkedIn-only row, update its notes to
+    "Confirmed by <source>" with that source so it is on the row.
+  - LinkedIn: never log in and never open LinkedIn pages directly (LinkedIn refuses automated
+    reading). Find public posts through WebSearch results only, e.g. site:linkedin.com/posts
+    "credit union" "new role", and Sean's two pages: CU Circle
+    (linkedin.com/company/cucircle-the-credit-union-ai-community) and The Credit Union Connection
+    (linkedin.com/company/the-credit-union-connection; its website thecreditunionconnection.com
+    is collected directly). Use what the search result shows; never guess what a post says.
+  - CU Times article bodies are paywalled and don't open (only the headline and summary). Use CU
+    Times roundups ("Credit Unions in 11 States Appoint New CEOs", "Career Moves") as leads only and
+    confirm each move from the credit union's release, another outlet or its own site.
+  - Credit Union Daily (thecudaily.com) may answer automated requests with a Cloudflare check; if its
+    feed fails, rely on the Google News query that covers it. Never try to get past the check.
+  - Search budget: a run has about 200 web searches. Work the waiting list first (WebFetch, no
+    search needed), then the review searches, then re-checks. Stop searching at about 180 and say
+    what was left.
+  Credit union facts:
+  - Run python3 feeds/leadership-moves/tools/cu_lookup.py "<name>|<ST>" (several names per call)
+    for every credit union not already in the shared organization list. It gives the charter,
+    headquarters city and state, assets and members from NCUA's latest call report, and the
+    website. Pick the candidate whose city and state match the story. Never take assets or members
+    from news stories.
+  - Every add lists the move's own source(s) first and the NCUA record last
+    (https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/<charter>, type
+    regulator). In field_sources, point org_assets, org_members, assets_as_of, city and state at the
+    NCUA source and every other field you set at the source it came from (usually 0). Without
+    this, the engine would credit every fact to NCUA.
+  - organization is the credit union's full legal name (NCUA's name plus "Credit Union" or
+    "Federal Credit Union", confirmed on its site; brand names like LAFCU or BECU go in the
+    organization list as the short name, and as the name only when that is the legal name).
+  - Refresh org_assets and org_members only for Announced rows, when NCUA has a newer quarter.
+  Logos: every credit union needs one. Run python3 feeds/mergers/tools/find_logo.py <slug> ...
+  (shared with the mergers feed; follow its notes on Cloudflare-blocked sites, press-release PDFs and
+  what never to use), view /tmp/logo-candidates/sheet-N.png, then engine/logos.py add. List any
+  credit union still without a logo in the morning message.
+  Names and titles:
+  - The name the person uses publicly, first and last, no credentials (PHR, CPA, MBA) and no middle
+    initials. Titles as the source gives them; the engine applies the house style ("VP, X").
+
+date_field: announced
+key: [name, organization, move]
+
+fields:
+  - name: announced
+    type: date
+    label: Announced
+    required: true
+    help: Date of the first public announcement (release date, or the first news story or post).
+  - name: name
+    type: text
+    label: Name
+    required: true
+    help: First and last name as the person uses it publicly; no credentials or middle initials.
+  - name: organization
+    type: org
+    label: Credit union
+    required: true
+    help: The credit union's full legal name.
+  - name: move
+    type: choice
+    label: Move
+    choices: [Hired, Promoted, Retiring]
+    required: true
+    help: Hired = joins from outside the credit union (including returning employees). Promoted = an internal move up, a new or expanded role, or interim made permanent. Retiring = retirement announced.
+  - name: title
+    type: title
+    label: Title
+    required: true
+    help: The new title (Hired, Promoted) or the title the person retires from, as the source gives it.
+  - name: level
+    type: choice
+    label: Level
+    choices: [CEO, C-suite, EVP / SVP, VP, AVP, Director]
+    required: true
+    help: The highest that applies. CEO = the top job (President & CEO, CEO, interim CEO, General Manager of a small CU). C-suite = any Chief ... Officer, or President when someone else is CEO ("EVP & Chief Financial Officer" is C-suite). EVP / SVP. VP (incl. Regional VP). AVP. Director (incl. Senior and Executive Director, and "Head of" roles unless the release says they report to the CEO as an executive, then the rank it states).
+  - name: function
+    type: choice
+    label: Function
+    choices: [Executive, Finance, Lending, Commercial, Operations, Technology, Risk & Compliance, Marketing, Member Experience, Retail, People, Strategy, Other]
+    required: true
+    help: The area the role leads. Executive = CEO, President, General Manager, Chief of Staff. Finance = CFO, accounting, treasury, investments. Lending = consumer, mortgage and real estate lending, credit, collections. Commercial = business lending and services, treasury management. Operations = COO, deposit and back-office operations, payments, cards. Technology = CIO, CTO, IT, digital, data, AI, information security. Risk & Compliance = risk, ERM, compliance, BSA, fraud, audit, legal. Marketing = marketing, brand, communications, business development. Member Experience = CXO, member service, contact center. Retail = retail, branches, regional markets. People = HR, talent, culture, training. Strategy = strategy, innovation, transformation, project management. Other = anything else (wealth management, facilities, philanthropy). Combined roles use the first area named.
+  - name: status
+    type: choice
+    label: Status
+    choices: [Announced, In effect]
+    required: true
+    help: See "Status" in instructions.
+  - name: effective
+    type: datetext
+    label: Effective
+    help: Start date (Hired, Promoted) or retirement date (Retiring). A full date when a source gives one, otherwise the month or year a source states (Jan 2027, 2027). Blank if no source gives timing.
+  - name: previous_title
+    type: title
+    label: Previous title
+    help: The person's role before this move. Blank for Retiring.
+  - name: previous_org
+    type: text
+    label: Previous organization
+    help: Hired only - where the person worked before (full name). Blank for Promoted and Retiring.
+  - name: succeeds
+    type: text
+    label: Succeeds
+    help: Hired or Promoted - the person they replace, when a source names them.
+  - name: successor
+    type: text
+    label: Successor
+    help: Retiring only - who takes over, once named.
+  - name: city
+    type: text
+    label: City
+    help: Credit union headquarters city, from cu_lookup.py, in normal capitalization.
+  - name: state
+    type: state
+    label: State
+    required: true
+    help: Credit union headquarters state, from cu_lookup.py.
+  - name: org_assets
+    type: money
+    label: CU assets
+    scored: true
+    help: Total assets from NCUA's latest call report (cu_lookup.py), never from news.
+  - name: org_members
+    type: int
+    label: CU members
+    help: Members from NCUA's latest call report (cu_lookup.py), never from news.
+  - name: assets_as_of
+    type: text
+    label: Assets as of
+    pattern: 'Q[1-4] \d{4}'
+    pattern_hint: "must be a call report quarter, e.g. Q3 2026"
+    help: The call report quarter for org_assets and org_members, e.g. Q3 2026.
+  - name: notes
+    type: text
+    label: Notes
+    help: One short line of context a reader would want, e.g. "Newly created role", "CEO for 20 years" or "One of four Whitefish CU promotions".
+
+derived:
+  - name: region
+    label: Region
+    map_from: state
+    groups:
+      Northeast: [CT, ME, MA, NH, RI, VT, NJ, NY, PA]
+      Midwest: [IL, IN, MI, OH, WI, IA, KS, MN, MO, NE, ND, SD]
+      South: [DE, FL, GA, MD, NC, SC, VA, DC, WV, AL, KY, MS, TN, AR, LA, OK, TX]
+      West: [AZ, CO, ID, MT, NV, NM, UT, WY, AK, CA, HI, OR, WA]
+    default: Territories
+  - name: new_ceo
+    label: New CEO
+    cases:
+      - when: {level: CEO, move: [Hired, Promoted]}
+        template: "yes"
+    default: "no"
+  - name: headline
+    label: Headline
+    cases:
+      - when: {move: Retiring}
+        template: "{name} to retire as {title} of {organization_short}"
+      - when: {move: Promoted}
+        template: "{organization_short} promotes {name} to {title}"
+      - template: "{organization_short} names {name} {title}"
+  - name: location
+    label: Location
+    cases:
+      - when: {city: ""}
+        template: "{state}"
+      - template: "{city}, {state}"
+
+open_when: {field: status, in: [Announced]}
+close_after_days: 180
+publish:
+  max_age_days: 90
+
+sources:
+  - {name: The Credit Union Connection - People, type: rss, url: https://thecreditunionconnection.com/category/people/feed/}
+  - {name: Credit Union Daily, type: rss, url: https://thecudaily.com/feed/}
+  - {name: Google News - CUInsight people, type: google_news, query: 'site:cuinsight.com (names OR promotes OR appoints OR welcomes OR hires OR joins OR retire OR retirement) when:7d'}
+  - {name: Google News - CU Times and CU Today people, type: google_news, query: '(site:cutimes.com OR site:cutoday.info OR site:thecudaily.com) (names OR promotes OR appoints OR hires OR retire OR retirement OR successor OR CEO OR "career moves") when:7d'}
+  - {name: Google News - credit union appointments, type: google_news, query: '"credit union" (names OR appoints OR selects OR promotes OR hires OR welcomes) (CEO OR chief OR president OR "vice president" OR director) when:7d'}
+  - {name: Google News - credit union retirements, type: google_news, query: '"credit union" (retire OR retirement OR "steps down") (CEO OR president OR chief) when:7d'}
+  - {name: Google News - press wires, type: google_news, query: '"credit union" (names OR appoints OR promotes OR welcomes OR retirement) (site:prnewswire.com OR site:einpresswire.com OR site:globenewswire.com OR site:businesswire.com) when:7d'}
+
+collect:
+  include_any: [name, promot, appoint, hire, retir, join, welcome, chief, ceo, president, vice president, vp, director, successor, succeed, select, taps, elevat, leadership, career move, executive, new role]
+  exclude_any: []
+
+review:
+  time: "00:17"
+  lookback_days: 3
+  monday_lookback_days: 30
+  recheck_max: 25
+  searches:
+    - credit union names new CEO
+    - credit union CEO retirement successor
+    - credit union promotes vice president
+    - credit union names chief officer
+    - credit union hires senior vice president
+    - site:cutimes.com career moves
+    - site:linkedin.com/posts credit union "new role"
+    - site:linkedin.com/posts credit union "promoted to"
+    - CU Circle credit union new role linkedin
+
+message:
+  new_line: "{organization_short} ({state}) - {name}, {title} - {move} - confidence {confidence}"
+  update_line: "{organization_short} - {name}: <what changed>"
+  notes: Group lines by region in this order - Northeast, Midwest, South, West, then Territories - newest first within each region. Start a new CEO's line with "NEW CEO - ".
+
+confidence: {enabled: true}

@@ -126,7 +126,7 @@
       "short_name": "TDECU",
       "kind": "credit_union",
       "charter": "60705",
-      "website": "http://www.tdecu.org",
+      "website": "https://www.tdecu.org",
       "state": "TX",
       "logo": {
         "file": "tdecu-v1.png",
@@ -140,7 +140,10 @@
         "checked": "2026-11-21",
         "previous": [],
         "ignored": []
-      }
+      },
+      "aliases": [
+        "TDECU"
+      ]
     },
     "smart-financial": {
       "name": "Smart Financial Credit Union",
@@ -2469,9 +2472,9 @@
       "added": "2026-11-21",
       "short_name": "Consumers CU",
       "kind": "credit_union",
-      "charter": "68588",
-      "website": "http://www.myconsumers.org",
-      "state": "IL",
+      "charter": "62172",
+      "website": "https://www.consumerscu.org",
+      "state": "MI",
       "logo": {
         "file": "consumers-cu-v1.png",
         "version": 1,
@@ -2884,6 +2887,896 @@
       "charter": "3278",
       "website": "http://www.swcfcu.org",
       "state": "PA"
+    },
+    "arsenal-cu": {
+      "name": "Arsenal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Arsenal CU",
+      "kind": "credit_union",
+      "charter": "67195",
+      "website": "https://www.arsenalcu.com",
+      "state": "MO",
+      "logo": {
+        "file": "arsenal-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://arsenalcu.com/wp-content/uploads/ACU-Horizontal-Logo.svg",
+        "fingerprint": "c000c80148ad60016cab6caaec7eeaa56acd6cdd6ca66cae6000aa22ac00ad00",
+        "aspect": 3.681,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "lake-trust": {
+      "name": "Lake Trust Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Lake Trust",
+      "kind": "credit_union",
+      "charter": "62047",
+      "website": "https://www.laketrust.org",
+      "state": "MI",
+      "logo": {
+        "file": "lake-trust-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://5802517.fs1.hubspotusercontent-na1.net/hubfs/5802517/lake_trust/Primary_Logo.svg",
+        "fingerprint": "755f556b516b5569754d5544514671666d65ad5580006541000053806180a440",
+        "aspect": 5.0,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "united-fcu": {
+      "name": "United Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "United FCU",
+      "kind": "credit_union",
+      "charter": "6288",
+      "website": "https://www.unitedfcu.com",
+      "state": "MI"
+    },
+    "lafcu": {
+      "name": "LAFCU",
+      "added": "2026-11-22",
+      "short_name": "LAFCU",
+      "kind": "credit_union",
+      "charter": "68632",
+      "website": "https://www.lafcu.com",
+      "state": "MI",
+      "logo": {
+        "file": "lafcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.lafcu.com/templates/lafcu/images/Logo.png",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 4.138,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "credit-union-one": {
+      "name": "Credit Union ONE",
+      "added": "2026-11-22",
+      "short_name": "Credit Union ONE",
+      "kind": "credit_union",
+      "charter": "62562",
+      "website": "https://www.CUONE.ORG",
+      "state": "MI",
+      "logo": {
+        "file": "credit-union-one-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.CUONE.ORG/Images/logo.svg?v=GfVk1R_U7-CU_hAlrq5gBxjSu-d8dmyOTJwu0a0bEz0",
+        "fingerprint": "a00200034080a26c2b2b032b99270da725af7567252d0da7d9c3266c0903a002",
+        "aspect": 1.0,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "rev-fcu": {
+      "name": "REV Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "REV FCU",
+      "kind": "credit_union",
+      "charter": "9986",
+      "website": "https://www.revfcu.com",
+      "state": "SC",
+      "logo": {
+        "file": "rev-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.revfcu.com/wp-content/uploads/2020/06/REV_Logo_300_Retina.png",
+        "fingerprint": "4d46258635e4346534ac352da52d8db82c362d323450351e151ea0a0b309fb19",
+        "aspect": 2.5,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "journey-fcu": {
+      "name": "Journey Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Journey FCU",
+      "kind": "credit_union",
+      "charter": "20943",
+      "website": "https://www.journeyfcu.org",
+      "state": "MI",
+      "logo": {
+        "file": "journey-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.journeyfcu.org/templates/journey_2020/images/Logo.svg",
+        "fingerprint": "003000300178006c018603e32c7404182a7db251925a936a9232289a17607640",
+        "aspect": 1.811,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "jeanne-d-arc-cu": {
+      "name": "Jeanne D'Arc Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Jeanne D'Arc CU",
+      "kind": "credit_union",
+      "charter": "67352",
+      "website": "https://www.jdcu.org",
+      "state": "MA",
+      "logo": {
+        "file": "jeanne-d-arc-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.jdcu.org/wp-content/themes/jdcuorg-theme/images/jeanneDArcLogoBold.svg",
+        "fingerprint": "c40072215000d0f9d0cab34e9646d131d394b1909662a50de734c734c8004a00",
+        "aspect": 2.911,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "usalliance": {
+      "name": "USAlliance Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "USAlliance",
+      "kind": "credit_union",
+      "charter": "17587",
+      "website": "https://www.USAlliance.org",
+      "state": "NY",
+      "aliases": [
+        "USALLIANCE Financial"
+      ],
+      "logo": {
+        "file": "usalliance-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.usalliance.org/hubfs/logos/usalliance-financial.svg",
+        "fingerprint": "1ebf153e9538953d973d2335633496cf96cb20006182dd809548fd486e486ca0",
+        "aspect": 6.25,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "navy-federal": {
+      "name": "Navy Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Navy Federal",
+      "kind": "credit_union",
+      "charter": "5536",
+      "website": "https://www.navyfcu.org",
+      "state": "VA",
+      "logo": {
+        "file": "navy-federal-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.navyfederal.org/",
+        "fingerprint": "9000900090c840001ec87ac87a36305214d878b675f615e9514e900090499000",
+        "aspect": 5.781,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "tba-cu": {
+      "name": "TBA Credit Union",
+      "added": "2026-11-22",
+      "short_name": "TBA CU",
+      "kind": "credit_union",
+      "charter": "61795",
+      "website": "https://www.tbacu.com",
+      "state": "MI",
+      "logo": {
+        "file": "tba-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.tbacu.com/wp-content/uploads/2026/04/tba-logo-color.svg",
+        "fingerprint": "bd30ad326690e699c634c694e69ca6b686323023f8089f82002092cd48e390b5",
+        "aspect": 1.769,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "mid-oregon-cu": {
+      "name": "Mid Oregon Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Mid Oregon CU",
+      "kind": "credit_union",
+      "charter": "68748",
+      "website": "https://www.midoregon.com",
+      "state": "OR",
+      "logo": {
+        "file": "mid-oregon-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.midoregon.com/images/logo.png",
+        "fingerprint": "005200b1426c29c6aa838852995291569a54ba71f5b4fb0c04d43cd00f1a1696",
+        "aspect": 2.21,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "redwood-cu": {
+      "name": "Redwood Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Redwood CU",
+      "kind": "credit_union",
+      "charter": "60793",
+      "website": "https://www.redwoodcu.org",
+      "state": "CA"
+    },
+    "aurora-fcu": {
+      "name": "Aurora Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Aurora FCU",
+      "kind": "credit_union",
+      "charter": "18574",
+      "website": "https://www.auroracu.com",
+      "state": "CO",
+      "logo": {
+        "file": "aurora-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.auroracu.com/wp-content/uploads/2021/09/aurora-federal-credit-union-logo.svg",
+        "fingerprint": "092006100ac858c0b0326f08d964acb6ac22ad628d66cf62442954ad3356db14",
+        "aspect": 2.128,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "point-west-cu": {
+      "name": "Point West Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Point West CU",
+      "kind": "credit_union",
+      "charter": "63971",
+      "website": "https://www.pointwestcu.com",
+      "state": "OR",
+      "logo": {
+        "file": "point-west-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.pointwestcu.com/wp-content/themes/pointwestcu-theme/images/pointwestcu-logo.svg",
+        "fingerprint": "c000e400a4a0a142c6b9d2a9334d1298112b512452405244b240a000e400c000",
+        "aspect": 3.039,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "fremont-fcu": {
+      "name": "Fremont Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Fremont FCU",
+      "kind": "credit_union",
+      "charter": "5370",
+      "website": "https://www.fremontfcu.com",
+      "state": "OH",
+      "logo": {
+        "file": "fremont-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.fremontfcu.com",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 3.958,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "iucu": {
+      "name": "Indiana University Credit Union",
+      "added": "2026-11-22",
+      "short_name": "IUCU",
+      "kind": "credit_union",
+      "charter": "68577",
+      "website": "https://www.iucu.org",
+      "state": "IN",
+      "logo": {
+        "file": "iucu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.iucu.org/images/iu_credit_union.png",
+        "fingerprint": "a652a652a652a640ae443b641c64387438542654ac58ac582e54c98b1424a848",
+        "aspect": 6.716,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "united-heritage-cu": {
+      "name": "United Heritage Credit Union",
+      "added": "2026-11-22",
+      "short_name": "United Heritage CU",
+      "kind": "credit_union",
+      "charter": "68251",
+      "website": "https://www.uhcu.org",
+      "state": "TX",
+      "logo": {
+        "file": "united-heritage-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.uhcu.org/sites/UHCU/img/logo.png",
+        "fingerprint": "95c8c00055da75d8d55ada57564d795c685640024736dd409982958095808000",
+        "aspect": 5.172,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "peak-cu": {
+      "name": "Peak Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Peak CU",
+      "kind": "credit_union",
+      "charter": "68271",
+      "website": "https://www.peakcu.org",
+      "state": "WA",
+      "logo": {
+        "file": "peak-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.peakcu.org/hs-fs/hubfs/peakCU/Peak_Credit_Union_Primary_Logo_Dark-R.png?width=173&height=54&name=Peak_Credit_Union_Primary_Logo_Dark-R.png",
+        "fingerprint": "02c892c024cada50d3534545694e636a6664752652369a302288242020000000",
+        "aspect": 3.204,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "park-view-fcu": {
+      "name": "Park View Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Park View FCU",
+      "kind": "credit_union",
+      "charter": "19541",
+      "website": "https://www.pvfcu.org",
+      "state": "VA",
+      "logo": {
+        "file": "park-view-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.pvfcu.org/wp-content/uploads/2019/08/ParkViewLogo-Retina500.png",
+        "fingerprint": "12500a00325432501241a1e924745658567a547649f2cb78ca29025a8a5a0a52",
+        "aspect": 4.032,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "chartway": {
+      "name": "Chartway Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Chartway",
+      "kind": "credit_union",
+      "charter": "13242",
+      "website": "https://www.chartway.com",
+      "state": "VA",
+      "aliases": [
+        "Chartway Credit Union"
+      ],
+      "logo": {
+        "file": "chartway-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.chartway.com/img/chartway-logo.svg",
+        "fingerprint": "c8008040cd00d9405941354c351436b336b333345b64cd2780029c2ace282f29",
+        "aspect": 3.911,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "american-eagle": {
+      "name": "American Eagle Financial Credit Union",
+      "added": "2026-11-22",
+      "short_name": "American Eagle",
+      "kind": "credit_union",
+      "charter": "68659",
+      "website": "https://www.americaneagle.org",
+      "state": "CT"
+    },
+    "unitus": {
+      "name": "Unitus Community Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Unitus",
+      "kind": "credit_union",
+      "charter": "63440",
+      "website": "https://www.unitusccu.com",
+      "state": "OR",
+      "logo": {
+        "file": "unitus-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.unitusccu.com",
+        "fingerprint": "92c8c28a40c0d64a96669666658445a455845586958295839581d592d99ad99a",
+        "aspect": 5.044,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "apgfcu": {
+      "name": "Aberdeen Proving Ground Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "APGFCU",
+      "kind": "credit_union",
+      "charter": "2540",
+      "website": "https://www.apgfcu.com",
+      "state": "MD",
+      "aliases": [
+        "APGFCU"
+      ],
+      "logo": {
+        "file": "apgfcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.apgfcu.com/img/APGFCU_NoTagline_RGB.png",
+        "fingerprint": "0014001400cc002a82db00d9b2d292924dca6dea6dea4d2e92b6a3142600a654",
+        "aspect": 2.589,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "westconsin-cu": {
+      "name": "WESTconsin Credit Union",
+      "added": "2026-11-22",
+      "short_name": "WESTconsin CU",
+      "kind": "credit_union",
+      "charter": "66742",
+      "website": "https://www.westconsincu.org",
+      "state": "WI",
+      "logo": {
+        "file": "westconsin-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.westconsincu.org/images/logo.svg?v=kh8vZYnQPcdb1Ohh6iB3bilprzRfn2SPBvodvoooZXo",
+        "fingerprint": "6cad440c152a17a246d41ad41acc1acc539857106000c7048d9a1d9a795a6394",
+        "aspect": 4.747,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "tlc": {
+      "name": "TLC Community Credit Union",
+      "added": "2026-11-22",
+      "short_name": "TLC",
+      "kind": "credit_union",
+      "charter": "60509",
+      "website": "https://www.tlccu.org",
+      "state": "MI",
+      "logo": {
+        "file": "tlc-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.tlccu.org/assets/img/tlc-community-credit-union-white.svg",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 5.525,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "7-17-cu": {
+      "name": "Seven Seventeen Credit Union",
+      "added": "2026-11-22",
+      "short_name": "7 17 CU",
+      "kind": "credit_union",
+      "charter": "61077",
+      "website": "https://www.717cu.com",
+      "state": "OH",
+      "aliases": [
+        "7 17 Credit Union"
+      ],
+      "logo": {
+        "file": "7-17-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.717cu.com/Images/logo-horiz.svg",
+        "fingerprint": "7000cd00e400ce9388dda164a1cd8111814a89ee88aa8aa8c600e488ed007000",
+        "aspect": 2.081,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "georgia-s-own": {
+      "name": "Georgia's Own Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Georgia's Own",
+      "kind": "credit_union",
+      "charter": "67390",
+      "website": "https://www.georgiasown.org",
+      "state": "GA",
+      "logo": {
+        "file": "georgia-s-own-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.georgiasown.org/wp-content/uploads/cropped-gocu-logo-main.png",
+        "fingerprint": "900088008000caa5ce2dcb47dacf08a500004864c8a4c8a4cda0800080809000",
+        "aspect": 4.594,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "first-city-cu": {
+      "name": "First City Credit Union",
+      "added": "2026-11-22",
+      "short_name": "First City CU",
+      "kind": "credit_union",
+      "charter": "68503",
+      "website": "https://www.Firstcitycu.org",
+      "state": "CA"
+    },
+    "all-one": {
+      "name": "All One Credit Union",
+      "added": "2026-11-22",
+      "short_name": "All One",
+      "kind": "credit_union",
+      "charter": "66699",
+      "website": "https://www.all-onecu.com",
+      "state": "MA",
+      "logo": {
+        "file": "all-one-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://all-onecu.com/wp-content/uploads/2024/09/All_One_Logo_Horizontal-300x93.png",
+        "fingerprint": "b133d372d263d2add2ad926e93ae9388d289638c632a612a4210ea58e4ccd890",
+        "aspect": 3.226,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "afena-fcu": {
+      "name": "Afena Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Afena FCU",
+      "kind": "credit_union",
+      "charter": "12153",
+      "website": "https://www.afenafcu.org",
+      "state": "IN",
+      "logo": {
+        "file": "afena-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.afenafcu.org/assets/img/logo.svg",
+        "fingerprint": "60006200e580e300c400d5009200b400a200d200920098001821109814758c66",
+        "aspect": 2.2,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "financial-center": {
+      "name": "Financial Center First Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Financial Center",
+      "kind": "credit_union",
+      "charter": "68658",
+      "website": "https://www.fcfcu.com/",
+      "state": "IN"
+    },
+    "service-cu": {
+      "name": "Service Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Service CU",
+      "kind": "credit_union",
+      "charter": "24921",
+      "website": "https://www.servicecu.org",
+      "state": "NH",
+      "logo": {
+        "file": "service-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://servicecu.org/images/default-source/default-album/sculogo_blue.png?sfvrsn=151ed47e_1",
+        "fingerprint": "a8daacd4a924c964a9542554b4aa9598c9c435b065a2924d924c924c924d924c",
+        "aspect": 2.036,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "forum-cu": {
+      "name": "FORUM Credit Union",
+      "added": "2026-11-22",
+      "short_name": "FORUM CU",
+      "kind": "credit_union",
+      "charter": "68248",
+      "website": "https://www.forumcu.com",
+      "state": "IN"
+    },
+    "topline": {
+      "name": "TopLine Financial Credit Union",
+      "added": "2026-11-22",
+      "short_name": "TopLine",
+      "kind": "credit_union",
+      "charter": "68731",
+      "website": "https://www.toplinecu.com",
+      "state": "MN",
+      "logo": {
+        "file": "topline-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.toplinecu.com/wp-content/uploads/2026/03/topline-logo-white.png",
+        "fingerprint": "0290008000800290028000800180018001a001a0000000800000000000000000",
+        "aspect": 2.35,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "peach-state-fcu": {
+      "name": "Peach State Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Peach State FCU",
+      "kind": "credit_union",
+      "charter": "14676",
+      "website": "https://www.peachstatefcu.org",
+      "state": "GA",
+      "logo": {
+        "file": "peach-state-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.peachstatefcu.org/hs-fs/hubfs/_brand/logoPSFCU@2x.png?width=254&height=116&name=logoPSFCU@2x.png",
+        "fingerprint": "5b20b240b240620075200a805aa436259a499b6a553b5752b10de98903668b92",
+        "aspect": 2.19,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "greater-iowa-cu": {
+      "name": "Greater Iowa Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Greater Iowa CU",
+      "kind": "credit_union",
+      "charter": "64203",
+      "website": "https://www.gicu.org",
+      "state": "IA",
+      "logo": {
+        "file": "greater-iowa-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.gicu.org/images/logo.png",
+        "fingerprint": "0590059002d002c082c882d508d04adc4a955895b0b3cb310004b25230d2b4d2",
+        "aspect": 3.302,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "vystar": {
+      "name": "VyStar Credit Union",
+      "added": "2026-11-22",
+      "short_name": "VyStar",
+      "kind": "credit_union",
+      "charter": "68490",
+      "website": "https://www.vystarcu.org",
+      "state": "FL"
+    },
+    "altura-cu": {
+      "name": "Altura Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Altura CU",
+      "kind": "credit_union",
+      "charter": "24969",
+      "website": "https://www.alturacu.com",
+      "state": "CA",
+      "logo": {
+        "file": "altura-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.alturacu.com/wp-content/uploads/2026/02/altura-logo.svg",
+        "fingerprint": "2200a100a728a681a688f6aa46b2d73295322400218a518a24000d8a06640734",
+        "aspect": 2.511,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "plus-cu": {
+      "name": "Plus Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Plus CU",
+      "kind": "credit_union",
+      "charter": "86756",
+      "state": "NV"
+    },
+    "gfa-fcu": {
+      "name": "GFA Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "GFA FCU",
+      "kind": "credit_union",
+      "charter": "24279",
+      "website": "https://www.GFAFCU.COM",
+      "state": "MA",
+      "logo": {
+        "file": "gfa-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.GFAFCU.COM/custom/4087/image/logo-2x.png",
+        "fingerprint": "09e0171c2c06584bb2056405d005900320030000400000000000000000000000",
+        "aspect": 1.597,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "sun-east-fcu": {
+      "name": "Sun East Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Sun East FCU",
+      "kind": "credit_union",
+      "charter": "6160",
+      "website": "https://www.suneast.org",
+      "state": "PA",
+      "logo": {
+        "file": "sun-east-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://suneast.org/wp-content/uploads/2024/01/logo.svg",
+        "fingerprint": "62766236e22ec2dcd350d30cd38cd310d3b0d302d201f26862681313a312c333",
+        "aspect": 5.9,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "usf-cu": {
+      "name": "USF Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "USF CU",
+      "kind": "credit_union",
+      "charter": "24223",
+      "website": "https://www.usffcu.com",
+      "state": "FL",
+      "aliases": [
+        "USF Credit Union"
+      ],
+      "logo": {
+        "file": "usf-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.usfcu.com/templates/usf_24/images/logo_2024.svg",
+        "fingerprint": "12d712cc32ec42e486f636f626d056dc52ccd2ac9b36275462a8d28ad359939d",
+        "aspect": 2.925,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "whitefish-cu": {
+      "name": "Whitefish Credit Union Association",
+      "added": "2026-11-22",
+      "short_name": "Whitefish CU",
+      "kind": "credit_union",
+      "charter": "61949",
+      "website": "https://www.whitefishcu.com",
+      "state": "MT",
+      "aliases": [
+        "Whitefish Credit Union"
+      ]
+    },
+    "andrews-fcu": {
+      "name": "Andrews Federal Credit Union",
+      "added": "2026-11-22",
+      "short_name": "Andrews FCU",
+      "kind": "credit_union",
+      "charter": "5754",
+      "website": "https://www.andrewsfcu.org",
+      "state": "MD",
+      "logo": {
+        "file": "andrews-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.andrewsfcu.org/getContentAsset/af52bdac-9ca7-4d1f-be4e-1b56b79dd02b/3cde1955-af8f-4dd3-8f6b-159204ebf095/afcu-logo-color.svg?language=en",
+        "fingerprint": "2d4829485b485a90b490b520ad0069428600b643b55a8a5a0a594c5a8c662c64",
+        "aspect": 2.111,
+        "pinned": false,
+        "added": "2026-11-22",
+        "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }
