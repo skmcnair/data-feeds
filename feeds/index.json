@@ -3,9 +3,9 @@
     {
       "name": "mergers",
       "title": "Credit Union Mergers",
-      "items": 67,
+      "items": 73,
       "result": "ok",
-      "last_review": "2026-11-21T21:05:00-05:00",
+      "last_review": "2026-11-22T04:40:54-05:00",
       "feed_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/mergers/feed.json",
       "csv_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/mergers/feed.csv",
       "tracker_url": "https://skmcnair.github.io/data-feeds/tracker/?feed=mergers"

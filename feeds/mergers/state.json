@@ -1,31 +1,569 @@
 {
-  "last_review": "2026-11-21T21:05:00-05:00",
-  "last_review_file": "2026-11-21-2105.json",
-  "last_review_result": "ok",
-  "last_review_errors": [],
+  "last_review": "2026-11-22T04:40:54-05:00",
+  "last_review_file": "2026-11-22-0440.json",
+  "last_review_result": "partial",
+  "last_review_errors": [
+    "The run's 200-search web limit ran out before the feed's review.searches sweep; the Nov 19-22 sweep is incomplete (tomorrow's Monday 30-day lookback covers it)."
+  ],
   "last_review_report": {
-    "added": [],
+    "added": [
+      {
+        "id": "undated-credit-union-1-illinois-valley-credit-union",
+        "summary": "Credit Union 1 / Illinois Valley Credit Union"
+      },
+      {
+        "id": "undated-paho-who-federal-credit-union-hema-federal-credit-union",
+        "summary": "PAHO/WHO Federal Credit Union / HEMA Federal Credit Union"
+      },
+      {
+        "id": "undated-guardian-credit-union-solutions-first-federal-credit-union",
+        "summary": "Guardian Credit Union / Solutions First Federal Credit Union"
+      },
+      {
+        "id": "undated-access-of-louisiana-federal-credit-union-gca-federal-credit-union",
+        "summary": "Access of Louisiana Federal Credit Union / GCA Federal Credit Union"
+      },
+      {
+        "id": "undated-home-federal-credit-union-cape-federal-credit-union",
+        "summary": "Home Federal Credit Union / CAPE Federal Credit Union"
+      },
+      {
+        "id": "undated-west-aircomm-federal-credit-union-southwest-communities-federal-credit-union",
+        "summary": "West-Aircomm Federal Credit Union / SouthWest Communities Federal Credit Union"
+      }
+    ],
     "updated": [
       {
-        "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
-        "note": "Continuing credit union rebranded as Haven Credit Union",
+        "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+        "note": "NCUA approved; Sky vote Jan 11 to Feb 24, 2027; effective date May 1, 2027; announcement date corrected to Oct 2 (Business Wire)",
         "changes": [
           {
-            "field": "new_name",
+            "field": "status",
+            "old": "Announced",
+            "new": "Approved"
+          },
+          {
+            "field": "announced",
+            "old": "2026-10-05",
+            "new": "2026-10-02"
+          },
+          {
+            "field": "member_vote",
             "old": null,
-            "new": "Haven Credit Union"
+            "new": "2027-02-24"
+          },
+          {
+            "field": "expected_close",
+            "old": "Q3 2027",
+            "new": "Q2 2027"
+          },
+          {
+            "field": "next_steps",
+            "old": "Regulatory approval and a Sky FCU member vote",
+            "new": "Sky FCU member vote (Jan 11 to Feb 24, 2027) and remaining regulatory and legal requirements"
           },
           {
             "field": "notes",
-            "old": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
-            "new": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger)."
+            "old": "Joint member site names Tracie Wilcox CEO and Daisy Romo President (CEO succession) of the combined CU; regulatory application filed; expected to take effect around mid-2027. Sky becomes a division under On Tap's charter, HQ Golden, CO. No branch closures planned.",
+            "new": "Joint member site names Tracie Wilcox CEO and Daisy Romo President (CEO succession) of the combined CU. On Tap's member site (checked Nov 22, 2026) says NCUA has approved the merger to go to a Sky member vote, held Jan 11 to Feb 24, 2027, and that the merger is expected to take effect May 1, 2027; On Tap members don't vote. Sky becomes a division under On Tap's charter, HQ Golden, CO. No branch closures planned."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-streator-onized-credit-union-anco-community-credit-union",
+        "note": "Found the announcement: joint release dated Sep 25, 2026; SOCU CEO goes by Doug Patterson",
+        "changes": [
+          {
+            "field": "announced",
+            "old": "2026-10-06",
+            "new": "2026-09-25"
+          },
+          {
+            "field": "acquirer_ceo",
+            "old": "Douglas Patterson",
+            "new": "Doug Patterson"
+          },
+          {
+            "field": "ceo",
+            "old": "Douglas Patterson",
+            "new": "Doug Patterson"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "ANCO member vote (Dec 9, 2026) and regulatory approval"
+          },
+          {
+            "field": "notes",
+            "old": "On NCUA's proposed-merger list. No public announcement found yet.",
+            "new": "On NCUA's proposed-merger list (ANCO member vote Dec 9, 2026; docket NCUA-2026-2113, posted Oct 14, 2026). Announced in a joint SOCU/ANCO release dated Sep 25, 2026, posted on ANCO's website. SOCU keeps ANCO's La Salle location, which ANCO CEO Wanda Bunzell will continue to manage. Credit Union Daily (Oct 7, 2026) describes ANCO as struggling with capital."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
+        "note": "Effective date confirmed as March 2027 (typo settled); both memberships vote; Mass. DOB application pending",
+        "changes": [
+          {
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "Q1 2027"
+          },
+          {
+            "field": "next_steps",
+            "old": "Member and regulatory approvals",
+            "new": "Regulatory approval, then member votes at Lynn Firemen's and First Responders"
+          },
+          {
+            "field": "notes",
+            "old": "Added Nov 21, 2026 (missed at announcement). First Responders CU is the former Boston Firefighters CU (renamed June 2026). The release gives an anticipated effective date of March 2026, which predates the October announcement and looks like a typo for 2027; close left as Not Disclosed until confirmed.",
+            "new": "Added Nov 21, 2026 (missed at announcement). First Responders CU is the former Boston Firefighters CU (renamed June 2026). The release (CCUA copy) and Banker & Tradesman (Oct 13, 2026) give an anticipated effective date of March 2027; the March 2026 in the copy checked earlier was a typo. Members of both credit unions vote, Lynn Firemen's first; vote dates are to be set after regulators' preliminary approval. The Mass. Division of Banks lists the application as pending (comment period ended Oct 30, 2026)."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+        "note": "Member vote set for Dec 21, 2026; NY DFS application received Nov 4 (comments to Dec 7)",
+        "changes": [
+          {
+            "field": "member_vote",
+            "old": null,
+            "new": "2026-12-21"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "Directors Choice member vote (Dec 21, 2026) and NY DFS approval"
+          },
+          {
+            "field": "notes",
+            "old": "Directors Choice serves funeral directors; application filed with NY DFS. It is to stop operating on its own at the end of 2026.",
+            "new": "Directors Choice serves funeral directors. NY DFS received the merger application Nov 4, 2026 (comment period ends Dec 7, 2026). It is to stop operating on its own at the end of 2026."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+        "note": "UFCU merger page says the deal also needs UFCU member approval",
+        "changes": [
+          {
+            "field": "next_steps",
+            "old": "Regulatory approvals",
+            "new": "Regulatory approval and a UFCU member vote"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+        "note": "Filled in what's still needed, from Financial Plus's merger page",
+        "changes": [
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "Regulatory approval and a Monroe Community member vote"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
+        "note": "Completed Oct 30, 2026 (Alabama ONE announced Nov 2); added partner CEO Royce Ogle",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Approved",
+            "new": "Completed"
+          },
+          {
+            "field": "completed",
+            "old": null,
+            "new": "2026-10-30"
+          },
+          {
+            "field": "expected_close",
+            "old": "H2 2026",
+            "new": "Completed"
+          },
+          {
+            "field": "partner_ceo",
+            "old": null,
+            "new": "Royce Ogle"
+          },
+          {
+            "field": "notes",
+            "old": "Alabama State Banking Dept. approved the purchase in July 2026. Peoples Independent Bank's website now shows the Alabama ONE brand, suggesting the purchase has closed; FDIC still lists the bank as active.",
+            "new": "Alabama State Banking Dept. approved the purchase in July 2026. The purchase closed Friday, Oct 30, 2026, after all required regulatory approvals; Alabama ONE announced completion Nov 2. FDIC still listed the bank as active as of Nov 22."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
+        "note": "LGE members approved Nov 9; legally effective Jan 1, 2027. Regulatory approval was August 2026 per LGE's timeline (old notes said September). CEO name as Ascend uses it",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Approved",
+            "new": "Members approved"
+          },
+          {
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "Q1 2027"
+          },
+          {
+            "field": "ceo",
+            "old": "Matthew Jernigan",
+            "new": "Matt Jernigan"
+          },
+          {
+            "field": "acquirer_ceo",
+            "old": "Matthew Jernigan",
+            "new": "Matt Jernigan"
+          },
+          {
+            "field": "next_steps",
+            "old": "LGE member vote (set for Nov 9, 2026); result not yet confirmed",
+            "new": "Legal merger on Jan 1, 2027 (all approvals received)"
+          },
+          {
+            "field": "notes",
+            "old": "Ascend's first out-of-state merger. Regulators approved in September and LGE's member vote began.",
+            "new": "Ascend's first out-of-state merger. Regulators approved the merger application in August 2026; LGE members approved it at a Nov 9, 2026 special meeting (voting ran Sep 22 - Nov 9). The merger becomes legally effective Jan 1, 2027, when LGE becomes a division of Ascend, operating as \"LGE a Division of Ascend Federal Credit Union\" until the core conversion (targeted Q1 2028). LGE CEO Chris Leggett stays in an executive role."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-05-05-team-one-credit-union-case-credit-union",
+        "note": "CASE members approved and regulators approved; legal merger Jan 1, 2027; CASE's Jeff Benson will be CEO of the combined CU",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Announced",
+            "new": "Members approved"
+          },
+          {
+            "field": "ceo",
+            "old": "Derrick Barber",
+            "new": "Jeff Benson"
+          },
+          {
+            "field": "partner_ceo",
+            "old": "Jeffrey Benson",
+            "new": "Jeff Benson"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "Legal merger, expected Jan 1, 2027"
+          },
+          {
+            "field": "announced_figures",
+            "old": null,
+            "new": "$1.1B in assets, 76,000+ members, 15 branch locations"
+          },
+          {
+            "field": "notes",
+            "old": "Member vote was set for Oct 20, 2026; result not yet confirmed. Expected to take effect in January 2027 (\"Bolder Together\").",
+            "new": "Regulatory approval received; CASE members approved the merger (voting ended at an Oct 20, 2026 special meeting). Legal merger expected Jan 1, 2027 (\"Bolder Together\"), with integration through 2027. CASE CEO Jeff Benson becomes CEO and Team One CEO Derrick Barber becomes president of the combined CU. From Jan 1, 2027, CASE branches operate as \"CASE Credit Union, a division of Team One Credit Union\"; a new name for the combined CU is planned for later in 2027."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
+        "note": "Regulators approved Aug 4; Members Plus vote extended from Oct 16 to Dec 14 over missing disclosures; effective date now Jan 1, 2027",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Announced",
+            "new": "Approved"
+          },
+          {
+            "field": "member_vote",
+            "old": "2026-10-16",
+            "new": "2026-12-14"
+          },
+          {
+            "field": "expected_close",
+            "old": "Q4 2026",
+            "new": "Q1 2027"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "Members Plus member vote at a Dec 14, 2026 special meeting"
+          },
+          {
+            "field": "notes",
+            "old": "Member vote was set for Oct 16, 2026; result not yet confirmed. Combined: 25 branches.",
+            "new": "Regulatory approval to proceed was granted Aug 4, 2026. Members Plus extended its member vote (set for Oct 16, 2026, per NCUA) to a Dec 14, 2026 special meeting after finding that required disclosures were not fully included in the original mailing; members were sent a corrected disclosure. If approved, the anticipated effective date is Jan 1, 2027. Metro is the continuing CU. Combined: 25 branches."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
+        "note": "Found the announcement (Jun 1, 2026 releases); completion anticipated Mar 1, 2027; ballots mailed Oct 16; CEO name as BCU uses it",
+        "changes": [
+          {
+            "field": "announced",
+            "old": "2026-06-05",
+            "new": "2026-06-01"
+          },
+          {
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "Q1 2027"
+          },
+          {
+            "field": "ceo",
+            "old": "Michael Valentine",
+            "new": "Mike Valentine"
+          },
+          {
+            "field": "acquirer_ceo",
+            "old": "Michael Valentine",
+            "new": "Mike Valentine"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "Regulatory approval and a HACU member vote (ballots mailed Oct 16; vote Dec 4, 2026)"
+          },
+          {
+            "field": "notes",
+            "old": "On NCUA's proposed-merger list. No public announcement found yet.",
+            "new": "Announced Jun 1, 2026 in BCU and HACU releases; on NCUA's proposed-merger list. HACU will continue under its own name as \"HealthCare Associates Credit Union, powered by BCU\". Ballots were mailed Oct 16; NCUA lists the member vote for Dec 4, 2026. BCU's merger page anticipates completion on Mar 1, 2027, with the member account transition likely in January 2027. Eligible HACU members get a special member dividend. BCU CEO Mike Valentine plans to retire in early 2027; Jim Block became BCU president Jul 1, 2026."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+        "note": "Sizes refreshed to Q3 2026 (Nutmeg now NCUA charter 24998 as Nutmeg State FCU); Nov 17 vote result not yet published",
+        "changes": [
+          {
+            "field": "acquirer_assets",
+            "old": 916.5,
+            "new": 947.1
+          },
+          {
+            "field": "acquirer_members",
+            "old": 66866,
+            "new": 65688
+          },
+          {
+            "field": "partner_assets",
+            "old": 10.2,
+            "new": 10.1
+          },
+          {
+            "field": "partner_members",
+            "old": 1037,
+            "new": 1019
+          },
+          {
+            "field": "combined_assets",
+            "old": 926.7,
+            "new": 957.2
+          },
+          {
+            "field": "combined_members",
+            "old": 67903,
+            "new": 66707
+          },
+          {
+            "field": "size_as_of",
+            "old": "Q2 2026",
+            "new": "Q3 2026"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "New Haven Teachers member approval (vote held Nov 17, 2026; result not yet published)"
+          },
+          {
+            "field": "notes",
+            "old": "Announced date is Nutmeg's application to the CT Dept. of Banking, which approved the merger Jul 29. Expected to close in December. Nutmeg is also converting to a federal charter as Nutmeg State FCU.",
+            "new": "Announced date is Nutmeg's application to the CT Dept. of Banking, which approved the merger Jul 29. Expected to close in December. Nutmeg has converted to a federal charter: NCUA now lists it as Nutmeg State FCU (charter 24998). New Haven Teachers' member vote was Nov 17, 2026; result not yet published. New Haven Teachers keeps its name until systems combine (expected December 2026), and its 90 Hamilton Street branch closes on the effective date."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
+        "note": "LOC's merger page schedules the effective date for May 1, 2027 (was Not Disclosed)",
+        "changes": [
+          {
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "Q2 2027"
+          },
+          {
+            "field": "next_steps",
+            "old": null,
+            "new": "Effective date and systems integration, scheduled for May 1, 2027 (subject to required regulatory approvals)"
+          },
+          {
+            "field": "notes",
+            "old": "Advantage One members approved Jul 15. LOC takes the Advantage One name on the effective date; Chris Corkery becomes president. Systems and brand integration planned for May 2027.",
+            "new": "Advantage One members approved Jul 15. The merger's effective date and systems integration are scheduled for May 1, 2027, when LOC changes its name to Advantage One Credit Union (HQ stays in Farmington). LOC CEO Stephen Grech stays CEO and Advantage One CEO Chris Corkery becomes president, succeeding Grech as CEO when he retires."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
+        "note": "Oregon Bancorp shareholders approved the sale (Nov 19); regulatory approval still pending",
+        "changes": [
+          {
+            "field": "next_steps",
+            "old": "Regulatory approval and Oregon Bancorp shareholder approval",
+            "new": "Regulatory approval and customary closing conditions"
+          },
+          {
+            "field": "notes",
+            "old": "Gives Gesa its first Oregon branches.",
+            "new": "Gives Gesa its first Oregon branches. Oregon Bancorp shareholders approved the sale (announced Nov 19, 2026)."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+        "note": "Correction from Gulf Winds' own release: it states 81,000+ members (not 87,000); deal also needs holding-company shareholder approval",
+        "changes": [
+          {
+            "field": "announced_figures",
+            "old": "About $1.7B in assets, 87,000 members, 15 branches",
+            "new": "Over $1.7B in assets, 81,000+ members, 15 locations"
+          },
+          {
+            "field": "next_steps",
+            "old": "Regulatory approval, expected mid-2027",
+            "new": "Madison Community Bancshares shareholder approval and regulatory approvals (final regulatory approval expected mid-2027)"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+        "note": "Correction from Gulf Winds' release: deal also needs holding-company shareholder approval",
+        "changes": [
+          {
+            "field": "next_steps",
+            "old": "Regulatory approval, expected mid-2027",
+            "new": "Peoples Exchange Bancshares shareholder approval and regulatory approvals (final regulatory approval expected mid-2027)"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-10-01-consumers-credit-union-scott-credit-union",
+        "note": "Added the expected legal merger date (June 1, 2027) from Scott CU's merger page",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "Intent to combine; Scott CU members vote.",
+            "new": "Intent to combine; Scott CU members vote. Scott CU's merger page gives an expected legal merger date of June 1, 2027, subject to regulatory approvals and the member vote; no branches will close."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+        "note": "SAFE says final approvals, including CA DFPI's, are in; legal combination Jan 1, 2027; members' petition to DFPI reported",
+        "changes": [
+          {
+            "field": "next_steps",
+            "old": "Final approval from the CA DFPI",
+            "new": "Legal combination on Jan 1, 2027"
+          },
+          {
+            "field": "notes",
+            "old": "NCUA, CA DFPI and WA DFI approved Aug 4, 2026. SAFE says the vote closed Oct 27 with strong member support; awaiting final CA DFPI sign-off. Some SAFE members petitioned DFPI to investigate the vote. Expected to close Jan 1, 2027.",
+            "new": "NCUA, CA DFPI and WA DFI approved Aug 4, 2026. The member vote closed Oct 27 at a special meeting; SAFE calls the support strong but has not released a tally. In November a group of SAFE members petitioned the CA DFPI to pause and review the merger, alleging inadequate disclosure and self-dealing (Credit Union Daily, Nov 16 and 18). As of Nov 22, SAFE's combination page says final approvals, including the CA DFPI's, have been received and that SAFE and BECU legally combine on Jan 1, 2027 (SAFE's vote page still says it awaits DFPI approval)."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
+        "note": "Legal effective date Oct 1, 2026, from UK Credit Union's completion page",
+        "changes": [
+          {
+            "field": "completed",
+            "old": "Oct 2026",
+            "new": "2026-10-01"
+          },
+          {
+            "field": "notes",
+            "old": "Former Bluegrass members moved to UK Credit Union cards and online banking on Oct 1, 2026; NCUA shows Bluegrass's last call report was Sep 30. Exact legal date not published.",
+            "new": "UK Credit Union's merger page says the merger was completed effective Oct 1, 2026. Old Bluegrass debit cards stopped working at 11:59 PM on Sep 30, and members moved to UK Credit Union cards and online banking on Oct 1, 2026. NCUA shows Bluegrass's last call report was Sep 30."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
+        "note": "Effective date Oct 1, 2026, from Federal Reserve NIC data via BankRegReports (was Sep 2026)",
+        "changes": [
+          {
+            "field": "completed",
+            "old": "Sep 2026",
+            "new": "2026-10-01"
+          },
+          {
+            "field": "notes",
+            "old": "Reported complete Sep 30, 2026; exact legal date not published (NCUA still lists Plains as active).",
+            "new": "Federal Reserve NIC data (via BankRegReports) gives Oct 1, 2026 as the effective date; the merger was reported complete Sep 30, 2026, and Plains filed a Sep 30, 2026 call report. Plains's website now says it is a partner with Caprock Federal Credit Union. NCUA still lists Plains as active."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
+        "note": "Water's Edge site confirms the Aug 25 vote passed; exact legal date still not published",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "NCUA lists Water's Edge as inactive; its last call report was Jun 30, 2026, so the merger took effect by Sep 30.",
+            "new": "Water's Edge members approved the merger on Aug 25, 2026 (Water's Edge website). NCUA lists Water's Edge as inactive; its last call report was Jun 30, 2026, so the merger took effect between the Aug 25 vote and Sep 30."
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-texas-trust-credit-union-my-credit-union",
+        "note": "Announced date set to My CU's merger application with the Texas Credit Union Department (filed May 20, 2026)",
+        "changes": [
+          {
+            "field": "announced",
+            "old": null,
+            "new": "2026-05-20"
           }
         ],
         "kept": []
       }
     ],
-    "rechecked": [],
-    "reviewed": 0,
+    "rechecked": [
+      "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+      "2026-11-10-max-credit-union-first-financial-bank",
+      "2026-10-28-selco-community-credit-union-numerica-credit-union",
+      "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+      "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+      "undated-communityamerica-credit-union-westreet-credit-union",
+      "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+      "2026-01-08-zeal-credit-union-the-miners-state-bank"
+    ],
+    "reviewed": 15,
     "rejected": []
   },
   "last_collect": "2026-11-22T02:27:18-05:00",
