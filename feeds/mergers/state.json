@@ -35,10 +35,7 @@
     "reviewed": 0,
     "rejected": []
   },
-  "last_collect": "2026-11-21T19:10:13-05:00",
-  "last_collect_result": "partial",
-  "collect_errors": [
-    "CUInsight press releases: https://www.cuinsight.com/press-release/feed/: HTTP Error 403: Forbidden",
-    "CUInsight: https://www.cuinsight.com/feed/: HTTP Error 403: Forbidden"
-  ]
+  "last_collect": "2026-11-21T19:13:44-05:00",
+  "last_collect_result": "ok",
+  "collect_errors": []
 }
