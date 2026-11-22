@@ -268,8 +268,8 @@ derived:
 open_when: {field: status, not_in: [Completed, Called off]}
 
 sources:
-  - {name: CUInsight press releases, type: rss, url: https://www.cuinsight.com/press-release/feed/}
-  - {name: CUInsight, type: rss, url: https://www.cuinsight.com/feed/}
+  # CUInsight's own RSS feeds refuse GitHub's servers (403), so CUInsight comes in through Google News.
+  - {name: Google News - CUInsight deals, type: google_news, query: 'site:cuinsight.com (acquire OR acquisition OR "members approve" OR "completes merger" OR "intent to merge") when:7d'}
   - {name: Banking Dive, type: rss, url: https://www.bankingdive.com/feeds/news/}
   - {name: CreditUnions.com, type: rss, url: https://creditunions.com/feed/}
   - {name: PR Newswire banking, type: rss, url: https://www.prnewswire.com/rss/financial-services-latest-news/banking-financial-services-list.rss}
