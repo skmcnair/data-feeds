@@ -198,7 +198,7 @@
     },
     {
       "name": "accuracy",
-      "label": "Accuracy",
+      "label": "Confidence",
       "kind": "percent",
       "note": "accuracy_notes"
     },
