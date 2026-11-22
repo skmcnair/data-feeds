@@ -360,7 +360,7 @@ review:
     - site:regulations.gov NCUA merger
 
 message:
-  new_line: "{acquirer_short} + {partner_short} ({state}) - {status} - {combined_assets} combined - close {expected_close} - accuracy {accuracy}"
+  new_line: "{acquirer_short} + {partner_short} ({state}) - {status} - {combined_assets} combined - close {expected_close} - confidence {accuracy}"
   update_line: "{acquirer_short} + {partner_short}: <what changed>"
   notes: List New England deals first, then the rest of the Northeast, then everything else, newest first within each group.
 

@@ -97,7 +97,7 @@ def columns(s):
             cols.append({"name": dv["name"], "label": dv.get("label", dv["name"].replace("_", " ").title()),
                          "kind": "choice" if dv.get("groups") or dv.get("map") else "text"})
     if s["accuracy"]["enabled"]:
-        cols.append({"name": "accuracy", "label": "Accuracy", "kind": "percent", "note": "accuracy_notes"})
+        cols.append({"name": "accuracy", "label": "Confidence", "kind": "percent", "note": "accuracy_notes"})
     cols.append({"name": "updates", "label": "Updates", "kind": "text"})
     cols.append({"name": "source_url", "label": "Source", "kind": "url"})
     return cols

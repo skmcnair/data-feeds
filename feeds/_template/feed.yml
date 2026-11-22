@@ -85,7 +85,7 @@ review:
     - credit union to acquire bank
 
 message:
-  new_line: "{acquirer_short} + {partner_short} - {combined_assets} combined - close {expected_close} - accuracy {accuracy}"
+  new_line: "{acquirer_short} + {partner_short} - {combined_assets} combined - close {expected_close} - confidence {accuracy}"
   update_line: "{acquirer_short} + {partner_short}: <what changed>"
   notes: List New England deals first.
 

@@ -99,7 +99,11 @@ Collection runs on GitHub every three hours. Sites behind a login
 | `health.collect_max_hours` | Alert if collection is older than this (default 8). |
 | `message.new_line`, `message.update_line`, `message.notes` | How the morning message reads. Templates use published field names. |
 
-## Accuracy
+## Confidence (the `accuracy` setting)
+
+Shown to Sean as "Confidence": the tracker column and morning messages say Confidence. The setting
+and the published fields keep their original names, `accuracy` and `accuracy_notes`, so boards that
+read them don't break.
 
 `accuracy: {enabled: true}` scores each row from how its facts were
 sourced: primary and regulator sources 1.0, trade press 0.9, aggregators
