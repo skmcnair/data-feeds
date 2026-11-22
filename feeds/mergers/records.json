@@ -168,7 +168,7 @@
         "member_vote": null,
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Jerilee Beaudoin",
         "acquirer_assets": 1237.2,
         "acquirer_members": 89715,
         "acquirer_locations": 16,
@@ -238,7 +238,8 @@
         "partner_ceo": 3,
         "combined_members": 2,
         "combined_locations": 4,
-        "footprint": 4
+        "footprint": 4,
+        "ceo": 2
       },
       "history": [
         {
@@ -290,6 +291,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68420",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Jerilee Beaudoin"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68710"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -326,7 +341,7 @@
         "combined_locations": 24,
         "footprint": "AL",
         "announced_figures": "About $2.6B in assets, 24 locations",
-        "partner_ceo": "B. Kyle Goodwin IV",
+        "partner_ceo": "Kyle Goodwin IV",
         "next_steps": "FirstFed Bancorp shareholder and regulatory approval"
       },
       "sources": [
@@ -453,6 +468,20 @@
               "field": "announced_figures",
               "old": "Adds $245M in assets and 8 branches to MAX's $2.3B and 16 locations",
               "new": "About $2.6B in assets, 24 locations"
+            }
+          ],
+          "sources": [
+            "https://thecudaily.com/in-ninth-such-deal-of-2026-max-credit-union-to-acquire-first-financial-bank-of-bessemer/"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "B. Kyle Goodwin IV",
+              "new": "Kyle Goodwin IV"
             }
           ],
           "sources": [
@@ -669,8 +698,8 @@
         "member_vote": null,
         "completed": null,
         "new_name": null,
-        "ceo": null,
-        "acquirer_ceo": "Brad R Bergmooser",
+        "ceo": "Brad Bergmooser",
+        "acquirer_ceo": "Brad Bergmooser",
         "partner_ceo": "Kristine Brenner",
         "acquirer_city": "Flint",
         "partner_city": "Monroe",
@@ -737,12 +766,32 @@
         "combined_locations": 3,
         "footprint": 3,
         "acquirer_ceo": 1,
-        "partner_ceo": 2
+        "partner_ceo": 2,
+        "ceo": 1
       },
       "history": [
         {
           "date": "2026-11-21",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Brad R Bergmooser",
+              "new": "Brad Bergmooser"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Brad Bergmooser"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68646"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -1439,9 +1488,9 @@
         "member_vote": null,
         "completed": null,
         "new_name": null,
-        "ceo": null,
-        "acquirer_ceo": "Danielle E Milner",
-        "partner_ceo": "John M Gallagher",
+        "ceo": "Danielle Milner",
+        "acquirer_ceo": "Danielle Milner",
+        "partner_ceo": "John Gallagher",
         "acquirer_city": "Dorchester",
         "partner_city": "Lynn",
         "acquirer_assets": 451.2,
@@ -1500,12 +1549,38 @@
         "partner_locations": 2,
         "partner_state": 2,
         "partner_city": 2,
-        "partner_ceo": 2
+        "partner_ceo": 2,
+        "ceo": 1
       },
       "history": [
         {
           "date": "2026-11-21",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Danielle E Milner",
+              "new": "Danielle Milner"
+            },
+            {
+              "field": "partner_ceo",
+              "old": "John M Gallagher",
+              "new": "John Gallagher"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Danielle Milner"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67837",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/484"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -1524,7 +1599,7 @@
         "member_vote": "2026-12-09",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Douglas Patterson",
         "acquirer_assets": 426.3,
         "acquirer_members": 38855,
         "acquirer_locations": 6,
@@ -1595,7 +1670,8 @@
         "combined_members": 1,
         "combined_locations": 3,
         "footprint": 3,
-        "announced": 4
+        "announced": 4,
+        "ceo": 1
       },
       "history": [
         {
@@ -1660,6 +1736,20 @@
           ],
           "sources": [
             "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUtWMTFFamhPUk42UkNteE5XeFE3clZHS0VRU2FNWWVYeVhtNXZPaTFqMjZLV3FsLThEWU9mWEtucGlaYjctRGdYdm1RUDJodHJsWDFVVlhHOFdWQVl6OTNyemdia0RzT3B4Wk1CMlc4Smc4WC1fNnZCcFhYaTZ3MFhXNWcxRUFsYlVkQ2pxSGtTYUJxXzB2eXdXRTBDSWlfZ1p4bDZFZC1idVE?oc=5"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Douglas Patterson"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68226"
           ]
         }
       ],
@@ -1848,9 +1938,9 @@
         "member_vote": null,
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Sean Rathjen",
         "acquirer_ceo": "Sean Rathjen",
-        "partner_ceo": "Frank M Padak",
+        "partner_ceo": "Frank Padak",
         "acquirer_city": "Lake Forest",
         "partner_city": "Edwardsville",
         "acquirer_assets": 4614.6,
@@ -1917,7 +2007,8 @@
         "combined_locations": 1,
         "footprint": 3,
         "acquirer_ceo": 1,
-        "partner_ceo": 2
+        "partner_ceo": 2,
+        "ceo": 1
       },
       "history": [
         {
@@ -1942,6 +2033,26 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68588",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66370"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Frank M Padak",
+              "new": "Frank Padak"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Sean Rathjen"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66370",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68588"
           ]
         }
       ],
@@ -2392,7 +2503,7 @@
         "new_name": null,
         "ceo": "Thayne Shaffer",
         "acquirer_ceo": "Thayne Shaffer",
-        "partner_ceo": "Daniel A DeLaRosa",
+        "partner_ceo": "Daniel DeLaRosa",
         "acquirer_city": "Riverdale",
         "partner_city": "Carson City",
         "acquirer_assets": 26333.7,
@@ -2484,6 +2595,20 @@
           ],
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24694",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68228"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Daniel A DeLaRosa",
+              "new": "Daniel DeLaRosa"
+            }
+          ],
+          "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68228"
           ]
         }
@@ -2657,7 +2782,7 @@
         "member_vote": "2026-11-17",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "John Holt",
         "acquirer_assets": 916.5,
         "acquirer_members": 66866,
         "acquirer_locations": 12,
@@ -2672,7 +2797,7 @@
         "acquirer_city": "Rocky Hill",
         "partner_city": "New Haven",
         "acquirer_ceo": "John Holt",
-        "partner_ceo": "Joyce M Flynn",
+        "partner_ceo": "Joyce Flynn",
         "combined_members": 67903,
         "combined_locations": 13,
         "footprint": "CT"
@@ -2733,7 +2858,8 @@
         "partner_ceo": 4,
         "combined_members": 3,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 5
       },
       "history": [
         {
@@ -2786,6 +2912,26 @@
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
             "https://tyfone.com/news/breaking-news/in-connecticut-the-credit-union-mergers-keep-coming/"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Joyce M Flynn",
+              "new": "Joyce Flynn"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "John Holt"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/19",
+            "https://tyfone.com/news/breaking-news/in-connecticut-the-credit-union-mergers-keep-coming/"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -2804,7 +2950,7 @@
         "member_vote": "2026-12-04",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Michael Valentine",
         "acquirer_assets": 6450.9,
         "acquirer_members": 371640,
         "acquirer_locations": 42,
@@ -2819,7 +2965,7 @@
         "acquirer_city": "Vernon Hills",
         "partner_city": "Lisle",
         "acquirer_ceo": "Michael Valentine",
-        "partner_ceo": "Joseph J Kregul",
+        "partner_ceo": "Joseph Kregul",
         "combined_members": 400894,
         "combined_locations": 46,
         "footprint": "IL, PR, MN, CA, GA, AR, FL, IN, MA, MS, NC, OH, UT, VA, WI"
@@ -2875,7 +3021,8 @@
         "combined_members": 1,
         "combined_locations": 1,
         "footprint": 3,
-        "announced": 4
+        "announced": 4,
+        "ceo": 1
       },
       "history": [
         {
@@ -2960,6 +3107,26 @@
           ],
           "sources": [
             "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHJPZlZIeGNSbDJhWUhWS1U0R3FlanNQUjdjektxYVI2b2pTOVM3RWpObnJnSTR1Y2JPdGZHdE1LbDJXZXh0RmxjSGNxaWF1Z0NuTTRNSzN1aHI2VHcwQ0FZUFpwVXpXRE5GWHNXOFJYczg0eFRzVEMzM3ZKbldQQVBWSWpwYXZWeTl2bzhiYW9VR2dlNkxhNUdORjQ1RFFzcl93a0c3N0Y0ZDRMdVRjRzVpLUVuVEo5?oc=5"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Joseph J Kregul",
+              "new": "Joseph Kregul"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Michael Valentine"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/65421",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68187"
           ]
         }
       ],
@@ -3142,7 +3309,7 @@
         "member_vote": null,
         "completed": "2026-09-30",
         "new_name": null,
-        "ceo": null,
+        "ceo": "April Clobes",
         "acquirer_ceo": "April Clobes",
         "partner_ceo": null,
         "acquirer_city": "East Lansing",
@@ -3196,12 +3363,27 @@
         "size_as_of": 2,
         "state": 2,
         "acquirer_city": 2,
-        "acquirer_ceo": 2
+        "acquirer_ceo": 2,
+        "ceo": 2
       },
       "history": [
         {
           "date": "2026-11-21",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "April Clobes"
+            }
+          ],
+          "sources": [
+            "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -3220,7 +3402,7 @@
         "member_vote": "2026-10-20",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Derrick Barber",
         "acquirer_assets": 756.1,
         "acquirer_members": 46194,
         "acquirer_locations": 11,
@@ -3235,7 +3417,7 @@
         "acquirer_city": "Saginaw",
         "partner_city": "Lansing",
         "acquirer_ceo": "Derrick Barber",
-        "partner_ceo": "Jeffrey S Benson",
+        "partner_ceo": "Jeffrey Benson",
         "combined_members": 72340,
         "combined_locations": 16,
         "footprint": "MI"
@@ -3301,7 +3483,8 @@
         "partner_ceo": 4,
         "combined_members": 3,
         "combined_locations": 5,
-        "footprint": 5
+        "footprint": 5,
+        "ceo": 6
       },
       "history": [
         {
@@ -3352,6 +3535,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62141",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61908",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+            "https://www.teamonecu.org/bolder-together"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Jeffrey S Benson",
+              "new": "Jeffrey Benson"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Derrick Barber"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61908",
             "https://www.teamonecu.org/bolder-together"
           ]
         }
@@ -3513,7 +3716,7 @@
         "member_vote": "2026-11-09",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Matthew Jernigan",
         "acquirer_assets": 4924.3,
         "acquirer_members": 274961,
         "acquirer_locations": 28,
@@ -3528,7 +3731,7 @@
         "acquirer_city": "Tullahoma",
         "partner_city": "Atlanta",
         "acquirer_ceo": "Matthew Jernigan",
-        "partner_ceo": "Chris A Leggett",
+        "partner_ceo": "Chris Leggett",
         "combined_members": 404547,
         "combined_locations": 46,
         "footprint": "TN, GA",
@@ -3594,7 +3797,8 @@
         "announced": 4,
         "announced_figures": 4,
         "next_steps": 5,
-        "notes": 5
+        "notes": 5,
+        "ceo": 1
       },
       "history": [
         {
@@ -3701,6 +3905,26 @@
             "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2prZVg0ZWNXY280MEI4Wk1XRlVNcHV2b3pxaHllLXh1X1I4U3RJVGlfWEc5MU5sNGUycWtkVVVYZ3ZSR3ljQjgtN2hIWXJydGdtWFpkVU8waEdSVlYwLWJqcW5sUmItS0d2QzJNamNqUjFjWktaYmJGenlPTFA2S2xRZFJiV0piNzJXQTV3R2c2NWFva0ZDVHJ3Nl9aRXNpWmVoLQ?oc=5",
             "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM2pDMWRYY05CTC1MYTJvNlNjdUxCQnNVLWtKRzZMcVJsanpFem9HRGMtckpZWXVrNDQ3cDEtRnMzYXZuMnYtcS1hMkg4blNaSmVCTHBmWFdMOUJGUnpKdHc3a2hTSUJxUXlzUThwTEZVOWVDVThHVHEtekZrbVc0aXB2c25FQkNhUG1Uc1EzX2l5M1g1SHVabktBcw?oc=5"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Chris A Leggett",
+              "new": "Chris Leggett"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Matthew Jernigan"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68581",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7397"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -3717,9 +3941,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-08-25",
-        "completed": null,
+        "completed": "2026-09-01",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Todd Hall",
         "acquirer_assets": 5615.2,
         "acquirer_members": 328760,
         "acquirer_locations": 38,
@@ -3730,10 +3954,10 @@
         "size_as_of": "Q2 2026",
         "state": "NC",
         "partner_state": "NC",
-        "notes": "NCUA lists Piedmont Advantage as inactive; its last call report was Jun 30, 2026, so the merger took effect by Sep 30.",
+        "notes": "Legally effective Sep 1, 2026. Piedmont Advantage operates as a division of Truliant during the transition.",
         "acquirer_city": "Winston Salem",
         "partner_city": "Winston Salem",
-        "acquirer_ceo": "William Hall",
+        "acquirer_ceo": "Todd Hall",
         "partner_ceo": "Dion Williams",
         "combined_members": 355762,
         "combined_locations": 44,
@@ -3765,6 +3989,16 @@
           "label": "GlobeNewswire (via Google News)",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVTRSRFhTaFVTRFE5WTlPNktucjFEM2VtRWY5SC0wT3cteDM3Q25RZmo2TEZDc1o0eE9NZjd4TjZaT080bExpRWZidnc0aVcyZGd1NVpIQWNfN0lvdXRhNmtxaWpwcmtMSldrNE0tclRfTWRLRUR2dkotaHp5YS1ybFpUQzF4YWFSSlo3dVJPVXhaUzJuanZTcC03c1hFRzM2djIwa3FYanlHSVo3S1NWWDlickpGRi1DYUo4aEsycEd2alhBZ0tN?oc=5",
           "type": "trade_press"
+        },
+        {
+          "label": "CU Times, Apr 22, 2026",
+          "url": "https://www.cutimes.com/amp/2026/04/22/north-carolina-credit-unions-announce-merger-plans-for-next-year/",
+          "type": "trade_press"
+        },
+        {
+          "label": "Piedmont Advantage merger page",
+          "url": "https://www.pacu.com/strongertogether/",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -3786,13 +4020,16 @@
         "partner_state": 2,
         "acquirer_city": 3,
         "partner_city": 0,
-        "acquirer_ceo": 3,
+        "acquirer_ceo": 5,
         "partner_ceo": 0,
         "combined_members": 3,
         "combined_locations": 2,
         "footprint": 2,
         "announced": 4,
-        "announced_figures": 4
+        "announced_figures": 4,
+        "ceo": 5,
+        "completed": 6,
+        "notes": 6
       },
       "history": [
         {
@@ -3862,6 +4099,36 @@
           ],
           "sources": [
             "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVTRSRFhTaFVTRFE5WTlPNktucjFEM2VtRWY5SC0wT3cteDM3Q25RZmo2TEZDc1o0eE9NZjd4TjZaT080bExpRWZidnc0aVcyZGd1NVpIQWNfN0lvdXRhNmtxaWpwcmtMSldrNE0tclRfTWRLRUR2dkotaHp5YS1ybFpUQzF4YWFSSlo3dVJPVXhaUzJuanZTcC03c1hFRzM2djIwa3FYanlHSVo3S1NWWDlickpGRi1DYUo4aEsycEd2alhBZ0tN?oc=5"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (2026-09-01); Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "William Hall",
+              "new": "Todd Hall"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Todd Hall"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "2026-09-01"
+            },
+            {
+              "field": "notes",
+              "old": "NCUA lists Piedmont Advantage as inactive; its last call report was Jun 30, 2026, so the merger took effect by Sep 30.",
+              "new": "Legally effective Sep 1, 2026. Piedmont Advantage operates as a division of Truliant during the transition."
+            }
+          ],
+          "sources": [
+            "https://www.cutimes.com/amp/2026/04/22/north-carolina-credit-unions-announce-merger-plans-for-next-year/",
+            "https://www.pacu.com/strongertogether/"
           ]
         }
       ],
@@ -4570,7 +4837,7 @@
         "member_vote": "2026-08-12",
         "completed": "2026-10-01",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Mark Sekula",
         "acquirer_assets": 19938.5,
         "acquirer_members": 1162377,
         "acquirer_locations": 84,
@@ -4654,7 +4921,8 @@
         "combined_members": 3,
         "combined_locations": 3,
         "footprint": 5,
-        "announced_figures": 6
+        "announced_figures": 6,
+        "ceo": 3
       },
       "history": [
         {
@@ -4731,6 +4999,20 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24934"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Mark Sekula"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111"
           ]
         }
       ],
@@ -5292,9 +5574,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-09-02",
-        "completed": null,
+        "completed": "2026-10-01",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Jennifer Ventimiglia",
         "acquirer_assets": 990.6,
         "acquirer_members": 83117,
         "acquirer_locations": 8,
@@ -5305,11 +5587,11 @@
         "size_as_of": "Q3 2026",
         "state": "TN",
         "partner_state": "TN",
-        "notes": "Vanderbilt keeps its name and brand. NCUA lists Vanderbilt as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+        "notes": "Legally effective Oct 1, 2026. Vanderbilt keeps its name and brand as a division of Fortera.",
         "acquirer_city": "Clarksville",
         "partner_city": "Nashville",
         "acquirer_ceo": "Jennifer Ventimiglia",
-        "partner_ceo": "Mike F McDonald",
+        "partner_ceo": "Mike McDonald",
         "combined_members": 88449,
         "combined_locations": 10,
         "footprint": "TN, KY"
@@ -5339,6 +5621,11 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "Fortera/Vanderbilt completion release (CUInsight)",
+          "url": "https://www.cuinsight.com/?p=216177",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -5365,7 +5652,10 @@
         "partner_ceo": 3,
         "combined_members": 2,
         "combined_locations": 4,
-        "footprint": 4
+        "footprint": 4,
+        "ceo": 2,
+        "completed": 5,
+        "notes": 5
       },
       "history": [
         {
@@ -5416,6 +5706,37 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9759",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68119",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (2026-10-01); Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Mike F McDonald",
+              "new": "Mike McDonald"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Jennifer Ventimiglia"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "2026-10-01"
+            },
+            {
+              "field": "notes",
+              "old": "Vanderbilt keeps its name and brand. NCUA lists Vanderbilt as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+              "new": "Legally effective Oct 1, 2026. Vanderbilt keeps its name and brand as a division of Fortera."
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68119",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9759",
+            "https://www.cuinsight.com/?p=216177"
           ]
         }
       ],
@@ -5623,7 +5944,7 @@
         "member_vote": "2026-09-29",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Todd Gunderson",
         "acquirer_assets": 2774.1,
         "acquirer_members": 186078,
         "acquirer_locations": 45,
@@ -5695,7 +6016,8 @@
         "combined_members": 2,
         "combined_locations": 4,
         "footprint": 2,
-        "next_steps": 0
+        "next_steps": 0,
+        "ceo": 2
       },
       "history": [
         {
@@ -5782,6 +6104,20 @@
           "sources": [
             "https://www.creditunion1.org/about/mergers/gulf-coast/"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Todd Gunderson"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -5800,7 +6136,7 @@
         "member_vote": "2026-11-30",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Todd Gunderson",
         "acquirer_assets": 2774.1,
         "acquirer_members": 186078,
         "acquirer_locations": 45,
@@ -5870,7 +6206,8 @@
         "partner_ceo": 3,
         "combined_members": 2,
         "combined_locations": 4,
-        "footprint": 2
+        "footprint": 2,
+        "ceo": 2
       },
       "history": [
         {
@@ -5937,6 +6274,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64231"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Todd Gunderson"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -5955,7 +6306,7 @@
         "member_vote": "2026-09-16",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Michael Waylett",
         "acquirer_assets": 182.3,
         "acquirer_members": 20785,
         "acquirer_locations": 5,
@@ -6031,7 +6382,8 @@
         "combined_members": 2,
         "combined_locations": 4,
         "footprint": 4,
-        "notes": 5
+        "notes": 5,
+        "ceo": 2
       },
       "history": [
         {
@@ -6097,6 +6449,20 @@
           "sources": [
             "http://www.cityfederalcu.com"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Michael Waylett"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/224"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -6115,7 +6481,7 @@
         "member_vote": "2027-01-22",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Michael Korhnak",
         "acquirer_assets": 272.1,
         "acquirer_members": 21420,
         "acquirer_locations": 7,
@@ -6129,8 +6495,8 @@
         "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
         "acquirer_city": "Pittsburgh",
         "partner_city": "Pittsburgh",
-        "acquirer_ceo": "Michael T Korhnak",
-        "partner_ceo": "Sheree A Strayer",
+        "acquirer_ceo": "Michael Korhnak",
+        "partner_ceo": "Sheree Strayer",
         "combined_members": 21622,
         "combined_locations": 8,
         "footprint": "PA"
@@ -6180,7 +6546,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -6232,6 +6599,31 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16636",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Michael T Korhnak",
+              "new": "Michael Korhnak"
+            },
+            {
+              "field": "partner_ceo",
+              "old": "Sheree A Strayer",
+              "new": "Sheree Strayer"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Michael Korhnak"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/205",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16636"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -6250,7 +6642,7 @@
         "member_vote": "2027-01-16",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Robert Corolla",
         "acquirer_assets": 124.8,
         "acquirer_members": 6222,
         "acquirer_locations": 5,
@@ -6315,7 +6707,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -6367,6 +6760,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67660",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Robert Corolla"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24445"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -6385,7 +6792,7 @@
         "member_vote": "2027-01-15",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Darrin Blankenbeckler",
         "acquirer_assets": 260.0,
         "acquirer_members": 11088,
         "acquirer_locations": 3,
@@ -6400,7 +6807,7 @@
         "acquirer_city": "Sterling",
         "partner_city": "Fort Morgan",
         "acquirer_ceo": "Darrin Blankenbeckler",
-        "partner_ceo": "Phillip J Stadler",
+        "partner_ceo": "Phillip Stadler",
         "combined_members": 11504,
         "footprint": "CO"
       },
@@ -6447,7 +6854,8 @@
         "acquirer_ceo": 1,
         "partner_ceo": 2,
         "combined_members": 1,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -6494,6 +6902,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/10180",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Phillip J Stadler",
+              "new": "Phillip Stadler"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Darrin Blankenbeckler"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/10180",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2840"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -6512,7 +6940,7 @@
         "member_vote": "2027-01-12",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Roger Ballard",
         "acquirer_assets": 4012.3,
         "acquirer_members": 206853,
         "acquirer_locations": 37,
@@ -6526,7 +6954,7 @@
         "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
         "acquirer_city": "Huntington Beach",
         "partner_city": "Antioch",
-        "acquirer_ceo": "Roger D Ballard",
+        "acquirer_ceo": "Roger Ballard",
         "partner_ceo": "Harinder Dhindsa",
         "combined_members": 208702,
         "combined_locations": 38,
@@ -6577,7 +7005,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 1,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -6649,6 +7078,25 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64503"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Roger D Ballard",
+              "new": "Roger Ballard"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Roger Ballard"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/566"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -6667,7 +7115,7 @@
         "member_vote": "2026-12-18",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Todd Cain",
         "acquirer_assets": 720.7,
         "acquirer_members": 42478,
         "acquirer_locations": 9,
@@ -6732,7 +7180,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -6784,6 +7233,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15874",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Todd Cain"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61090"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -6802,7 +7265,7 @@
         "member_vote": "2026-12-16",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Margie Click",
         "acquirer_assets": 344.6,
         "acquirer_members": 22865,
         "acquirer_locations": 2,
@@ -6867,7 +7330,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -6919,6 +7383,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2158",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Margie Click"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16400"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -6937,7 +7415,7 @@
         "member_vote": "2026-12-09",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "William Hawkins",
         "acquirer_assets": 137.4,
         "acquirer_members": 13987,
         "acquirer_locations": 7,
@@ -7002,7 +7480,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7054,6 +7533,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/19973",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "William Hawkins"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24564"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -7072,7 +7565,7 @@
         "member_vote": "2026-12-08",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Cameron Dickey",
         "acquirer_assets": 394.9,
         "acquirer_members": 25984,
         "acquirer_locations": 6,
@@ -7087,7 +7580,7 @@
         "acquirer_city": "Houston",
         "partner_city": "Houston",
         "acquirer_ceo": "Cameron Dickey",
-        "partner_ceo": "Mark A Levien",
+        "partner_ceo": "Mark Levien",
         "combined_members": 27374,
         "combined_locations": 7,
         "footprint": "TX"
@@ -7137,7 +7630,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7189,6 +7683,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16271",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Mark A Levien",
+              "new": "Mark Levien"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Cameron Dickey"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16271",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11452"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -7207,7 +7721,7 @@
         "member_vote": "2026-12-08",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Jay Kruse",
         "acquirer_assets": 78.5,
         "acquirer_members": 2836,
         "acquirer_locations": 1,
@@ -7222,7 +7736,7 @@
         "acquirer_city": "Britton",
         "partner_city": "Aberdeen",
         "acquirer_ceo": "Jay Kruse",
-        "partner_ceo": "Guy J Trenhaile",
+        "partner_ceo": "Guy Trenhaile",
         "combined_members": 7881,
         "combined_locations": 2,
         "footprint": "SD"
@@ -7272,7 +7786,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7324,6 +7839,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23371",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Guy J Trenhaile",
+              "new": "Guy Trenhaile"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Jay Kruse"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23371",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4951"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -7342,7 +7877,7 @@
         "member_vote": "2026-12-04",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Timothy Rask",
         "acquirer_assets": 91.0,
         "acquirer_members": 3198,
         "acquirer_locations": 2,
@@ -7407,7 +7942,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7459,6 +7995,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8037",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Timothy Rask"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5063"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -7477,7 +8027,7 @@
         "member_vote": "2026-12-02",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Craig Esrael",
         "acquirer_assets": 849.4,
         "acquirer_members": 72112,
         "acquirer_locations": 15,
@@ -7491,8 +8041,8 @@
         "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
         "acquirer_city": "Bartlett",
         "partner_city": "Memphis",
-        "acquirer_ceo": "W. Craig Esrael",
-        "partner_ceo": "Terrie L Snavely",
+        "acquirer_ceo": "Craig Esrael",
+        "partner_ceo": "Terrie Snavely",
         "combined_members": 72365,
         "combined_locations": 16,
         "footprint": "TN, MS"
@@ -7542,7 +8092,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7594,6 +8145,31 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9310",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "W. Craig Esrael",
+              "new": "Craig Esrael"
+            },
+            {
+              "field": "partner_ceo",
+              "old": "Terrie L Snavely",
+              "new": "Terrie Snavely"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Craig Esrael"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24963",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9310"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -7612,7 +8188,7 @@
         "member_vote": "2026-12-01",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Joel Forbess",
         "acquirer_assets": 144.5,
         "acquirer_members": 8222,
         "acquirer_locations": 1,
@@ -7626,8 +8202,8 @@
         "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
         "acquirer_city": "Memphis",
         "partner_city": "Atoka",
-        "acquirer_ceo": "Joel C Forbess",
-        "partner_ceo": "Kenneth E Newberry",
+        "acquirer_ceo": "Joel Forbess",
+        "partner_ceo": "Kenneth Newberry",
         "combined_members": 9848,
         "combined_locations": 2,
         "footprint": "TN"
@@ -7677,7 +8253,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7729,6 +8306,31 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60726",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Joel C Forbess",
+              "new": "Joel Forbess"
+            },
+            {
+              "field": "partner_ceo",
+              "old": "Kenneth E Newberry",
+              "new": "Kenneth Newberry"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Joel Forbess"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60928",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60726"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -7747,7 +8349,7 @@
         "member_vote": "2026-11-24",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Tim Green",
         "acquirer_assets": 3135.0,
         "acquirer_members": 45118,
         "acquirer_locations": 2,
@@ -7812,7 +8414,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7864,6 +8467,20 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13044",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Tim Green"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -7882,7 +8499,7 @@
         "member_vote": "2026-11-16",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Thomas Gourdin",
         "acquirer_assets": 71.4,
         "acquirer_members": 3461,
         "acquirer_locations": 2,
@@ -7896,7 +8513,7 @@
         "notes": "On NCUA's proposed-merger list. Member vote was set for Nov 16, 2026; result not yet confirmed.",
         "acquirer_city": "Draper",
         "partner_city": "Salt Lake City",
-        "acquirer_ceo": "Thomas R Gourdin",
+        "acquirer_ceo": "Thomas Gourdin",
         "partner_ceo": "Tammy Morgan",
         "combined_members": 5586,
         "combined_locations": 4,
@@ -7947,7 +8564,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -7999,6 +8617,25 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67056",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Thomas R Gourdin",
+              "new": "Thomas Gourdin"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Thomas Gourdin"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8017,7 +8654,7 @@
         "member_vote": "2026-11-08",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Bill Bynum",
         "acquirer_assets": 882.3,
         "acquirer_members": 49335,
         "acquirer_locations": 14,
@@ -8031,8 +8668,8 @@
         "notes": "On NCUA's proposed-merger list. Member vote was set for Nov 8, 2026; result not yet confirmed.",
         "acquirer_city": "Jackson",
         "partner_city": "Birmingham",
-        "acquirer_ceo": "William Bynum",
-        "partner_ceo": "Brooke A Smedley",
+        "acquirer_ceo": "Bill Bynum",
+        "partner_ceo": "Brooke Smedley",
         "combined_members": 50243,
         "combined_locations": 16,
         "footprint": "MS, AL, AR, TN, FL, LA"
@@ -8057,6 +8694,11 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "Atlanta Journal-Constitution, Aug 19, 2025",
+          "url": "https://www.ajc.com/business/2025/08/atlanta-credit-union-merging-with-top-black-and-woman-owned-financial-co-op",
+          "type": "trade_press"
         }
       ],
       "field_sources": {
@@ -8078,11 +8720,12 @@
         "partner_state": 2,
         "acquirer_city": 1,
         "partner_city": 2,
-        "acquirer_ceo": 1,
+        "acquirer_ceo": 4,
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 4
       },
       "history": [
         {
@@ -8134,6 +8777,31 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24583",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "William Bynum",
+              "new": "Bill Bynum"
+            },
+            {
+              "field": "partner_ceo",
+              "old": "Brooke A Smedley",
+              "new": "Brooke Smedley"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Bill Bynum"
+            }
+          ],
+          "sources": [
+            "https://www.ajc.com/business/2025/08/atlanta-credit-union-merging-with-top-black-and-woman-owned-financial-co-op",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24583"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8152,7 +8820,7 @@
         "member_vote": "2026-10-28",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Charles Kirsch",
         "acquirer_assets": 185.7,
         "acquirer_members": 7450,
         "acquirer_locations": 1,
@@ -8166,7 +8834,7 @@
         "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 28, 2026; result not yet confirmed.",
         "acquirer_city": "Buffalo",
         "partner_city": "Buffalo",
-        "acquirer_ceo": "Charles D Kirsch",
+        "acquirer_ceo": "Charles Kirsch",
         "partner_ceo": "Ronna Sidoti",
         "combined_members": 8855,
         "combined_locations": 2,
@@ -8217,7 +8885,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -8269,6 +8938,25 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7118",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Charles D Kirsch",
+              "new": "Charles Kirsch"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Charles Kirsch"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3306"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8287,7 +8975,7 @@
         "member_vote": "2026-10-13",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Daniel Sutton",
         "acquirer_assets": 1753.2,
         "acquirer_members": 131790,
         "acquirer_locations": 14,
@@ -8301,8 +8989,8 @@
         "notes": "On NCUA's proposed-merger list; member vote was set for Oct 13, 2026. Cincinnati Interagency's website now shows the Kemba brand, suggesting the merger has taken effect; NCUA still lists it as active.",
         "acquirer_city": "West Chester",
         "partner_city": "Cincinnati",
-        "acquirer_ceo": "Daniel L Sutton",
-        "partner_ceo": "Karen E Anderson",
+        "acquirer_ceo": "Daniel Sutton",
+        "partner_ceo": "Karen Anderson",
         "combined_members": 133739,
         "combined_locations": 15,
         "footprint": "OH, IN, KY"
@@ -8358,7 +9046,8 @@
         "combined_members": 1,
         "combined_locations": 3,
         "footprint": 3,
-        "notes": 4
+        "notes": 4,
+        "ceo": 1
       },
       "history": [
         {
@@ -8424,6 +9113,31 @@
           "sources": [
             "https://www.cifcu.org"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Daniel L Sutton",
+              "new": "Daniel Sutton"
+            },
+            {
+              "field": "partner_ceo",
+              "old": "Karen E Anderson",
+              "new": "Karen Anderson"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Daniel Sutton"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61810",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7088"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8442,7 +9156,7 @@
         "member_vote": "2026-10-08",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Eugene Novello",
         "acquirer_assets": 632.8,
         "acquirer_members": 39707,
         "acquirer_locations": 11,
@@ -8456,7 +9170,7 @@
         "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 8, 2026; result not yet confirmed.",
         "acquirer_city": "Crown Point",
         "partner_city": "Munster",
-        "acquirer_ceo": "Eugene R Novello",
+        "acquirer_ceo": "Eugene Novello",
         "partner_ceo": "Sarah Humenik",
         "combined_members": 40127,
         "combined_locations": 12,
@@ -8507,7 +9221,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -8559,6 +9274,25 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/22695",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Eugene R Novello",
+              "new": "Eugene Novello"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Eugene Novello"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68225"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8577,7 +9311,7 @@
         "member_vote": "2026-10-06",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Christina O'Brien",
         "acquirer_assets": 4968.3,
         "acquirer_members": 274255,
         "acquirer_locations": 23,
@@ -8591,7 +9325,7 @@
         "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 6, 2026; result not yet confirmed.",
         "acquirer_city": "Warner Robins",
         "partner_city": "Cordele",
-        "acquirer_ceo": "Christina M O'Brien",
+        "acquirer_ceo": "Christina O'Brien",
         "partner_ceo": "Kay Burton",
         "combined_members": 274411,
         "combined_locations": 24,
@@ -8642,7 +9376,8 @@
         "partner_ceo": 2,
         "combined_members": 1,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -8694,6 +9429,25 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67563",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Christina M O'Brien",
+              "new": "Christina O'Brien"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Christina O'Brien"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68670"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8712,7 +9466,7 @@
         "member_vote": "2026-10-06",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Michael Fitzgerald",
         "acquirer_assets": 115.7,
         "acquirer_members": 2985,
         "acquirer_locations": null,
@@ -8726,7 +9480,7 @@
         "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 6, 2026; result not yet confirmed.",
         "acquirer_city": "Port Washington",
         "partner_city": "Great Neck",
-        "acquirer_ceo": "Michael J Fitzgerald",
+        "acquirer_ceo": "Michael Fitzgerald",
         "partner_ceo": "Flaviano Pereira",
         "combined_members": 3294,
         "footprint": "NY"
@@ -8774,7 +9528,8 @@
         "acquirer_ceo": 1,
         "partner_ceo": 2,
         "combined_members": 1,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 1
       },
       "history": [
         {
@@ -8821,6 +9576,25 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5163",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Michael J Fitzgerald",
+              "new": "Michael Fitzgerald"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Michael Fitzgerald"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18635"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -8837,9 +9611,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-08-24",
-        "completed": null,
+        "completed": "Sep 2026",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Dale Hansard",
         "acquirer_assets": 40.5,
         "acquirer_members": 4405,
         "acquirer_locations": 2,
@@ -8850,11 +9624,11 @@
         "size_as_of": "Q3 2026",
         "state": "TX",
         "partner_state": "TX",
-        "notes": "Reported completed Sep 30, 2026 (NCUA still lists Plains as active).",
+        "notes": "Reported complete Sep 30, 2026; exact legal date not published (NCUA still lists Plains as active).",
         "acquirer_city": "Lamesa",
         "partner_city": "Plainview",
-        "acquirer_ceo": "Dale J Hansard",
-        "partner_ceo": "Mickie J Gregory",
+        "acquirer_ceo": "Dale Hansard",
+        "partner_ceo": "Mickie Gregory",
         "combined_members": 4811,
         "combined_locations": 3,
         "footprint": "TX"
@@ -8910,7 +9684,9 @@
         "combined_members": 1,
         "combined_locations": 3,
         "footprint": 3,
-        "notes": 4
+        "notes": 4,
+        "ceo": 1,
+        "completed": 4
       },
       "history": [
         {
@@ -8986,6 +9762,42 @@
           "sources": [
             "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZE5adThmd0JweGFva29xdXFZazlLc3c4QlMzNXp3Z2IzZ0lqQm1hY0JoTEZ2TWJXSVZldElQelkwNzJ1Skl2V05CZ1BHTFViY0dXQVhKc0pZc3RNQ2RzVTZ6eFFUSlZDaTJOX282akRnY0FXanJNNEdqXzUxcmQtYXc3eEdDTVhjZUI5ZHlWd1U1OHVtYXc5WkhXM3I0dDJySU1MWg?oc=5"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (Sep 2026); Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Dale J Hansard",
+              "new": "Dale Hansard"
+            },
+            {
+              "field": "partner_ceo",
+              "old": "Mickie J Gregory",
+              "new": "Mickie Gregory"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Dale Hansard"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "Sep 2026"
+            },
+            {
+              "field": "notes",
+              "old": "Reported completed Sep 30, 2026 (NCUA still lists Plains as active).",
+              "new": "Reported complete Sep 30, 2026; exact legal date not published (NCUA still lists Plains as active)."
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16813",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12274",
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZE5adThmd0JweGFva29xdXFZazlLc3c4QlMzNXp3Z2IzZ0lqQm1hY0JoTEZ2TWJXSVZldElQelkwNzJ1Skl2V05CZ1BHTFViY0dXQVhKc0pZc3RNQ2RzVTZ6eFFUSlZDaTJOX282akRnY0FXanJNNEdqXzUxcmQtYXc3eEdDTVhjZUI5ZHlWd1U1OHVtYXc5WkhXM3I0dDJySU1MWg?oc=5"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -9004,7 +9816,7 @@
         "member_vote": "2026-08-24",
         "completed": null,
         "new_name": null,
-        "ceo": null,
+        "ceo": "Travis Markley",
         "acquirer_assets": 931.4,
         "acquirer_members": 39910,
         "acquirer_locations": 10,
@@ -9019,7 +9831,7 @@
         "acquirer_city": "Bedford",
         "partner_city": "Loogootee",
         "acquirer_ceo": "Travis Markley",
-        "partner_ceo": "Michael E Hurt",
+        "partner_ceo": "Michael Hurt",
         "combined_members": 41130,
         "combined_locations": 11,
         "footprint": "IN",
@@ -9077,7 +9889,8 @@
         "combined_locations": 3,
         "footprint": 3,
         "next_steps": 4,
-        "notes": 4
+        "notes": 4,
+        "ceo": 1
       },
       "history": [
         {
@@ -9153,6 +9966,26 @@
           "sources": [
             "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalRvRXV1eFhoRlgxMUh5ZEZ0N1NQX2hDWm9BOTh4ODlqYU1oa21aLTZjSVF3NG5VTHFRMTlfRUxCc053bldpQmNJby0tb2hzWlRibG5kSVZzazJFR2QwdHNlM2JrQm9OTzJvNkJLRUpTWlpDTURvQXVyLTVILXpvaWN2cS1vUG9RN2J0ZEM0N0kxbFo1Uk5kU0swV3E5Y1N4a1lKZU5BQ1VRUUI0NkhKU0FtQWdhcjZYY3BOZA?oc=5"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Michael E Hurt",
+              "new": "Michael Hurt"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Travis Markley"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67762",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60768"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -9169,9 +10002,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-08-25",
-        "completed": null,
+        "completed": "Q3 2026",
         "new_name": null,
-        "ceo": null,
+        "ceo": "John Harmond",
         "acquirer_assets": 144.9,
         "acquirer_members": 16069,
         "acquirer_locations": 7,
@@ -9185,7 +10018,7 @@
         "notes": "NCUA lists Water's Edge as inactive; its last call report was Jun 30, 2026, so the merger took effect by Sep 30.",
         "acquirer_city": "Hattiesburg",
         "partner_city": "Biloxi",
-        "acquirer_ceo": "John S Harmond",
+        "acquirer_ceo": "John Harmond",
         "partner_ceo": "Amy Olier",
         "combined_members": 16669,
         "combined_locations": 8,
@@ -9236,7 +10069,9 @@
         "partner_ceo": 0,
         "combined_members": 3,
         "combined_locations": 2,
-        "footprint": 2
+        "footprint": 2,
+        "ceo": 3,
+        "completed": 0
       },
       "history": [
         {
@@ -9288,6 +10123,31 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8593",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (Q3 2026); Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "John S Harmond",
+              "new": "John Harmond"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "John Harmond"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24668",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8593"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -9304,9 +10164,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-08-10",
-        "completed": null,
+        "completed": "Q3 2026",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Michael Powers",
         "acquirer_assets": 495.5,
         "acquirer_members": 30058,
         "acquirer_locations": 7,
@@ -9371,7 +10231,9 @@
         "partner_ceo": 0,
         "combined_members": 3,
         "combined_locations": 2,
-        "footprint": 2
+        "footprint": 2,
+        "ceo": 3,
+        "completed": 0
       },
       "history": [
         {
@@ -9423,6 +10285,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2348",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (Q3 2026); Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Michael Powers"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/18710",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2348"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -9439,9 +10321,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-08-17",
-        "completed": null,
+        "completed": "Q4 2026",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Jim Minge",
         "acquirer_assets": 2125.1,
         "acquirer_members": 138710,
         "acquirer_locations": 21,
@@ -9506,7 +10388,9 @@
         "partner_ceo": 0,
         "combined_members": 2,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 2,
+        "completed": 0
       },
       "history": [
         {
@@ -9558,6 +10442,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68545",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (Q4 2026); Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Jim Minge"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "Q4 2026"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68434",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68545"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -9574,9 +10478,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-08-17",
-        "completed": null,
+        "completed": "Oct 2026",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Ryan Ross",
         "acquirer_assets": 1868.1,
         "acquirer_members": 122283,
         "acquirer_locations": 9,
@@ -9587,11 +10491,11 @@
         "size_as_of": "Q3 2026",
         "state": "KY",
         "partner_state": "KY",
-        "notes": "NCUA lists Bluegrass Community as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+        "notes": "Former Bluegrass members moved to UK Credit Union cards and online banking on Oct 1, 2026; NCUA shows Bluegrass's last call report was Sep 30. Exact legal date not published.",
         "acquirer_city": "Lexington",
         "partner_city": "Ashland",
         "acquirer_ceo": "Ryan Ross",
-        "partner_ceo": "Matt D Bell",
+        "partner_ceo": "Matt Bell",
         "combined_members": 124132,
         "combined_locations": 10,
         "footprint": "KY"
@@ -9616,6 +10520,11 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "UK Credit Union homepage (Bluegrass conversion notice)",
+          "url": "https://ukcreditunion.org/",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -9641,7 +10550,10 @@
         "partner_ceo": 0,
         "combined_members": 2,
         "combined_locations": 2,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 2,
+        "completed": 4,
+        "notes": 4
       },
       "history": [
         {
@@ -9713,6 +10625,37 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24165",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (Oct 2026); Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "Matt D Bell",
+              "new": "Matt Bell"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Ryan Ross"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "Oct 2026"
+            },
+            {
+              "field": "notes",
+              "old": "NCUA lists Bluegrass Community as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+              "new": "Former Bluegrass members moved to UK Credit Union cards and online banking on Oct 1, 2026; NCUA shows Bluegrass's last call report was Sep 30. Exact legal date not published."
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12648",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24165",
+            "https://ukcreditunion.org/"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -9729,9 +10672,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-07-09",
-        "completed": null,
+        "completed": "Q4 2026",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Jake Bowman",
         "acquirer_assets": 382.2,
         "acquirer_members": 20597,
         "acquirer_locations": 12,
@@ -9746,7 +10689,7 @@
         "acquirer_city": "West Jordan",
         "partner_city": "Salt Lake City",
         "acquirer_ceo": "Jake Bowman",
-        "partner_ceo": "L William Christopherson",
+        "partner_ceo": "William Christopherson",
         "combined_members": 21669,
         "combined_locations": 13,
         "footprint": "UT, CA"
@@ -9796,7 +10739,9 @@
         "partner_ceo": 0,
         "combined_members": 2,
         "combined_locations": 2,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 2,
+        "completed": 0
       },
       "history": [
         {
@@ -9868,6 +10813,31 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917"
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (Q4 2026); Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "partner_ceo",
+              "old": "L William Christopherson",
+              "new": "William Christopherson"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Jake Bowman"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "Q4 2026"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14917",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8187"
+          ]
         }
       ],
       "added": "2026-11-21",
@@ -9884,9 +10854,9 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-07-09",
-        "completed": null,
+        "completed": "Q4 2026",
         "new_name": null,
-        "ceo": null,
+        "ceo": "Jeremy Presta",
         "acquirer_assets": 388.9,
         "acquirer_members": 30166,
         "acquirer_locations": 8,
@@ -9951,7 +10921,9 @@
         "partner_ceo": 0,
         "combined_members": 2,
         "combined_locations": 3,
-        "footprint": 3
+        "footprint": 3,
+        "ceo": 2,
+        "completed": 0
       },
       "history": [
         {
@@ -10002,6 +10974,26 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68647",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63199",
             "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Completed date set (Q4 2026); Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Jeremy Presta"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "Q4 2026"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68647",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63199"
           ]
         }
       ],

@@ -60,7 +60,7 @@
     {
       "name": "completed",
       "label": "Completed",
-      "kind": "date",
+      "kind": "datetext",
       "sort": "completed_iso"
     },
     {
