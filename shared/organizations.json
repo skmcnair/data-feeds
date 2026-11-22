@@ -168,7 +168,20 @@
       "kind": "credit_union",
       "charter": "68645",
       "website": "https://www.suncoast.com",
-      "state": "FL"
+      "state": "FL",
+      "logo": {
+        "file": "suncoast-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://edge.sitecorecloud.io/suncoastcre57dd-suncoast-suncoastprod-d848/media/Project/suncoast/Files/Press-Releases/2025/Suncoast-Credit-Union-Scott-Binder-Press-Release.pdf",
+        "fingerprint": "c801c300cc01c92bcbb5cd9cce5ace55c71ccc94ca9bc619ca15cd96c100c800",
+        "aspect": 3.518,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "launch-cu": {
       "name": "Launch Credit Union",
@@ -822,7 +835,20 @@
       "kind": "bank",
       "website": "https://www.willamettevalleybank.com",
       "state": "OR",
-      "fdic_cert": "57033"
+      "fdic_cert": "57033",
+      "logo": {
+        "file": "willamette-valley-bank-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://cdn.prod.website-files.com/652866cb9396994a56ed17f2/67d1faccda1c4e43dbff3d30_WVBK25Years_WebsiteHeader3.png",
+        "fingerprint": "000015801704170837201702130418001000129096b056805692169804600040",
+        "aspect": 3.264,
+        "pinned": false,
+        "added": "2026-11-21",
+        "checked": "2026-11-21",
+        "previous": [],
+        "ignored": []
+      }
     },
     "gulf-winds": {
       "name": "Gulf Winds Credit Union",

@@ -44,7 +44,15 @@ instructions: |
   https://www.prnewswire.com/search/news/?keyword="<name>", GlobeNewswire, Business Wire; release
   images are on mma.prnewswire.com) or from its own press-release PDF (pdfimages). For a merged
   organization whose site now shows the acquirer, use its own logo from a press release dated before
-  the merger. Tiny credit unions with no website may have no public logo; list them in your message.
+  the merger. Press-release PDFs are the most reliable fallback: WebSearch "<name> press release"
+  and look for PDFs on the organization's own media host (e.g. Suncoast's are on edge.sitecorecloud.io);
+  download one with curl, run pdfimages -png -f 1 -l 1, and view the letterhead image. A vendor's release
+  on PR Newswire usually carries the vendor's logo, not the credit union's, so check before using it.
+  If the only mark is a lockup of the logo plus "25 years" or similar, separated by a divider line,
+  crop the organization's own mark out of it. Never use online-banking product marks (e.g. "It's Me
+  247", "My247"), anniversary badges, signatures or CEO photos. Once a site has refused you (403),
+  don't request it again with different headers. Tiny credit unions with no website may have no
+  public logo; list them in your message.
   Sizes: never take assets, members or locations from news stories.
   - (sizes.py does all of the following.) Credit unions: assets and members from NCUA's details record,
     https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/<charter>

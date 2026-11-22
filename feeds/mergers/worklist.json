@@ -1,6 +1,6 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-21T18:57:09-05:00",
+  "generated": "2026-11-21T19:02:52-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [],
@@ -1101,11 +1101,6 @@
       "website": "https://www.sjpfcu.org/"
     },
     {
-      "slug": "suncoast",
-      "name": "Suncoast Credit Union",
-      "website": "https://www.suncoast.com"
-    },
-    {
       "slug": "texas-trust",
       "name": "Texas Trust Credit Union",
       "website": "https://www.texastrustcu.org"
@@ -1114,11 +1109,6 @@
       "slug": "true-sky",
       "name": "True Sky Federal Credit Union",
       "website": "https://www.TrueSkyCU.org"
-    },
-    {
-      "slug": "willamette-valley-bank",
-      "name": "Willamette Valley Bank",
-      "website": "https://www.willamettevalleybank.com"
     }
   ],
   "logo_reviews": [],

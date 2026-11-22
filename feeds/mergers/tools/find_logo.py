@@ -24,7 +24,7 @@ def ncua_web(ch):
         return d.get("creditUnionWebsite")
     except Exception:
         return None
-BAD = re.compile(r"footer|ncua|equal|housing|award|badge|cdfi|social|facebook|instagram|linkedin|twitter|youtube|app-?store|google-?play|bbb|newsweek|forbes|best-|hero|banner|promo|icon-|favicon|sprite|loader|spinner|chat", re.I)
+BAD = re.compile(r"\d+-?years|anniversar|247|online-?banking|footer|ncua|equal|housing|award|badge|cdfi|social|facebook|instagram|linkedin|twitter|youtube|app-?store|google-?play|bbb|newsweek|forbes|best-|hero|banner|promo|icon-|favicon|sprite|loader|spinner|chat", re.I)
 def get(url, n=1500000):
     r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=25)
     return r.read(n), r.geturl()
