@@ -1,6 +1,6 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-22T06:40:58-05:00",
+  "generated": "2026-11-22T07:17:09-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [],
@@ -424,53 +424,7 @@
   ],
   "open_items": 16,
   "organizations_needed": [],
-  "logos_missing": [
-    {
-      "slug": "american-eagle",
-      "name": "American Eagle Financial Credit Union",
-      "website": "https://www.americaneagle.org"
-    },
-    {
-      "slug": "financial-center",
-      "name": "Financial Center First Credit Union",
-      "website": "https://www.fcfcu.com/"
-    },
-    {
-      "slug": "first-city-cu",
-      "name": "First City Credit Union",
-      "website": "https://www.Firstcitycu.org"
-    },
-    {
-      "slug": "forum-cu",
-      "name": "FORUM Credit Union",
-      "website": "https://www.forumcu.com"
-    },
-    {
-      "slug": "plus-cu",
-      "name": "Plus Credit Union",
-      "website": ""
-    },
-    {
-      "slug": "redwood-cu",
-      "name": "Redwood Credit Union",
-      "website": "https://www.redwoodcu.org"
-    },
-    {
-      "slug": "united-fcu",
-      "name": "United Federal Credit Union",
-      "website": "https://www.unitedfcu.com"
-    },
-    {
-      "slug": "vystar",
-      "name": "VyStar Credit Union",
-      "website": "https://www.vystarcu.org"
-    },
-    {
-      "slug": "whitefish-cu",
-      "name": "Whitefish Credit Union Association",
-      "website": "https://www.whitefishcu.com"
-    }
-  ],
+  "logos_missing": [],
   "logo_reviews": [
     {
       "slug": "peoples-independent-bank",
