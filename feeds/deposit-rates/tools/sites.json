@@ -1,10 +1,9 @@
 {
   "360-fcu": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "360 Federal Credit Union",
-    "note": "No rate link on the homepage; find the rates page",
     "pages": [
-      "https://www.360fcu.org/"
+      "https://www.360fcu.org/savings-accounts/"
     ]
   },
   "abe-fcu": {
@@ -46,9 +45,8 @@
     ]
   },
   "asa-fcu": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "ASA Federal Credit Union",
-    "note": "Rates load by script",
     "pages": [
       "https://asafcu.com/share-rates"
     ]
@@ -86,7 +84,7 @@
   "centreville-bank": {
     "method": "webfetch",
     "name": "Centreville Bank",
-    "note": "Rates load by script",
+    "note": "Pages time out in the browser (chat widget keeps loading); try WebFetch or a longer wait",
     "pages": [
       "https://www.centrevillebank.com/rates"
     ]
@@ -110,12 +108,11 @@
     ]
   },
   "chelsea-groton": {
-    "method": "webfetch",
+    "method": "pdf",
     "name": "Chelsea Groton Bank",
-    "note": "Rates load by script",
+    "note": "Rate sheet linked from chelseagroton.com/rates ('Deposit & Savings Rates'); consumer savings page is an image: render it with pdftoppm and read it",
     "pages": [
-      "https://chelseagroton.com/banking/personal-banking/saving/cds-iras/",
-      "https://chelseagroton.com/banking/personal-banking/saving/savings-money-markets/"
+      "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf"
     ]
   },
   "citizens": {
@@ -177,9 +174,8 @@
     "pages": []
   },
   "ct-state-police-cu": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "Connecticut State Police Credit Union",
-    "note": "Rates load by script",
     "pages": [
       "https://www.cspcu.org/Rates/Savings-Rates",
       "https://www.cspcu.org/Rates/Share-IRA-CDs"
@@ -220,7 +216,7 @@
   "essex-bank": {
     "method": "webfetch",
     "name": "Essex Bank",
-    "note": "Rates load by script",
+    "note": "Browser render shows no rates on current-rates or product pages (tabs/accordions); try clicking the rate tabs",
     "pages": [
       "https://www.essex.bank/learn/current-rates"
     ]
@@ -254,14 +250,11 @@
     ]
   },
   "jewett-city-savings": {
-    "method": "curl",
+    "method": "browser",
     "name": "Jewett City Savings Bank",
-    "note": "CD page is read by curl; savings and money market load by script on current-rates",
     "pages": [
-      "https://www.jcsbank.com/cd-ira-rates/"
-    ],
-    "webfetch_pages": [
-      "https://www.jcsbank.com/current-rates/"
+      "https://www.jcsbank.com/cd-ira-rates/",
+      "https://www.jcsbank.com/deposit-rates/"
     ]
   },
   "keybank": {
@@ -368,9 +361,8 @@
     ]
   },
   "peoplesbank": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "PeoplesBank",
-    "note": "Rates load by script",
     "pages": [
       "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
     ]
@@ -378,7 +370,7 @@
   "polam-fcu": {
     "method": "webfetch",
     "name": "Polam Federal Credit Union",
-    "note": "Rates load by script",
+    "note": "Deposit rates are not on /rates (loans); /personal/savings and /personal/cds show none when rendered",
     "pages": [
       "https://polamfcu.com/rates/"
     ]
@@ -428,9 +420,8 @@
     ]
   },
   "selfreliance-fcu": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "Selfreliance Federal Credit Union",
-    "note": "Rates load by script",
     "pages": [
       "https://www.selfreliance.com/join-about-us/all-rates"
     ]
@@ -453,9 +444,8 @@
     ]
   },
   "thomaston-savings": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "Thomaston Savings Bank",
-    "note": "Rates load by script",
     "pages": [
       "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates"
     ]
@@ -488,11 +478,13 @@
     "pages": []
   },
   "union-savings-bank": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "Union Savings Bank",
-    "note": "Find the rates page",
+    "note": "Savings/money market tables render without clear product labels; CDs are clear",
     "pages": [
-      "https://www.unionsavings.com/"
+      "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+      "https://www.unionsavings.com/savings-account-ct/",
+      "https://www.unionsavings.com/personal-banking/money-market/"
     ]
   },
   "washington-trust": {
@@ -535,7 +527,7 @@
   "westfield-bank": {
     "method": "webfetch",
     "name": "Westfield Bank",
-    "note": "Rates load by script",
+    "note": "Browser render shows no rates on /personal/rates or the CD page",
     "pages": [
       "https://www.westfieldbank.com/personal/deposit-rates"
     ]

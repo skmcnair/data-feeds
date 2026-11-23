@@ -21,7 +21,8 @@ instructions: |
   - Special rows: any promotional, limited-time, new-money or relationship (checking-required) offer,
     for any product and term. An odd-term CD listed with regular CDs (e.g. 7, 11, 15, 19 mo) is a
     Special only when it is marketed as a special/limited-time offer or pays more than every standard
-    term at that institution; otherwise leave it out. If two specials share a product and term, keep
+    term at that institution; otherwise leave it out. Terms over 60 months are left out (name them in
+    notes). If two specials share a product and term, keep
     the better one and name the other in conditions.
   - Standard savings and money market rows: the best rate available at each tier without any other
     relationship or promotion, across the institution's consumer savings (or money market) products;
@@ -54,8 +55,10 @@ instructions: |
   fields of membership. Correct it when a credit union's own site says otherwise.
 
   DAILY PROCEDURE (in place of the news steps of docs/REVIEW.md section 3, steps 1-3):
+  0. pip install --break-system-packages -q playwright (for "browser" sites; Chrome is at
+     /usr/bin/google-chrome) and make sure pdftotext/pdftoppm work (apt-get install -y poppler-utils).
   1. python3 feeds/deposit-rates/tools/rate_pages.py fetch
-     It reads every "curl" institution's pages and prints CHANGED / NEW / SAME / NO-RATES / FAILED,
+     It reads every "curl", "pdf" and "browser" institution's pages and prints CHANGED / NEW / SAME / NO-RATES / FAILED,
      and WEBFETCH for sites that need WebFetch. Text goes to /tmp/rates/<slug>.txt (rate lines with
      context) and /tmp/rates/<slug>.full.txt (whole page).
   2. CHANGED or NEW: read the text and compare EVERY row of that institution (tracked ids start with
@@ -65,9 +68,12 @@ instructions: |
   3. recheck list (worklist.json): group the ids by institution and fully compare each of those
      institutions the same way, even when its page is SAME. List unchanged ids in rechecked.
   4. WEBFETCH institutions with no rows yet: load up to 10 per run, most local branches first. WebFetch
-     the pages in sites.json; if no rates show, WebSearch "<name> CD rates" / "<name> savings rates"
+     the pages in sites.json, or render them in the headless browser (a page that shows rates only
+     after a script runs); look for a rate-sheet PDF linked from the institution's own Rates page
+     (Chelsea Groton's is one). Never use the browser on a site that refused curl or WebFetch (a bot
+     check). If no rates show, WebSearch "<name> CD rates" / "<name> savings rates"
      for its own rate page or rate-sheet PDF and WebFetch that; if the page turns out to be readable
-     with curl, add it to sites.json with method curl. Only then use an aggregator (see SOURCES). If
+     with curl, as a PDF or in the browser, add it to sites.json with that method. Only then use an aggregator (see SOURCES). If
      nothing is published anywhere, add no rows, set the site's note to "no published rates found
      <date>" and say so in the message. WEBFETCH institutions that already have rows are re-read when
      their ids come up in the recheck list.

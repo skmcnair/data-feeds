@@ -1,4 +1,8 @@
 {
+  "https://asafcu.com/share-rates": {
+    "fingerprint": "7cf667f5ce0dcb3c",
+    "reviewed": "2026-11-23"
+  },
   "https://ascend.bank/personal/bank/deposit-rates/": {
     "fingerprint": "94b33c879c057d0a",
     "reviewed": "2026-11-23"
@@ -13,6 +17,10 @@
   },
   "https://charteroak.org/personal-banking/savings-accounts/": {
     "fingerprint": "243b8fb07fbfbbcf",
+    "reviewed": "2026-11-23"
+  },
+  "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf": {
+    "fingerprint": "d8c669f61bff1298",
     "reviewed": "2026-11-23"
   },
   "https://ionbank.com/rates/deposit-rates/": {
@@ -55,12 +63,20 @@
     "fingerprint": "855da46e9bb6b9db",
     "reviewed": "2026-11-23"
   },
+  "https://www.360fcu.org/savings-accounts/": {
+    "fingerprint": "a0dfe484a659b89e",
+    "reviewed": "2026-11-23"
+  },
   "https://www.abefcu.org/resources/rates": {
     "fingerprint": "ea46f758e3b093ef",
     "reviewed": "2026-11-23"
   },
   "https://www.achievefinancialcu.com/Accounts/Deposit-Rates": {
     "fingerprint": "18fa00db15b3efec",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates": {
+    "fingerprint": "9becdf2bc55cbed0",
     "reviewed": "2026-11-23"
   },
   "https://www.banknewport.com/rates": {
@@ -73,6 +89,14 @@
   },
   "https://www.csecreditunion.com/Rates": {
     "fingerprint": "05052025a73a3106",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.cspcu.org/Rates/Savings-Rates": {
+    "fingerprint": "1fe196f20d7cafc5",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.cspcu.org/Rates/Share-IRA-CDs": {
+    "fingerprint": "4f8278b9b45a0cba",
     "reviewed": "2026-11-23"
   },
   "https://www.ctffcu.org/current-rates": {
@@ -104,7 +128,11 @@
     "reviewed": "2026-11-23"
   },
   "https://www.jcsbank.com/cd-ira-rates/": {
-    "fingerprint": "3cc2d955aabb4ec5",
+    "fingerprint": "ae1e6bbae489bc74",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.jcsbank.com/deposit-rates/": {
+    "fingerprint": "78096cdf5525d4b7",
     "reviewed": "2026-11-23"
   },
   "https://www.liberty-bank.com/personal/rates": {
@@ -135,6 +163,10 @@
     "fingerprint": "2eb6bcbc9e5501bd",
     "reviewed": "2026-11-23"
   },
+  "https://www.selfreliance.com/join-about-us/all-rates": {
+    "fingerprint": "5257f98432e2daa1",
+    "reviewed": "2026-11-23"
+  },
   "https://www.staffordsavingsbank.com/Rates/Certificates-of-Deposit": {
     "fingerprint": "002faa2cf78ce608",
     "reviewed": "2026-11-23"
@@ -143,12 +175,28 @@
     "fingerprint": "b3a820b786803904",
     "reviewed": "2026-11-23"
   },
+  "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates": {
+    "fingerprint": "d154bf87b8fcdfec",
+    "reviewed": "2026-11-23"
+  },
   "https://www.torringtonsavings.bank/rates/": {
     "fingerprint": "e9622712a20c0dec",
     "reviewed": "2026-11-23"
   },
   "https://www.tvtfcu.org/accounts/savings-rates": {
     "fingerprint": "6efece61b3e374fd",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.unionsavings.com/personal-banking/money-market/": {
+    "fingerprint": "2885916adc65b926",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/": {
+    "fingerprint": "097d30404e06fb41",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.unionsavings.com/savings-account-ct/": {
+    "fingerprint": "fbff9eaeb6ea559a",
     "reviewed": "2026-11-23"
   },
   "https://www.washtrust.com/personal/deposit-rates": {
