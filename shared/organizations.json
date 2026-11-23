@@ -848,8 +848,7 @@
         "added": "2026-11-22",
         "checked": "2026-11-22",
         "previous": [],
-        "ignored": [],
-        "check_requested": "2026-11-22"
+        "ignored": []
       }
     },
     "interra": {
@@ -3919,6 +3918,50 @@
         "pinned": false,
         "added": "2026-11-22",
         "checked": "2026-11-22",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "great-erie-fcu": {
+      "name": "Great Erie Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Great Erie FCU",
+      "kind": "credit_union",
+      "charter": "7925",
+      "website": "https://www.greateriefcu.com",
+      "state": "NY",
+      "logo": {
+        "file": "great-erie-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.greateriefcu.com/media/5i4d3vok/erie-logo-2x.png",
+        "fingerprint": "00468046d6d1d8ddc918ca934caa45aa55aa4daa061210011c620e66af64b4a6",
+        "aspect": 5.064,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "verve": {
+      "name": "Verve, a Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Verve",
+      "kind": "credit_union",
+      "charter": "66777",
+      "website": "https://www.verveacu.com",
+      "state": "WI",
+      "logo": {
+        "file": "verve-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://verveacu.com/images/logo.svg",
+        "fingerprint": "6a8a6b8e791e65596659f45b986692609665942598269a260000912406e406ca",
+        "aspect": 3.252,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
         "previous": [],
         "ignored": []
       }
