@@ -40,9 +40,7 @@
     "reviewed": 94,
     "rejected": []
   },
-  "last_collect": "2026-11-23T11:21:32-05:00",
-  "last_collect_result": "partial",
-  "collect_errors": [
-    "CU Circle: https://rss.app/feeds/jXHvxXgW9PzMNEUr.xml: HTTP Error 402: Payment Required"
-  ]
+  "last_collect": "2026-11-23T14:16:07-05:00",
+  "last_collect_result": "ok",
+  "collect_errors": []
 }

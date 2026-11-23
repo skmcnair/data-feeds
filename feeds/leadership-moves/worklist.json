@@ -1,9 +1,36 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-23T13:36:46-05:00",
+  "generated": "2026-11-23T14:16:15-05:00",
   "trial": true,
   "lookback_days": 30,
   "pending_inbox": [
+    {
+      "id": "a280969e7259",
+      "title": "ABNB Named The 2026 Civic 50 Hampton Roads Award Top Company for Medium-Sized Businesses - Credit Union Daily",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU19zVnZJcUY2U29BdGRaUmNaMHM1SGhJOGVYbVU3QjE3bkZuRVZLN2hwQzlERElMVklwR2NTMmpZTDlxUnJNdUNXNnVYOUprMGp6QlpnalpmM0V3MHhYN2dtRFM2QnRyVEE3QkNZYTVVZGtRT1dEekhVQUctYzA0cGt1cEFBTzFmcHdqellSSkZGYXhtVFZpclV2UnRBVkk5ZlJXWTlmbko5dERKX2ZZZHR3",
+      "source": "Google News - CU Times and CU Today people",
+      "published": "2026-11-23T13:23:56-05:00",
+      "found": "2026-11-23T14:16:07-05:00",
+      "summary": "ABNB Named The 2026 Civic 50 Hampton Roads Award Top Company for Medium-Sized Businesses Credit Union Daily"
+    },
+    {
+      "id": "46cd56bfed4e",
+      "title": "ABNB Named The 2026 Civic 50 Hampton Roads Award Top Company for Medium-Sized Businesses",
+      "url": "https://thecudaily.com/abnb-named-the-2026-civic-50-hampton-roads-award-top-company-for-medium-sized-businesses/",
+      "source": "Credit Union Daily",
+      "published": "2026-11-23T13:14:13-05:00",
+      "found": "2026-11-23T14:16:07-05:00",
+      "summary": "CHESAPEAKE, Va. - ABNB Federal Credit Union (ABNB) has been named the 2026 Civic 50 Hampton Roads Award top company for Medium-Sized Businesses, recognizing the organization as one of the [...] The post ABNB Named The 2026 Civic 50 Hampton "
+    },
+    {
+      "id": "cfc8393a7b2b",
+      "title": "Mid-Atlantic FCU Serves as Presenting Sponsor of the 2026 Montgomery College Scholarship Luncheon",
+      "url": "https://thecudaily.com/mid-atlantic-fcu-serves-as-presenting-sponsor-of-the-2026-montgomery-college-scholarship-luncheon/",
+      "source": "Credit Union Daily",
+      "published": "2026-11-23T12:26:34-05:00",
+      "found": "2026-11-23T14:16:07-05:00",
+      "summary": "GERMANTOWN, Md. - Mid-Atlantic Federal Credit Union served as the presenting sponsor of the 2026 Montgomery College Scholarship Luncheon, held at the Hyatt Regency Bethesda. The credit union proudly joined Montgomery College [...] The post "
+    },
     {
       "id": "e3b5d07b2148",
       "title": "Osaic Names Michael Desmarais as Chief Human Resources Officer - Business Wire",
@@ -93,6 +120,15 @@
       "published": "2026-11-19T09:08:00-05:00",
       "found": "2026-11-23T11:21:32-05:00",
       "summary": "$2.5 Billion Copper Financial Selects Osaic Institutions to Support Growth Across Credit Union Wealth Management Programs Yahoo Finance"
+    },
+    {
+      "id": "fa69c937feb3",
+      "title": "Elite Wealth Group and Harbor Rock Wealth Management Join Osaic With $267 Million in Client Assets - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUtoRFdoaTllME4waFlaRUJIMnBhMVlCY3JYRGNwN0VXWUcxTTNjVTIyd2FSSnV5STQxTmdpT2JGQVFHdWtJZUR0aVVjQWEzNHczZHNLY0JnRWNhLWVJcEFXZ1BpdS01Z1o0MkdwdGpyeTRtRGkxTGQwVHhOTUpObXFBZnBMSnVfRVNNSjhjMm8wTTNZTDdXT01ZeTI1RWtxbnpWcG9HZ2Z3Wll0MHpkNnpYVjNFRHA1ZUNFdUlHa0VQSWxLdGFIRHgxYi1saWdKNW4xYXVHZ1llUTB4WXFoQTc0aEJZZlo0RkJ1LUxR",
+      "source": "Google News - press wires",
+      "published": "2026-11-18T09:08:00-05:00",
+      "found": "2026-11-23T14:16:07-05:00",
+      "summary": "Elite Wealth Group and Harbor Rock Wealth Management Join Osaic With $267 Million in Client Assets Business Wire"
     },
     {
       "id": "59a9dbffa1c3",
