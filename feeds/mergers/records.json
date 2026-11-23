@@ -154,7 +154,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "dcfcu",
+        "partner": "evermore-bank"
+      }
     },
     {
       "id": "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
@@ -344,7 +348,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "sunmark",
+        "partner": "directors-choice-cu"
+      }
     },
     {
       "id": "2026-11-10-max-credit-union-first-financial-bank",
@@ -526,7 +534,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "max-cu",
+        "partner": "first-financial-bank"
+      }
     },
     {
       "id": "2026-10-28-selco-community-credit-union-numerica-credit-union",
@@ -719,7 +731,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "selco",
+        "partner": "numerica"
+      }
     },
     {
       "id": "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
@@ -857,7 +873,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "financial-plus",
+        "partner": "monroe-community-cu"
+      }
     },
     {
       "id": "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
@@ -1034,7 +1054,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "penair",
+        "partner": "fort-mcclellan-cu"
+      }
     },
     {
       "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
@@ -1184,7 +1208,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "dfcu-financial",
+        "partner": "gulfside-bank"
+      }
     },
     {
       "id": "undated-communityamerica-credit-union-westreet-credit-union",
@@ -1420,7 +1448,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "communityamerica",
+        "partner": "westreet-cu"
+      }
     },
     {
       "id": "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
@@ -1555,7 +1587,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "msufcu",
+        "partner": "ufcu"
+      }
     },
     {
       "id": "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
@@ -1714,7 +1750,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "first-responders-cu",
+        "partner": "lynn-firemen-s-fcu"
+      }
     },
     {
       "id": "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
@@ -1946,7 +1986,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "on-tap",
+        "partner": "sky-fcu"
+      }
     },
     {
       "id": "2026-10-01-consumers-credit-union-scott-credit-union",
@@ -2096,11 +2140,27 @@
           "sources": [
             "https://www.scu.org/ccu-merger/"
           ]
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Linked to the Illinois Consumers Credit Union (charter 68588); a Michigan credit union of the same name had taken over its logo",
+          "changes": [
+            {
+              "field": "acquirer organization",
+              "old": null,
+              "new": "consumers-cu"
+            }
+          ],
+          "sources": []
         }
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "partner": "scott-cu",
+        "acquirer": "consumers-cu"
+      }
     },
     {
       "id": "undated-streator-onized-credit-union-anco-community-credit-union",
@@ -2330,7 +2390,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "streator-onized-cu",
+        "partner": "anco-community-cu"
+      }
     },
     {
       "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
@@ -2513,7 +2577,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "gulf-winds",
+        "partner": "peoples-exchange-bank"
+      }
     },
     {
       "id": "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
@@ -2627,7 +2695,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "sierra-central",
+        "partner": "first-u-s"
+      }
     },
     {
       "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
@@ -2802,7 +2874,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "gulf-winds",
+        "partner": "madison-county-community-bank"
+      }
     },
     {
       "id": "2026-08-24-america-first-federal-credit-union-greater-nevada-credit-union",
@@ -2930,7 +3006,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "america-first",
+        "partner": "greater-nevada"
+      }
     },
     {
       "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
@@ -3108,7 +3188,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "gesa",
+        "partner": "willamette-valley-bank"
+      }
     },
     {
       "id": "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
@@ -3345,7 +3429,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "nutmeg",
+        "partner": "new-haven-teachers-fcu"
+      }
     },
     {
       "id": "undated-baxter-credit-union-healthcare-associates-credit-union",
@@ -3607,7 +3695,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "bcu",
+        "partner": "healthcare-associates-cu"
+      }
     },
     {
       "id": "undated-texas-trust-credit-union-my-credit-union",
@@ -3790,7 +3882,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "texas-trust",
+        "partner": "my-cu"
+      }
     },
     {
       "id": "2026-05-15-loc-credit-union-advantage-one-credit-union",
@@ -3980,7 +4076,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "loc-cu",
+        "partner": "advantage-one"
+      }
     },
     {
       "id": "2026-05-13-michigan-state-university-federal-credit-union-gold-coast-bank",
@@ -4073,7 +4173,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "msufcu",
+        "partner": "gold-coast-bank"
+      }
     },
     {
       "id": "2026-05-05-team-one-credit-union-case-credit-union",
@@ -4297,7 +4401,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "team-one",
+        "partner": "case-cu"
+      }
     },
     {
       "id": "2026-04-29-interra-credit-union-the-hicksville-bank",
@@ -4438,7 +4546,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "interra",
+        "partner": "hicksville-bank"
+      }
     },
     {
       "id": "undated-ascend-federal-credit-union-lge-community-credit-union",
@@ -4715,7 +4827,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "ascend",
+        "partner": "lge"
+      }
     },
     {
       "id": "undated-truliant-federal-credit-union-piedmont-advantage-credit-union",
@@ -4920,7 +5036,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "truliant",
+        "partner": "piedmont-advantage-cu"
+      }
     },
     {
       "id": "2026-04-02-metro-credit-union-members-plus-credit-union",
@@ -5145,7 +5265,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "metro-cu",
+        "partner": "members-plus-cu"
+      }
     },
     {
       "id": "2026-03-10-landmark-credit-union-american-national-bank-fox-cities",
@@ -5324,7 +5448,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "landmark-cu",
+        "partner": "anb-fox-cities"
+      }
     },
     {
       "id": "2026-02-18-alabama-one-credit-union-peoples-independent-bank",
@@ -5549,7 +5677,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "alabama-one",
+        "partner": "peoples-independent-bank"
+      }
     },
     {
       "id": "2026-02-13-suncoast-credit-union-launch-credit-union",
@@ -5717,7 +5849,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "suncoast",
+        "partner": "launch-cu"
+      }
     },
     {
       "id": "2026-01-29-randolph-brooks-federal-credit-union-true-sky-federal-credit-union",
@@ -5912,7 +6048,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "rbfcu",
+        "partner": "true-sky"
+      }
     },
     {
       "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
@@ -6077,7 +6217,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "zeal",
+        "partner": "miners-state-bank"
+      }
     },
     {
       "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
@@ -6309,7 +6453,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "becu",
+        "partner": "safe-cu"
+      }
     },
     {
       "id": "2025-11-17-gecu-federal-credit-union-bank-of-the-southwest",
@@ -6493,7 +6641,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "gecu",
+        "partner": "bank-of-the-southwest"
+      }
     },
     {
       "id": "2025-11-05-fortera-federal-credit-union-vanderbilt-credit-union",
@@ -6673,7 +6825,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "fortera",
+        "partner": "vanderbilt-cu"
+      }
     },
     {
       "id": "2025-10-22-texas-dow-employees-credit-union-smart-financial-credit-union",
@@ -6861,7 +7017,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "tdecu",
+        "partner": "smart-financial"
+      }
     },
     {
       "id": "undated-credit-union-1-illinois-valley-credit-union",
@@ -6955,7 +7115,11 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "cu1",
+        "partner": "illinois-valley-cu"
+      }
     },
     {
       "id": "undated-paho-who-federal-credit-union-hema-federal-credit-union",
@@ -7051,7 +7215,11 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "paho-who-fcu",
+        "partner": "hema-fcu"
+      }
     },
     {
       "id": "undated-guardian-credit-union-solutions-first-federal-credit-union",
@@ -7145,7 +7313,11 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "guardian-cu",
+        "partner": "solutions-first-fcu"
+      }
     },
     {
       "id": "undated-access-of-louisiana-federal-credit-union-gca-federal-credit-union",
@@ -7234,7 +7406,11 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "access-of-louisiana-fcu",
+        "partner": "gca-fcu"
+      }
     },
     {
       "id": "undated-home-federal-credit-union-cape-federal-credit-union",
@@ -7318,7 +7494,11 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "home-fcu",
+        "partner": "cape-fcu"
+      }
     },
     {
       "id": "undated-west-aircomm-federal-credit-union-southwest-communities-federal-credit-union",
@@ -7413,7 +7593,11 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "west-aircomm-fcu",
+        "partner": "southwest-communities-fcu"
+      }
     },
     {
       "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
@@ -7605,7 +7789,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "cu1",
+        "partner": "gulf-coast-fcu"
+      }
     },
     {
       "id": "undated-credit-union-1-first-class-community-credit-union",
@@ -7775,7 +7963,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "cu1",
+        "partner": "first-class-community-cu"
+      }
     },
     {
       "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
@@ -7950,7 +8142,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "magnolia-fcu",
+        "partner": "city-fcu"
+      }
     },
     {
       "id": "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
@@ -8111,7 +8307,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "allegent",
+        "partner": "penn-hills-municipal-fcu"
+      }
     },
     {
       "id": "undated-bp-federal-credit-union-southern-star-credit-union",
@@ -8261,7 +8461,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "bp-fcu",
+        "partner": "southern-star-cu"
+      }
     },
     {
       "id": "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
@@ -8409,7 +8613,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "sterling-fcu",
+        "partner": "fort-morgan-schools-fcu"
+      }
     },
     {
       "id": "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
@@ -8584,7 +8792,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "nuvision",
+        "partner": "dow-great-western-cu"
+      }
     },
     {
       "id": "undated-sharefax-credit-union-members-trust-federal-credit-union",
@@ -8734,7 +8946,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "sharefax",
+        "partner": "members-trust-fcu"
+      }
     },
     {
       "id": "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
@@ -8884,7 +9100,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "agriculture-fcu",
+        "partner": "nrcs-fcu"
+      }
     },
     {
       "id": "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
@@ -9034,7 +9254,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "healthcare-systems-fcu",
+        "partner": "summit-hampton-roads-fcu"
+      }
     },
     {
       "id": "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
@@ -9190,7 +9414,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "cy-fair-fcu",
+        "partner": "baker-hughes-fcu"
+      }
     },
     {
       "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
@@ -9346,7 +9574,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "norstar",
+        "partner": "healthcare-plus-fcu"
+      }
     },
     {
       "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
@@ -9496,7 +9728,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "daniels-sheridan-fcu",
+        "partner": "fort-peck-community-fcu"
+      }
     },
     {
       "id": "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
@@ -9657,7 +9893,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "first-south-financial",
+        "partner": "delta-refining-fcu"
+      }
     },
     {
       "id": "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
@@ -9818,7 +10058,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "kimberly-clark-cu",
+        "partner": "west-tennessee-cu"
+      }
     },
     {
       "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
@@ -9968,7 +10212,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "f-and-a-fcu",
+        "partner": "ontario-public-employees-fcu"
+      }
     },
     {
       "id": "undated-firefighters-credit-union-p-and-s-credit-union",
@@ -10123,7 +10371,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "firefighters-cu",
+        "partner": "p-and-s-cu"
+      }
     },
     {
       "id": "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
@@ -10289,7 +10541,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "hope-fcu",
+        "partner": "nrs-community-development-fcu"
+      }
     },
     {
       "id": "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
@@ -10444,7 +10700,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "sjp-fcu",
+        "partner": "dunlop-employees-fcu"
+      }
     },
     {
       "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
@@ -10625,7 +10885,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "kemba",
+        "partner": "cincinnati-interagency-fcu"
+      }
     },
     {
       "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
@@ -10780,7 +11044,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "tech-cu",
+        "partner": "great-horizons-fcu"
+      }
     },
     {
       "id": "undated-robins-financial-credit-union-harris-employees-credit-union",
@@ -10935,7 +11203,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "robins-financial",
+        "partner": "harris-employees-cu"
+      }
     },
     {
       "id": "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
@@ -11082,7 +11354,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "port-washington-fcu",
+        "partner": "great-neck-school-employees-fcu"
+      }
     },
     {
       "id": "undated-caprock-federal-credit-union-plains-federal-credit-union",
@@ -11315,7 +11591,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "caprock-fcu",
+        "partner": "plains-fcu"
+      }
     },
     {
       "id": "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
@@ -11503,7 +11783,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "hoosier-hills",
+        "partner": "martin-county-co-op-cu"
+      }
     },
     {
       "id": "undated-centuryfirst-federal-credit-union-water-s-edge-federal-credit-union",
@@ -11685,7 +11969,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "centuryfirst",
+        "partner": "water-s-edge-fcu"
+      }
     },
     {
       "id": "undated-garden-savings-federal-credit-union-gaf-linden-employees-federal-credit-union",
@@ -11842,7 +12130,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "garden-savings-fcu",
+        "partner": "gaf-linden-employees-fcu"
+      }
     },
     {
       "id": "undated-university-of-kentucky-federal-credit-union-bluegrass-community-federal-credit-uni",
@@ -12066,7 +12358,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "acquirer": "ukfcu",
+        "partner": "bluegrass-community-fcu"
+      }
     },
     {
       "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
@@ -12274,7 +12570,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "american-united-fcu",
+        "partner": "g-and-r-fcu"
+      }
     },
     {
       "id": "undated-park-side-credit-union-lincoln-county-credit-union",
@@ -12431,7 +12731,11 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-21",
+      "org_slugs": {
+        "acquirer": "park-side",
+        "partner": "lincoln-county-cu"
+      }
     }
   ]
 }

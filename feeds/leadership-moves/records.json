@@ -67,7 +67,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "arsenal-cu"
+      }
     },
     {
       "id": "2026-11-19-duane-wilcoxson-lake-trust-credit-union-hired",
@@ -130,7 +133,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "lake-trust"
+      }
     },
     {
       "id": "2026-11-19-jim-maskell-united-federal-credit-union-hired",
@@ -193,7 +199,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "united-fcu"
+      }
     },
     {
       "id": "2026-11-19-earvin-pugh-lafcu-hired",
@@ -256,7 +265,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "lafcu"
+      }
     },
     {
       "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
@@ -325,7 +337,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "credit-union-one"
+      }
     },
     {
       "id": "2026-11-19-brenda-arndt-rev-federal-credit-union-hired",
@@ -388,7 +403,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "rev-fcu"
+      }
     },
     {
       "id": "2026-11-19-william-mcsweeney-journey-federal-credit-union-promoted",
@@ -450,7 +468,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "journey-fcu"
+      }
     },
     {
       "id": "2026-11-18-gina-o-neil-jeanne-d-arc-credit-union-hired",
@@ -512,7 +533,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "jeanne-d-arc-cu"
+      }
     },
     {
       "id": "2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired",
@@ -575,7 +599,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "tdecu"
+      }
     },
     {
       "id": "2026-11-18-christopher-repetto-usalliance-federal-credit-union-hired",
@@ -636,7 +663,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "usalliance"
+      }
     },
     {
       "id": "2026-11-18-amit-parmar-navy-federal-credit-union-hired",
@@ -698,7 +728,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "navy-federal"
+      }
     },
     {
       "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
@@ -781,7 +814,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "tba-cu"
+      }
     },
     {
       "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
@@ -843,7 +879,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "tba-cu"
+      }
     },
     {
       "id": "2026-11-17-jeffrey-yoder-mid-oregon-credit-union-hired",
@@ -906,7 +945,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "mid-oregon-cu"
+      }
     },
     {
       "id": "2026-11-17-sarah-hix-mid-oregon-credit-union-promoted",
@@ -967,7 +1009,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "mid-oregon-cu"
+      }
     },
     {
       "id": "2026-11-17-andy-tarantino-interra-credit-union-hired",
@@ -1029,7 +1074,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "interra"
+      }
     },
     {
       "id": "2026-11-17-robert-dennis-mid-oregon-credit-union-promoted",
@@ -1091,7 +1139,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "mid-oregon-cu"
+      }
     },
     {
       "id": "2026-11-16-meredith-innes-redwood-credit-union-hired",
@@ -1159,7 +1210,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "redwood-cu"
+      }
     },
     {
       "id": "2026-11-16-alannah-hernandez-aurora-federal-credit-union-hired",
@@ -1222,7 +1276,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "aurora-fcu"
+      }
     },
     {
       "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
@@ -1286,7 +1343,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "point-west-cu"
+      }
     },
     {
       "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
@@ -1349,7 +1409,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "point-west-cu"
+      }
     },
     {
       "id": "2026-11-12-sean-rodman-fremont-federal-credit-union-hired",
@@ -1410,7 +1473,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "fremont-fcu"
+      }
     },
     {
       "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
@@ -1478,7 +1544,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "iucu"
+      }
     },
     {
       "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
@@ -1547,7 +1616,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "iucu"
+      }
     },
     {
       "id": "2026-11-10-deena-lenertz-united-heritage-credit-union-promoted",
@@ -1608,7 +1680,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "united-heritage-cu"
+      }
     },
     {
       "id": "2026-11-10-stacy-koos-peak-credit-union-hired",
@@ -1670,7 +1745,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "peak-cu"
+      }
     },
     {
       "id": "2026-11-10-abbey-elkin-park-view-federal-credit-union-hired",
@@ -1733,7 +1811,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "park-view-fcu"
+      }
     },
     {
       "id": "2026-11-09-dustin-montoya-chartway-federal-credit-union-hired",
@@ -1801,7 +1882,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "chartway"
+      }
     },
     {
       "id": "2026-11-09-matthew-saunig-american-eagle-financial-credit-union-hired",
@@ -1863,7 +1947,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "american-eagle"
+      }
     },
     {
       "id": "2026-11-09-dele-shell-american-eagle-financial-credit-union-hired",
@@ -1924,7 +2011,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "american-eagle"
+      }
     },
     {
       "id": "2026-11-09-pamela-villanova-american-eagle-financial-credit-union-promoted",
@@ -1985,7 +2075,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "american-eagle"
+      }
     },
     {
       "id": "2026-11-09-ann-riley-american-eagle-financial-credit-union-promoted",
@@ -2046,7 +2139,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "american-eagle"
+      }
     },
     {
       "id": "2026-11-09-leann-kaczynski-texas-dow-employees-credit-union-hired",
@@ -2109,7 +2205,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "tdecu"
+      }
     },
     {
       "id": "2026-11-09-heather-bianchini-unitus-community-credit-union-promoted",
@@ -2175,7 +2274,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "unitus"
+      }
     },
     {
       "id": "2026-11-09-jill-vanwyk-consumers-credit-union-hired",
@@ -2233,11 +2335,26 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Linked to the Michigan Consumers Credit Union (Kalamazoo, charter 62172), now its own entry",
+          "changes": [
+            {
+              "field": "organization organization",
+              "old": null,
+              "new": "consumers-cu-mi"
+            }
+          ],
+          "sources": []
         }
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "consumers-cu-mi"
+      }
     },
     {
       "id": "2026-11-08-amit-nandy-aberdeen-proving-ground-federal-credit-union-hired",
@@ -2299,7 +2416,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "apgfcu"
+      }
     },
     {
       "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
@@ -2361,7 +2481,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "westconsin-cu"
+      }
     },
     {
       "id": "2026-11-04-kristen-saito-aurora-federal-credit-union-hired",
@@ -2423,7 +2546,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "aurora-fcu"
+      }
     },
     {
       "id": "2026-11-04-megan-torzewski-interra-credit-union-promoted",
@@ -2485,7 +2611,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "interra"
+      }
     },
     {
       "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
@@ -2554,7 +2683,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "tlc"
+      }
     },
     {
       "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
@@ -2621,7 +2753,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "tlc"
+      }
     },
     {
       "id": "2026-10-31-deborah-grubach-seven-seventeen-credit-union-promoted",
@@ -2683,7 +2818,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "7-17-cu"
+      }
     },
     {
       "id": "2026-10-30-eric-broome-georgia-s-own-credit-union-promoted",
@@ -2751,7 +2889,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "georgia-s-own"
+      }
     },
     {
       "id": "2026-10-30-kelli-kind-first-city-credit-union-hired",
@@ -2814,7 +2955,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "first-city-cu"
+      }
     },
     {
       "id": "2026-10-30-mindy-estok-chartway-federal-credit-union-promoted",
@@ -2881,7 +3025,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "chartway"
+      }
     },
     {
       "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
@@ -2951,7 +3098,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "all-one"
+      }
     },
     {
       "id": "2026-10-29-misty-harrison-afena-federal-credit-union-hired",
@@ -3021,7 +3171,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "afena-fcu"
+      }
     },
     {
       "id": "2026-10-29-tony-molina-lafcu-hired",
@@ -3089,7 +3242,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "lafcu"
+      }
     },
     {
       "id": "2026-10-29-patrick-haughey-lafcu-hired",
@@ -3156,7 +3312,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "lafcu"
+      }
     },
     {
       "id": "2026-10-29-kevin-kelly-financial-center-first-credit-union-hired",
@@ -3219,7 +3378,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "financial-center"
+      }
     },
     {
       "id": "2026-10-29-brittany-johnson-united-heritage-credit-union-promoted",
@@ -3280,7 +3442,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "united-heritage-cu"
+      }
     },
     {
       "id": "2026-10-29-laura-blanding-lafcu-promoted",
@@ -3346,7 +3511,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "lafcu"
+      }
     },
     {
       "id": "2026-10-28-tyler-kuhn-service-credit-union-promoted",
@@ -3408,7 +3576,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-amanda-misilo-service-credit-union-hired",
@@ -3471,7 +3642,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-meagan-barstow-service-credit-union-promoted",
@@ -3532,7 +3706,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-jillian-cote-service-credit-union-promoted",
@@ -3593,7 +3770,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-christine-fitchett-service-credit-union-promoted",
@@ -3654,7 +3834,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-alexander-laham-service-credit-union-promoted",
@@ -3715,7 +3898,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-diane-towle-service-credit-union-promoted",
@@ -3776,7 +3962,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-brian-regan-service-credit-union-promoted",
@@ -3837,7 +4026,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-crystal-richardson-service-credit-union-promoted",
@@ -3898,7 +4090,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "service-cu"
+      }
     },
     {
       "id": "2026-10-28-jessica-roeder-forum-credit-union-hired",
@@ -3959,7 +4154,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "forum-cu"
+      }
     },
     {
       "id": "2026-10-28-tanya-evans-andrews-federal-credit-union-promoted",
@@ -4021,7 +4219,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "andrews-fcu"
+      }
     },
     {
       "id": "2026-10-27-mike-schenck-topline-financial-credit-union-hired",
@@ -4084,7 +4285,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "topline"
+      }
     },
     {
       "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
@@ -4154,7 +4358,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "peach-state-fcu"
+      }
     },
     {
       "id": "2026-10-26-royce-ngiam-topline-financial-credit-union-hired",
@@ -4216,7 +4423,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "topline"
+      }
     },
     {
       "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
@@ -4285,7 +4495,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "greater-iowa-cu"
+      }
     },
     {
       "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
@@ -4353,7 +4566,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "greater-iowa-cu"
+      }
     },
     {
       "id": "2026-10-23-katie-averill-vystar-credit-union-hired",
@@ -4422,7 +4638,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "vystar"
+      }
     },
     {
       "id": "2026-10-23-laura-chavez-altura-credit-union-hired",
@@ -4485,7 +4704,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "altura-cu"
+      }
     },
     {
       "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
@@ -4552,7 +4774,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "plus-cu"
+      }
     },
     {
       "id": "2026-10-21-patrick-cucinotta-gfa-federal-credit-union-hired",
@@ -4615,7 +4840,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "gfa-fcu"
+      }
     },
     {
       "id": "2026-10-20-jeff-gehris-sun-east-federal-credit-union-hired",
@@ -4685,7 +4913,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "sun-east-fcu"
+      }
     },
     {
       "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
@@ -4753,7 +4984,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "sun-east-fcu"
+      }
     },
     {
       "id": "2026-10-20-richard-sellwood-usf-federal-credit-union-promoted",
@@ -4821,7 +5055,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "usf-cu"
+      }
     },
     {
       "id": "2026-10-20-scott-bolster-whitefish-credit-union-association-promoted",
@@ -4888,7 +5125,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "whitefish-cu"
+      }
     },
     {
       "id": "2026-10-20-colleen-murphy-whitefish-credit-union-association-promoted",
@@ -4955,7 +5195,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "whitefish-cu"
+      }
     },
     {
       "id": "2026-10-20-josh-wilson-whitefish-credit-union-association-promoted",
@@ -5022,7 +5265,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "whitefish-cu"
+      }
     },
     {
       "id": "2026-10-20-matt-venturini-whitefish-credit-union-association-promoted",
@@ -5089,7 +5335,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "whitefish-cu"
+      }
     },
     {
       "id": "2026-10-20-stephanie-schrock-interra-credit-union-hired",
@@ -5152,7 +5401,10 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-22",
+      "org_slugs": {
+        "organization": "interra"
+      }
     }
   ]
 }
