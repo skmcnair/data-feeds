@@ -154,7 +154,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "dcfcu",
         "partner": "evermore-bank"
@@ -2160,6 +2160,413 @@
       "org_slugs": {
         "partner": "scott-cu",
         "acquirer": "consumers-cu"
+      }
+    },
+    {
+      "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+      "fields": {
+        "announced": "2026-10-01",
+        "acquirer": "Firefighters Credit Union",
+        "partner": "P&S Credit Union",
+        "deal_type": "CU merger",
+        "status": "Approved",
+        "expected_close": "Q4 2026",
+        "member_vote": "2026-11-16",
+        "completed": null,
+        "new_name": null,
+        "ceo": "Thomas Gourdin",
+        "acquirer_assets": 71.4,
+        "acquirer_members": 3461,
+        "acquirer_locations": 2,
+        "partner_assets": 24.8,
+        "partner_members": 2125,
+        "partner_locations": 2,
+        "combined_assets": 96.2,
+        "size_as_of": "Q3 2026",
+        "state": "UT",
+        "partner_state": "UT",
+        "notes": "Firefighters CU announced the merger on Oct 1, 2026. The Utah Department of Financial Institutions and NCUA have approved it; P&S members began voting Oct 1 (NCUA lists the vote for Nov 16, 2026), and if they approve, the merger takes effect Dec 1, 2026. Firefighters CU members don't vote. The P&S branch keeps the P&S name while operations are combined, which is expected to take up to a year.",
+        "acquirer_city": "Draper",
+        "partner_city": "Salt Lake City",
+        "acquirer_ceo": "Thomas Gourdin",
+        "partner_ceo": "Tammy Morgan",
+        "combined_members": 5586,
+        "combined_locations": 4,
+        "footprint": "UT, GA",
+        "next_steps": "P&S member vote (NCUA lists Nov 16, 2026; result not yet published); if approved, the merger takes effect Dec 1, 2026"
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Firefighters CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, P&S CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67056",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data (branch file), Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        },
+        {
+          "label": "Firefighters CU news: Firefighters CU & P&S CU to Merge",
+          "url": "https://www.firefighterscu.com/about/news/firefighters-cu--ps-cu-to-merge",
+          "type": "primary"
+        },
+        {
+          "label": "Firefighters CU merger FAQs",
+          "url": "https://www.firefighterscu.com/about/news/merger-faqs",
+          "type": "primary"
+        }
+      ],
+      "field_sources": {
+        "status": 4,
+        "expected_close": 4,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2,
+        "acquirer_city": 1,
+        "partner_city": 2,
+        "acquirer_ceo": 1,
+        "partner_ceo": 2,
+        "combined_members": 1,
+        "combined_locations": 3,
+        "footprint": 3,
+        "ceo": 1,
+        "announced": 4,
+        "next_steps": 4,
+        "notes": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+          "changes": [
+            {
+              "field": "acquirer_city",
+              "old": null,
+              "new": "Draper"
+            },
+            {
+              "field": "partner_city",
+              "old": null,
+              "new": "Salt Lake City"
+            },
+            {
+              "field": "acquirer_ceo",
+              "old": null,
+              "new": "Thomas R Gourdin"
+            },
+            {
+              "field": "partner_ceo",
+              "old": null,
+              "new": "Tammy Morgan"
+            },
+            {
+              "field": "combined_members",
+              "old": null,
+              "new": 5586
+            },
+            {
+              "field": "combined_locations",
+              "old": null,
+              "new": 4
+            },
+            {
+              "field": "footprint",
+              "old": null,
+              "new": "UT, GA"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67056",
+            "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set; CEO names cleaned up",
+          "changes": [
+            {
+              "field": "acquirer_ceo",
+              "old": "Thomas R Gourdin",
+              "new": "Thomas Gourdin"
+            },
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Thomas Gourdin"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079"
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Found the announcement (Oct 1, 2026, Firefighters CU): regulators approved; effective Dec 1, 2026 if P&S members approve",
+          "changes": [
+            {
+              "field": "announced",
+              "old": null,
+              "new": "2026-10-01"
+            },
+            {
+              "field": "status",
+              "old": "Announced",
+              "new": "Approved"
+            },
+            {
+              "field": "expected_close",
+              "old": "Not Disclosed",
+              "new": "Q4 2026"
+            },
+            {
+              "field": "next_steps",
+              "old": null,
+              "new": "P&S member vote (NCUA lists Nov 16, 2026; result not yet published); if approved, the merger takes effect Dec 1, 2026"
+            },
+            {
+              "field": "notes",
+              "old": "On NCUA's proposed-merger list. Member vote was set for Nov 16, 2026; result not yet confirmed.",
+              "new": "Firefighters CU announced the merger on Oct 1, 2026. The Utah Department of Financial Institutions and NCUA have approved it; P&S members began voting Oct 1 (NCUA lists the vote for Nov 16, 2026), and if they approve, the merger takes effect Dec 1, 2026. Firefighters CU members don't vote. The P&S branch keeps the P&S name while operations are combined, which is expected to take up to a year."
+            }
+          ],
+          "sources": [
+            "https://www.firefighterscu.com/about/news/firefighters-cu--ps-cu-to-merge",
+            "https://www.firefighterscu.com/about/news/merger-faqs"
+          ]
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "acquirer": "firefighters-cu",
+        "partner": "p-and-s-cu"
+      }
+    },
+    {
+      "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+      "fields": {
+        "announced": "2026-09-30",
+        "acquirer": "F&A Federal Credit Union",
+        "partner": "Ontario Public Employees Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q1 2027",
+        "member_vote": "2026-11-24",
+        "completed": null,
+        "new_name": null,
+        "ceo": "Tim Green",
+        "acquirer_assets": 3135.0,
+        "acquirer_members": 45118,
+        "acquirer_locations": 2,
+        "partner_assets": 23.9,
+        "partner_members": 1769,
+        "partner_locations": 1,
+        "combined_assets": 3158.9,
+        "size_as_of": "Q3 2026",
+        "state": "CA",
+        "partner_state": "CA",
+        "notes": "OPEFCU announced a signed letter of intent to merge with F&A in a Sep 30, 2026 member letter. Members vote at a Nov 24, 2026 special meeting in Ontario. If approved, OPEFCU members become F&A members on Mar 1, 2027 and accounts convert Mar 29, 2027; the OPEFCU name sunsets. All OPEFCU employees, including its CEO, join F&A, and F&A's board continues.",
+        "acquirer_city": "Monterey Park",
+        "partner_city": "Ontario",
+        "acquirer_ceo": "Tim Green",
+        "partner_ceo": "John Meeks",
+        "combined_members": 46887,
+        "combined_locations": 3,
+        "footprint": "CA",
+        "announced_figures": "$3.2 billion credit union serving over 45,000 members, three branches",
+        "next_steps": "OPEFCU member vote (special meeting Nov 24, 2026)"
+      },
+      "sources": [
+        {
+          "label": "NCUA proposed-merger list",
+          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, F&A FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Ontario Public Employees FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13044",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA call report data (branch file), Jun 30, 2026",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        },
+        {
+          "label": "OPEFCU proposed merger member information (Sep 30, 2026)",
+          "url": "https://www.opefcu.org/pdfs/2026_10_Proposed-Merger_Important_Member_Information.pdf",
+          "type": "primary"
+        }
+      ],
+      "field_sources": {
+        "status": 0,
+        "expected_close": 4,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "member_vote": 0,
+        "partner_members": 2,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "partner_assets": 2,
+        "combined_assets": 1,
+        "size_as_of": 1,
+        "partner_locations": 2,
+        "state": 1,
+        "partner_state": 2,
+        "acquirer_city": 1,
+        "partner_city": 2,
+        "acquirer_ceo": 1,
+        "partner_ceo": 2,
+        "combined_members": 1,
+        "combined_locations": 3,
+        "footprint": 3,
+        "ceo": 1,
+        "announced": 4,
+        "announced_figures": 4,
+        "next_steps": 4,
+        "notes": 4
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Added HQ cities, CEOs, combined members and locations, footprint",
+          "changes": [
+            {
+              "field": "acquirer_city",
+              "old": null,
+              "new": "Monterey Park"
+            },
+            {
+              "field": "partner_city",
+              "old": null,
+              "new": "Ontario"
+            },
+            {
+              "field": "acquirer_ceo",
+              "old": null,
+              "new": "Tim Green"
+            },
+            {
+              "field": "partner_ceo",
+              "old": null,
+              "new": "John Meeks"
+            },
+            {
+              "field": "combined_members",
+              "old": null,
+              "new": 46887
+            },
+            {
+              "field": "combined_locations",
+              "old": null,
+              "new": 3
+            },
+            {
+              "field": "footprint",
+              "old": null,
+              "new": "CA"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13044",
+            "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "note": "Continuing CEO set",
+          "changes": [
+            {
+              "field": "ceo",
+              "old": null,
+              "new": "Tim Green"
+            }
+          ],
+          "sources": [
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493"
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Found the announcement (Sep 30, 2026 member letter): vote Nov 24; members move to F&A Mar 1, 2027",
+          "changes": [
+            {
+              "field": "announced",
+              "old": null,
+              "new": "2026-09-30"
+            },
+            {
+              "field": "expected_close",
+              "old": "Not Disclosed",
+              "new": "Q1 2027"
+            },
+            {
+              "field": "announced_figures",
+              "old": null,
+              "new": "$3.2 billion credit union serving over 45,000 members, three branches"
+            },
+            {
+              "field": "next_steps",
+              "old": null,
+              "new": "OPEFCU member vote (special meeting Nov 24, 2026)"
+            },
+            {
+              "field": "notes",
+              "old": "On NCUA's proposed-merger list. No public announcement found yet.",
+              "new": "OPEFCU announced a signed letter of intent to merge with F&A in a Sep 30, 2026 member letter. Members vote at a Nov 24, 2026 special meeting in Ontario. If approved, OPEFCU members become F&A members on Mar 1, 2027 and accounts convert Mar 29, 2027; the OPEFCU name sunsets. All OPEFCU employees, including its CEO, join F&A, and F&A's board continues."
+            }
+          ],
+          "sources": [
+            "https://www.opefcu.org/pdfs/2026_10_Proposed-Merger_Important_Member_Information.pdf"
+          ]
+        }
+      ],
+      "added": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "acquirer": "f-and-a-fcu",
+        "partner": "ontario-public-employees-fcu"
       }
     },
     {
@@ -7422,7 +7829,7 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-03-26",
-        "completed": "Q4 2026",
+        "completed": "2026-10-01",
         "new_name": null,
         "ceo": "Natisha Swiger",
         "acquirer_ceo": "Natisha Swiger",
@@ -7444,7 +7851,7 @@
         "size_as_of": "Q3 2026",
         "state": "WV",
         "partner_state": "WV",
-        "notes": "Added Nov 22, 2026 (missed at announcement). NCUA lists CAPE as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. NCUA's proposed-merger list names the continuing CU only as \"Home\"; CAPE's website (capecu.com) now redirects to Home FCU of Clarksburg, WV. No public announcement found."
+        "notes": "Added Nov 22, 2026 (missed at announcement). Home FCU's merger FAQ for CAPE members says the merger date was set for Oct 1, 2026; CAPE's office became a Home FCU drive-thru branch. NCUA lists CAPE as inactive; it filed a Sep 30, 2026 call report. NCUA's proposed-merger list names the continuing CU only as \"Home\"; CAPE's website (capecu.com) now redirects to Home FCU of Clarksburg, WV."
       },
       "sources": [
         {
@@ -7461,11 +7868,16 @@
           "label": "NCUA record, Home FCU (Sep 30, 2026 call report)",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6674",
           "type": "regulator"
+        },
+        {
+          "label": "Home FCU merger FAQ for CAPE members",
+          "url": "https://www.homefcu.org/pdfs/2026_08_Merger_New.pdf",
+          "type": "primary"
         }
       ],
       "field_sources": {
         "status": 0,
-        "completed": 0,
+        "completed": 3,
         "partner_assets": 0,
         "partner_members": 0,
         "partner_locations": 0,
@@ -7484,17 +7896,37 @@
         "combined_members": 2,
         "combined_locations": 2,
         "footprint": 2,
-        "size_as_of": 2
+        "size_as_of": 2,
+        "notes": 3
       },
       "history": [
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Legal merger date Oct 1, 2026, from Home FCU's CAPE merger FAQ (was Q4 2026)",
+          "changes": [
+            {
+              "field": "completed",
+              "old": "Q4 2026",
+              "new": "2026-10-01"
+            },
+            {
+              "field": "notes",
+              "old": "Added Nov 22, 2026 (missed at announcement). NCUA lists CAPE as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. NCUA's proposed-merger list names the continuing CU only as \"Home\"; CAPE's website (capecu.com) now redirects to Home FCU of Clarksburg, WV. No public announcement found.",
+              "new": "Added Nov 22, 2026 (missed at announcement). Home FCU's merger FAQ for CAPE members says the merger date was set for Oct 1, 2026; CAPE's office became a Home FCU drive-thru branch. NCUA lists CAPE as inactive; it filed a Sep 30, 2026 call report. NCUA's proposed-merger list names the continuing CU only as \"Home\"; CAPE's website (capecu.com) now redirects to Home FCU of Clarksburg, WV."
+            }
+          ],
+          "sources": [
+            "https://www.homefcu.org/pdfs/2026_08_Merger_New.pdf"
+          ]
         }
       ],
       "added": "2026-11-22",
-      "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "home-fcu",
         "partner": "cape-fcu"
@@ -7622,7 +8054,7 @@
         "size_as_of": "Q3 2026",
         "state": "IL",
         "partner_state": "TX",
-        "notes": "Gulf Coast FCU (Corpus Christi, TX) members approved Sep 29; legal merger date Dec 31, 2026.",
+        "notes": "Gulf Coast FCU (Corpus Christi, TX) members approved Sep 29; legal merger date Dec 31, 2026. CU1's merger page (checked Nov 23, 2026) sets the core system conversion for Jan 15, 2027.",
         "acquirer_city": "Lombard",
         "partner_city": "Corpus Christi",
         "acquirer_ceo": "Todd Gunderson",
@@ -7684,7 +8116,8 @@
         "combined_locations": 4,
         "footprint": 2,
         "next_steps": 0,
-        "ceo": 2
+        "ceo": 2,
+        "notes": 0
       },
       "history": [
         {
@@ -7785,11 +8218,25 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Added the Jan 15, 2027 system conversion date from CU1's merger page",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Gulf Coast FCU (Corpus Christi, TX) members approved Sep 29; legal merger date Dec 31, 2026.",
+              "new": "Gulf Coast FCU (Corpus Christi, TX) members approved Sep 29; legal merger date Dec 31, 2026. CU1's merger page (checked Nov 23, 2026) sets the core system conversion for Jan 15, 2027."
+            }
+          ],
+          "sources": [
+            "https://www.creditunion1.org/about/mergers/gulf-coast/"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "cu1",
         "partner": "gulf-coast-fcu"
@@ -7803,7 +8250,7 @@
         "partner": "First Class Community Credit Union",
         "deal_type": "CU merger",
         "status": "Announced",
-        "expected_close": "Not Disclosed",
+        "expected_close": "Q4 2026",
         "member_vote": "2026-11-30",
         "completed": null,
         "new_name": null,
@@ -7818,14 +8265,15 @@
         "size_as_of": "Q3 2026",
         "state": "IL",
         "partner_state": "IA",
-        "notes": "A first member meeting was set for Jul 23, 2026 (proposed legal date Oct 31); NCUA now lists a member vote on Nov 30, 2026. Core conversion planned Jan 31, 2027.",
+        "notes": "A first member meeting was set for Jul 23, 2026 (proposed legal date Oct 31); NCUA now lists a member vote on Nov 30, 2026. CU1's merger page (checked Nov 23, 2026) sets the special meeting for Nov 30, 2026 at 5:00 pm, with a proposed legal merger date of Dec 31, 2026 and a system conversion on May 31, 2027.",
         "acquirer_city": "Lombard",
         "partner_city": "West Des Moines",
         "acquirer_ceo": "Todd Gunderson",
         "partner_ceo": "Zac Pollock",
         "combined_members": 192817,
         "combined_locations": 47,
-        "footprint": "IL, IN, MI, MN, GA, IA, FL, ND, NV, WI"
+        "footprint": "IL, IN, MI, MN, GA, IA, FL, ND, NV, WI",
+        "next_steps": "First Class member vote at a Nov 30, 2026 special meeting"
       },
       "sources": [
         {
@@ -7852,6 +8300,11 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "CU1 merger page (First Class Community)",
+          "url": "https://www.creditunion1.org/about/mergers/first-class-community/",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -7859,7 +8312,7 @@
         "partner": 0,
         "deal_type": 0,
         "status": 0,
-        "expected_close": 0,
+        "expected_close": 5,
         "member_vote": 1,
         "partner_members": 3,
         "acquirer_assets": 2,
@@ -7878,7 +8331,9 @@
         "combined_members": 2,
         "combined_locations": 4,
         "footprint": 2,
-        "ceo": 2
+        "ceo": 2,
+        "next_steps": 5,
+        "notes": 5
       },
       "history": [
         {
@@ -7959,11 +8414,35 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "CU1's merger page gives the Nov 30 special meeting, a proposed legal merger date of Dec 31, 2026 and conversion May 31, 2027",
+          "changes": [
+            {
+              "field": "expected_close",
+              "old": "Not Disclosed",
+              "new": "Q4 2026"
+            },
+            {
+              "field": "next_steps",
+              "old": null,
+              "new": "First Class member vote at a Nov 30, 2026 special meeting"
+            },
+            {
+              "field": "notes",
+              "old": "A first member meeting was set for Jul 23, 2026 (proposed legal date Oct 31); NCUA now lists a member vote on Nov 30, 2026. Core conversion planned Jan 31, 2027.",
+              "new": "A first member meeting was set for Jul 23, 2026 (proposed legal date Oct 31); NCUA now lists a member vote on Nov 30, 2026. CU1's merger page (checked Nov 23, 2026) sets the special meeting for Nov 30, 2026 at 5:00 pm, with a proposed legal merger date of Dec 31, 2026 and a system conversion on May 31, 2027."
+            }
+          ],
+          "sources": [
+            "https://www.creditunion1.org/about/mergers/first-class-community/"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "cu1",
         "partner": "first-class-community-cu"
@@ -7976,10 +8455,10 @@
         "acquirer": "Magnolia Federal Credit Union",
         "partner": "City Federal Credit Union",
         "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
+        "status": "Completed",
+        "expected_close": "Completed",
         "member_vote": "2026-09-16",
-        "completed": null,
+        "completed": "2026-10-01",
         "new_name": null,
         "ceo": "Michael Waylett",
         "acquirer_assets": 182.3,
@@ -7992,7 +8471,7 @@
         "size_as_of": "Q3 2026",
         "state": "MS",
         "partner_state": "TX",
-        "notes": "City FCU's website now shows the Magnolia FCU brand (\"previously City FCU\"), suggesting the merger has taken effect; NCUA still lists City FCU as active. Member vote was set for Sep 16, 2026.",
+        "notes": "City FCU (Amarillo, TX) members voted on the merger at a Sep 16, 2026 special meeting. City FCU's merger updates page (Sep 29, 2026) says City FCU merged with Magnolia FCU effective Oct 1, 2026, with operations and systems to be integrated in the coming months. Sizes are frozen at the Sep 30, 2026 call report, City FCU's last before the merger. NCUA still lists City FCU as active (its records lag).",
         "acquirer_city": "Jackson",
         "partner_city": "Amarillo",
         "acquirer_ceo": "Michael Waylett",
@@ -8031,14 +8510,19 @@
           "label": "City FCU website",
           "url": "http://www.cityfederalcu.com",
           "type": "primary"
+        },
+        {
+          "label": "City FCU merger updates",
+          "url": "https://www.cityfederalcu.com/merger-updates/",
+          "type": "primary"
         }
       ],
       "field_sources": {
         "acquirer": 0,
         "partner": 0,
         "deal_type": 0,
-        "status": 0,
-        "expected_close": 0,
+        "status": 6,
+        "expected_close": 6,
         "member_vote": 1,
         "partner_members": 3,
         "acquirer_assets": 2,
@@ -8057,8 +8541,9 @@
         "combined_members": 2,
         "combined_locations": 4,
         "footprint": 4,
-        "notes": 5,
-        "ceo": 2
+        "notes": 6,
+        "ceo": 2,
+        "completed": 6
       },
       "history": [
         {
@@ -8138,11 +8623,40 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/224"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Completed Oct 1, 2026, per City FCU's merger updates page",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Announced",
+              "new": "Completed"
+            },
+            {
+              "field": "completed",
+              "old": null,
+              "new": "2026-10-01"
+            },
+            {
+              "field": "expected_close",
+              "old": "Not Disclosed",
+              "new": "Completed"
+            },
+            {
+              "field": "notes",
+              "old": "City FCU's website now shows the Magnolia FCU brand (\"previously City FCU\"), suggesting the merger has taken effect; NCUA still lists City FCU as active. Member vote was set for Sep 16, 2026.",
+              "new": "City FCU (Amarillo, TX) members voted on the merger at a Sep 16, 2026 special meeting. City FCU's merger updates page (Sep 29, 2026) says City FCU merged with Magnolia FCU effective Oct 1, 2026, with operations and systems to be integrated in the coming months. Sizes are frozen at the Sep 30, 2026 call report, City FCU's last before the merger. NCUA still lists City FCU as active (its records lag)."
+            }
+          ],
+          "sources": [
+            "https://www.cityfederalcu.com/merger-updates/"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "magnolia-fcu",
         "partner": "city-fcu"
@@ -8307,7 +8821,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "allegent",
         "partner": "penn-hills-municipal-fcu"
@@ -8461,7 +8975,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "bp-fcu",
         "partner": "southern-star-cu"
@@ -8613,7 +9127,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "sterling-fcu",
         "partner": "fort-morgan-schools-fcu"
@@ -8792,7 +9306,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "nuvision",
         "partner": "dow-great-western-cu"
@@ -8946,7 +9460,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "sharefax",
         "partner": "members-trust-fcu"
@@ -9100,7 +9614,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "agriculture-fcu",
         "partner": "nrcs-fcu"
@@ -9254,7 +9768,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "healthcare-systems-fcu",
         "partner": "summit-hampton-roads-fcu"
@@ -9414,7 +9928,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "cy-fair-fcu",
         "partner": "baker-hughes-fcu"
@@ -9427,8 +9941,8 @@
         "acquirer": "Norstar Federal Credit Union",
         "partner": "Healthcare Plus Federal Credit Union",
         "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
+        "status": "Approved",
+        "expected_close": "Q1 2027",
         "member_vote": "2026-12-08",
         "completed": null,
         "new_name": null,
@@ -9443,14 +9957,15 @@
         "size_as_of": "Q3 2026",
         "state": "SD",
         "partner_state": "SD",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
+        "notes": "On NCUA's proposed-merger list. Healthcare Plus says it has regulatory approval to propose the merger; its members vote at a Dec 8, 2026 special meeting in Aberdeen. Norstar's merger page says the merger is expected to become official on Jan 1, 2027, with systems integration targeted for Q3 2027. All Healthcare Plus employees are retained and its Aberdeen branch stays open.",
         "acquirer_city": "Britton",
         "partner_city": "Aberdeen",
         "acquirer_ceo": "Jay Kruse",
         "partner_ceo": "Guy Trenhaile",
         "combined_members": 7881,
         "combined_locations": 2,
-        "footprint": "SD"
+        "footprint": "SD",
+        "next_steps": "Healthcare Plus member vote (special meeting Dec 8, 2026)"
       },
       "sources": [
         {
@@ -9472,11 +9987,21 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "Norstar FCU merger page",
+          "url": "https://www.norstarfcu.com/about-us/healthcare-plus-merger",
+          "type": "primary"
+        },
+        {
+          "label": "Healthcare Plus FCU merger updates",
+          "url": "https://www.hcpfcu.coop/merger",
+          "type": "primary"
         }
       ],
       "field_sources": {
-        "status": 0,
-        "expected_close": 0,
+        "status": 4,
+        "expected_close": 4,
         "acquirer": 0,
         "partner": 0,
         "deal_type": 0,
@@ -9498,7 +10023,9 @@
         "combined_members": 1,
         "combined_locations": 3,
         "footprint": 3,
-        "ceo": 1
+        "ceo": 1,
+        "next_steps": 4,
+        "notes": 4
       },
       "history": [
         {
@@ -9570,11 +10097,41 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23371",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4951"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Regulatory approval received; Healthcare Plus votes Dec 8, 2026; expected official Jan 1, 2027",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Announced",
+              "new": "Approved"
+            },
+            {
+              "field": "expected_close",
+              "old": "Not Disclosed",
+              "new": "Q1 2027"
+            },
+            {
+              "field": "next_steps",
+              "old": null,
+              "new": "Healthcare Plus member vote (special meeting Dec 8, 2026)"
+            },
+            {
+              "field": "notes",
+              "old": "On NCUA's proposed-merger list. No public announcement found yet.",
+              "new": "On NCUA's proposed-merger list. Healthcare Plus says it has regulatory approval to propose the merger; its members vote at a Dec 8, 2026 special meeting in Aberdeen. Norstar's merger page says the merger is expected to become official on Jan 1, 2027, with systems integration targeted for Q3 2027. All Healthcare Plus employees are retained and its Aberdeen branch stays open."
+            }
+          ],
+          "sources": [
+            "https://www.norstarfcu.com/about-us/healthcare-plus-merger",
+            "https://www.hcpfcu.coop/merger"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "norstar",
         "partner": "healthcare-plus-fcu"
@@ -9587,8 +10144,8 @@
         "acquirer": "Daniels-Sheridan Federal Credit Union",
         "partner": "Fort Peck Community Federal Credit Union",
         "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
+        "status": "Approved",
+        "expected_close": "2027",
         "member_vote": "2026-12-04",
         "completed": null,
         "new_name": null,
@@ -9603,14 +10160,15 @@
         "size_as_of": "Q3 2026",
         "state": "MT",
         "partner_state": "MT",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
+        "notes": "On NCUA's proposed-merger list. Daniels-Sheridan's merger FAQ says NCUA has approved the merger to go to a Fort Peck member vote, with voting from about mid-October and a special meeting on Dec 4, 2026; if approved, completion and integration would begin in the new year. Daniels-Sheridan members don't vote. Both credit unions' branches stay open.",
         "acquirer_city": "Scobey",
         "partner_city": "Fort Peck",
         "acquirer_ceo": "Timothy Rask",
         "partner_ceo": "Joe Vander Woude",
         "combined_members": 4354,
         "combined_locations": 4,
-        "footprint": "MT"
+        "footprint": "MT",
+        "next_steps": "Fort Peck member vote (special meeting Dec 4, 2026) and remaining regulatory and legal requirements"
       },
       "sources": [
         {
@@ -9632,11 +10190,16 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "Daniels-Sheridan FCU merger FAQs",
+          "url": "https://dsfcu.net/merger-faqs/",
+          "type": "primary"
         }
       ],
       "field_sources": {
-        "status": 0,
-        "expected_close": 0,
+        "status": 4,
+        "expected_close": 4,
         "acquirer": 0,
         "partner": 0,
         "deal_type": 0,
@@ -9658,7 +10221,9 @@
         "combined_members": 1,
         "combined_locations": 3,
         "footprint": 3,
-        "ceo": 1
+        "ceo": 1,
+        "next_steps": 4,
+        "notes": 4
       },
       "history": [
         {
@@ -9724,11 +10289,40 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5063"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "NCUA approved the merger to go to a Fort Peck member vote (Dec 4, 2026); completion expected in the new year",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Announced",
+              "new": "Approved"
+            },
+            {
+              "field": "expected_close",
+              "old": "Not Disclosed",
+              "new": "2027"
+            },
+            {
+              "field": "next_steps",
+              "old": null,
+              "new": "Fort Peck member vote (special meeting Dec 4, 2026) and remaining regulatory and legal requirements"
+            },
+            {
+              "field": "notes",
+              "old": "On NCUA's proposed-merger list. No public announcement found yet.",
+              "new": "On NCUA's proposed-merger list. Daniels-Sheridan's merger FAQ says NCUA has approved the merger to go to a Fort Peck member vote, with voting from about mid-October and a special meeting on Dec 4, 2026; if approved, completion and integration would begin in the new year. Daniels-Sheridan members don't vote. Both credit unions' branches stay open."
+            }
+          ],
+          "sources": [
+            "https://dsfcu.net/merger-faqs/"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "daniels-sheridan-fcu",
         "partner": "fort-peck-community-fcu"
@@ -9893,7 +10487,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "first-south-financial",
         "partner": "delta-refining-fcu"
@@ -10058,323 +10652,10 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "kimberly-clark-cu",
         "partner": "west-tennessee-cu"
-      }
-    },
-    {
-      "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
-      "fields": {
-        "announced": null,
-        "acquirer": "F&A Federal Credit Union",
-        "partner": "Ontario Public Employees Federal Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2026-11-24",
-        "completed": null,
-        "new_name": null,
-        "ceo": "Tim Green",
-        "acquirer_assets": 3135.0,
-        "acquirer_members": 45118,
-        "acquirer_locations": 2,
-        "partner_assets": 23.9,
-        "partner_members": 1769,
-        "partner_locations": 1,
-        "combined_assets": 3158.9,
-        "size_as_of": "Q3 2026",
-        "state": "CA",
-        "partner_state": "CA",
-        "notes": "On NCUA's proposed-merger list. No public announcement found yet.",
-        "acquirer_city": "Monterey Park",
-        "partner_city": "Ontario",
-        "acquirer_ceo": "Tim Green",
-        "partner_ceo": "John Meeks",
-        "combined_members": 46887,
-        "combined_locations": 3,
-        "footprint": "CA"
-      },
-      "sources": [
-        {
-          "label": "NCUA proposed-merger list",
-          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA record, F&A FCU (Sep 30, 2026 call report)",
-          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA record, Ontario Public Employees FCU (Sep 30, 2026 call report)",
-          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13044",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA call report data (branch file), Jun 30, 2026",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "status": 0,
-        "expected_close": 0,
-        "acquirer": 0,
-        "partner": 0,
-        "deal_type": 0,
-        "member_vote": 0,
-        "partner_members": 2,
-        "acquirer_assets": 1,
-        "acquirer_members": 1,
-        "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
-        "partner_locations": 2,
-        "state": 1,
-        "partner_state": 2,
-        "acquirer_city": 1,
-        "partner_city": 2,
-        "acquirer_ceo": 1,
-        "partner_ceo": 2,
-        "combined_members": 1,
-        "combined_locations": 3,
-        "footprint": 3,
-        "ceo": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-21",
-          "note": "Added"
-        },
-        {
-          "date": "2026-11-21",
-          "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-          "changes": [
-            {
-              "field": "acquirer_city",
-              "old": null,
-              "new": "Monterey Park"
-            },
-            {
-              "field": "partner_city",
-              "old": null,
-              "new": "Ontario"
-            },
-            {
-              "field": "acquirer_ceo",
-              "old": null,
-              "new": "Tim Green"
-            },
-            {
-              "field": "partner_ceo",
-              "old": null,
-              "new": "John Meeks"
-            },
-            {
-              "field": "combined_members",
-              "old": null,
-              "new": 46887
-            },
-            {
-              "field": "combined_locations",
-              "old": null,
-              "new": 3
-            },
-            {
-              "field": "footprint",
-              "old": null,
-              "new": "CA"
-            }
-          ],
-          "sources": [
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493",
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13044",
-            "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
-          ]
-        },
-        {
-          "date": "2026-11-21",
-          "note": "Continuing CEO set",
-          "changes": [
-            {
-              "field": "ceo",
-              "old": null,
-              "new": "Tim Green"
-            }
-          ],
-          "sources": [
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1493"
-          ]
-        }
-      ],
-      "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "org_slugs": {
-        "acquirer": "f-and-a-fcu",
-        "partner": "ontario-public-employees-fcu"
-      }
-    },
-    {
-      "id": "undated-firefighters-credit-union-p-and-s-credit-union",
-      "fields": {
-        "announced": null,
-        "acquirer": "Firefighters Credit Union",
-        "partner": "P&S Credit Union",
-        "deal_type": "CU merger",
-        "status": "Announced",
-        "expected_close": "Not Disclosed",
-        "member_vote": "2026-11-16",
-        "completed": null,
-        "new_name": null,
-        "ceo": "Thomas Gourdin",
-        "acquirer_assets": 71.4,
-        "acquirer_members": 3461,
-        "acquirer_locations": 2,
-        "partner_assets": 24.8,
-        "partner_members": 2125,
-        "partner_locations": 2,
-        "combined_assets": 96.2,
-        "size_as_of": "Q3 2026",
-        "state": "UT",
-        "partner_state": "UT",
-        "notes": "On NCUA's proposed-merger list. Member vote was set for Nov 16, 2026; result not yet confirmed.",
-        "acquirer_city": "Draper",
-        "partner_city": "Salt Lake City",
-        "acquirer_ceo": "Thomas Gourdin",
-        "partner_ceo": "Tammy Morgan",
-        "combined_members": 5586,
-        "combined_locations": 4,
-        "footprint": "UT, GA"
-      },
-      "sources": [
-        {
-          "label": "NCUA proposed-merger list",
-          "url": "https://ncua.gov/support-services/credit-union-merger-acquisition/comments-proposed-credit-union-mergers",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA record, Firefighters CU (Sep 30, 2026 call report)",
-          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA record, P&S CU (Sep 30, 2026 call report)",
-          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67056",
-          "type": "regulator"
-        },
-        {
-          "label": "NCUA call report data (branch file), Jun 30, 2026",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "status": 0,
-        "expected_close": 0,
-        "acquirer": 0,
-        "partner": 0,
-        "deal_type": 0,
-        "member_vote": 0,
-        "partner_members": 2,
-        "acquirer_assets": 1,
-        "acquirer_members": 1,
-        "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
-        "partner_locations": 2,
-        "state": 1,
-        "partner_state": 2,
-        "acquirer_city": 1,
-        "partner_city": 2,
-        "acquirer_ceo": 1,
-        "partner_ceo": 2,
-        "combined_members": 1,
-        "combined_locations": 3,
-        "footprint": 3,
-        "ceo": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-21",
-          "note": "Added"
-        },
-        {
-          "date": "2026-11-21",
-          "note": "Added HQ cities, CEOs, combined members and locations, footprint",
-          "changes": [
-            {
-              "field": "acquirer_city",
-              "old": null,
-              "new": "Draper"
-            },
-            {
-              "field": "partner_city",
-              "old": null,
-              "new": "Salt Lake City"
-            },
-            {
-              "field": "acquirer_ceo",
-              "old": null,
-              "new": "Thomas R Gourdin"
-            },
-            {
-              "field": "partner_ceo",
-              "old": null,
-              "new": "Tammy Morgan"
-            },
-            {
-              "field": "combined_members",
-              "old": null,
-              "new": 5586
-            },
-            {
-              "field": "combined_locations",
-              "old": null,
-              "new": 4
-            },
-            {
-              "field": "footprint",
-              "old": null,
-              "new": "UT, GA"
-            }
-          ],
-          "sources": [
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079",
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67056",
-            "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip"
-          ]
-        },
-        {
-          "date": "2026-11-21",
-          "note": "Continuing CEO set; CEO names cleaned up",
-          "changes": [
-            {
-              "field": "acquirer_ceo",
-              "old": "Thomas R Gourdin",
-              "new": "Thomas Gourdin"
-            },
-            {
-              "field": "ceo",
-              "old": null,
-              "new": "Thomas Gourdin"
-            }
-          ],
-          "sources": [
-            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67079"
-          ]
-        }
-      ],
-      "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "org_slugs": {
-        "acquirer": "firefighters-cu",
-        "partner": "p-and-s-cu"
       }
     },
     {
@@ -10541,7 +10822,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "hope-fcu",
         "partner": "nrs-community-development-fcu"
@@ -10700,7 +10981,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "sjp-fcu",
         "partner": "dunlop-employees-fcu"
@@ -10714,7 +10995,7 @@
         "partner": "Cincinnati Interagency Federal Credit Union",
         "deal_type": "CU merger",
         "status": "Announced",
-        "expected_close": "Not Disclosed",
+        "expected_close": "Q4 2026",
         "member_vote": "2026-10-13",
         "completed": null,
         "new_name": null,
@@ -10729,7 +11010,7 @@
         "size_as_of": "Q3 2026",
         "state": "OH",
         "partner_state": "OH",
-        "notes": "On NCUA's proposed-merger list; member vote was set for Oct 13, 2026. Cincinnati Interagency's website now shows the Kemba brand, suggesting the merger has taken effect; NCUA still lists it as active.",
+        "notes": "On NCUA's proposed-merger list; member vote was set for Oct 13, 2026 (special meeting). cifcu.org now redirects to Kemba's CIFCU page, where a letter from Kemba CEO Dan Sutton says CIFCU will officially merge with Kemba effective Nov 1, 2026. The vote result and completion are not yet confirmed by a release or news; NCUA still lists CIFCU as active.",
         "acquirer_city": "West Chester",
         "partner_city": "Cincinnati",
         "acquirer_ceo": "Daniel Sutton",
@@ -10763,11 +11044,16 @@
           "label": "Cincinnati Interagency FCU website",
           "url": "https://www.cifcu.org",
           "type": "primary"
+        },
+        {
+          "label": "Kemba CIFCU merger page",
+          "url": "https://www.kemba.com/cifcu",
+          "type": "primary"
         }
       ],
       "field_sources": {
         "status": 0,
-        "expected_close": 0,
+        "expected_close": 5,
         "acquirer": 0,
         "partner": 0,
         "deal_type": 0,
@@ -10789,7 +11075,7 @@
         "combined_members": 1,
         "combined_locations": 3,
         "footprint": 3,
-        "notes": 4,
+        "notes": 5,
         "ceo": 1
       },
       "history": [
@@ -10881,11 +11167,30 @@
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61810",
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7088"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Kemba's CIFCU page gives an effective date of Nov 1, 2026; vote result and completion not yet confirmed",
+          "changes": [
+            {
+              "field": "expected_close",
+              "old": "Not Disclosed",
+              "new": "Q4 2026"
+            },
+            {
+              "field": "notes",
+              "old": "On NCUA's proposed-merger list; member vote was set for Oct 13, 2026. Cincinnati Interagency's website now shows the Kemba brand, suggesting the merger has taken effect; NCUA still lists it as active.",
+              "new": "On NCUA's proposed-merger list; member vote was set for Oct 13, 2026 (special meeting). cifcu.org now redirects to Kemba's CIFCU page, where a letter from Kemba CEO Dan Sutton says CIFCU will officially merge with Kemba effective Nov 1, 2026. The vote result and completion are not yet confirmed by a release or news; NCUA still lists CIFCU as active."
+            }
+          ],
+          "sources": [
+            "https://www.kemba.com/cifcu"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "kemba",
         "partner": "cincinnati-interagency-fcu"
@@ -10898,7 +11203,7 @@
         "acquirer": "Tech Credit Union",
         "partner": "Great Horizons Federal Credit Union",
         "deal_type": "CU merger",
-        "status": "Announced",
+        "status": "Members approved",
         "expected_close": "Not Disclosed",
         "member_vote": "2026-10-08",
         "completed": null,
@@ -10914,7 +11219,7 @@
         "size_as_of": "Q3 2026",
         "state": "IN",
         "partner_state": "IN",
-        "notes": "On NCUA's proposed-merger list. Member vote was set for Oct 8, 2026; result not yet confirmed.",
+        "notes": "On NCUA's proposed-merger list. Great Horizons FCU's website says its members voted to approve the merger with Tech CU at the Oct 8, 2026 special meeting and sends members to Tech CU's member support. No legal merger date published yet.",
         "acquirer_city": "Crown Point",
         "partner_city": "Munster",
         "acquirer_ceo": "Eugene Novello",
@@ -10943,10 +11248,15 @@
           "label": "NCUA call report data (branch file), Jun 30, 2026",
           "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
           "type": "regulator"
+        },
+        {
+          "label": "Great Horizons FCU website",
+          "url": "https://greathorizonsfcu.org/",
+          "type": "primary"
         }
       ],
       "field_sources": {
-        "status": 0,
+        "status": 4,
         "expected_close": 0,
         "acquirer": 0,
         "partner": 0,
@@ -10969,7 +11279,8 @@
         "combined_members": 1,
         "combined_locations": 3,
         "footprint": 3,
-        "ceo": 1
+        "ceo": 1,
+        "notes": 4
       },
       "history": [
         {
@@ -11040,11 +11351,30 @@
           "sources": [
             "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68225"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Great Horizons members approved the merger at the Oct 8, 2026 special meeting",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Announced",
+              "new": "Members approved"
+            },
+            {
+              "field": "notes",
+              "old": "On NCUA's proposed-merger list. Member vote was set for Oct 8, 2026; result not yet confirmed.",
+              "new": "On NCUA's proposed-merger list. Great Horizons FCU's website says its members voted to approve the merger with Tech CU at the Oct 8, 2026 special meeting and sends members to Tech CU's member support. No legal merger date published yet."
+            }
+          ],
+          "sources": [
+            "https://greathorizonsfcu.org/"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "tech-cu",
         "partner": "great-horizons-fcu"
@@ -11203,7 +11533,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "robins-financial",
         "partner": "harris-employees-cu"
@@ -11354,7 +11684,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "port-washington-fcu",
         "partner": "great-neck-school-employees-fcu"
@@ -11783,7 +12113,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "hoosier-hills",
         "partner": "martin-county-co-op-cu"
@@ -12374,7 +12704,7 @@
         "status": "Completed",
         "expected_close": "Completed",
         "member_vote": "2026-07-09",
-        "completed": "Q4 2026",
+        "completed": "2026-10-01",
         "new_name": "Haven Credit Union",
         "ceo": "Jake Bowman",
         "acquirer_assets": 382.2,
@@ -12387,7 +12717,7 @@
         "size_as_of": "Q3 2026",
         "state": "UT",
         "partner_state": "UT",
-        "notes": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger).",
+        "notes": "G&R is Gibbons and Reed Employees FCU. G&R's website (now American United's) says G&R membership continues with American United effective Oct 1, 2026; the former G&R branch in Salt Lake City stays open. NCUA lists G&R as inactive; it filed a Sep 30, 2026 call report. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger).",
         "acquirer_city": "West Jordan",
         "partner_city": "Salt Lake City",
         "acquirer_ceo": "Jake Bowman",
@@ -12421,6 +12751,11 @@
           "label": "Haven Credit Union rebrand release (CUInsight), Nov 17, 2026",
           "url": "https://www.cuinsight.com/?p=219408",
           "type": "primary"
+        },
+        {
+          "label": "G&R CU website (American United)",
+          "url": "https://grcreditunion.com/",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -12448,9 +12783,9 @@
         "combined_locations": 2,
         "footprint": 3,
         "ceo": 2,
-        "completed": 0,
+        "completed": 5,
         "new_name": 4,
-        "notes": 4
+        "notes": 5
       },
       "history": [
         {
@@ -12566,11 +12901,30 @@
           "sources": [
             "https://www.cuinsight.com/?p=219408"
           ]
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Legal effective date Oct 1, 2026, from G&R's website (was Q4 2026)",
+          "changes": [
+            {
+              "field": "completed",
+              "old": "Q4 2026",
+              "new": "2026-10-01"
+            },
+            {
+              "field": "notes",
+              "old": "G&R is Gibbons and Reed Employees FCU. NCUA lists it as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger).",
+              "new": "G&R is Gibbons and Reed Employees FCU. G&R's website (now American United's) says G&R membership continues with American United effective Oct 1, 2026; the former G&R branch in Salt Lake City stays open. NCUA lists G&R as inactive; it filed a Sep 30, 2026 call report. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger)."
+            }
+          ],
+          "sources": [
+            "https://grcreditunion.com/"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "acquirer": "american-united-fcu",
         "partner": "g-and-r-fcu"
