@@ -7,17 +7,53 @@ scope: |
   VP), SVP, EVP, chief officers, President, President and CEO, and General Manager of a small credit
   union. One row per open position. An opening counts once a public source shows it: a search firm's
   posting, the credit union's own careers page or release, or a job board (CUES, CUInsight, league
-  boards). A credit union's announcement that its board has started a search for a CEO (a retirement
+  boards). Credit unions with $500M or more in assets are also read directly on their own careers
+  boards every day (tools/careers_sweep.py), so their in-house VP-and-up hiring is covered too. A credit union's announcement that its board has started a search for a CEO (a retirement
   release saying a search firm or a national search will find the successor) is an opening too.
   The first load (Nov 23, 2026) holds every opening live that day; filled and closed openings stay
   in the feed (boards show filled ones for 30 days by their closed date).
-  Out: AVP and Director roles and anything below; leagues and trade associations, CUSOs (Navari,
+  Out: AVP, Associate VP and Director roles and anything below; producer roles that carry a VP title
+  but lead no function (VP Mortgage Loan Originator, VP Commercial Relationship Manager, VP Business
+  Development Officer); jobs at a credit union's subsidiaries or CUSOs (Keesler's EverSouth Mortgage,
+  ORNL's 7 Mortgage, VACU's Joyner Fine Properties); jobs on a partner's board linked from a credit
+  union's site (LPL Financial); leagues and trade associations, CUSOs (Navari,
   formerly CUSG, is MCUL's CUSO), corporate credit unions, vendors, fintechs, banks (Shanley's de novo
   bank CFO), NCUA and regulators, credit union foundations; board seats; non-U.S. credit unions;
   confidential searches that don't name the credit union (add them once a source names it).
 
 instructions: |
+  Never stop to ask anyone for permission or approval, and never wait for an answer: this review runs
+  unattended. Read pages with the feed's own scripts (job_boards.py, careers_sweep.py, cu_lookup.py,
+  find_logo.py) and curl in Bash wherever you can; use WebFetch only for pages the scripts can't read
+  (CUES). If any page, fetch or tool is refused or would need approval, skip it, note it in the
+  morning message, and carry on.
   Where openings come from (work the boards first, then search):
+  - Every run: python3 feeds/exec-jobs/tools/careers_sweep.py. It reads the public careers boards of
+    every credit union at $500M and up listed in tools/careers_sites.json (Workday, UKG/UltiPro, ADP,
+    Paylocity, ApplicantPro, UKG Ready, Oracle, iCIMS, Greenhouse, Lever, BambooHR, Phenom sites,
+    careers feeds and plain careers pages) and reports VP-and-up jobs as NEW, tracked Open postings
+    that are no longer listed as GONE, and boards that failed. Handle every NEW and GONE line the
+    same way as job_boards.py's. Lines marked "lead: check it" come from a plain careers page: open
+    the link and add it only if it is a live job posting (not a news story, bio or old PDF). The
+    credit union's own posting is a primary source.
+  - Every run, also look up the credit unions it lists under "Job-site lookups due today" (the
+    fallback list in /tmp/exec-jobs-careers.json): blocked or unsupported careers sites and ones not
+    mapped yet. All at $5B and up come every day; the rest rotate (about 30 a day). For each, one
+    WebSearch: "<credit union name>" ("Vice President" OR VP OR SVP OR Chief) job. Add a job only from
+    a copy on Indeed, ZipRecruiter, CareerBuilder, LinkedIn's public job pages in search results or a
+    similar job site that shows it is current (posted or updated within the last 30 days, or still
+    taking applications); label those sources aggregator and say in notes that the credit union's own
+    site couldn't be read. Close such a row when no current copy can be found for 30 days. First Tech
+    (careers site behind a Cloudflare check since Nov 23, 2026) is the standing example.
+  - When a search or a page shows a credit union's real job board (a myworkdayjobs.com, ultipro.com,
+    workforcenow.adp.com, paylocity.com, applicantpro.com, icims.com, oraclecloud.com or similar
+    address), record it: python3 feeds/exec-jobs/tools/careers_sweep.py --map <charter> --url <board>.
+    It reads the board once and says how many jobs it found; if it finds none, run --unmap <charter>
+    --status unmapped --note "<what you tried>". Map up to 10 credit unions a run, largest first. A
+    board that turns out to block us: --unmap <charter> --status blocked --note "<why>".
+  - The first sweep's cut-off is NCUA's Q2 2026 call report. Each January, April, July and October,
+    after NCUA publishes a new quarter, rerun the mapping for credit unions that crossed $500M
+    (ask nobody; work out new ones from cu_lookup.py and add them with --map).
   - Every run: python3 feeds/exec-jobs/tools/job_boards.py. It reads D. Hilton Associates, DDJ Myers,
     Shanley Search Partners, JSpire Recruiting (its detail pages name the credit union), Zealyst and
     CUInsight's job board (page 1 only; later pages answer with a Cloudflare check, never get around
@@ -134,9 +170,9 @@ fields:
   - name: function
     type: choice
     label: Function
-    choices: [Executive, Finance, Lending, Commercial, Operations, Technology, Risk & Compliance, Marketing, Member Experience, Retail, People, Strategy, Other]
+    choices: [Executive, Finance, Lending, Commercial, Operations, Technology, Product, Risk & Compliance, Marketing, Member Experience, Retail, People, Strategy, Other]
     required: true
-    help: The area the role leads. Executive = CEO, President, General Manager, Chief of Staff. Finance = CFO, accounting, treasury. Lending = consumer, mortgage and real estate lending, credit, collections. Commercial = business lending and banking, treasury management. Operations = COO, deposit and back-office operations, payments, cards, enterprise applications run by operations. Technology = CIO, CTO, IT, digital, data, AI, information security, enterprise applications. Risk & Compliance = risk, ERM, compliance, BSA, fraud, internal audit, legal. Marketing = marketing, brand, communications, business development. Member Experience = CXO, member service, contact center. Retail = retail, branches, sales and service, member growth. People = HR, talent, people development, culture. Strategy = strategy, innovation, transformation. Other = anything else. Combined roles use the first area named ("Chief Strategy & Marketing Officer" = Strategy).
+    help: The area the role leads. Executive = CEO, President, General Manager, Chief of Staff. Finance = CFO, accounting, treasury. Lending = consumer, mortgage and real estate lending, credit, collections. Commercial = business lending and banking, treasury management. Operations = COO, deposit and back-office operations, payments, cards, enterprise applications run by operations. Technology = CIO, CTO, IT, digital, data, AI, information security, enterprise applications. Product = product management and digital product (digital banking, payments product, money movement). Risk & Compliance = risk, ERM, compliance, BSA, fraud, internal audit, legal. Marketing = marketing, brand, communications, business development. Member Experience = CXO, member service, contact center. Retail = retail, branches, sales and service, member growth. People = HR, talent, people development, culture. Strategy = strategy, innovation, transformation. Other = anything else. Combined roles use the first area named ("Chief Strategy & Marketing Officer" = Strategy).
   - name: status
     type: choice
     label: Status
@@ -166,6 +202,10 @@ fields:
     label: Work mode
     choices: [On-site, Hybrid, Remote]
     help: Only when the posting states it. A posting that allows on-site, hybrid or remote is Remote. Blank when not stated.
+  - name: job_location
+    type: text
+    label: Job location
+    help: Where the job is based when the posting says, as it says it ("Marlborough, MA", "Hillsboro, OR or Marlborough, MA", "Remote"). Leave blank when it only names a building or "3 Locations". The state field is always the credit union's headquarters, not this.
   - name: job_url
     type: url
     label: Posting

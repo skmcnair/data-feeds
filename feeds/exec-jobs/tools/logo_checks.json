@@ -1,4 +1,19 @@
 {
+ "achieva-cu": {
+  "checked": "2026-11-23",
+  "file": "achieva-cu-v1.png",
+  "result": "current"
+ },
+ "alabama-cu": {
+  "checked": "2026-11-23",
+  "file": "alabama-cu-v1.png",
+  "result": "current"
+ },
+ "allegacy-fcu": {
+  "checked": "2026-11-23",
+  "file": "allegacy-fcu-v1.png",
+  "result": "current"
+ },
  "americhoice-fcu": {
   "checked": "2026-11-23",
   "file": "americhoice-fcu-v1.png",
@@ -25,9 +40,29 @@
   "file": "ascentra-cu-v1.png",
   "result": "current"
  },
+ "atlantic-fcu-me": {
+  "checked": "2026-11-23",
+  "file": "atlantic-fcu-me-v1.png",
+  "result": "current"
+ },
+ "austin-telco-fcu": {
+  "checked": "2026-11-23",
+  "file": "austin-telco-fcu-v1.png",
+  "result": "current"
+ },
+ "blackhawk-ccu": {
+  "checked": "2026-11-23",
+  "file": "blackhawk-ccu-v1.png",
+  "result": "current"
+ },
  "brewery-cu": {
   "checked": "2026-11-23",
   "file": "brewery-cu-v1.png",
+  "result": "current"
+ },
+ "broadview-fcu": {
+  "checked": "2026-11-23",
+  "file": "broadview-fcu-v1.png",
   "result": "current"
  },
  "bronco-fcu": {
@@ -55,9 +90,39 @@
   "file": "charter-oak-fcu-v1.png",
   "result": "current"
  },
+ "chevron-fcu": {
+  "checked": "2026-11-23",
+  "file": "chevron-fcu-v1.png",
+  "result": "current"
+ },
  "community-first-cu-fl": {
   "checked": "2026-11-23",
   "file": "community-first-cu-fl-v1.png",
+  "result": "current"
+ },
+ "credit-human": {
+  "checked": "2026-11-23",
+  "file": "credit-human-v1.png",
+  "result": "current"
+ },
+ "cu-of-colorado": {
+  "checked": "2026-11-23",
+  "file": "cu-of-colorado-v1.png",
+  "result": "current"
+ },
+ "cutx": {
+  "checked": "2026-11-23",
+  "file": "cutx-v1.png",
+  "result": "current"
+ },
+ "desert-financial-cu": {
+  "checked": "2026-11-23",
+  "file": "desert-financial-cu-v1.png",
+  "result": "current"
+ },
+ "elements-financial-fcu": {
+  "checked": "2026-11-23",
+  "file": "elements-financial-fcu-v1.png",
   "result": "current"
  },
  "enrichment-fcu": {
@@ -73,6 +138,11 @@
  "first-choice-cu-fl": {
   "checked": "2026-11-23",
   "file": "first-choice-cu-fl-v1.png",
+  "result": "current"
+ },
+ "first-community-cu-tx": {
+  "checked": "2026-11-23",
+  "file": "first-community-cu-tx-v1.png",
   "result": "current"
  },
  "first-heritage-fcu": {
@@ -95,6 +165,11 @@
   "note": "site refused us on 2026-11-23 (403); not asked again for 30 days; source dated 2026-06-01",
   "result": "confirmed"
  },
+ "global-fcu-ak": {
+  "checked": "2026-11-23",
+  "file": "global-fcu-ak-v1.png",
+  "result": "current"
+ },
  "golden-circle-cu": {
   "checked": "2026-11-23",
   "file": "golden-circle-cu-v1.png",
@@ -110,9 +185,24 @@
   "file": "greylock-fcu-v1.png",
   "result": "current"
  },
+ "hanscom-fcu": {
+  "checked": "2026-11-23",
+  "file": "hanscom-fcu-v1.png",
+  "result": "current"
+ },
+ "heritage-financial-fcu-ny": {
+  "checked": "2026-11-23",
+  "file": "heritage-financial-fcu-ny-v1.png",
+  "result": "current"
+ },
  "intrepid-cu": {
   "checked": "2026-11-23",
   "file": "intrepid-cu-v1.png",
+  "result": "current"
+ },
+ "keesler-fcu": {
+  "checked": "2026-11-23",
+  "file": "keesler-fcu-v1.png",
   "result": "current"
  },
  "kh-cu": {
@@ -130,10 +220,35 @@
   "file": "kinetic-cu-v1.png",
   "result": "current"
  },
+ "lafayette-fcu": {
+  "checked": "2026-11-23",
+  "file": "lafayette-fcu-v1.png",
+  "result": "current"
+ },
  "levo-cu": {
   "checked": "2026-11-23",
   "file": "levo-cu-v1.png",
   "result": "current"
+ },
+ "liberty-fcu-in": {
+  "checked": "2026-11-23",
+  "file": "liberty-fcu-in-v1.png",
+  "result": "current"
+ },
+ "meridian-trust-fcu": {
+  "checked": "2026-11-23",
+  "file": "meridian-trust-fcu-v1.png",
+  "result": "current"
+ },
+ "mountain-america-cu": {
+  "checked": "2026-11-23",
+  "confirmed": {
+   "date": "2026-11-23",
+   "source": "https://careers.macu.com/"
+  },
+  "file": "mountain-america-cu-v1.png",
+  "note": "no logo found on the live site; source undated",
+  "result": "confirmed"
  },
  "multipli-cu": {
   "checked": "2026-11-23",
@@ -150,9 +265,29 @@
   "file": "north-star-ccu-v1.png",
   "result": "current"
  },
+ "orange-countys-cu": {
+  "checked": "2026-11-23",
+  "file": "orange-countys-cu-v1.png",
+  "result": "current"
+ },
+ "ornl-fcu": {
+  "checked": "2026-11-23",
+  "file": "ornl-fcu-v1.png",
+  "result": "current"
+ },
+ "orsa-cu": {
+  "checked": "2026-11-23",
+  "file": "orsa-cu-v1.png",
+  "result": "current"
+ },
  "oswego-county-fcu": {
   "checked": "2026-11-23",
   "file": "oswego-county-fcu-v1.png",
+  "result": "current"
+ },
+ "pacific-service-cu": {
+  "checked": "2026-11-23",
+  "file": "pacific-service-cu-v1.png",
   "result": "current"
  },
  "park-community-cu": {
@@ -185,6 +320,16 @@
   "file": "rocky-mountain-cu-mt-v1.png",
   "result": "current"
  },
+ "schoolsfirst-fcu": {
+  "checked": "2026-11-23",
+  "file": "schoolsfirst-fcu-v1.png",
+  "result": "current"
+ },
+ "sdccu": {
+  "checked": "2026-11-23",
+  "file": "sdccu-v1.png",
+  "result": "current"
+ },
  "seaboard-fcu": {
   "checked": "2026-11-23",
   "file": "seaboard-fcu-v1.png",
@@ -195,14 +340,49 @@
   "file": "seattle-cu-v1.png",
   "result": "current"
  },
+ "secu-nc": {
+  "checked": "2026-11-23",
+  "file": "secu-nc-v1.png",
+  "result": "current"
+ },
+ "selfreliance-fcu": {
+  "checked": "2026-11-23",
+  "file": "selfreliance-fcu-v1.png",
+  "result": "current"
+ },
+ "service-1st-fcu": {
+  "checked": "2026-11-23",
+  "file": "service-1st-fcu-v1.png",
+  "result": "current"
+ },
  "sf-fire-cu": {
   "checked": "2026-11-23",
   "file": "sf-fire-cu-v1.png",
   "result": "current"
  },
+ "southpoint-financial-cu": {
+  "checked": "2026-11-23",
+  "file": "southpoint-financial-cu-v1.png",
+  "result": "current"
+ },
  "spectra-cu": {
   "checked": "2026-11-23",
   "file": "spectra-cu-v1.png",
+  "result": "current"
+ },
+ "superior-choice-cu": {
+  "checked": "2026-11-23",
+  "file": "superior-choice-cu-v1.png",
+  "result": "current"
+ },
+ "tower-fcu": {
+  "checked": "2026-11-23",
+  "file": "tower-fcu-v1.png",
+  "result": "current"
+ },
+ "town-and-country-cu-nd": {
+  "checked": "2026-11-23",
+  "file": "town-and-country-cu-nd-v1.png",
   "result": "current"
  },
  "truity-fcu": {
@@ -219,6 +399,16 @@
  "uecu": {
   "checked": "2026-11-23",
   "file": "uecu-v1.png",
+  "result": "current"
+ },
+ "uncle-cu": {
+  "checked": "2026-11-23",
+  "file": "uncle-cu-v1.png",
+  "result": "current"
+ },
+ "unfcu": {
+  "checked": "2026-11-23",
+  "file": "unfcu-v1.png",
   "result": "current"
  },
  "university-cu-ca": {
@@ -241,9 +431,30 @@
   "note": "no logo found on the live site; source undated",
   "result": "confirmed"
  },
+ "wellby-financial": {
+  "file": "wellby-financial-v1.png",
+  "live_sig": [
+   [
+    "00164116061696b696d6ba1676167496769d36169a169cb69d36425204120012",
+    4.281
+   ],
+   [
+    "b332329236927691e338c9686239323332336239c968e33872b1369232b2b332",
+    1.133
+   ]
+  ],
+  "note": "Cropped Wellby's own mark from its Rockets partner lockup on the live site",
+  "ok": true,
+  "reviewed": "2026-11-23"
+ },
  "winnebago-community-cu": {
   "checked": "2026-11-23",
   "file": "winnebago-community-cu-v1.png",
+  "result": "current"
+ },
+ "wsecu": {
+  "checked": "2026-11-23",
+  "file": "wsecu-v1.png",
   "result": "current"
  }
 }
