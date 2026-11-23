@@ -1,0 +1,240 @@
+{
+  "last_review": "2026-11-23T05:36-05:00",
+  "last_review_file": "2026-11-23-0535.json",
+  "last_review_result": "partial",
+  "last_review_errors": [
+    "creditunionjobnetwork.iapplicants.com: HTTP 521 (Cornerstone Resources' board down)"
+  ],
+  "last_review_report": {
+    "added": [
+      {
+        "id": "undated-seattle-metropolitan-credit-union-president-and-ceo",
+        "summary": "Seattle Metropolitan Credit Union / President & CEO"
+      },
+      {
+        "id": "undated-rocky-mountain-credit-union-president-and-ceo",
+        "summary": "Rocky Mountain Credit Union / President & CEO"
+      },
+      {
+        "id": "2026-09-29-san-francisco-fire-credit-union-chief-people-officer",
+        "summary": "San Francisco Fire Credit Union / Chief People Officer"
+      },
+      {
+        "id": "2026-10-06-spectra-federal-credit-union-chief-member-experience-officer",
+        "summary": "Spectra Federal Credit Union / Chief Member Experience Officer"
+      },
+      {
+        "id": "2026-09-29-community-credit-union-of-florida-chief-information-officer",
+        "summary": "Community Credit Union of Florida / Chief Information Officer"
+      },
+      {
+        "id": "undated-credit-union-1-chief-technology-officer",
+        "summary": "Credit Union 1 / Chief Technology Officer"
+      },
+      {
+        "id": "2026-09-30-apple-federal-credit-union-svp-people-development",
+        "summary": "Apple Federal Credit Union / SVP People Development"
+      },
+      {
+        "id": "2026-10-19-champions-first-credit-union-vp-retail-operations",
+        "summary": "Champions First Credit Union / VP, Retail Operations"
+      },
+      {
+        "id": "undated-community-first-credit-union-of-florida-svp-enterprise-applications",
+        "summary": "Community First Credit Union of Florida / SVP, Enterprise Applications"
+      },
+      {
+        "id": "undated-community-first-credit-union-of-florida-vp-internal-audit",
+        "summary": "Community First Credit Union of Florida / VP, Internal Audit"
+      },
+      {
+        "id": "undated-georgia-s-own-credit-union-chief-financial-officer",
+        "summary": "Georgia's Own Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "2026-09-30-kinetic-federal-credit-union-vp-chief-strategy-and-marketing-officer",
+        "summary": "Kinetic Federal Credit Union / VP, Chief Strategy & Marketing Officer"
+      },
+      {
+        "id": "undated-multipli-federal-credit-union-svp-real-estate-lending",
+        "summary": "Multipli Federal Credit Union / SVP, Real Estate Lending"
+      },
+      {
+        "id": "2026-09-29-north-star-community-credit-union-chief-operating-officer",
+        "summary": "North Star Community Credit Union / Chief Operating Officer"
+      },
+      {
+        "id": "2026-10-16-gecu-federal-credit-union-chief-financial-officer",
+        "summary": "GECU Federal Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "2026-10-09-great-plains-federal-credit-union-vp-lending",
+        "summary": "Great Plains Federal Credit Union / VP, Lending"
+      },
+      {
+        "id": "2026-10-09-great-plains-federal-credit-union-chief-financial-officer",
+        "summary": "Great Plains Federal Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "2026-09-30-intrepid-credit-union-vp-member-growth-and-retail-services",
+        "summary": "Intrepid Credit Union / VP, Member Growth & Retail Services"
+      },
+      {
+        "id": "2026-09-22-fedchoice-federal-credit-union-vp-lending",
+        "summary": "FedChoice Federal Credit Union / VP, Lending"
+      },
+      {
+        "id": "2026-09-11-valley-first-federal-credit-union-vp-consumer-lending-and-member-solutions",
+        "summary": "Valley First Federal Credit Union / VP, Consumer Lending & Member Solutions"
+      },
+      {
+        "id": "2026-09-11-revity-credit-union-chief-lending-officer",
+        "summary": "Revity Credit Union / Chief Lending Officer"
+      },
+      {
+        "id": "2026-09-11-enrichment-federal-credit-union-chief-risk-officer",
+        "summary": "Enrichment Federal Credit Union / Chief Risk Officer"
+      },
+      {
+        "id": "2026-08-07-frontwave-credit-union-vp-consumer-lending",
+        "summary": "Frontwave Credit Union / VP, Consumer Lending"
+      },
+      {
+        "id": "2026-08-07-capital-credit-union-svp-operations",
+        "summary": "Capital Credit Union / SVP, Operations"
+      },
+      {
+        "id": "2026-06-30-valley-first-federal-credit-union-vp-member-experience",
+        "summary": "Valley First Federal Credit Union / VP, Member Experience"
+      },
+      {
+        "id": "2026-10-26-kh-credit-union-inc-president-and-ceo",
+        "summary": "KH Credit Union, Inc. / President & CEO"
+      },
+      {
+        "id": "2026-09-29-seaboard-federal-credit-union-president-and-ceo",
+        "summary": "Seaboard Federal Credit Union / President & CEO"
+      },
+      {
+        "id": "2026-09-16-pioneer-federal-credit-union-ceo",
+        "summary": "Pioneer Federal Credit Union / CEO"
+      },
+      {
+        "id": "2026-09-09-first-choice-credit-union-chief-operations-officer",
+        "summary": "First Choice Credit Union / Chief Operations Officer"
+      },
+      {
+        "id": "2026-09-07-first-source-federal-credit-union-chief-lending-officer",
+        "summary": "First Source Federal Credit Union / Chief Lending Officer"
+      },
+      {
+        "id": "2026-08-12-levo-federal-credit-union-svp-member-services",
+        "summary": "Levo Federal Credit Union / SVP, Member Services"
+      },
+      {
+        "id": "2026-06-09-oswego-county-federal-credit-union-president-and-ceo",
+        "summary": "Oswego County Federal Credit Union / President & CEO"
+      },
+      {
+        "id": "2026-07-09-park-federal-credit-union-chief-strategy-and-capital-officer",
+        "summary": "Park Federal Credit Union / Chief Strategy & Capital Officer"
+      },
+      {
+        "id": "2026-05-14-university-credit-union-chief-technology-officer",
+        "summary": "University Credit Union / Chief Technology Officer"
+      },
+      {
+        "id": "2026-05-04-arapahoe-credit-union-president-and-ceo",
+        "summary": "Arapahoe Credit Union / President & CEO"
+      },
+      {
+        "id": "2026-04-28-noble-federal-credit-union-chief-financial-officer",
+        "summary": "Noble Federal Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "2026-04-20-noble-federal-credit-union-chief-operations-officer",
+        "summary": "Noble Federal Credit Union / Chief Operations Officer"
+      },
+      {
+        "id": "undated-truity-federal-credit-union-chief-financial-officer",
+        "summary": "Truity Federal Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "undated-golden-circle-credit-union-chief-financial-officer",
+        "summary": "Golden Circle Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "undated-americhoice-federal-credit-union-president-and-ceo",
+        "summary": "AmeriChoice Federal Credit Union / President & CEO"
+      },
+      {
+        "id": "undated-golden-circle-credit-union-president-and-ceo",
+        "summary": "Golden Circle Credit Union / President & CEO"
+      },
+      {
+        "id": "undated-we-florida-financial-credit-union-vp-sales-and-service",
+        "summary": "We Florida Financial Credit Union / VP, Sales & Service"
+      },
+      {
+        "id": "undated-utilities-employees-credit-union-vp-marketing-and-business-development",
+        "summary": "Utilities Employees Credit Union / VP, Marketing & Business Development"
+      },
+      {
+        "id": "2026-10-15-public-safety-credit-union-chief-financial-officer",
+        "summary": "Public Safety Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "2026-10-15-bronco-federal-credit-union-chief-financial-officer",
+        "summary": "Bronco Federal Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "undated-first-heritage-federal-credit-union-president-and-ceo",
+        "summary": "First Heritage Federal Credit Union / President & CEO"
+      },
+      {
+        "id": "undated-qside-federal-credit-union-vp-finance",
+        "summary": "Qside Federal Credit Union / VP, Finance"
+      },
+      {
+        "id": "2026-11-12-brewery-credit-union-vp-lending",
+        "summary": "Brewery Credit Union / VP, Lending"
+      },
+      {
+        "id": "2026-09-14-greylock-federal-credit-union-vp-real-estate-lending",
+        "summary": "Greylock Federal Credit Union / VP, Real Estate Lending"
+      },
+      {
+        "id": "2026-10-30-charter-oak-federal-credit-union-svp-chief-technology-officer",
+        "summary": "Charter Oak Federal Credit Union / SVP, Chief Technology Officer"
+      },
+      {
+        "id": "2026-10-22-americu-credit-union-chief-people-officer",
+        "summary": "AmeriCU Credit Union / Chief People Officer"
+      },
+      {
+        "id": "2026-11-16-ascentra-credit-union-chief-technology-and-innovation-officer",
+        "summary": "Ascentra Credit Union / Chief Technology & Innovation Officer"
+      },
+      {
+        "id": "2026-09-17-winnebago-community-credit-union-vp-finance",
+        "summary": "Winnebago Community Credit Union / VP, Finance"
+      },
+      {
+        "id": "undated-jeanne-d-arc-credit-union-vp-commercial-lending-and-business-banking",
+        "summary": "Jeanne D'Arc Credit Union / VP, Commercial Lending & Business Banking"
+      },
+      {
+        "id": "undated-richland-federal-credit-union-chief-financial-officer",
+        "summary": "Richland Federal Credit Union / Chief Financial Officer"
+      },
+      {
+        "id": "2026-11-06-westconsin-credit-union-president-and-ceo",
+        "summary": "WESTconsin Credit Union / President & CEO"
+      }
+    ],
+    "updated": [],
+    "rechecked": [],
+    "reviewed": 0,
+    "rejected": []
+  }
+}

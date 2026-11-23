@@ -1,0 +1,22 @@
+{
+  "feed": "exec-jobs",
+  "title": "Credit Union Executive Openings",
+  "result": "ok",
+  "last_build": "2026-11-23T05:36:53-05:00",
+  "last_collect": "",
+  "last_collect_result": "",
+  "collect_errors": [],
+  "last_review": "2026-11-23T05:36-05:00",
+  "last_review_result": "partial",
+  "review_errors": [
+    "creditunionjobnetwork.iapplicants.com: HTTP 521 (Cornerstone Resources' board down)"
+  ],
+  "items": 56,
+  "open_items": 54,
+  "pending_inbox": 0,
+  "organizations_needed": 0,
+  "logos_missing": 1,
+  "warnings": [],
+  "errors": [],
+  "trial": true
+}

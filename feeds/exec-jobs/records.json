@@ -1,0 +1,3718 @@
+{
+  "records": [
+    {
+      "id": "2026-11-16-ascentra-credit-union-chief-technology-and-innovation-officer",
+      "fields": {
+        "posted": "2026-11-16",
+        "organization": "Ascentra Credit Union",
+        "title": "Chief Technology & Innovation Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$200K-$250K",
+        "work_mode": null,
+        "job_url": "https://www.cues.org/networking/credit-union-job-board/chief-technology-and-innovation-officer",
+        "size_band": "$500M-$1B",
+        "city": "Bettendorf",
+        "state": "IA",
+        "org_assets": 587.1,
+        "org_members": 43266,
+        "assets_as_of": "Q3 2026",
+        "notes": "Apply by Dec 31, 2026."
+      },
+      "sources": [
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-technology-and-innovation-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "Ascentra careers",
+          "url": "https://www.ascentra.org/belong/career-opportunities",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63268",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "posted": 0,
+        "pay_range": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "ascentra-cu"
+      }
+    },
+    {
+      "id": "2026-11-12-brewery-credit-union-vp-lending",
+      "fields": {
+        "posted": "2026-11-12",
+        "organization": "Brewery Credit Union",
+        "title": "VP, Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Zealyst",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://zealyst.app.loxo.co/job/NDU1NzgtOWJncTh0eDV0eDhlemJxNg==",
+        "size_band": "Under $500M",
+        "city": "Milwaukee",
+        "state": "WI",
+        "org_assets": 58.2,
+        "org_members": 7630,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Zealyst posting",
+          "url": "https://zealyst.app.loxo.co/job/NDU1NzgtOWJncTh0eDV0eDhlemJxNg==",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-lending-1",
+          "type": "aggregator"
+        },
+        {
+          "label": "CUInsight job board",
+          "url": "https://xprss.io/zgzas",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66637",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 3,
+        "city": 3,
+        "state": 3,
+        "org_assets": 3,
+        "org_members": 3,
+        "assets_as_of": 3,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "brewery-cu"
+      }
+    },
+    {
+      "id": "2026-11-06-westconsin-credit-union-president-and-ceo",
+      "fields": {
+        "posted": "2026-11-06",
+        "organization": "WESTconsin Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.cuinsight.com/?p=218681",
+        "size_band": "$1B-$5B",
+        "city": "Menomonie",
+        "state": "WI",
+        "org_assets": 2250.9,
+        "org_members": 129221,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO Jim Wookey retires in 2027; a national recruiting firm will lead the search."
+      },
+      "sources": [
+        {
+          "label": "CUInsight release",
+          "url": "https://www.cuinsight.com/?p=218681",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66742",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "westconsin-cu"
+      }
+    },
+    {
+      "id": "2026-10-30-charter-oak-federal-credit-union-svp-chief-technology-officer",
+      "fields": {
+        "posted": "2026-10-30",
+        "organization": "Charter Oak Federal Credit Union",
+        "title": "SVP, Chief Technology Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.cues.org/networking/credit-union-job-board/svp-chief-technology-officer",
+        "size_band": "$1B-$5B",
+        "city": "Waterford",
+        "state": "CT",
+        "org_assets": 1688.8,
+        "org_members": 79126,
+        "assets_as_of": "Q3 2026",
+        "notes": "Apply by Dec 5, 2026."
+      },
+      "sources": [
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/svp-chief-technology-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "Charter Oak careers",
+          "url": "https://charteroak.org/resources/careers/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3413",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "posted": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-10-26-kh-credit-union-inc-president-and-ceo",
+      "fields": {
+        "posted": "2026-10-26",
+        "organization": "KH Credit Union, Inc.",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-1",
+        "size_band": "Under $500M",
+        "city": "Dayton",
+        "state": "OH",
+        "org_assets": 71.1,
+        "org_members": 7774,
+        "assets_as_of": "Q2 2026",
+        "notes": "Credit union for Kettering Health employees."
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-1",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "kh-cu"
+      }
+    },
+    {
+      "id": "2026-10-22-americu-credit-union-chief-people-officer",
+      "fields": {
+        "posted": "2026-10-22",
+        "organization": "AmeriCU Credit Union",
+        "title": "Chief People Officer",
+        "level": "C-suite",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$185K-$246K",
+        "work_mode": "Hybrid",
+        "job_url": "https://app.jobvite.com/j?cj=oKbWAfwb&s=CUES",
+        "size_band": "$1B-$5B",
+        "city": "Rome",
+        "state": "NY",
+        "org_assets": 3029.8,
+        "org_members": 214560,
+        "assets_as_of": "Q3 2026",
+        "notes": "Apply by Dec 22, 2026."
+      },
+      "sources": [
+        {
+          "label": "Credit union posting",
+          "url": "https://app.jobvite.com/j?cj=oKbWAfwb&s=CUES",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-people-officer-0",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68433",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "posted": 0,
+        "pay_range": 0,
+        "work_mode": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "americu"
+      }
+    },
+    {
+      "id": "2026-10-19-champions-first-credit-union-vp-retail-operations",
+      "fields": {
+        "posted": "2026-10-19",
+        "organization": "Champions First Credit Union",
+        "title": "VP, Retail Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/champions-first-credit-union-vice-president-of-operations",
+        "size_band": "$500M-$1B",
+        "city": "Tallahassee",
+        "state": "FL",
+        "org_assets": 529.8,
+        "org_members": 33143,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/champions-first-credit-union-vice-president-of-operations",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vp-retail-operations",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67874",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "champions-first-cu"
+      }
+    },
+    {
+      "id": "2026-10-16-gecu-federal-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": "2026-10-16",
+        "organization": "GECU Federal Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://ddjmyers.com/open-positions/chief-financial-officer-gecu",
+        "size_band": "$1B-$5B",
+        "city": "El Paso",
+        "state": "TX",
+        "org_assets": 4832.0,
+        "org_members": 447666,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/chief-financial-officer-gecu",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24941",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "gecu"
+      }
+    },
+    {
+      "id": "2026-10-15-public-safety-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": "2026-10-15",
+        "organization": "Public Safety Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Zealyst",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://zealyst.app.loxo.co/job/NDU1NzgtanRzb29ua3VwMHVyeDFlOA==",
+        "size_band": "Under $500M",
+        "city": "Kansas City",
+        "state": "MO",
+        "org_assets": 191.6,
+        "org_members": 13656,
+        "assets_as_of": "Q3 2026",
+        "notes": "Replaces a retiring CFO; Cornerstone Resources has also posted it."
+      },
+      "sources": [
+        {
+          "label": "Zealyst posting",
+          "url": "https://zealyst.app.loxo.co/job/NDU1NzgtanRzb29ua3VwMHVyeDFlOA==",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-financial-officer-2",
+          "type": "aggregator"
+        },
+        {
+          "label": "The Credit Union Connection (Cornerstone Resources posting)",
+          "url": "https://thecreditunionconnection.com/job/chief-financial-officer-7-public-safety-credit-union-cornerstone/",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62812",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 3,
+        "city": 3,
+        "state": 3,
+        "org_assets": 3,
+        "org_members": 3,
+        "assets_as_of": 3,
+        "search_firm": 0,
+        "posted": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "public-safety-cu-mo"
+      }
+    },
+    {
+      "id": "2026-10-15-bronco-federal-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": "2026-10-15",
+        "organization": "Bronco Federal Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Zealyst",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://zealyst.app.loxo.co/job/NDU1NzgtY3RucGRwb2NpOTlxd3Z6cA==",
+        "size_band": "Under $500M",
+        "city": "Franklin",
+        "state": "VA",
+        "org_assets": 292.4,
+        "org_members": 19348,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Zealyst posting",
+          "url": "https://zealyst.app.loxo.co/job/NDU1NzgtY3RucGRwb2NpOTlxd3Z6cA==",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-financial-officer-3",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4616",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "bronco-fcu"
+      }
+    },
+    {
+      "id": "2026-10-09-great-plains-federal-credit-union-vp-lending",
+      "fields": {
+        "posted": "2026-10-09",
+        "organization": "Great Plains Federal Credit Union",
+        "title": "VP, Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": "On-site",
+        "job_url": "https://ddjmyers.com/open-positions/vice-president-of-lending-3",
+        "size_band": "Under $500M",
+        "city": "Joplin",
+        "state": "MO",
+        "org_assets": 307.7,
+        "org_members": 26909,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/vice-president-of-lending-3",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-lending-0",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6853",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "great-plains-fcu-mo"
+      }
+    },
+    {
+      "id": "2026-10-09-great-plains-federal-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": "2026-10-09",
+        "organization": "Great Plains Federal Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": "On-site",
+        "job_url": "https://ddjmyers.com/open-positions/chief-financial-officer-2",
+        "size_band": "Under $500M",
+        "city": "Joplin",
+        "state": "MO",
+        "org_assets": 307.7,
+        "org_members": 26909,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/chief-financial-officer-2",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-financial-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6853",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "great-plains-fcu-mo"
+      }
+    },
+    {
+      "id": "2026-10-06-spectra-federal-credit-union-chief-member-experience-officer",
+      "fields": {
+        "posted": "2026-10-06",
+        "organization": "Spectra Federal Credit Union",
+        "title": "Chief Member Experience Officer",
+        "level": "C-suite",
+        "function": "Member Experience",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/spectra-chief-member-experience-officer",
+        "size_band": "$500M-$1B",
+        "city": "Alexandria",
+        "state": "VA",
+        "org_assets": 568.2,
+        "org_members": 32830,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/spectra-chief-member-experience-officer",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-member-experience-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5380",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "spectra-cu"
+      }
+    },
+    {
+      "id": "2026-09-30-apple-federal-credit-union-svp-people-development",
+      "fields": {
+        "posted": "2026-09-30",
+        "organization": "Apple Federal Credit Union",
+        "title": "SVP People Development",
+        "level": "EVP / SVP / VP",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/apple-credit-union-senior-vice-president-people-development",
+        "size_band": "$5B+",
+        "city": "Fairfax",
+        "state": "VA",
+        "org_assets": 5730.9,
+        "org_members": 268521,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/apple-credit-union-senior-vice-president-people-development",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/senior-vice-president-people-development",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11307",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "apple-fcu"
+      }
+    },
+    {
+      "id": "2026-09-30-kinetic-federal-credit-union-vp-chief-strategy-and-marketing-officer",
+      "fields": {
+        "posted": "2026-09-30",
+        "organization": "Kinetic Federal Credit Union",
+        "title": "VP, Chief Strategy & Marketing Officer",
+        "level": "C-suite",
+        "function": "Strategy",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/kinetic-credit-union-vice-president-chief-strategy-and-marketing-officer",
+        "size_band": "$500M-$1B",
+        "city": "Columbus",
+        "state": "GA",
+        "org_assets": 659.1,
+        "org_members": 45054,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/kinetic-credit-union-vice-president-chief-strategy-and-marketing-officer",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-chief-strategy-and-marketing-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/10866",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "kinetic-cu"
+      }
+    },
+    {
+      "id": "2026-09-30-intrepid-credit-union-vp-member-growth-and-retail-services",
+      "fields": {
+        "posted": "2026-09-30",
+        "organization": "Intrepid Credit Union",
+        "title": "VP, Member Growth & Retail Services",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://ddjmyers.com/open-positions/vice-president-of-retail-services",
+        "size_band": "Under $500M",
+        "city": "Helena",
+        "state": "MT",
+        "org_assets": 311.1,
+        "org_members": 19035,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/vice-president-of-retail-services",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-member-growth-and-retail-services",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68495",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "intrepid-cu"
+      }
+    },
+    {
+      "id": "2026-09-29-san-francisco-fire-credit-union-chief-people-officer",
+      "fields": {
+        "posted": "2026-09-29",
+        "organization": "San Francisco Fire Credit Union",
+        "title": "Chief People Officer",
+        "level": "C-suite",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/san-francisco-fire-credit-union-chief-people-officer",
+        "size_band": "$1B-$5B",
+        "city": "San Francisco",
+        "state": "CA",
+        "org_assets": 1617.7,
+        "org_members": 72752,
+        "assets_as_of": "Q2 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/san-francisco-fire-credit-union-chief-people-officer",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-people-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "sf-fire-cu"
+      }
+    },
+    {
+      "id": "2026-09-29-community-credit-union-of-florida-chief-information-officer",
+      "fields": {
+        "posted": "2026-09-29",
+        "organization": "Community Credit Union of Florida",
+        "title": "Chief Information Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/community-credit-union-of-florida-chief-information-officer",
+        "size_band": "$1B-$5B",
+        "city": "Rockledge",
+        "state": "FL",
+        "org_assets": 1450.9,
+        "org_members": 57031,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/community-credit-union-of-florida-chief-information-officer",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-information-officer-1",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60816",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "ccu-florida"
+      }
+    },
+    {
+      "id": "2026-09-29-north-star-community-credit-union-chief-operating-officer",
+      "fields": {
+        "posted": "2026-09-29",
+        "organization": "North Star Community Credit Union",
+        "title": "Chief Operating Officer",
+        "level": "C-suite",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/north-star-community-credit-union-chief-operating-officer",
+        "size_band": "Under $500M",
+        "city": "Maddock",
+        "state": "ND",
+        "org_assets": 469.8,
+        "org_members": 22615,
+        "assets_as_of": "Q3 2026",
+        "notes": "Based in Maddock or Minot."
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/north-star-community-credit-union-chief-operating-officer",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-operating-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62563",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "north-star-ccu"
+      }
+    },
+    {
+      "id": "2026-09-29-seaboard-federal-credit-union-president-and-ceo",
+      "fields": {
+        "posted": "2026-09-29",
+        "organization": "Seaboard Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": "$214K-$358K",
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-2",
+        "size_band": "Under $500M",
+        "city": "Bucksport",
+        "state": "ME",
+        "org_assets": 247.3,
+        "org_members": 13564,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-2",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4118",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "pay_range": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "seaboard-fcu"
+      }
+    },
+    {
+      "id": "2026-09-22-fedchoice-federal-credit-union-vp-lending",
+      "fields": {
+        "posted": "2026-09-22",
+        "organization": "FedChoice Federal Credit Union",
+        "title": "VP, Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": "Hybrid",
+        "job_url": "https://ddjmyers.com/open-positions/vice-president-of-lending-2",
+        "size_band": "Under $500M",
+        "city": "Lanham",
+        "state": "MD",
+        "org_assets": 461.2,
+        "org_members": 26105,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/vice-president-of-lending-2",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-lending",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/150",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "fedchoice-fcu"
+      }
+    },
+    {
+      "id": "2026-09-17-winnebago-community-credit-union-vp-finance",
+      "fields": {
+        "posted": "2026-09-17",
+        "organization": "Winnebago Community Credit Union",
+        "title": "VP, Finance",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.theleague.coop/job-listing/vice-president-of-finance-winnebago-community-credit-union/",
+        "size_band": "Under $500M",
+        "city": "Oshkosh",
+        "state": "WI",
+        "org_assets": 180.4,
+        "org_members": 8556,
+        "assets_as_of": "Q3 2026",
+        "notes": "Listing open through Dec 31, 2026."
+      },
+      "sources": [
+        {
+          "label": "League job board",
+          "url": "https://www.theleague.coop/job-listing/vice-president-of-finance-winnebago-community-credit-union/",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66437",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "winnebago-community-cu"
+      }
+    },
+    {
+      "id": "2026-09-16-pioneer-federal-credit-union-ceo",
+      "fields": {
+        "posted": "2026-09-16",
+        "organization": "Pioneer Federal Credit Union",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-ChiefExecutiveOfficer-3",
+        "size_band": "$500M-$1B",
+        "city": "Mountain Home",
+        "state": "ID",
+        "org_assets": 746.7,
+        "org_members": 47132,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-ChiefExecutiveOfficer-3",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9247",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "pioneer-fcu-id"
+      }
+    },
+    {
+      "id": "2026-09-14-greylock-federal-credit-union-vp-real-estate-lending",
+      "fields": {
+        "posted": "2026-09-14",
+        "organization": "Greylock Federal Credit Union",
+        "title": "VP, Real Estate Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Zealyst",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://zealyst.app.loxo.co/job/NDU1NzgtZzlzbWk1NWJ3bWtwNHc2aw==",
+        "size_band": "$1B-$5B",
+        "city": "Pittsfield",
+        "state": "MA",
+        "org_assets": 1769.9,
+        "org_members": 114880,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Zealyst posting",
+          "url": "https://zealyst.app.loxo.co/job/NDU1NzgtZzlzbWk1NWJ3bWtwNHc2aw==",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vp-real-estate-lending",
+          "type": "aggregator"
+        },
+        {
+          "label": "CCUA job board",
+          "url": "https://www.ccua.org/vp-real-estate-lending",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24560",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 3,
+        "city": 3,
+        "state": 3,
+        "org_assets": 3,
+        "org_members": 3,
+        "assets_as_of": 3,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "greylock-fcu"
+      }
+    },
+    {
+      "id": "2026-09-11-valley-first-federal-credit-union-vp-consumer-lending-and-member-solutions",
+      "fields": {
+        "posted": "2026-09-11",
+        "organization": "Valley First Federal Credit Union",
+        "title": "VP, Consumer Lending & Member Solutions",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://ddjmyers.com/open-positions/vice-president-consumer-lending-member-solutions",
+        "size_band": "$1B-$5B",
+        "city": "Modesto",
+        "state": "CA",
+        "org_assets": 1128.2,
+        "org_members": 81825,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/vice-president-consumer-lending-member-solutions",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-consumer-lending-member-solutions",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24986",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "valley-first-cu-ca"
+      }
+    },
+    {
+      "id": "2026-09-11-revity-credit-union-chief-lending-officer",
+      "fields": {
+        "posted": "2026-09-11",
+        "organization": "Revity Credit Union",
+        "title": "Chief Lending Officer",
+        "level": "C-suite",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://ddjmyers.com/open-positions/chief-lending-officer-2",
+        "size_band": "$500M-$1B",
+        "city": "Granite City",
+        "state": "IL",
+        "org_assets": 505.9,
+        "org_members": 37052,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/chief-lending-officer-2",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68623",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "revity-cu"
+      }
+    },
+    {
+      "id": "2026-09-11-enrichment-federal-credit-union-chief-risk-officer",
+      "fields": {
+        "posted": "2026-09-11",
+        "organization": "Enrichment Federal Credit Union",
+        "title": "Chief Risk Officer",
+        "level": "C-suite",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": "On-site",
+        "job_url": "https://ddjmyers.com/open-positions/chief-risk-officer-2",
+        "size_band": "$500M-$1B",
+        "city": "Oak Ridge",
+        "state": "TN",
+        "org_assets": 991.6,
+        "org_members": 48767,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/chief-risk-officer-2",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/chief-risk-officer",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6778",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "enrichment-fcu"
+      }
+    },
+    {
+      "id": "2026-09-09-first-choice-credit-union-chief-operations-officer",
+      "fields": {
+        "posted": "2026-09-09",
+        "organization": "First Choice Credit Union",
+        "title": "Chief Operations Officer",
+        "level": "C-suite",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-ChiefOperationsOfficer-4",
+        "size_band": "Under $500M",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "org_assets": 160.3,
+        "org_members": 8341,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-ChiefOperationsOfficer-4",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67725",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-choice-cu-fl"
+      }
+    },
+    {
+      "id": "2026-09-07-first-source-federal-credit-union-chief-lending-officer",
+      "fields": {
+        "posted": "2026-09-07",
+        "organization": "First Source Federal Credit Union",
+        "title": "Chief Lending Officer",
+        "level": "C-suite",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": "$190K-$225K",
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-ChiefLendingOfficer-5",
+        "size_band": "$1B-$5B",
+        "city": "New Hartford",
+        "state": "NY",
+        "org_assets": 1156.4,
+        "org_members": 65265,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-ChiefLendingOfficer-5",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2658",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "pay_range": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-source-fcu"
+      }
+    },
+    {
+      "id": "2026-08-12-levo-federal-credit-union-svp-member-services",
+      "fields": {
+        "posted": "2026-08-12",
+        "organization": "Levo Federal Credit Union",
+        "title": "SVP, Member Services",
+        "level": "EVP / SVP / VP",
+        "function": "Member Experience",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-SVPMemberServices-6",
+        "size_band": "$500M-$1B",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "org_assets": 511.3,
+        "org_members": 32968,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-SVPMemberServices-6",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "levo-cu"
+      }
+    },
+    {
+      "id": "2026-08-07-frontwave-credit-union-vp-consumer-lending",
+      "fields": {
+        "posted": "2026-08-07",
+        "organization": "Frontwave Credit Union",
+        "title": "VP, Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://ddjmyers.com/open-positions/vice-president-of-consumer-lending",
+        "size_band": "$1B-$5B",
+        "city": "Oceanside",
+        "state": "CA",
+        "org_assets": 1753.6,
+        "org_members": 130318,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/vice-president-of-consumer-lending",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-consumer-lending",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68494",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "frontwave-cu"
+      }
+    },
+    {
+      "id": "2026-08-07-capital-credit-union-svp-operations",
+      "fields": {
+        "posted": "2026-08-07",
+        "organization": "Capital Credit Union",
+        "title": "SVP, Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://ddjmyers.com/open-positions/senior-vice-president-of-operations",
+        "size_band": "$1B-$5B",
+        "city": "Green Bay",
+        "state": "WI",
+        "org_assets": 2891.2,
+        "org_members": 132030,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/senior-vice-president-of-operations",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66865",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "capital-cu-wi"
+      }
+    },
+    {
+      "id": "2026-07-09-park-federal-credit-union-chief-strategy-and-capital-officer",
+      "fields": {
+        "posted": "2026-07-09",
+        "organization": "Park Federal Credit Union",
+        "title": "Chief Strategy & Capital Officer",
+        "level": "C-suite",
+        "function": "Strategy",
+        "status": "Filled",
+        "closed": "2026-11-23",
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-ChiefStrategyCapitalOfficer-JUSTFILLED-8",
+        "size_band": "$1B-$5B",
+        "city": "Louisville",
+        "state": "KY",
+        "org_assets": 1453.2,
+        "org_members": 82626,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-ChiefStrategyCapitalOfficer-JUSTFILLED-8",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24931",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "closed": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "park-community-cu"
+      }
+    },
+    {
+      "id": "2026-06-30-valley-first-federal-credit-union-vp-member-experience",
+      "fields": {
+        "posted": "2026-06-30",
+        "organization": "Valley First Federal Credit Union",
+        "title": "VP, Member Experience",
+        "level": "EVP / SVP / VP",
+        "function": "Member Experience",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "DDJ Myers",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://ddjmyers.com/open-positions/vice-president-member-experience",
+        "size_band": "$1B-$5B",
+        "city": "Modesto",
+        "state": "CA",
+        "org_assets": 1128.2,
+        "org_members": 81825,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "DDJ Myers posting",
+          "url": "https://ddjmyers.com/open-positions/vice-president-member-experience",
+          "type": "primary"
+        },
+        {
+          "label": "CUES job board",
+          "url": "https://www.cues.org/networking/credit-union-job-board/vice-president-member-experience",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24986",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 2,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "search_firm": 0,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "valley-first-cu-ca"
+      }
+    },
+    {
+      "id": "2026-06-09-oswego-county-federal-credit-union-president-and-ceo",
+      "fields": {
+        "posted": "2026-06-09",
+        "organization": "Oswego County Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": "$190K-$275K",
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-7",
+        "size_band": "Under $500M",
+        "city": "Oswego",
+        "state": "NY",
+        "org_assets": 152.8,
+        "org_members": 14715,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-7",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/21927",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "pay_range": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "oswego-county-fcu"
+      }
+    },
+    {
+      "id": "2026-05-14-university-credit-union-chief-technology-officer",
+      "fields": {
+        "posted": "2026-05-14",
+        "organization": "University Credit Union",
+        "title": "Chief Technology Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "Filled",
+        "closed": "2026-11-23",
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": "$231K-$308K",
+        "work_mode": "Hybrid",
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-ChiefTechnologyOfficer-JUSTFILLED-9",
+        "size_band": "$1B-$5B",
+        "city": "Los Angeles",
+        "state": "CA",
+        "org_assets": 1171.3,
+        "org_members": 60914,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-ChiefTechnologyOfficer-JUSTFILLED-9",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64171",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "closed": 0,
+        "pay_range": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "university-cu-ca"
+      }
+    },
+    {
+      "id": "2026-05-04-arapahoe-credit-union-president-and-ceo",
+      "fields": {
+        "posted": "2026-05-04",
+        "organization": "Arapahoe Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": "$190K-$300K",
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-10",
+        "size_band": "Under $500M",
+        "city": "Littleton",
+        "state": "CO",
+        "org_assets": 148.7,
+        "org_members": 8922,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-PresidentChiefExecutiveOfficer-10",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64110",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "pay_range": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "arapahoe-cu"
+      }
+    },
+    {
+      "id": "2026-04-28-noble-federal-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": "2026-04-28",
+        "organization": "Noble Federal Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": "$246K-$323K",
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-ChiefFinancialOfficer-11",
+        "size_band": "$1B-$5B",
+        "city": "Fresno",
+        "state": "CA",
+        "org_assets": 1499.0,
+        "org_members": 120917,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-ChiefFinancialOfficer-11",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24552",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "pay_range": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "noble-cu"
+      }
+    },
+    {
+      "id": "2026-04-20-noble-federal-credit-union-chief-operations-officer",
+      "fields": {
+        "posted": "2026-04-20",
+        "organization": "Noble Federal Credit Union",
+        "title": "Chief Operations Officer",
+        "level": "C-suite",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Shanley Search Partners",
+        "pay_range": "$246K-$323K",
+        "work_mode": null,
+        "job_url": "https://shanleysearch.com/available/open-positions/#tab-ChiefOperationsOfficer-12",
+        "size_band": "$1B-$5B",
+        "city": "Fresno",
+        "state": "CA",
+        "org_assets": 1499.0,
+        "org_members": 120917,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Shanley posting",
+          "url": "https://shanleysearch.com/available/open-positions/#tab-ChiefOperationsOfficer-12",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24552",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "posted": 0,
+        "pay_range": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "noble-cu"
+      }
+    },
+    {
+      "id": "undated-seattle-metropolitan-credit-union-president-and-ceo",
+      "fields": {
+        "posted": null,
+        "organization": "Seattle Metropolitan Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/president-chief-executive-officer-seattle-washington",
+        "size_band": "$1B-$5B",
+        "city": "Seattle",
+        "state": "WA",
+        "org_assets": 1166.1,
+        "org_members": 47443,
+        "assets_as_of": "Q3 2026",
+        "notes": "Experience leading a CDFI or low-income designated credit union preferred."
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/president-chief-executive-officer-seattle-washington",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68315",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "seattle-cu"
+      }
+    },
+    {
+      "id": "undated-rocky-mountain-credit-union-president-and-ceo",
+      "fields": {
+        "posted": null,
+        "organization": "Rocky Mountain Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/rocky-mountain-credit-union-president-chief-executive-officer",
+        "size_band": "Under $500M",
+        "city": "Helena",
+        "state": "MT",
+        "org_assets": 426.5,
+        "org_members": 24915,
+        "assets_as_of": "Q2 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/rocky-mountain-credit-union-president-chief-executive-officer",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "rocky-mountain-cu-mt"
+      }
+    },
+    {
+      "id": "undated-credit-union-1-chief-technology-officer",
+      "fields": {
+        "posted": null,
+        "organization": "Credit Union 1",
+        "title": "Chief Technology Officer",
+        "level": "C-suite",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/credit-union-1-chief-technology-officer",
+        "size_band": "$1B-$5B",
+        "city": "Lombard",
+        "state": "IL",
+        "org_assets": 2774.1,
+        "org_members": 186078,
+        "assets_as_of": "Q3 2026",
+        "notes": "Based in Chicago or Las Vegas."
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/credit-union-1-chief-technology-officer",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68727",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "cu1"
+      }
+    },
+    {
+      "id": "undated-community-first-credit-union-of-florida-svp-enterprise-applications",
+      "fields": {
+        "posted": null,
+        "organization": "Community First Credit Union of Florida",
+        "title": "SVP, Enterprise Applications",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/community-first-credit-union-svp-enterprise",
+        "size_band": "$1B-$5B",
+        "city": "Jacksonville",
+        "state": "FL",
+        "org_assets": 3203.7,
+        "org_members": 199182,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/community-first-credit-union-svp-enterprise",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67290",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "community-first-cu-fl"
+      }
+    },
+    {
+      "id": "undated-community-first-credit-union-of-florida-vp-internal-audit",
+      "fields": {
+        "posted": null,
+        "organization": "Community First Credit Union of Florida",
+        "title": "VP, Internal Audit",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/community-first-credit-union-vice-president-of-internal-audit",
+        "size_band": "$1B-$5B",
+        "city": "Jacksonville",
+        "state": "FL",
+        "org_assets": 3203.7,
+        "org_members": 199182,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/community-first-credit-union-vice-president-of-internal-audit",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67290",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "community-first-cu-fl"
+      }
+    },
+    {
+      "id": "undated-georgia-s-own-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": null,
+        "organization": "Georgia's Own Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/georgia-s-own-credit-union-chief-financial-officer",
+        "size_band": "$1B-$5B",
+        "city": "Atlanta",
+        "state": "GA",
+        "org_assets": 4184.4,
+        "org_members": 238034,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/georgia-s-own-credit-union-chief-financial-officer",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67390",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "georgia-s-own"
+      }
+    },
+    {
+      "id": "undated-multipli-federal-credit-union-svp-real-estate-lending",
+      "fields": {
+        "posted": null,
+        "organization": "Multipli Federal Credit Union",
+        "title": "SVP, Real Estate Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "D. Hilton Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.dhilton.com/find-a-career/multipli-credit-union-senior-vice-president-real-estate",
+        "size_band": "$1B-$5B",
+        "city": "Jefferson City",
+        "state": "MO",
+        "org_assets": 1507.7,
+        "org_members": 78566,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "D. Hilton posting",
+          "url": "https://www.dhilton.com/find-a-career/multipli-credit-union-senior-vice-president-real-estate",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24955",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "multipli-cu"
+      }
+    },
+    {
+      "id": "undated-truity-federal-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": null,
+        "organization": "Truity Federal Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "JSpire Recruiting",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.theapplicantmanager.com/jobs?pos=js571",
+        "size_band": "$1B-$5B",
+        "city": "Bartlesville",
+        "state": "OK",
+        "org_assets": 1319.7,
+        "org_members": 76492,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "JSpire posting",
+          "url": "https://www.theapplicantmanager.com/jobs?pos=js571",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3130",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "truity-fcu"
+      }
+    },
+    {
+      "id": "undated-golden-circle-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": null,
+        "organization": "Golden Circle Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "JSpire Recruiting",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.theapplicantmanager.com/jobs?pos=js572",
+        "size_band": "Under $500M",
+        "city": "Massillon",
+        "state": "OH",
+        "org_assets": 104.2,
+        "org_members": 6568,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "JSpire posting",
+          "url": "https://www.theapplicantmanager.com/jobs?pos=js572",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61239",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "golden-circle-cu"
+      }
+    },
+    {
+      "id": "undated-americhoice-federal-credit-union-president-and-ceo",
+      "fields": {
+        "posted": null,
+        "organization": "AmeriChoice Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "JSpire Recruiting",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.theapplicantmanager.com/jobs?pos=js569",
+        "size_band": "Under $500M",
+        "city": "Mechanicsburg",
+        "state": "PA",
+        "org_assets": 239.3,
+        "org_members": 15898,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "JSpire posting",
+          "url": "https://www.theapplicantmanager.com/jobs?pos=js569",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/20041",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "americhoice-fcu"
+      }
+    },
+    {
+      "id": "undated-golden-circle-credit-union-president-and-ceo",
+      "fields": {
+        "posted": null,
+        "organization": "Golden Circle Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "JSpire Recruiting",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.theapplicantmanager.com/jobs?pos=js570",
+        "size_band": "Under $500M",
+        "city": "Massillon",
+        "state": "OH",
+        "org_assets": 104.2,
+        "org_members": 6568,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "JSpire posting",
+          "url": "https://www.theapplicantmanager.com/jobs?pos=js570",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61239",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "golden-circle-cu"
+      }
+    },
+    {
+      "id": "undated-we-florida-financial-credit-union-vp-sales-and-service",
+      "fields": {
+        "posted": null,
+        "organization": "We Florida Financial Credit Union",
+        "title": "VP, Sales & Service",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "JSpire Recruiting",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.theapplicantmanager.com/jobs?pos=js566",
+        "size_band": "$500M-$1B",
+        "city": "Pembroke Pines",
+        "state": "FL",
+        "org_assets": 682.3,
+        "org_members": 40032,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "JSpire posting",
+          "url": "https://www.theapplicantmanager.com/jobs?pos=js566",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61525",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "we-florida-financial"
+      }
+    },
+    {
+      "id": "undated-utilities-employees-credit-union-vp-marketing-and-business-development",
+      "fields": {
+        "posted": null,
+        "organization": "Utilities Employees Credit Union",
+        "title": "VP, Marketing & Business Development",
+        "level": "EVP / SVP / VP",
+        "function": "Marketing",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "JSpire Recruiting",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.theapplicantmanager.com/jobs?pos=js371",
+        "size_band": "$1B-$5B",
+        "city": "Wyomissing",
+        "state": "PA",
+        "org_assets": 1489.8,
+        "org_members": 64693,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "JSpire posting",
+          "url": "https://www.theapplicantmanager.com/jobs?pos=js371",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64896",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "uecu"
+      }
+    },
+    {
+      "id": "undated-first-heritage-federal-credit-union-president-and-ceo",
+      "fields": {
+        "posted": null,
+        "organization": "First Heritage Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Zealyst",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://zealyst.app.loxo.co/job/NDU1Nzgtdmh5bjU4dnNrOXAybDE2cA==",
+        "size_band": "$500M-$1B",
+        "city": "Corning",
+        "state": "NY",
+        "org_assets": 849.2,
+        "org_members": 51979,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Zealyst posting",
+          "url": "https://zealyst.app.loxo.co/job/NDU1Nzgtdmh5bjU4dnNrOXAybDE2cA==",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9604",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-heritage-fcu"
+      }
+    },
+    {
+      "id": "undated-qside-federal-credit-union-vp-finance",
+      "fields": {
+        "posted": null,
+        "organization": "Qside Federal Credit Union",
+        "title": "VP, Finance",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Zealyst",
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://zealyst.app.loxo.co/job/NDU1NzgtdjMwZmJlemZpMW03cGdqeA==",
+        "size_band": "Under $500M",
+        "city": "Queens Village",
+        "state": "NY",
+        "org_assets": 52.0,
+        "org_members": 6837,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Zealyst posting",
+          "url": "https://zealyst.app.loxo.co/job/NDU1NzgtdjMwZmJlemZpMW03cGdqeA==",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3947",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "search_firm": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "qside-fcu"
+      }
+    },
+    {
+      "id": "undated-jeanne-d-arc-credit-union-vp-commercial-lending-and-business-banking",
+      "fields": {
+        "posted": null,
+        "organization": "Jeanne D'Arc Credit Union",
+        "title": "VP, Commercial Lending & Business Banking",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_url": "https://www.ccua.org/vice-president-commercial-lending-and-business-banking",
+        "size_band": "$1B-$5B",
+        "city": "Lowell",
+        "state": "MA",
+        "org_assets": 2199.4,
+        "org_members": 103174,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "League job board",
+          "url": "https://www.ccua.org/vice-president-commercial-lending-and-business-banking",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67352",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "jeanne-d-arc-cu"
+      }
+    },
+    {
+      "id": "undated-richland-federal-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": null,
+        "organization": "Richland Federal Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": "Remote",
+        "job_url": "https://gowestassociation.org/job/chief-financial-officer-13/",
+        "size_band": "Under $500M",
+        "city": "Sidney",
+        "state": "MT",
+        "org_assets": 116.7,
+        "org_members": 4847,
+        "assets_as_of": "Q3 2026",
+        "notes": "On-site, hybrid or remote within the U.S.; apply by Nov 30, 2026."
+      },
+      "sources": [
+        {
+          "label": "League job board",
+          "url": "https://gowestassociation.org/job/chief-financial-officer-13/",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3391",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "work_mode": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "richland-fcu-mt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "title": "Credit Union Executive Openings",
+  "item": "opening",
+  "columns": [
+    {
+      "name": "posted",
+      "label": "Posted",
+      "kind": "date",
+      "sort": "posted_iso"
+    },
+    {
+      "name": "organization",
+      "label": "Credit union",
+      "kind": "org",
+      "short": "organization_short",
+      "logo": "organization_logo_url",
+      "style": "organization_logo_style"
+    },
+    {
+      "name": "title",
+      "label": "Title",
+      "kind": "title"
+    },
+    {
+      "name": "level",
+      "label": "Level",
+      "kind": "choice",
+      "choices": [
+        "CEO",
+        "C-suite",
+        "EVP / SVP / VP"
+      ]
+    },
+    {
+      "name": "function",
+      "label": "Function",
+      "kind": "choice",
+      "choices": [
+        "Executive",
+        "Finance",
+        "Lending",
+        "Commercial",
+        "Operations",
+        "Technology",
+        "Risk & Compliance",
+        "Marketing",
+        "Member Experience",
+        "Retail",
+        "People",
+        "Strategy",
+        "Other"
+      ]
+    },
+    {
+      "name": "status",
+      "label": "Status",
+      "kind": "choice",
+      "choices": [
+        "Open",
+        "Filled",
+        "Closed"
+      ]
+    },
+    {
+      "name": "closed",
+      "label": "Closed",
+      "kind": "date",
+      "sort": "closed_iso"
+    },
+    {
+      "name": "filled_by",
+      "label": "Filled by",
+      "kind": "text"
+    },
+    {
+      "name": "search_firm",
+      "label": "Search firm",
+      "kind": "text"
+    },
+    {
+      "name": "pay_range",
+      "label": "Pay range",
+      "kind": "text"
+    },
+    {
+      "name": "work_mode",
+      "label": "Work mode",
+      "kind": "choice",
+      "choices": [
+        "On-site",
+        "Hybrid",
+        "Remote"
+      ]
+    },
+    {
+      "name": "job_url",
+      "label": "Posting",
+      "kind": "url"
+    },
+    {
+      "name": "size_band",
+      "label": "Asset size",
+      "kind": "choice",
+      "choices": [
+        "Under $500M",
+        "$500M-$1B",
+        "$1B-$5B",
+        "$5B+"
+      ]
+    },
+    {
+      "name": "city",
+      "label": "City",
+      "kind": "text"
+    },
+    {
+      "name": "state",
+      "label": "State",
+      "kind": "state"
+    },
+    {
+      "name": "org_assets",
+      "label": "CU assets",
+      "kind": "money",
+      "sort": "org_assets_m"
+    },
+    {
+      "name": "org_members",
+      "label": "CU members",
+      "kind": "int"
+    },
+    {
+      "name": "assets_as_of",
+      "label": "Assets as of",
+      "kind": "text"
+    },
+    {
+      "name": "notes",
+      "label": "Notes",
+      "kind": "text"
+    },
+    {
+      "name": "region",
+      "label": "Region",
+      "kind": "choice"
+    },
+    {
+      "name": "location",
+      "label": "Location",
+      "kind": "text"
+    },
+    {
+      "name": "headline",
+      "label": "Headline",
+      "kind": "text"
+    },
+    {
+      "name": "confidence",
+      "label": "Confidence",
+      "kind": "percent",
+      "note": "confidence_notes"
+    },
+    {
+      "name": "updates",
+      "label": "Updates",
+      "kind": "text"
+    },
+    {
+      "name": "source_url",
+      "label": "Source",
+      "kind": "url"
+    }
+  ]
+}
