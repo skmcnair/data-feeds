@@ -1,9 +1,18 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-22T22:41:38-05:00",
+  "generated": "2026-11-22T23:25:02-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "25532cb4d538",
+      "title": "Gesa's acquisition of Oregon bank moving forward - Tri-Cities Area Journal of Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHMtMmlrNGczUEV2ZUVmMmQ5VFBEYkQ4NWphRUhQTlZka2tGS1g5SEVyOVFucE5CQ1BWVjd4MEo4aHZ6ZFNlV2tvXzBhTDg4a3JBVzNJX2g4cjNGa2lvOUtpalZJZDJaek5pdVRhNUFKNmlVWGdBS1lJZGlqSEVOZEZjWUVobzRpTzBzUTFrOUoyVDA1Q3ZUNGJn",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-22T21:00:00-05:00",
+      "found": "2026-11-22T23:24:58-05:00",
+      "summary": "Gesa's acquisition of Oregon bank moving forward Tri-Cities Area Journal of Business"
+    },
     {
       "id": "83e1aad24f19",
       "title": "$780M Data Center Sale + 2 Lottery Winners + Dominion Merger Hearing: VA Business - Patch",
