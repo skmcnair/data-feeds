@@ -3,9 +3,9 @@
     {
       "name": "leadership-moves",
       "title": "Credit Union Leadership Moves",
-      "items": 80,
+      "items": 83,
       "result": "ok",
-      "last_review": "2026-11-22T07:50:00-05:00",
+      "last_review": "2026-11-23T00:53:00-05:00",
       "feed_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/leadership-moves/feed.json",
       "csv_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/leadership-moves/feed.csv",
       "tracker_url": "https://skmcnair.github.io/data-feeds/tracker/?feed=leadership-moves"

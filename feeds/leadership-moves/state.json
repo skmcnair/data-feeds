@@ -1,28 +1,43 @@
 {
-  "last_review": "2026-11-22T07:50:00-05:00",
-  "last_review_file": "2026-11-22-0750.json",
+  "last_review": "2026-11-23T00:53:00-05:00",
+  "last_review_file": "2026-11-23-0053.json",
   "last_review_result": "ok",
   "last_review_errors": [],
   "last_review_report": {
-    "added": [],
-    "updated": [
+    "added": [
       {
-        "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
-        "note": "Previous title added (TBACU named her Chief Experience Officer in Dec 2024)",
-        "changes": [
-          {
-            "field": "previous_title",
-            "old": null,
-            "new": "Chief Experience Officer"
-          }
-        ],
-        "kept": []
+        "id": "2026-10-21-robyn-young-great-erie-federal-credit-union-retiring",
+        "summary": "Robyn Young / Great Erie Federal Credit Union / Retiring"
+      },
+      {
+        "id": "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+        "summary": "Michael Pierino / Great Erie Federal Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-10-christina-kelly-verve-a-credit-union-hired",
+        "summary": "Christina Kelly / Verve, a Credit Union / Hired"
       }
     ],
+    "updated": [],
     "rechecked": [
-      "2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired"
+      "2026-11-19-tina-tracy-credit-union-one-promoted",
+      "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+      "2026-11-18-karen-browne-tba-credit-union-retiring",
+      "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+      "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+      "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+      "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+      "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+      "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+      "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+      "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+      "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+      "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+      "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+      "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+      "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
     ],
-    "reviewed": 0,
+    "reviewed": 94,
     "rejected": []
   },
   "last_collect": "2026-11-22T23:24:56-05:00",

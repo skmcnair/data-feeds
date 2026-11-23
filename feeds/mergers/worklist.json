@@ -1,8 +1,8 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-22T23:54:09-05:00",
+  "generated": "2026-11-23T00:53:43-05:00",
   "trial": true,
-  "lookback_days": 3,
+  "lookback_days": 30,
   "pending_inbox": [
     {
       "id": "25532cb4d538",
@@ -1035,14 +1035,7 @@
       "website": "http://www.swcfcu.org"
     }
   ],
-  "logo_reviews": [
-    {
-      "slug": "peoples-independent-bank",
-      "name": "Peoples Independent Bank",
-      "reason": "logo check requested",
-      "requested": "2026-11-22"
-    }
-  ],
+  "logo_reviews": [],
   "warnings": [],
   "last_review": {
     "added": [

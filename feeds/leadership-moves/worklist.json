@@ -1,861 +1,14 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-22T23:54:09-05:00",
+  "generated": "2026-11-23T00:53:43-05:00",
   "trial": true,
-  "lookback_days": 3,
-  "pending_inbox": [
-    {
-      "id": "594522445309",
-      "title": "Newsmakers: Park Theatre names new executive director - New Hampshire Union Leader",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3VDY1hkd3FRdVJ3U1JPWnd0ZDdBNnJoX19mczZ5WF9wSVQ0OThGWUp4ZHJPZ1BGTUczUXpyNF8wb2RVQVpGeEppRmttLWdfaF9MNWdCM3BLajZiR2trc0dFbDV1N3hsamRINGNnZHJBWWczVjNpV3Nkak9yVVRXMldNWFo",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-22T17:01:14-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Newsmakers: Park Theatre names new executive director New Hampshire Union Leader"
-    },
-    {
-      "id": "fac425ffc011",
-      "title": "Newsmakers: Park Theatre names new executive director - New Hampshire Union Leader",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0NEaEJqdUNZV2ZySzc3Ni1FYkJVZ050a3FmMjRScmxrVHlVZC12ejUwWUp6d2VrY2hNTzVrMG9ZMVNhX2F2MU5ZeHFoZFBHcEdwSC0wdC0wZXVZVWItY1lSa2I0OGROemx1RU9CMjhrem9raUl5NVlpaFJSMHhVdllyNA",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-22T17:01:11-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Newsmakers: Park Theatre names new executive director New Hampshire Union Leader"
-    },
-    {
-      "id": "e948090b3412",
-      "title": "Hwasun Credit Union Chief Inspects Loan Collateral in Person - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWZfRnk5YjR0d1p2QllrOVpiX1FPOWhtRnBOeTY5bzZJbVZMY0JTU0w4cHVQZnBXREpaNTVSLTNBclU2cm1fWlljOE1FN0lhV3dKWVZrcEw0cXMxUkVqc1dnaFVuV3Rma2sweXJnM1BuUklSaVE5dW8tYnVhdmFZa05saDd6aHpJRUhlVTFLeDA1Z0R1TUQtcEl0d0pYNk9PUHZnRQ",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-22T16:30:05-05:00",
-      "found": "2026-11-22T16:56:35-05:00",
-      "summary": "Hwasun Credit Union Chief Inspects Loan Collateral in Person Seoul Economic Daily"
-    },
-    {
-      "id": "847611e613e0",
-      "title": "Business People: Old National promotes longtime Bremer Bank exec - Pioneer Press",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1F4dDdqNTJRdExsQkVNcXpMc0tFSXEyMGZyVEhPNkcweGUyZFYyb0k5VTd5VzE5dlcyN0NzcFpWd1lyZy1fZzRlRlFLRUdnX2Q4ejlMQnVvTG9kTFlNbXVzVWZrYy1LcW1HUk1nSm5CWHdkRV9JeFlJRE1HX0d1VWkzTjFfY1lYLWFLYjFSQlFhSWo2ZHd4ZldWR1ZOa1VOc2drZg",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-22T08:47:15-05:00",
-      "found": "2026-11-22T10:58:01-05:00",
-      "summary": "Business People: Old National promotes longtime Bremer Bank exec Pioneer Press"
-    },
-    {
-      "id": "19a12cd04c5f",
-      "title": "Leadership Appointment Congratulations to Sarah Hix on their appointment as Senior Vice President of Operations at Mid Oregon Cr...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7529929154356731904",
-      "source": "CU Circle",
-      "published": "2026-11-21T10:30:10-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Sarah Hix on their appointment as Senior Vice President of Operations at Mid Oregon Credit Union ! In this role, Sarah will lead the credit union's operations strategy and execution, helping Mid Ore"
-    },
-    {
-      "id": "120134b3da7a",
-      "title": "Leadership Appointment Congratulations to Robert Dennis on their appointment as Senior Vice President of Lending at Mid Oregon C...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7529915880231739393",
-      "source": "CU Circle",
-      "published": "2026-11-21T09:37:25-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Robert Dennis on their appointment as Senior Vice President of Lending at Mid Oregon Credit Union ! In this role, Robert will lead the credit union's lending strategy and execution, helping Mid Oreg"
-    },
-    {
-      "id": "e0d576ae218c",
-      "title": "Leadership Appointment Congratulations to Christian Marcussen on their appointment as President and Chief Executive Officer at A...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7529901784694403072",
-      "source": "CU Circle",
-      "published": "2026-11-21T08:41:24-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Christian Marcussen on their appointment as President and Chief Executive Officer at Arsenal Credit Union ! In this role, Christian will guide the overall strategic direction and leadership of the c"
-    },
-    {
-      "id": "30ee36203def",
-      "title": "Visit Southwest Michigan appoints new board president - News/Talk/Sports 94.9 WSJM",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnZPRm5JdDFZSi1TMDdSdnJwVnFJcW5ZRTcxMmo3anRnWi1KZUhMZ2E4Q3F2YkpMV19VNWFUNG1SMnd6T2ttSWNYeExSY0lwQjBrN1RhUUdnMFJpVjJBMmZtZE9qQ3lvSFQ3NUtoRGlvY01fTTVDUjBnOFFScTdXOUNEM1RJWF9ETVhxV0JxMA",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T19:00:35-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Visit Southwest Michigan appoints new board president News/Talk/Sports 94.9 WSJM"
-    },
-    {
-      "id": "6e669eab21ae",
-      "title": "Community Focus FCU welcomes Woodhaven-Brownstown students for hands-on banking experience - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOalk4YzEwb2pSWE13cXluUE53bHpwaE1VbGYzRDVCVDVhXzl6cTZKTkgzN1h0TjR1Nk5iWHl2Y0dkeHJoZGJ0elZnUktpTXdRVkhUWXM3Mmp3WWlLVmxHY3JzLVlXWVZPeDJPc0VBa1ljYXZYT2d4Y05XM19XWlpZa1RTWlhmU1dTOXViN0EycjZ2cEpBNUNycF9NUlhhODY1Q3hfR281NlVMUzA1UFlkNWZLTjBMUUZiMVhwU1JzSUo0eVdBcmlNUEFlYw",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-20T16:25:37-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Community Focus FCU welcomes Woodhaven-Brownstown students for hands-on banking experience CUInsight"
-    },
-    {
-      "id": "e8c4651d9966",
-      "title": "Houston's largest credit union hires chief revenue officer after major deals - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmpKZUFCRVVqNXZua0xHUUpSMElJdkxmTlItOVpPY2tLbEdwVWphMGJSNjN6MWRRSUQzX3FVNzlDOTlzT2VWSUNSaFhfemNDc0ItWGxIYlNBN2NZQnk5VWZGZnlyRmgyUWthM0VpQ082dU9nZEU3Yjc0aVJBeFM3ZV90cml5cmF2YnB1RzBFV3V2Y0FZOExqVGlPUkpEWmVEQzhyOGJnNA",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T16:02:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Houston's largest credit union hires chief revenue officer after major deals The Business Journals"
-    },
-    {
-      "id": "58e34bf15c82",
-      "title": "Greylock Federal Credit Union Welcomes Associate Board Member Alison LaRocca - BusinessWest",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3BCTWhFdC1pTzhFRENGTUhGRVFneS1TQ2pYWjEyMFZWYXZ1UTM4NnpqUlJLWUxNdHFSd2VCOUY1dFN6RW9kaGxHbjM1T2lkVmNDVEJ4NDZFZ05faHhYVVVtOEc2MEY5QldGYWFlS0paWlNud0l5cTVaV0pOSklTTEV1QTg2SEFKM3JvelJ3dGpaeXRheE9wNGFqM19WYzdwU0tqSUp0YjBrVlE",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T15:45:58-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Greylock Federal Credit Union Welcomes Associate Board Member Alison LaRocca BusinessWest"
-    },
-    {
-      "id": "b133357241c1",
-      "title": "Michigan Business Connection Announces Leadership Changes - DBusiness Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmg5ZVZ2NmVXZGJyS0xOSkhvaHgtM2dqUFBFczZOclByNGRjNlZ0dkFhWmVzZkU3SkRUQUc1VkIwV3pETU9fRjVOVUNvSnBWMUoyN2h5VnF5dkwwZWFxdF9CeThVeVJkWmxNVmd4WXVqTVpJWDAtQjRpRnZzSnczc0xreWN2cVZneHE5NHB0ejdseVZIMHc",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T14:30:36-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Michigan Business Connection Announces Leadership Changes DBusiness Magazine"
-    },
-    {
-      "id": "554bd8903fb9",
-      "title": "Lake Trust Credit Union Hires Duane Wilcoxson as Chief Information and Operations Officer - DBusiness Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzBGRFBiR1dpRi1sN0g2Y2dacnhKU1phR0F0MFZtMVJrV0FqX0EyWTlsa1c4SFd1c25fUnFBdnNUSzItOXBaQnZYbmpIc3BJZGxDVWFKd2gya1M1STBKUXpaaHhnZlljc1ZwU3lSX1c0T0Z6RFZYV01UaW50eEZCLTJMWEFnYXkwUHZUbW5ZSWF4TXRidEV1MGRFcHhvVXpCaV94cGlRREJnNWZ4TjlPOWMxQ3A4TUxMMl9QSEV6X0o",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T14:27:21-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Lake Trust Credit Union Hires Duane Wilcoxson as Chief Information and Operations Officer DBusiness Magazine"
-    },
-    {
-      "id": "954e4c1d4e9b",
-      "title": "Greylock FCU Names First Associate Board Member Under New Leadership Program - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTB0RFZSSWlmcGlIOGdqc1cxQ0lEYnpxWWJmLVJGdGl3bENUbDByQVE0c25OZUY1VmVvanZOeE1mZ29SYTRoRXlpMHExLWUxaHBGWXVUTFJGRlI1dlpsUzFITUs3RnJZZkxLTU0xSjhUSk1hWHg4XzVhc2xQTGhZQ1llNGJseUFkMmtJUldiUWlLdjdCWk1rdEotOEIxQ2xLelk4a3hQNmx3REJxUV83SklmNDFIekpsbUt4VkQyQzU",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-20T12:54:28-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Greylock FCU Names First Associate Board Member Under New Leadership Program CUToday"
-    },
-    {
-      "id": "8c9487085e63",
-      "title": "Cloud for Good Appoints Former Salesforce Executive Steve Dobbs to Board of Directors - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0ExSHFqb1VBVmJsUmNUSmhYWTltS2V0WVI1SkZORDdqa05MTmRMelQwamNHSXFhallfbUp3MFZVZG1RLXdwek9kRm5paktWTTgzRnpYQUlGclg0Z0pvQzVxa0tnbVR1ZUtvYXJabnpsZnkyRVFoamtZQjNWR0YyVUprZlVpcGcydnBCX1ctVDlCdUZDZjRzS0pMMGNidHpINXVUOTVRRGl4QWZUallIOHljeTFIeWdybm9aRkFOZTFWQQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T12:21:22-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Cloud for Good Appoints Former Salesforce Executive Steve Dobbs to Board of Directors citybiz"
-    },
-    {
-      "id": "e9262d0bb4b2",
-      "title": "Better, NEXA, MBA announce leadership and hiring changes - HousingWire",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkZUZFZ01ib2pzclhSckNieUFXWmg0bEJBb014cUM2VnV1NV9md0hwZWpKanl6MHFSQm5ZTWhtVm5TMkpENkx2TU01YktTeFFHMU40YmVhUlQ2N3pISTIyMkNpVHJGOTVWd25ZM2o2WW95aUNxUmxudEcwUkRzdw",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T12:18:54-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Better, NEXA, MBA announce leadership and hiring changes HousingWire"
-    },
-    {
-      "id": "2a2c2cc37ea7",
-      "title": "SchoolsFirst CEO: Credit Unions Must Be a Lifeline - CUTimes",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTR5QnJERmdUbFlDZDh4M3Z0d3Nub3ZkTEdvN0Z6NnhsSmhLNEdLQnlCNWRJS0EwMWdhTlNKTDlOM0lMLW03S2c0VU0tR1NwSE5kRkV6SGp0ZEU4bWlvTW9RNmY1QlVsaFdUbFVvcThJWTFha2JuUnRKaFBzdzZFbUQ0VzNTLUJf",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-20T11:44:52-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "SchoolsFirst CEO: Credit Unions Must Be a Lifeline CUTimes"
-    },
-    {
-      "id": "7369521b881f",
-      "title": "Signal Mountain Fire Department welcomes Travis Williams as their new Fire Chief - WTVC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmxNZDU3MFY2V2d0ZVZaMzR5eHRRSDB5NlZSNEJwdVFDUkFZTWdJcDYydFM4Z2NjOU03bGdWUXJEOG5qZGUzX2FwYlZBQWVEclZPcGpJTXFpMkY5YmRubFhaeHR0MW1zWnlaR3VWMVFNRWxxQjBxSDV3NzQ1REYxSWdYb09CZThYTk9XVlN2ODlaZUQySFpPSVNEQ0NITmcxMkxLWGdNLWlId3ZBdFZJSmkxc1Y4ZUV1WVcxanlEQ1R2UWE4R3JMU0FDYVg",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T09:49:30-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Signal Mountain Fire Department welcomes Travis Williams as their new Fire Chief WTVC"
-    },
-    {
-      "id": "95d81fe178ba",
-      "title": "Cloud for Good Appoints Former Salesforce Executive Steve Dobbs to Board of Directors - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMmdjZnVBZDBzT05ObHdtQ2dlR0lJUDVtdHBKNlhGd0preHZzUUhlYzhuRFRnc1JTNlFxbDl4bzhlQzFCRmJrcGJpU1c4UDdKWmZpNEJOTTVqS1FSZ2tqak5ta0VTWGV6MGMzcURRN0JIV3JvREQ2MTcwVGRaUXlyMnViRDE2QjZQQ2JZdmZJV0ExMlpZWkR1NV9fdDNiNFZkUzB4QktzNl9LRzltX2Fic1FoMGUzQ2tqRXp6LTVNN3ByZVM2TnBNY0JFT2ZGRFo5WDFsbkJzQkU",
-      "source": "Google News - press wires",
-      "published": "2026-11-20T09:07:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Cloud for Good Appoints Former Salesforce Executive Steve Dobbs to Board of Directors PR Newswire"
-    },
-    {
-      "id": "52326e6ab5a5",
-      "title": "A Porsche for your deposits? Welcome to banking in 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTZVcG5kZXQ4dndveC0zZ1BiQTl3MjVHVk95WmNGdGRfdFREUmpzNlJEQkZCOFVwWl9QWmtkOFl2UWNIc2F0N1RyZzFjbmNyTUdYXzRqLU5tV2tQbkZkYTRULUFJQlBQUGlVM1NDNkR0c3ZreklVVVB3UnhHTVVYR1ZOaE9aR3V2OXR1ZzFpM3Z6dlZuSEUwekNMcmxZNFltV040cUZzakNFN2V6VDNIMDYwUm82eGZqSUxWSDhlZWxVRTE2aUtvZ2V4eTJTdw",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-20T05:30:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "A Porsche for your deposits? Welcome to banking in 2026 The Globe and Mail"
-    },
-    {
-      "id": "4b17070b822d",
-      "title": "American United & First Californian Name Change to Haven Credit Union Announced - FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2tKNy1ybmFNUUtLWnpaWWhxWGt3aEQtRzVCdHFmQXFJYm1CM2tCd0tkdEVpXzdJaXhuSE50MVQxVE9rbWJVbGFuWklfNExrVFhJWTk0Rnp3dkNVTjdlNnlScDZOM0hWUVc0NDFCQUNXUXhjcDJQdVpQY2JXREdJdDdrdURWQVh3UTVJODI2cEd2QjI4NWk1bTMySjVTc081QVVJZXVpbWE0eFlCN01aY0pMajV2R2hybmRCOGwyTTdHUkpSQmZCMjlPdmRMa2ZZNkJuQzYxenhnZEVzZzVmdFRB",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T03:51:00-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "American United & First Californian Name Change to Haven Credit Union Announced FinancialContent"
-    },
-    {
-      "id": "78cc8d6b3284",
-      "title": "New Details on TruStage Cyberbreach, Including Investigation, Status of Data, Services to be Provided and More are Released",
-      "url": "https://thecudaily.com/new-details-on-trustage-cyberbreach-including-investigation-status-of-data-services-to-be-provided-and-more-are-released/",
-      "source": "Credit Union Daily",
-      "published": "2026-11-19T20:13:39-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "MADISON, Wis. - Saying that the status of both data and its investigation into a July data breach is the \"number-one\" question many credit unions have, TruStage CEO Terrance Williams has released [...] The post New Details on TruStage Cyber"
-    },
-    {
-      "id": "0e703e7d31f5",
-      "title": "Credit Union ONE, Arsenal Credit Union Select New CEOs",
-      "url": "https://thecudaily.com/credit-union-one-selects-tina-tracy-to-succeed-gary-moody-as-ceo/",
-      "source": "Credit Union Daily",
-      "published": "2026-11-19T20:12:30-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "FERNDALE, Mich. -Credit unions in two states have named new CEOs. In Michigan, Credit Union ONE has named Tina Tracy to succeed Gary Moody as chief executive officer effective Jan. 1. The $1.8-billion [...] The post Credit Union ONE, Arsena"
-    },
-    {
-      "id": "e7b0bdac1431",
-      "title": "Arsenal Credit Union Names Christian Marcussen as President and Chief Executive Officer - Kitsap Sun",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZTY3djFrcUZxTzEwWUV4aEJkV0RFRG11VVRyaVhhZ2tGemFxQlZMZWxJWTllb0hoMTVpbVR2MEV3Qkc0UzZKU2tNNk5qNk5kT3ZBcUpKN1BRYkRNaEFFWmtGRk9xMzExOUg4Y2w4WG5ERC1YYVRRNFpSMEJNS2h2clZhV1NuNXRqVUxmVXRPZkwzNzFTNmtGeUk3Zm9malFmS2pVTlBkdExvZ2pNOXNNZ1hSLVJqcmlpS3o4V0JGSXJRRjdyc2ZCenZLbFBzUHM0YVlFUThqcnk",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-19T18:20:33-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Arsenal Credit Union Names Christian Marcussen as President and Chief Executive Officer Kitsap Sun"
-    },
-    {
-      "id": "4f6431912961",
-      "title": "Credit Union ONE Names Tina Tracy CEO, Succeeding Gary Moody After 20 Years - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFYUzNjOFdhbXZPd0F0T1FpZzBXMGRzOTFkbVNkQ0pXNkxIa1o3dUFyUEVGV01GVWdMS2hsQnNDbzJHYlNqQWw5VjFVWXdqY25jMk1jYk91UFlhTU9pUzB3QzFCd1lLYUE0clBsZGJnel9UV2pFeEYwVDZwMnJOQjNLejBraXBTLXdpNmptbjV1R0s2NU95b1ZQZk5PTXRubVdjM0FHbV9nTVpmU1lHRg",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-19T17:10:45-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Credit Union ONE Names Tina Tracy CEO, Succeeding Gary Moody After 20 Years CUToday"
-    },
-    {
-      "id": "f60584120bf1",
-      "title": "Greylock Federal welcomes new Associate Board Member Alison LaRocca - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTloUy1PczJvMkp5d294NUlJenJvNHowbFZqemVJU1l2OHBDcE5mS3hqUlFhWXZwMUl3cG9neFhPclRVZzR1aFhNMk5SaERYdTQzNW1jVEtPclExWDhRM202Y3FtT0lIQzhzVEtVQktIQVhDOGV6NzNLUDdJTUo4ZGQzTVNQN0gwMUZSMm93LVZTeDNtbjRmR3N5WDM5eUFNVWF0Ykx6czVMNmpH",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-19T16:53:24-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Greylock Federal welcomes new Associate Board Member Alison LaRocca CUInsight"
-    },
-    {
-      "id": "a0360a60f49c",
-      "title": "REV appoints Brenda Arndt as Senior Vice President of Marketing - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdUtTMnNOVWtoNWJPNUVHVlJqOWJIdUdIYjBtWjdGT0prbEtMR3M5dURQZl9mOFdacGZWa1NYUDhQMnpELWFrc0UtQmpCcEJzTmdQRk9aNXhNYTlMMlk0dUhqbzVsYjhqcWtyU1NWUzR6Z3dSWF93NTRmYlM1ZVk2c3pFTDFtejQyekR3ZjA1MmdTSE9ERDNpaWlHYmhmakxfNl9nZ3k5OA",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-19T16:53:23-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "REV appoints Brenda Arndt as Senior Vice President of Marketing CUInsight"
-    },
-    {
-      "id": "6258eb06478d",
-      "title": "Monson Savings Bank Welcomes Jessica Camp as Commercial Credit Officer - BusinessWest",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONlgyOEN4S20wNnVTRlQ2bVdxMkxtQ21vbVhOZVc3clFXYnU2UWRfMWRlYTZXTUtIeEh0VFhsUUJsSm1ET1NBWlFEVEdDdER0LVhaMzNrOHNnRm5pT21TUkhRSGRMTXBiaVhhNjNyanZKQ21UaUUtTWg4bkJOWFdDbkVGekFQc2o5LVkxUHBmbzJBSWNZU3lYa2VBMzRXWlB3VndR",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-19T16:06:17-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Monson Savings Bank Welcomes Jessica Camp as Commercial Credit Officer BusinessWest"
-    },
-    {
-      "id": "60b6eb495612",
-      "title": "Arsenal Credit Union Names Christian Marcussen as President and Chief Executive Officer - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2dENXdpSURScXlXNjRENWcyMVFrbVlpektOdXJtbWxvQVp3VVk2VHlQbEl0cHZkYnREY0EtY0Q5ajhEWVp5N3BhcS1mME9FTXB2Z0gxdGJuaEFSR1ZrN1FVai1wQk95enB5Y2l5dXVTZUNEVWFRbjBONV9HYWI5NGV4bGJ6NXFubDRDYUN3WXJ2c2c3aFVVdTNlQXNFTm02Ti1EWERHWGFpbXl6cnJ0ZkdjUGJUOTNlM01aM0xJT2RyWS1Zb00zNzNvNVVSRlU",
-      "source": "Google News - press wires",
-      "published": "2026-11-19T16:00:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Arsenal Credit Union Names Christian Marcussen as President and Chief Executive Officer EIN Presswire"
-    },
-    {
-      "id": "52f84aac4b61",
-      "title": "Keith Reed Named President of Michigan Business Connection, Will Succeed CEO Bill Beardsley in 2027",
-      "url": "https://thecreditunionconnection.com/keith-reed-named-president-of-michigan-business-connection-will-succeed-ceo-bill-beardsley-in-2027/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-19T15:56:35-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Say you run the lending side of a Michigan credit union, and you've worked with Michigan Business Connection for years. [...] The post Keith Reed Named President of Michigan Business Connection, Will Succeed CEO Bill Beardsley in 2027 appea"
-    },
-    {
-      "id": "a2c246087fb1",
-      "title": "Lake Trust CU Names Chief Information and Operations Officer",
-      "url": "https://thecreditunionconnection.com/lake-trust-cu-names-chief-information-and-operations-officer/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-19T13:53:30-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "A credit union's technology is only as good as the person deciding what to build, what to buy, and what [...] The post Lake Trust CU Names Chief Information and Operations Officer appeared first on The Credit Union Connection ."
-    },
-    {
-      "id": "a040aa352b31",
-      "title": "True Media Canada Appoints Kristin Wozniak Successor to President Bruce Neve - LBB - LBB - Little Black Book",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVotOG5MblBPd3JZTFRFZ1ZISW5pMy05M1pYM1VXcDBwS1RKQTdVUTdCZ2twb2oyNFpwWndFLUxqRTU2allTV2pObndISUxfLW1aX1NtdHRZZ2syVTVodl95ZlBOTGxTZlVtOF83Q1VCUkV5TmFaMWU2RWRqcHR1VGRWWGVQdDVYNDdsMlFnai1FeTBOVHd3LUpNQzFDZnR3LXI1RHl3",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-19T12:29:55-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "True Media Canada Appoints Kristin Wozniak Successor to President Bruce Neve - LBB LBB - Little Black Book"
-    },
-    {
-      "id": "bb53791fc2e4",
-      "title": "Jim Maskell Joins United Federal Credit Union as Chief Commercial Officer to Lead Its Next Growth Phase",
-      "url": "https://thecreditunionconnection.com/jim-maskell-joins-united-federal-credit-union-as-chief-commercial-officer-to-lead-its-next-growth-phase/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-19T12:23:05-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Growing fast is great until the people running the operation have to figure out how to keep it going. That's [...] The post Jim Maskell Joins United Federal Credit Union as Chief Commercial Officer to Lead Its Next Growth Phase appeared fir"
-    },
-    {
-      "id": "970f1fc6a93e",
-      "title": "LAFCU Creates a Chief Experience Officer Role and Taps Earvin Pugh to Fill It",
-      "url": "https://thecreditunionconnection.com/lafcu-creates-a-chief-experience-officer-role-and-taps-earvin-pugh-to-fill-it/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-19T11:47:39-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "A credit union that wants to be known for service should have someone whose entire job is service. That's the [...] The post LAFCU Creates a Chief Experience Officer Role and Taps Earvin Pugh to Fill It appeared first on The Credit Union Co"
-    },
-    {
-      "id": "0481d9656786",
-      "title": "Lake Trust CU Names Duane Wilcoxson as CIO/COO - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OX0ZtNG9YaGh6eWVSZXdCRHVkVGhRcEZiN01CNHIzakM1SFRDTG9GTkg4MzVsWVFUeEtXY2R2RVlERUlqQzFHQWUtV0VnS083UmZkMm0zTzhuRkJVVXFKbEVtWl82V1VUWlJOaTZsWEtsN1FxRElnd1Jn",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-19T10:16:48-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Lake Trust CU Names Duane Wilcoxson as CIO/COO Credit Union Daily"
-    },
-    {
-      "id": "1decea21faac",
-      "title": "$2.5 Billion Copper Financial Selects Osaic Institutions to Support Growth Across Credit Union Wealth Management Programs - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ05MaEl6c0ZMQXM5WXVFczZNTTFmX0Rib2NVM1NoUU5td3YtSUpSd3JTSHlGSVVhUmZDR05lb3JIb3FZb0xjVjNmQ2ZYandoa0tKd1Q3TTROZjRoSG1HSGRFb19VYmhZN1hOTlVoamF2Z2Zzcm1PZG4yMEJqNGMzM3FvQVFHQUpvYlhQaXk5QWtEeDMzQWZYNFFhb3UzVVRLNXBRb1phS2c5eGgtOWdEajdiZGcwS252dGYtRk9IUjJJQWpXUHpNRkVzUmM4Z0lZZ1N0TnQwWWNmclV2ZHlzZjhueERiUVBMajFSMVpIT2ZWWTVzVzFoOTFiQmNVTHBMellFcjJpVVg3RGJP",
-      "source": "Google News - press wires",
-      "published": "2026-11-19T09:08:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "$2.5 Billion Copper Financial Selects Osaic Institutions to Support Growth Across Credit Union Wealth Management Programs Business Wire"
-    },
-    {
-      "id": "f5e0bc27d483",
-      "title": "Leadership Appointment Congratulations to Misty Harrison on their appointment as Chief Executive Officer at Afena Federal Credit...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7529176853538926592",
-      "source": "CU Circle",
-      "published": "2026-11-19T08:40:47-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Misty Harrison on their appointment as Chief Executive Officer at Afena Federal Credit Union ! In this role, Misty will guide the overall strategic direction and leadership of the credit union, stee"
-    },
-    {
-      "id": "55a084a9c61a",
-      "title": "Copper Financial selects Osaic Institutions for credit union growth - InvestmentNews",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRnBnMHdfbnUtZmtWVHNwbFUtRElnV255THY0eVZEc1ljZV93SWNTck8zd2l6VTNybzZlbFR4UW11TVd1Y0RxYnl2a2tEMDhTQTZHWkhlNFpxaFJJeWRaX3M4dTVTSTdJVjhFdDJTVlN5N184TFVROVhBM3M3bUlvanV0TzQ5V195Y3h5WFRJRzlXaFYzenREQ0U0cmJKSkxRME5YY0QxdHRuVy1HRGhDaUFqVmhJZkpSV2FzRG9CUGlkOEdlNXlaSVpnTXY",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-19T06:45:46-05:00",
-      "found": "2026-11-22T16:56:35-05:00",
-      "summary": "Copper Financial selects Osaic Institutions for credit union growth InvestmentNews"
-    },
-    {
-      "id": "8e2763ccda51",
-      "title": "GWLN Names First Recipients of Impact Grants; CU Impact Foundation Selects 4 Scholarship Winners - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2tzR2c3NzdocXBzdTN2NFEyLURXTUVTNjM2eDd6U3lEbm5mRU56LU1jb3hYWlZQR2dRS1pwRm5abkUyRndRMEc1QmRUdUo0U1RSaVZONjN4cHZxVlZ0NW5NbWZJS2I3N3diRjN1RElXWnVoUl8xbF9rS0xuU3UyUGtrcEk0MzZOU0s2UXVLd091T2psRV9EQVlzX00",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-19T05:22:32-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "GWLN Names First Recipients of Impact Grants; CU Impact Foundation Selects 4 Scholarship Winners Credit Union Daily"
-    },
-    {
-      "id": "245a2e8ac8bc",
-      "title": "True Media Canada appoints Kristin Wozniak as President; Bruce Neve retires after 10 years - MediaNews4U",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW9kcm80a0NCVUV2dXRvcmF6S01hOWduN2N0QklFX1BTRHF2bVlEbEIzZ2tQYWlqVTQtNEdjaHlodGx0VHpuRUNmM04xdlZvZXZlWkZZSlM1YWpvb1BIZGRkbDJNVjltTGhBblZ4S2F4NWNyaElNU243YnBqTzZoMDAyaGpleUFucmZzQWNxaDJKUGtDTmhDS083Z1V1ZWdyTXFUUFJUSTFWc0pnYUhqNVpMdTZ5dXhxRUE",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-19T01:26:31-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "True Media Canada appoints Kristin Wozniak as President; Bruce Neve retires after 10 years MediaNews4U"
-    },
-    {
-      "id": "39ce44f73a20",
-      "title": "Jeanne D'Arc Credit Union names Gina O'Neil SVP, Chief Human Resources Officer - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFlmSjB3R3BFZDBKMlRQRWdmUVRtMW9LbndUUHdobWJHaUVXT3hUdGdsSGVLWklfM3hleHBsel8xRDFUN2IwX3VsUVlWaklEUURtR1Z3cmtQNllraVBhbDB6WkdKNFZFRjUxdzhiTHZVQ0RXRFNxQ2hLVDRxSGdwVnRhWTBrRUEyUE1BNDlmZVJ6NWo4TkJmQzc4bllub1d0WTJCNldBOW5VSDBSMk9iRHpWVDJHVjA",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-19T00:55:18-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Jeanne D'Arc Credit Union names Gina O'Neil SVP, Chief Human Resources Officer CUInsight"
-    },
-    {
-      "id": "bc664d6b1e19",
-      "title": "Jeff Brooks named BHFD Chief - Beverly Press & Park Labrea News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oaFpQd2Z6SW9hOGhtaFlsX291OUlTOVpvU29mWDNiVnVOX2ZPWFE3RE1XbFNfQk5JQkg4cEt1NmxvcHA4ZE9mbjZPN2xOZmJ1Ui1RM2lSbG0wckpDNk50OXptMnBwVUhOQ2xhUWZaQQ",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-18T21:44:37-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Jeff Brooks named BHFD Chief Beverly Press & Park Labrea News"
-    },
-    {
-      "id": "ebca71f8d586",
-      "title": "Coloma Elementary welcomes new therapy dog - WNDU",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDU3VmlRbDMzZnlNWVNNYUg3eE9yWXVkVVNqdkQxekVPVElGSjZOOXN4Sm9aS3lnc3RfaTFpZHh6bnZxQkNqSkU2c3RKRDEtSVhfZnROM29IcGtNbndWbnRyUmhHcnRYVU1IQmV5R3ExVndFSVVFMlgzMnFvVEhkZUF5cXNOMG0yb1BzenllVVNkOGRtejd3cXFNQmE",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-18T18:54:00-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Coloma Elementary welcomes new therapy dog WNDU"
-    },
-    {
-      "id": "d11ce9b5f406",
-      "title": "USAlliance FCU Appoints Christopher Repetto as CFO - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bzN1ZWIyX0hQZDZETHlPQ0ZxZ0VTQ1pSYlR2VTE5TGQzTlNSR0QxdXlqM0Vsa21PNG5rYVZUZC1MNW1tcjE0WmNzdDkxdEZ2dGRIZEtJMXV3cXRBY3EtSTN0MjlQaGNSM0IzdUhXaU92SmZYV1JJejJVdGRGUEk",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-18T16:56:35-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "USAlliance FCU Appoints Christopher Repetto as CFO Credit Union Daily"
-    },
-    {
-      "id": "ead274f25869",
-      "title": "Samantha Beeler to Leave The League, Bratsakis Takes on Expanded Leadership Role - CUTimes",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUm1ZZFRTUXZDblB6VXVVVFVjQ1NTUlNMVDlZbnpMTC1FRVVFTUxIRnV1TC1uLWJmcDBoUkJXZ2kwTHZNbU1oUjdMTkdFV2g2V0xUc0FBc0g4alM0THRPVWpraWVfcDI1TE4zcVFSakNJQjhfQk5MTkhuS0pwWUtHaUg2clhuY3JRVzR4UmdZLUdFYXNpSEpCR013",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-18T14:58:29-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Samantha Beeler to Leave The League, Bratsakis Takes on Expanded Leadership Role CUTimes"
-    },
-    {
-      "id": "7727de0cdf5e",
-      "title": "Circuit Appoints Transportation Leader Gabe Klein to Board of Directors - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1ptRTBFclVUaHdGdF9yZnNfc1NoRkt6M1lsSlRJLThhS09zNnV5WThPaHJzN1k0bzhpTjgzSUJNV0lYaW5MRnozVlRLUGlzWEZxWnNqNUtQeHlWTldtR2huTmdaaXZuR1FoMXF0Z0tkbGdDNi1tUEFrZFY0Q2pNbVVTZXhMMnBYbkxoak9rWm9MeDRaX1pZaUpjYmZ0RFZnRmpRVm9rdXdVT185dEpKWFo2aVhfT2c1dEREeHZGMVBvNjgzYkE",
-      "source": "Google News - press wires",
-      "published": "2026-11-18T14:29:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Circuit Appoints Transportation Leader Gabe Klein to Board of Directors PR Newswire"
-    },
-    {
-      "id": "3bc2bc46edaa",
-      "title": "Palmetto Citizens Foundation selects five nonprofits for inaugural $100,000 Fuel the Change Campaign - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemFQcEZTeE1FOEhpb21TX2ZxRVQwV2VmSlR2RzE2UENteG9fRTFVT3NWVF8xZVJxX1Y3VlZIbm5GWTNULTA4ell3cWxyelBndU95X3g5OXBUQXY2LThPdXBsbXhQV1dNajl5OVNUc2JIUkJZSFM5TFJuQXVONzdJdGxKYmZVcU5BQlNwWjMxU0FlcFpfVkI4eWxSUm5oVEFPY1FVeFRLeFA4MTJDMGtfUjVQWEsyWUZxR2c4ZS1XUnp4RmdEYkNES2w5OVU5RFR5bmtWbWxn",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-18T13:50:24-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Palmetto Citizens Foundation selects five nonprofits for inaugural $100,000 Fuel the Change Campaign CUInsight"
-    },
-    {
-      "id": "4c4b0ea29f91",
-      "title": "TDECU Names Chris Turnley Chief Revenue Officer - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlhiUF8ycW5xaGxiVWl3T2RDSjRBMnl0N3FJNHdUMWZFaUFYc1FmQ1E3bzNkYzVEQm5zMjdoRmpZeklxeS1NdFIyZnBWNjJZVDdBLV80dkhzaWJjZE1yRnlHaVVZQkl1NVZleElycDF2NnljZGEtcFN5WkRnUk1jWkRCc0J4cUdJY1BrNkwxMHFzcXJyMzZUS0RVRVk1Wmk4M0hsNEZ4VFBjbVN6a2Z5bGVMQTNUOGl2MFBn",
-      "source": "Google News - press wires",
-      "published": "2026-11-18T12:34:59-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "TDECU Names Chris Turnley Chief Revenue Officer GlobeNewswire"
-    },
-    {
-      "id": "498ac1875b11",
-      "title": "TDECU Names Chris Turnley Chief Revenue Officer - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGl5Q0YyU01YVUcyOEJodGh0dXRRdWlTa2NwelZoUFpXdGNWY2lldXFVV0ZBSXQ4LUloSDNFM28tOHR4dUhQVDVlM2Y5ZU9TRkNtemxIZ2dIWTgxVDY5SU00c3NnZ2NSODR3aU02RUhWYWo0cWRRdXc5eUxISVIwMWZib1F4WmxfNmFGRVhRU0l0YnJQYzhlTTdzQms",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-18T12:34:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "TDECU Names Chris Turnley Chief Revenue Officer Yahoo Finance"
-    },
-    {
-      "id": "c81b74afe3ce",
-      "title": "Samantha Beeler to Leave The League for Curtis Strategy in 2027 as Bratsakis Takes the Reins",
-      "url": "https://thecreditunionconnection.com/samantha-beeler-to-leave-the-league-for-curtis-strategy-in-2027-as-bratsakis-takes-the-reins/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-18T11:30:48-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership changes at a trade association always raise the same question: who steers the ship, and does the course hold? [...] The post Samantha Beeler to Leave The League for Curtis Strategy in 2027 as Bratsakis Takes the Reins appeared fi"
-    },
-    {
-      "id": "b1b85ec2e8b2",
-      "title": "Beeler Leaving League Of Credit Unions To Join Curtis Strategy - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOU1TQ2Fhb183X3hfdm96M1lsTGlnSm5pWWFQUjFtTmlXdV82UlBCYTd6UDJ3R3YwUVNDWXdIcnZRYm8xdjJxR1F4cHFKdjdmQWVIM0hPanpRZWo5ZEJKTUJwNU01QkJPWkNGUHQ1enNvQUxyYjE2MTJrOXhoQ1NyeVhzU1ozQlJuWGtMaVFVMnI1b1pWX24wTDBvUmNLTG5F",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-18T10:19:51-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Beeler Leaving League Of Credit Unions To Join Curtis Strategy CUToday"
-    },
-    {
-      "id": "f6f90769f8a7",
-      "title": "Samantha Beeler to Exit as President of League of Credit Unions; CEO John Bratsakis to Take Over Role - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ1VIQlRDbkVyWUxTaVUwNkpzS1hzbDJ3Z09pQ0VKYUp5T3JkM1pmaXZRd1NVX2tSemg1aFM1UmUycTlzRHhEeXg1SjNiVE9HaXFEQkswWWZQbUswaFBzVVAyakNsQXlVenpmb2RqaXptV1pOSEZSY0U4a0c4bmMzV1VXaGVCeHlYcjhqemRpYy0zZGtvSlA1eWZvZG1NU0xOQndVeU9WYmJ5WldRS1BVNG40QzBJMHZuX3pVY2NtY093QQ",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-18T09:41:38-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Samantha Beeler to Exit as President of League of Credit Unions; CEO John Bratsakis to Take Over Role Credit Union Daily"
-    },
-    {
-      "id": "6546196f535f",
-      "title": "Leadership Elevation Congratulations to Heather Bianchini, CCUE-WCMS on their elevation to Vice President of Digital Delivery, M...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7528828789989076992",
-      "source": "CU Circle",
-      "published": "2026-11-18T09:37:42-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Elevation Congratulations to Heather Bianchini, CCUE-WCMS on their elevation to Vice President of Digital Delivery, Member Experience Administration at Unitus Community Credit Union ! In this expanded role, Heather will help lead"
-    },
-    {
-      "id": "0ccecb54fcc4",
-      "title": "Never put a loan into a business you don't know, credit union CEO says on Onua TV's Awia Bre - 3News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2lsMzZDeVVNY1c1MGdaQmM5TFMzOWpLWEt4Q3VGcVJVTm9iOWd1eHprRngtUm9FZC1tU09kdVJzYVFzR25pakJ1bFF6eUEtd3JQMnBkY2NnUDloRG5ESktCWFRtanlrS3BQLUNsdk5mTGtGQlRrQ09mMUNBWElHTEJrTnpIWmdra0E2bzNnY2ZXUWNNRjFR",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-18T09:30:16-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Never put a loan into a business you don't know, credit union CEO says on Onua TV's Awia Bre 3News"
-    },
-    {
-      "id": "5f5ad6aafc0a",
-      "title": "Leadership Appointment Congratulations to Reeva Wyman on their appointment as Branch Manager (Belfast) at Maine State Credit Uni...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7528812751855710209",
-      "source": "CU Circle",
-      "published": "2026-11-18T08:33:59-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Reeva Wyman on their appointment as Branch Manager (Belfast) at Maine State Credit Union ! In this role, Reeva will help lead branch operations at the Belfast location, strengthening service deliver"
-    },
-    {
-      "id": "b17fa0ba341c",
-      "title": "MUFG Capital Analytics Named Among Top Workplaces in Dallas-Fort Worth for the Third Consecutive Year - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOT3R5VEdMbUowNnl6RjE4Rk04azc0VGYwMEl1YmVITV9EYzVpTTZLdGdWUHdsYzJvSnp6VDBCYXllbXUtY0ZtLWdtUzdkLTRxSmJ5cW9OLW00aVFQTlRPX0NDaThYWFZDQmI5ck1mMkRfU1JqSGtrZTcxUEtvWWNDOF85UDlsV2oyZnZlczMwajZSWkxVZmJHWkh3NW93THJQLXBsX29SeHhhU21qQm12ejAwNVFFcUlpYXJrX3ZTX08zTU83cG13czcwUUhKT2JLcy1jR05GcWp4dUVjVV92YU9FUEVDdzBtYXpGMUM1QWg5OTBUVkJob3dBMnNSaWV6cUNR",
-      "source": "Google News - press wires",
-      "published": "2026-11-18T06:30:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "MUFG Capital Analytics Named Among Top Workplaces in Dallas-Fort Worth for the Third Consecutive Year GlobeNewswire"
-    },
-    {
-      "id": "1236f32b3b70",
-      "title": "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley - ehextra.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTmRvdXdSd21xZW1fekF6ckxPa3pXRWY4MEYxa1BpSGJqcXJSNzdGQWlqLUdLeVo4a1JYUTBiSDdGWXdITDBsNkpRcDJfX2pzQjg4N0o0SmtYUHM0aWVQcjM2WU8yQkRKS0RRcmxNNFNSZXRkOHJDcjBTY1pRVDd6NDllY1FHT0VrRmhwU0dRMU5wem1YRWMtSFlLYi1vcENwQkZpbUtLc3RwRDhTM2FFc2RxYUJRWGlscXBDU2MxQ0pxMzd5Qnl3N1V4dmRmUlpaZ0dwYTF5UEZDYk41ckdNWDM4a3VqZF9QbTZNS20wSWFYMElKS3JwQ2ZOU0JmRXNmXzJFeGZZeTlnQzNP",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-17T20:46:03-05:00",
-      "found": "2026-11-22T10:58:01-05:00",
-      "summary": "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley ehextra.com"
-    },
-    {
-      "id": "abbe6228e210",
-      "title": "Webster First CEO highlights financial literacy gap in Worcester Business Journal thought leadership article - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSktRNzRWbzdLc0JUdHp0anMyVkFXbk10V2FFeHQ4ZnY0V2ZVVzdSZm53aXRnRXVBWkdPemM1UWJrZWlNOUg0cHdRcmppdE4zQ004TlRWVXlOQVJhckdId1pWeWRBN1JIQ184aXNlSnlCUzZkX2pnMkVkZFF0eWh3UllBeXlOT1Z6YXlyUUtUajFJdjEzdWZmcWl5THRDWnVvbVp2Q2hVVjNuWURxTkFyV0lod3p5ZFpRb21NN3hkVWVhS3dpNWY5NTYtcWthR1oydGlwZXFXcHV2YUhaOGJBOEptOA",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-17T20:30:49-05:00",
-      "found": "2026-11-22T16:56:35-05:00",
-      "summary": "Webster First CEO highlights financial literacy gap in Worcester Business Journal thought leadership article CUInsight"
-    },
-    {
-      "id": "e3102df6d7a8",
-      "title": "Interra welcomes new head of consumer services - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU2dYZFRieWo0TV9JY1o3dXc2TUo0OHVjeGF0bHJWTXp1VkpvUF9IVDlrOFlYaVJVamJGalZGV2JtNlR6emh2c19OOWxscWtPT3NIeWNLaHhoQ0NYTHdoOGhxVHJiMmNLXy1OT01tYmlaaU40c0NVWFpuSEd4cnVKby1RaHZXN1c3a0FFam12Vko",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-17T19:52:20-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Interra welcomes new head of consumer services CUInsight"
-    },
-    {
-      "id": "6a068e9f5ce6",
-      "title": "HMG Strategy's 14th Annual Toronto C-Level Technology Leadership Summit to Explore AI Innovation, Enterprise Resilience and Canada-U.S. Cross-Border Collaboration - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQakdGWE1LWEpMUjJOczZ1UGxjQzdkREZTXzJUYXdDc1JTdms3THNTUERBWFhoc2dnOFBFb3Q4VXYyZ2xaUTI1RWN2V2dqU3NFVE1Lc1p6T3Jib0dMWlFuSFJwTWo1QkprSHhsUEFPLWhleW92Y19NcWhIN2hDNTlBdTk4ZzgzVjFyc0IxRnRYaWFkS191c1ltUGp5S3F3U2tXOUpmSTBfdEFxXzFTbWIyTExQOWpvN0hzUkRlV0xBWG9FajJtSU1xNVllNTJzN3ItSzFZZVdXYWtUWmN2dWxVOEVrVnlyV0ZXMmgyWlFjX3Y4WV9PUzRBRnVLWU91SDh4NGZ3ckJIUzdVQUNQeWFway1yMlJqa1RhcV9fVmpNT0sxbXBWZXgxV3NGLUlfeHpXUUc1MnlXejBSOUl2Y1YwdS1fbW1OVE12TklKSmhUYWt3UQ",
-      "source": "Google News - press wires",
-      "published": "2026-11-17T16:14:25-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "HMG Strategy's 14th Annual Toronto C-Level Technology Leadership Summit to Explore AI Innovation, Enterprise Resilience and Canada-U.S. Cross-Border Collaboration GlobeNewswire"
-    },
-    {
-      "id": "6fe015ec39c3",
-      "title": "Ashland Credit Union Selects Tyfone's nFinia Platform to Modernize Digital Banking - FF News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHA2UkVTcHo4VzcxbXhzVVE4TFNnVFprLS02ZVFhd3ByWHQ4dTZGUWlCcGlCS3BxWDZ3RDVWMXAxRmhZamh5M2pkUVRVb2t4emZFOGVHUVFfX0FsV1hhd0RCNUFqYUtfcDgyVjNNSVV3MFZ6cHRfQXh3V3FmbG1yZzJ6cUswZ1pUblh6OXJqZ3dySXVHeTBndUhkczRZdHhFNzFjbw",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-17T11:52:44-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Ashland Credit Union Selects Tyfone's nFinia Platform to Modernize Digital Banking FF News"
-    },
-    {
-      "id": "146df76cec77",
-      "title": "Nov. 17: Fort Financial Names Monique Dennis Vice President of Retail - Fort Wayne Business Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGJHbUdiX1VIMFR2ME9jN1F1ZUJJeER4b0QzZldDSDBhQVpsMHd3amF6WFZQckFTbzA5eHdBd3QwLXdlWUdhZlMySWMtNTdhcUhHRTdEdHVXbzVkQlByLUxFNGNNSkpOZFN0VnZpRjljQjRWY2tSZEZSMTZxV2FXQjRNRE1wQnVUVDBZcHdPMFdFTWxFXzRiT1BIRjdmNW9hck1ZcE4wdUd5Qk1Sb1FUNG53VQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-17T10:15:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Nov. 17: Fort Financial Names Monique Dennis Vice President of Retail Fort Wayne Business Weekly"
-    },
-    {
-      "id": "92c2be137a8a",
-      "title": "4 Credit Unions Appoint 7 People to Chief & SVP Roles - CUTimes",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0dUZ1prZ290SGR4QS12VW5vVGJESk9qMXNqWlNsMGxQMnlKMUpIYkNtV2ZJSGZlZGFCOHo5MjYwZlJ0anFpLVpDT2ZpMjdscFFtdUdOOHFXcGwzWGRoa045ZE5LbW0yb1d6bElEcF9YWFJTT01Oc1dZVVdVb3ItSFVYa21wWERqdTRF",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-17T09:00:55-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "4 Credit Unions Appoint 7 People to Chief & SVP Roles CUTimes"
-    },
-    {
-      "id": "f03196b84bdf",
-      "title": "Ashland Credit Union Selects Tyfone's nFinia Digital Banking Platform - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0dJeXBkNFNlS1oyVE1RWUQ2VllmdDRCNGlhdFNKSmRaNTJKNUhuMnZnMmtWTnFpaEtTTlZkZWZaZmYxQW16VlpWZWlXSnMyc05hNVptMFNzaFFJVXJMQnJVb2xzX0VpeHMtQ0xZcmZJV2NVM3d6V3QyejZiNzhMZkw2blVnVmdoWkJqNTBjMjJjdjNfSnJfUkF6WXJzUVNkYVI4cnBWQzhBVDM4VFl3bjJHMF9VMjlGTEd6LXE3MGJBUQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-17T08:37:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Ashland Credit Union Selects Tyfone's nFinia Digital Banking Platform PR Newswire"
-    },
-    {
-      "id": "067cc5fdc132",
-      "title": "Who is Home Depot's new CEO? Finance chief Richard McPhail replaces Ted Decker on November 23 - Nacionale",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3JpSWhXZkdWUjhCODFNVkh3akJjNFJOU0xuSGZqdVBFMkhBS09WVDV1eENvaE9JUDRMQTUwaEI5aXBfenBYQTVFNERUUFZ3MmRucGk3QmFfX1hyM0tBUnl5MnpDdk8zcjY2Q1FtUkozX1NDTlNwUWJHQXZsUE1sc1hJV0FUaXJVQ01uSnJ3c1lteUtDZTNvWHpB",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-17T07:36:14-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Who is Home Depot's new CEO? Finance chief Richard McPhail replaces Ted Decker on November 23 Nacionale"
-    },
-    {
-      "id": "ca689bc33f60",
-      "title": "40 years' service to Kerry credit union honoured as Cahersiveen woman retires - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbzlpd0wzRDg0NGtmUzNDM1lSeUFpOC1DLUZhV0FDYW9xbWNSNEFacVI1TXd0SnBCWXFNOFk1RU54LWU4OXQxOXFtSlFHczZZQUxfbU9VMEtXdlpycnN5cll5OHBrZC1tQU03M2wwMWhqdXhCNWZmN1gyeTRCd0pKQ3ZVU1lILTdIaVgwMEhBc3F6LW5PUHd6aVdKZmFzVGNMSzZ2MVRyZUczelpreWF5YVFMX3FiZHFtYldKdzNfQ1c0Q29yUlNsQ2cxcXJLZw",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-17T02:00:00-05:00",
-      "found": "2026-11-22T10:58:01-05:00",
-      "summary": "40 years' service to Kerry credit union honoured as Cahersiveen woman retires Irish Independent"
-    },
-    {
-      "id": "a93e34669dc4",
-      "title": "Redwood Credit Union welcomes Meredith Innes as senior vice president of enterprise risk - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmloS2l2MUlLaW0wYld5MUw4dk1sdzd0akp0RkM1TWJyVEhmYnpVejFpbFRITjVKeUR5QjlPWFJKdHlxd2ppUHNxS2tlMDhUZ3FIU2F5YWlWU2V3UlIwREdxaFNPRGhDWGRzRFFMZ0V2RnNWTmQ4cFJleEV6aWlIZHlpOGhHQjdYV0JQNzU2N0RCRUhiNFd5c0JPVkZ4Tl9Ub21QdjFDU0VnbmlENVV6ZkN2aGxMLUFfdFQxVWZ3WjRCbG9BY1pteA",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-17T00:58:02-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Redwood Credit Union welcomes Meredith Innes as senior vice president of enterprise risk CUInsight"
-    },
-    {
-      "id": "8939b3cb9dd5",
-      "title": "Member Access Processing (MAP) welcomes Appalachian Community FCU - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPXzhPMUNacy1IdFJxRnM1WWlmYlBzUHJZdm5QMnNyS3hKdXJvTThHTGVqVEpjMWZXN3Z5LXJFQWcxTDlRZldjNk1lT0pRRkg2TUNVY0FNc29qTHpCYzdBSEQ1ekxhOXNZUXhmYUpLMnZCMk9nY2VKQ1h0QUdDUkp0MG5ZQnUwNUUxVEYtYUlGUE9QSWtOT2Zkb3dBSzV3WE9SRFdybklzYw",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-17T00:58:01-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Member Access Processing (MAP) welcomes Appalachian Community FCU CUInsight"
-    },
-    {
-      "id": "16929ff98f65",
-      "title": "DCUC welcomes NCUA final rule clarifying field of membership - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM3gzTHZhcFNCS0RmdGQ4R2pXa1padlRrRlBVbTJjQ2pfb0x0VVpZWi1kVmJOWFZmcWVrTjJ3dVc2NVVYWnl2QS1BVVM1SnY5RWJxX20xd05vdjJCRUwyNVBfWHZVYzhxRm80MExXVlZxVTVFbHYxYnUzNV9XRXNTdElHbktUNjR6ZTFkZm5Ubkt6eC1JNHo0R0szSF9LeGdzNzNB",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-17T00:58:01-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "DCUC welcomes NCUA final rule clarifying field of membership CUInsight"
-    },
-    {
-      "id": "b91b67f6d979",
-      "title": "Chartway Credit Union welcomes Dustin Montoya as Chief Information Officer - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlZHQmlrUGhwLUVWVzJhdzg0eERJVV80MlRKaFRaNnFuZFQwR3ZVc29mUENMa3lhQXBEdjI1ZFBjRXh6ZjAwQ3Q3T2dpbUFpZ3VtYWJJNDBUZkd0dXZsQ3o3czJKalQxZE5lUWV0eDNxXy1zeFJWc3ZyNHA4bzJ5anlJYlM1eURMTTZGSWJzakpybHVOT1NZS2JVNlo5RWtZV29feGk3VDE2TVNNdVhldURFbkdJUQ",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-16T21:26:55-05:00",
-      "found": "2026-11-22T23:24:56-05:00",
-      "summary": "Chartway Credit Union welcomes Dustin Montoya as Chief Information Officer CUInsight"
-    },
-    {
-      "id": "391eb891382a",
-      "title": "Credit Unions in 11 States Appoint New CEOs - CUTimes",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR3JQaFNxTDZFcTJjLWpaX0pYUEZyTWtSRTFtRTJ6YmtTSkNneWZUVnpSU2dOOEdZT3o2NFdxYXk1QXhDWXJ3YjNCamlINFVtejZER09wVnZUSXB6ZU4yN3EzMmQxT2t6WGpYM3NfLXlTaVJsZHZXU2RkVmh1WkZ4Vg",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-16T18:21:30-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Credit Unions in 11 States Appoint New CEOs CUTimes"
-    },
-    {
-      "id": "77f023690638",
-      "title": "Credit Union Impact Foundation announces 2027 recipients of the Kelsie Davis Memorial Leadership Journey Scholarship - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSnVBWHRYcUZZbzN0VVZfRVJkSGxtY3J1cldrVHM2Y254VUtKQTNyY1lxM3JMTkgzSjc0WW5aVFNaVzZxSXRId2t6X2pBaHcza19Na1ExUS15cjNFU3pWaUlid1hFNVVTUi1kaVc5SGc4WEZoY3Juek91ODN6enllYWVWNTBtWF9LZWpnMUhyeWJYZzV3VzBaTnpKUXQ2OVR6c0RLZ1dfRThoOUJJZzl2cU1jdjhsTnF0OG90c0dIZTBBaVVnY0k2elJ2OTc5ZUFsRlpiVU5CZi1uVXJiV1RCWnd6RjdzUUs0c1FKZkd3",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-16T16:35:21-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Credit Union Impact Foundation announces 2027 recipients of the Kelsie Davis Memorial Leadership Journey Scholarship CUInsight"
-    },
-    {
-      "id": "b72b86e16c1d",
-      "title": "Tinker Federal Credit Union Selects Ameriprise Financial to Manage its Investment Program - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFBjREVDSmZEZmw3Wk8wVUltajZhTDR2UVZWRGZBcnFlM2hEZk1sdk92S3RnYW1iSHZGQldWRlVnN0lfcEtpbTBuVFdaV2paN0tOeW53cU12dm1XaW9YOXkzLVJpYXBaLURUeWliZGRVUE80clY1M3ZQN2NrZDR2OE54cTNzRjhoTGdudU0zVUJkZWxablZQQmZKSUpsdWhjdEVRYkxXVXlFWFh3cVd0dHJod3JRUWhTcElCVk5GNU5HM2NKYmd0bVdQSVlzNEFJWFJ0MVNQSDdwUTBuZEpV",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-16T14:05:00-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Tinker Federal Credit Union Selects Ameriprise Financial to Manage its Investment Program Business Wire"
-    },
-    {
-      "id": "f92e055865b3",
-      "title": "ALM First Wraps Up 2026 Governance & Leadership Symposium - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjJRTkFPTnYwTi1oVkN6RG1PNnpzNThmVWRHWFgwWlFpYU5yeWlaZDJCcWtSaE5IdHFnQTM4WVIzbXU0Wkxsa1pTM3B1R1BpOHpMTTUxdWNZaVFCMzZvLW9vaGtndEtWRXpKWGU2RW9YRlM4UVlLdE5nbUIwZHZGTFpZV05PZw",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-16T03:23:40-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "ALM First Wraps Up 2026 Governance & Leadership Symposium Credit Union Daily"
-    },
-    {
-      "id": "b48a9f5e390c",
-      "title": "Banc of California Names New Investor Relations Head - Wisevoter",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXNtMldPekxSSjdyR3RKZXBxcEkwOTRxUmQxQmpFLXlUVWM1S0xRN0Z5cUVCX1JKWExLN24zU3NINThPTmhidUUxc3NRU0hiandObnM4dkpkdDFtNEo2bmFLSWhpVGM2Mm9nMmQ1U3JKQWtpYUVONXFEd1lxcHVRMWRtUXBqU1JRVXh5Z1kwa3VuUU5PZFFKV0NuS3UyQzl6cmZoTjh0WGQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-16T03:00:00-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "Banc of California Names New Investor Relations Head Wisevoter"
-    },
-    {
-      "id": "74ecc44506d8",
-      "title": "People on the Move: Providence School Board Names Interim Superintendent - Go Local Prov",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajZ4Q1VOT1lIRk5ja3hCYUxXZnhWTWUzSlY5OENiNFZndy15NUhsQVVWaWlBZUVXQXBUNWdmR0xpMjVMNTZwS2FQTmN2b3N1T1VaeWpNaUg3UFZDbGhWRXI2c3FtSEQyR05hYmhZa3EyZlZ3SHU3WEJMV1Bfd1J5eHFlOFNmZGZRcGNWQUhpaER0MFVVX3NFQS0ydUwzSWNMRWprZ09zQQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-16T02:29:00-05:00",
-      "found": "2026-11-22T20:30:24-05:00",
-      "summary": "People on the Move: Providence School Board Names Interim Superintendent Go Local Prov"
-    },
-    {
-      "id": "c31bbaf31b5c",
-      "title": "You Spent a Lot of Money to Put Your Name in Lights. What if it Doesn't Matter? - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEZ2M25MNWQ4Unh2SWZjZmZUb3diSkpFT3IzNnNJbFd5RHItam82U0dBNWpHSkxnY3hQay1nREZmZWpZNlkwT2Z0NjdfVmlvTzhOTUQwdG85dlU2NW1LTXNfX0FSdE9GVVBabFIxUDlJMzNaMG43ZjdOT3pLOE1QNUZ5Y0JIWkxpdmtKWFNIamJ6bUlLVE5GdjlSbVRFS2tpOHc",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-15T19:43:08-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "You Spent a Lot of Money to Put Your Name in Lights. What if it Doesn't Matter? Credit Union Daily"
-    },
-    {
-      "id": "c7444a15d56b",
-      "title": "Three-Quarters of Adults Satisfied With Their Credit Cards, Name Their Favored Benefits; Concerned Over APR Limits - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdjYtaUcyRm9ieDcxS1pXX1oxUFEtWmNNZ0tNWVV6LW1MeU1tSmVoRElEZ19FSmtnRHFTc1NhQkFnOVNrTUNUWjZham5RWjViTWY0M3RJSnRIcTctZUphX0JVY0tBWThIcmpILV94c2JZRTF1dGtDeWVSaXVVdWpWM2ZjRkstWWlGckhXMUl5RTZDTVFsbENRSm9RMGZiVGxpNlJTUWh6VTVsM21FNllwMTQ1MGFqby0tNElrejl4aWo2aHlYZ2dGaU9SYWdXb1RfTUE",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-15T13:58:03-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Three-Quarters of Adults Satisfied With Their Credit Cards, Name Their Favored Benefits; Concerned Over APR Limits Credit Union Daily"
-    },
-    {
-      "id": "3a84c4add349",
-      "title": "George Dalton - Co-founder and Former CEO, Fiserv - yespress.io",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43Q2ZwS05qQVdNTVdXN2VLbGVyX1FET2NYdjZKR1NhMk53R0xaM2FJQXROLTNTZHM1R0lXQmxVdTRQSXBCcHFocA",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-15T09:49:17-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "George Dalton - Co-founder and Former CEO, Fiserv yespress.io"
-    },
-    {
-      "id": "9e8843f8e176",
-      "title": "Leadership Elevation Congratulations to Tanya Evans on their elevation to Director of Consumer Lending at Andrews Federal Credit...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7527060479538581504",
-      "source": "CU Circle",
-      "published": "2026-11-13T12:31:04-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Elevation Congratulations to Tanya Evans on their elevation to Director of Consumer Lending at Andrews Federal Credit Union ! In this expanded role, Tanya will help lead consumer lending strategy for the credit union, strengtheni"
-    },
-    {
-      "id": "782016a38aa4",
-      "title": "Leadership Elevation Congratulations to Brittany Johnson on their elevation to Vice President of Organizational Development at U...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7527045427074949120",
-      "source": "CU Circle",
-      "published": "2026-11-13T11:31:16-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Elevation Congratulations to Brittany Johnson on their elevation to Vice President of Organizational Development at United Heritage Credit Union ! In this expanded role, Brittany will help lead organizational development strategy"
-    },
-    {
-      "id": "e034ad7946df",
-      "title": "Leadership Appointment Congratulations to Stuart Cook on their appointment as Director of Marketing at Service One Credit Union!...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7527030114790854656",
-      "source": "CU Circle",
-      "published": "2026-11-13T10:30:25-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Stuart Cook on their appointment as Director of Marketing at Service One Credit Union ! In this role, Stuart will help lead marketing strategy for the credit union, strengthening brand growth, membe"
-    },
-    {
-      "id": "e8c8caea68ca",
-      "title": "Consumers Credit Union Announces New Hires; Unitus Community Credit Union Promotes New Vice President",
-      "url": "https://thecreditunionconnection.com/consumers-credit-union-announces-new-hires-unitus-community-credit-union-promotes-new-vice-president/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-13T09:00:00-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Consumers Credit Union announced new additions to their teams, and Unitus Community Community Credit Union announced the promotion of a [...] The post Consumers Credit Union Announces New Hires; Unitus Community Credit Union Promotes New Vi"
-    },
-    {
-      "id": "6620997b2940",
-      "title": "Quinte Hires Abhishek Tandon as VP of Global Growth Marketing, Bringing 15+ Years of Experience",
-      "url": "https://thecreditunionconnection.com/quinte-hires-abhishek-tandon-as-vp-of-global-growth-marketing-bringing-15-years-of-experience/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-12T13:05:05-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Abhishek Tandon has spent more than 15 years in marketing, and he has now landed at Quinte Financial Technologies as [...] The post Quinte Hires Abhishek Tandon as VP of Global Growth Marketing, Bringing 15+ Years of Experience appeared fir"
-    },
-    {
-      "id": "5bda35c1231b",
-      "title": "Leadership Appointment Congratulations to Brenda C. Diepold on their appointment as CEO of St. Mary's Credit Union! In this role...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7526682952911695872",
-      "source": "CU Circle",
-      "published": "2026-11-12T11:30:55-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Brenda C. Diepold on their appointment as CEO of St. Mary's Credit Union ! In this role, Brenda will lead the credit union's overall vision and strategy, guiding St. Mary's as it continues to serve "
-    },
-    {
-      "id": "8953b17afe2f",
-      "title": "Leadership Appointment Congratulations to Dustin Montoya on their appointment as Chief Information Officer at Chartway Credit Un...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7526668193155702786",
-      "source": "CU Circle",
-      "published": "2026-11-12T10:32:16-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Dustin Montoya on their appointment as Chief Information Officer at Chartway Credit Union ! In this role, Dustin will help shape and drive the technology and information strategy for the credit unio"
-    },
-    {
-      "id": "53fecb6d3826",
-      "title": "Leadership Appointment Congratulations to Eric S. Broome on his appointment as CEO at Georgia's Own Credit Union! In this role,...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7526335448005382144",
-      "source": "CU Circle",
-      "published": "2026-11-11T12:30:03-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Eric S. Broome on his appointment as CEO at Georgia's Own Credit Union ! In this role, Eric will lead the credit union's overall strategy and vision, guiding its growth, member experience, and commu"
-    },
-    {
-      "id": "c30e64651ea9",
-      "title": "Leadership Appointment Congratulations to David Walters, MBA on his appointment as Chief Lending Officer at Heritage Family Cred...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7526320545290801154",
-      "source": "CU Circle",
-      "published": "2026-11-11T11:30:50-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to David Walters, MBA on his appointment as Chief Lending Officer at Heritage Family Credit Union ! In this role, David will lead the credit union's lending strategy and execution, helping Heritage Fam"
-    },
-    {
-      "id": "859dad0bb8b4",
-      "title": "Leadership Appointment Congratulations to Mike Schenck on his appointment as Chief Lending Officer at TopLine Financial Credit U...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7526305793311260672",
-      "source": "CU Circle",
-      "published": "2026-11-11T10:32:13-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Mike Schenck on his appointment as Chief Lending Officer at TopLine Financial Credit Union ! In this role, Mike will lead the credit union's lending strategy and execution, helping TopLine strengthe"
-    },
-    {
-      "id": "5737fe47b867",
-      "title": "Constant AI Names Chief Product Officer, Four-Person Leadership promotions",
-      "url": "https://thecreditunionconnection.com/constant-ai-names-chief-product-officer-four-person-leadership-shake-up/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-10T13:15:27-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Constant AI, the AI agent platform for community financial institutions, has named Angela Faust its Chief Product Officer, promoted Lindsay [...] The post Constant AI Names Chief Product Officer, Four-Person Leadership promotions appeared f"
-    },
-    {
-      "id": "db27d5a6fb03",
-      "title": "Peak Credit Union Hires 20-Year Banking Pro to Lead Business Services",
-      "url": "https://thecreditunionconnection.com/peak-credit-union-hires-20-year-banking-pro-to-lead-business-services/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-10T11:56:18-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Stacy Koos has spent more than 20 years in commercial banking, and Peak Credit Union just put that experience to [...] The post Peak Credit Union Hires 20-Year Banking Pro to Lead Business Services appeared first on The Credit Union Connect"
-    },
-    {
-      "id": "ddb7fa5c580a",
-      "title": "Leadership Appointment Congratulations to Brandon S. on his appointment as Vice President of Enterprise Strategy Delivery at Wor...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525942896034766848",
-      "source": "CU Circle",
-      "published": "2026-11-10T10:30:12-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Appointment Congratulations to Brandon S. on his appointment as Vice President of Enterprise Strategy Delivery at Worth Credit Union ! In this role, Brandon will help lead enterprise strategy delivery for the credit union, streng"
-    },
-    {
-      "id": "9343ad171c3c",
-      "title": "Leadership Elevation Congratulations to Alexander Laham, MBA, CISSP on his elevation to Vice President, Enterprise Risk at Servi...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525928266063511553",
-      "source": "CU Circle",
-      "published": "2026-11-10T09:32:04-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Leadership Elevation Congratulations to Alexander Laham, MBA, CISSP on his elevation to Vice President, Enterprise Risk at Service Credit Union ! In this expanded role, Alexander will help lead enterprise risk strategy for the credit union,"
-    },
-    {
-      "id": "99d17054e39b",
-      "title": "Chartway Credit Union Names Dustin Montoya Chief Information Officer",
-      "url": "https://thecreditunionconnection.com/chartway-credit-union-names-dustin-montoya-chief-information-officer/",
-      "source": "The Credit Union Connection - People",
-      "published": "2026-11-09T12:52:19-05:00",
-      "found": "2026-11-22T08:12:09-05:00",
-      "summary": "Chartway Credit Union has appointed Dustin Montoya as its new chief information officer, based in Salt Lake City. He arrives [...] The post Chartway Credit Union Names Dustin Montoya Chief Information Officer appeared first on The Credit Un"
-    }
-  ],
+  "lookback_days": 30,
+  "pending_inbox": [],
   "recheck": [
     {
       "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
       "summary": "Tina Tracy / Credit Union ONE / Promoted",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-19",
         "name": "Tina Tracy",
@@ -881,7 +34,7 @@
     {
       "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
       "summary": "Meghan Chenoweth / TBA Credit Union / Promoted",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-18",
         "name": "Meghan Chenoweth",
@@ -907,7 +60,7 @@
     {
       "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
       "summary": "Karen Browne / TBA Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-18",
         "name": "Karen Browne",
@@ -933,7 +86,7 @@
     {
       "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
       "summary": "Steve Pagenstecher / Point West Credit Union / Promoted",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-12",
         "name": "Steve Pagenstecher",
@@ -959,7 +112,7 @@
     {
       "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
       "summary": "Amy Nelson / Point West Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-12",
         "name": "Amy Nelson",
@@ -985,7 +138,7 @@
     {
       "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
       "summary": "Bryan Price / Indiana University Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-11",
         "name": "Bryan Price",
@@ -1011,7 +164,7 @@
     {
       "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
       "summary": "Andy Allard / Indiana University Credit Union / Promoted",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-11",
         "name": "Andy Allard",
@@ -1037,7 +190,7 @@
     {
       "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
       "summary": "Jim Wookey / WESTconsin Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-06",
         "name": "Jim Wookey",
@@ -1063,7 +216,7 @@
     {
       "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
       "summary": "Alycia Nichols / TLC Community Credit Union / Promoted",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-02",
         "name": "Alycia Nichols",
@@ -1089,7 +242,7 @@
     {
       "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
       "summary": "Jeff Brehmer / TLC Community Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-11-02",
         "name": "Jeff Brehmer",
@@ -1115,7 +268,7 @@
     {
       "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
       "summary": "Christine Monteiro / All One Credit Union / Hired",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-10-29",
         "name": "Christine Monteiro",
@@ -1141,7 +294,7 @@
     {
       "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
       "summary": "Walt Martin / Peach State Federal Credit Union / Hired",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-10-26",
         "name": "Walt Martin",
@@ -1167,7 +320,7 @@
     {
       "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
       "summary": "Julie Willse / Greater Iowa Credit Union / Promoted",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-10-23",
         "name": "Julie Willse",
@@ -1193,7 +346,7 @@
     {
       "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
       "summary": "Scott Zahnle / Greater Iowa Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-10-23",
         "name": "Scott Zahnle",
@@ -1219,7 +372,7 @@
     {
       "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
       "summary": "Carol Schumacher / Plus Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-10-22",
         "name": "Carol Schumacher",
@@ -1243,9 +396,35 @@
       }
     },
     {
+      "id": "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+      "summary": "Michael Pierino / Great Erie Federal Credit Union / Promoted",
+      "last_checked": "2026-11-23",
+      "fields": {
+        "announced": "2026-10-21",
+        "name": "Michael Pierino",
+        "organization": "Great Erie Federal Credit Union",
+        "move": "Promoted",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": null,
+        "previous_title": "EVP, Operations",
+        "previous_org": null,
+        "succeeds": "Robyn Young",
+        "successor": null,
+        "city": "Orchard Park",
+        "state": "NY",
+        "org_assets": 147.1,
+        "org_members": 9065,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      }
+    },
+    {
       "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
       "summary": "Debbie Cook / Sun East Federal Credit Union / Retiring",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "fields": {
         "announced": "2026-10-20",
         "name": "Debbie Cook",
@@ -1269,38 +448,46 @@
       }
     }
   ],
-  "open_items": 16,
+  "open_items": 17,
   "organizations_needed": [],
   "logos_missing": [],
-  "logo_reviews": [
-    {
-      "slug": "peoples-independent-bank",
-      "name": "Peoples Independent Bank",
-      "reason": "logo check requested",
-      "requested": "2026-11-22"
-    }
-  ],
+  "logo_reviews": [],
   "warnings": [],
   "last_review": {
-    "added": [],
-    "updated": [
+    "added": [
       {
-        "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
-        "note": "Previous title added (TBACU named her Chief Experience Officer in Dec 2024)",
-        "changes": [
-          {
-            "field": "previous_title",
-            "old": null,
-            "new": "Chief Experience Officer"
-          }
-        ],
-        "kept": []
+        "id": "2026-10-21-robyn-young-great-erie-federal-credit-union-retiring",
+        "summary": "Robyn Young / Great Erie Federal Credit Union / Retiring"
+      },
+      {
+        "id": "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+        "summary": "Michael Pierino / Great Erie Federal Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-10-christina-kelly-verve-a-credit-union-hired",
+        "summary": "Christina Kelly / Verve, a Credit Union / Hired"
       }
     ],
+    "updated": [],
     "rechecked": [
-      "2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired"
+      "2026-11-19-tina-tracy-credit-union-one-promoted",
+      "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+      "2026-11-18-karen-browne-tba-credit-union-retiring",
+      "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+      "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+      "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+      "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+      "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+      "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+      "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+      "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+      "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+      "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+      "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+      "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+      "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
     ],
-    "reviewed": 0,
+    "reviewed": 94,
     "rejected": []
   },
   "tracked": [
@@ -1399,6 +586,10 @@
     {
       "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
       "summary": "Andy Allard / Indiana University Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-10-christina-kelly-verve-a-credit-union-hired",
+      "summary": "Christina Kelly / Verve, a Credit Union / Hired"
     },
     {
       "id": "2026-11-10-deena-lenertz-united-heritage-credit-union-promoted",
@@ -1587,6 +778,14 @@
     {
       "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
       "summary": "Carol Schumacher / Plus Credit Union / Retiring"
+    },
+    {
+      "id": "2026-10-21-robyn-young-great-erie-federal-credit-union-retiring",
+      "summary": "Robyn Young / Great Erie Federal Credit Union / Retiring"
+    },
+    {
+      "id": "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+      "summary": "Michael Pierino / Great Erie Federal Credit Union / Promoted"
     },
     {
       "id": "2026-10-21-patrick-cucinotta-gfa-federal-credit-union-hired",

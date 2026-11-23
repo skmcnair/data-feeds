@@ -407,7 +407,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "credit-union-one"
       }
@@ -932,7 +932,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1011,7 +1011,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1489,7 +1489,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -1569,7 +1569,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -1718,7 +1718,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -1804,9 +1804,78 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "iucu"
+      }
+    },
+    {
+      "id": "2026-11-10-christina-kelly-verve-a-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-10",
+        "name": "Christina Kelly",
+        "organization": "Verve, a Credit Union",
+        "move": "Hired",
+        "title": "AVP, Mortgage Loan Origination",
+        "level": "AVP",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Oshkosh",
+        "state": "WI",
+        "org_assets": 1607.3,
+        "org_members": 64301,
+        "assets_as_of": "Q3 2026",
+        "notes": "More than 20 years in mortgage lending and leadership; reports to the Chief Growth Officer."
+      },
+      "sources": [
+        {
+          "label": "Verve release",
+          "url": "https://verveacu.com/verve-names-christina-as-avp-of-mortgage-loan-origination.html",
+          "type": "primary"
+        },
+        {
+          "label": "Credit Union Daily",
+          "url": "https://thecudaily.com/verve-a-cu-names-christina-kelly-as-avp-mortgage-loan-production/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66777",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 1,
+        "name": 0,
+        "organization": 0,
+        "move": 1,
+        "title": 1,
+        "level": 0,
+        "function": 0,
+        "status": 1,
+        "notes": 1,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "verve"
       }
     },
     {
@@ -2739,7 +2808,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "westconsin-cu"
       }
@@ -2969,7 +3038,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3053,7 +3122,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3426,7 +3495,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "all-one"
       }
@@ -4756,7 +4825,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "peach-state-fcu"
       }
@@ -4907,7 +4976,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -4992,7 +5061,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5214,9 +5283,140 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "plus-cu"
+      }
+    },
+    {
+      "id": "2026-10-21-robyn-young-great-erie-federal-credit-union-retiring",
+      "fields": {
+        "announced": "2026-10-21",
+        "name": "Robyn Young",
+        "organization": "Great Erie Federal Credit Union",
+        "move": "Retiring",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "In effect",
+        "effective": "2026-11-01",
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": "Michael Pierino",
+        "city": "Orchard Park",
+        "state": "NY",
+        "org_assets": 147.1,
+        "org_members": 9065,
+        "assets_as_of": "Q3 2026",
+        "notes": "On the New York Credit Union Association board since 2012 and its chair from 2021 to 2023; stays on in a support role during the handover."
+      },
+      "sources": [
+        {
+          "label": "The New York Minute (NYCUA)",
+          "url": "https://newyorkminute.blog/2026/10/21/the-new-york-minute-compliance-updates-credit-union-leadership-community-impact/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7925",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "effective": 0,
+        "successor": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "great-erie-fcu"
+      }
+    },
+    {
+      "id": "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+      "fields": {
+        "announced": "2026-10-21",
+        "name": "Michael Pierino",
+        "organization": "Great Erie Federal Credit Union",
+        "move": "Promoted",
+        "title": "CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Announced",
+        "effective": null,
+        "previous_title": "EVP, Operations",
+        "previous_org": null,
+        "succeeds": "Robyn Young",
+        "successor": null,
+        "city": "Orchard Park",
+        "state": "NY",
+        "org_assets": 147.1,
+        "org_members": 9065,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "The New York Minute (NYCUA)",
+          "url": "https://newyorkminute.blog/2026/10/21/the-new-york-minute-compliance-updates-credit-union-leadership-community-impact/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7925",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_title": 0,
+        "succeeds": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "great-erie-fcu"
       }
     },
     {
@@ -5452,7 +5652,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "sun-east-fcu"
       }
