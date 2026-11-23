@@ -8049,6 +8049,1306 @@
       }
     },
     {
+      "id": "2026-11-23-asa-federal-credit-union-savings-standard-item",
+      "fields": {
+        "institution": "ASA Federal Credit Union",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Share Savings",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.10%",
+        "min_deposit": "$5",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No effective date printed (date read)."
+      },
+      "sources": [
+        {
+          "label": "ASA FCU rates",
+          "url": "https://asafcu.com/share-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "asa-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-asa-federal-credit-union-cd-standard-6-mo",
+      "fields": {
+        "institution": "ASA Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month Share Certificate",
+        "apy_1k": "1.10%",
+        "apy_10k": "1.10%",
+        "apy_25k": "1.10%",
+        "apy_100k": "1.10%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No effective date printed (date read)."
+      },
+      "sources": [
+        {
+          "label": "ASA FCU rates",
+          "url": "https://asafcu.com/share-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "asa-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-asa-federal-credit-union-cd-standard-12-mo",
+      "fields": {
+        "institution": "ASA Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month Share Certificate",
+        "apy_1k": "1.20%",
+        "apy_10k": "1.20%",
+        "apy_25k": "1.20%",
+        "apy_100k": "1.20%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No effective date printed (date read)."
+      },
+      "sources": [
+        {
+          "label": "ASA FCU rates",
+          "url": "https://asafcu.com/share-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "asa-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-savings-standard-item",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Savings Account",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.10%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-money-market-standard-item",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Money Market Account",
+        "apy_1k": "0.75%",
+        "apy_10k": "0.75%",
+        "apy_25k": "1.26%",
+        "apy_100k": "1.76%",
+        "min_deposit": null,
+        "conditions": "3.29% at $500K+",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-6-mo",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month Certificate",
+        "apy_1k": "3.95%",
+        "apy_10k": "3.95%",
+        "apy_25k": "3.95%",
+        "apy_100k": "3.95%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-12-mo",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month Certificate",
+        "apy_1k": "4.00%",
+        "apy_10k": "4.00%",
+        "apy_25k": "4.00%",
+        "apy_100k": "4.00%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-24-mo",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month Certificate",
+        "apy_1k": "3.50%",
+        "apy_10k": "3.50%",
+        "apy_25k": "3.50%",
+        "apy_100k": "3.50%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-36-mo",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month Certificate",
+        "apy_1k": "3.75%",
+        "apy_10k": "3.75%",
+        "apy_25k": "3.75%",
+        "apy_100k": "3.75%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-cd-special-5-mo",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "CD",
+        "offer": "Special",
+        "term": "5 mo",
+        "term_months": 5,
+        "status": "Current",
+        "product_name": "5 Month - No Penalty Special",
+        "apy_1k": "3.80%",
+        "apy_10k": "3.80%",
+        "apy_25k": "3.80%",
+        "apy_100k": "3.80%",
+        "min_deposit": "$500",
+        "conditions": "No early-withdrawal penalty",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-selfreliance-federal-credit-union-cd-special-13-mo",
+      "fields": {
+        "institution": "Selfreliance Federal Credit Union",
+        "product": "CD",
+        "offer": "Special",
+        "term": "13 mo",
+        "term_months": 13,
+        "status": "Current",
+        "product_name": "13 Month Certificate",
+        "apy_1k": "4.25%",
+        "apy_10k": "4.25%",
+        "apy_25k": "4.25%",
+        "apy_100k": "4.25%",
+        "min_deposit": "$500",
+        "conditions": "Listed with regular certificates",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 3,
+        "counties": "Hartford, Middlesex",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance FCU rates",
+          "url": "https://www.selfreliance.com/join-about-us/all-rates",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-3-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month CD",
+        "apy_1k": "0.15%",
+        "apy_10k": "0.15%",
+        "apy_25k": "0.15%",
+        "apy_100k": "0.15%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-6-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month CD",
+        "apy_1k": "0.25%",
+        "apy_10k": "0.25%",
+        "apy_25k": "0.25%",
+        "apy_100k": "0.25%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-12-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month CD",
+        "apy_1k": "0.35%",
+        "apy_10k": "0.35%",
+        "apy_25k": "0.35%",
+        "apy_100k": "0.35%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-18-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month CD",
+        "apy_1k": "0.45%",
+        "apy_10k": "0.45%",
+        "apy_25k": "0.45%",
+        "apy_100k": "0.45%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-24-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month CD",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-36-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month CD",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-48-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month CD",
+        "apy_1k": "0.55%",
+        "apy_10k": "0.55%",
+        "apy_25k": "0.55%",
+        "apy_100k": "0.55%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-standard-60-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month CD",
+        "apy_1k": "0.60%",
+        "apy_10k": "0.60%",
+        "apy_25k": "0.60%",
+        "apy_100k": "0.60%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-special-5-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "5 mo",
+        "term_months": 5,
+        "status": "Current",
+        "product_name": "5-Month Promo",
+        "apy_1k": "3.82%",
+        "apy_10k": "3.82%",
+        "apy_25k": "3.82%",
+        "apy_100k": "3.82%",
+        "min_deposit": null,
+        "conditions": "Promotional",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-special-7-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "7 mo",
+        "term_months": 7,
+        "status": "Current",
+        "product_name": "7-Month Flex CD",
+        "apy_1k": "3.25%",
+        "apy_10k": "3.25%",
+        "apy_25k": "3.25%",
+        "apy_100k": "3.25%",
+        "min_deposit": null,
+        "conditions": "Flex CD",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-special-8-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "8 mo",
+        "term_months": 8,
+        "status": "Current",
+        "product_name": "8-Month Promo",
+        "apy_1k": "3.92%",
+        "apy_10k": "3.92%",
+        "apy_25k": "3.92%",
+        "apy_100k": "3.92%",
+        "min_deposit": null,
+        "conditions": "Promotional",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-special-13-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "13 mo",
+        "term_months": 13,
+        "status": "Current",
+        "product_name": "13-Month Promo",
+        "apy_1k": "4.07%",
+        "apy_10k": "4.07%",
+        "apy_25k": "4.07%",
+        "apy_100k": "4.07%",
+        "min_deposit": null,
+        "conditions": "Promotional",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-special-25-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "25 mo",
+        "term_months": 25,
+        "status": "Current",
+        "product_name": "25-Month Promo",
+        "apy_1k": "3.04%",
+        "apy_10k": "3.04%",
+        "apy_25k": "3.04%",
+        "apy_100k": "3.04%",
+        "min_deposit": null,
+        "conditions": "Promotional",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-union-savings-bank-cd-special-54-mo",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "54 mo",
+        "term_months": 54,
+        "status": "Current",
+        "product_name": "54-Month Promo",
+        "apy_1k": "2.99%",
+        "apy_10k": "2.99%",
+        "apy_25k": "2.99%",
+        "apy_100k": "2.99%",
+        "min_deposit": null,
+        "conditions": "Promotional",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser. No date printed for CDs (date read). Savings and money market tables were not labeled clearly enough to use."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank rates",
+          "url": "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
       "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
       "fields": {
         "institution": "Charter Oak Federal Credit Union",
@@ -9635,6 +10935,1202 @@
       }
     },
     {
+      "id": "2026-11-19-peoplesbank-savings-standard-item",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Growth Savings",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.10%",
+        "min_deposit": "$10",
+        "conditions": "$10 monthly fee if balance falls below $2,500 (Primary Savings pays 0.05%)",
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-money-market-standard-item",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Elite Tiered Money Market",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.30%",
+        "min_deposit": "$10",
+        "conditions": "0.60% at $250K+",
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-3-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month CD",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-6-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month CD",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-12-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month CD",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.10%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-18-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month CD",
+        "apy_1k": "0.15%",
+        "apy_10k": "0.15%",
+        "apy_25k": "0.15%",
+        "apy_100k": "0.15%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-24-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month CD",
+        "apy_1k": "0.20%",
+        "apy_10k": "0.20%",
+        "apy_25k": "0.20%",
+        "apy_100k": "0.20%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-36-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month CD",
+        "apy_1k": "0.25%",
+        "apy_10k": "0.25%",
+        "apy_25k": "0.25%",
+        "apy_100k": "0.25%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-48-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month CD",
+        "apy_1k": "0.30%",
+        "apy_10k": "0.30%",
+        "apy_25k": "0.30%",
+        "apy_100k": "0.30%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-60-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month CD",
+        "apy_1k": "0.40%",
+        "apy_10k": "0.40%",
+        "apy_25k": "0.40%",
+        "apy_100k": "0.40%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-special-10-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "10 mo",
+        "term_months": 10,
+        "status": "Current",
+        "product_name": "10 Month CD",
+        "apy_1k": "4.15%",
+        "apy_10k": "4.15%",
+        "apy_25k": "4.15%",
+        "apy_100k": "4.15%",
+        "min_deposit": "$1,000",
+        "conditions": "Promotional; consumers only; open in a banking center",
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-special-20-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "20 mo",
+        "term_months": 20,
+        "status": "Current",
+        "product_name": "20 Month CD",
+        "apy_1k": "4.40%",
+        "apy_10k": "4.40%",
+        "apy_25k": "4.40%",
+        "apy_100k": "4.40%",
+        "min_deposit": "$1,000",
+        "conditions": "Promotional; consumers only; open in a banking center",
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-special-30-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "30 mo",
+        "term_months": 30,
+        "status": "Current",
+        "product_name": "30 Month CD",
+        "apy_1k": "4.40%",
+        "apy_10k": "4.40%",
+        "apy_25k": "4.40%",
+        "apy_100k": "4.40%",
+        "min_deposit": "$1,000",
+        "conditions": "Promotional; consumers only; open in a banking center",
+        "ends": null,
+        "rates_as_of": "2026-11-19",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-savings-standard-item",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Savings",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-savings-special-item",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "Savings",
+        "offer": "Special",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Relationship Savings",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.15%",
+        "min_deposit": null,
+        "conditions": "Relationship account; 0.20% at $250K+",
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-3-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month Fixed Rate CD",
+        "apy_1k": "2.00%",
+        "apy_10k": "2.00%",
+        "apy_25k": "2.00%",
+        "apy_100k": "2.00%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-6-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month Fixed Rate CD",
+        "apy_1k": "3.75%",
+        "apy_10k": "3.75%",
+        "apy_25k": "3.75%",
+        "apy_100k": "3.75%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-12-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month Fixed Rate CD",
+        "apy_1k": "4.00%",
+        "apy_10k": "4.00%",
+        "apy_25k": "4.00%",
+        "apy_100k": "4.00%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-18-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month Fixed Rate CD",
+        "apy_1k": "4.15%",
+        "apy_10k": "4.15%",
+        "apy_25k": "4.15%",
+        "apy_100k": "4.15%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-24-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month Fixed Rate CD",
+        "apy_1k": "4.25%",
+        "apy_10k": "4.25%",
+        "apy_25k": "4.25%",
+        "apy_100k": "4.25%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-36-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month Fixed Rate CD",
+        "apy_1k": "4.35%",
+        "apy_10k": "4.35%",
+        "apy_25k": "4.35%",
+        "apy_100k": "4.35%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-48-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month Fixed Rate CD",
+        "apy_1k": "4.35%",
+        "apy_10k": "4.35%",
+        "apy_25k": "4.35%",
+        "apy_100k": "4.35%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
+      "id": "2026-11-18-thomaston-savings-bank-cd-standard-60-mo",
+      "fields": {
+        "institution": "Thomaston Savings Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month Fixed Rate CD",
+        "apy_1k": "4.35%",
+        "apy_10k": "4.35%",
+        "apy_25k": "4.35%",
+        "apy_100k": "4.35%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-18",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 5,
+        "counties": "Hartford",
+        "notes": "3-mo is the 91-day CD. No money market rates on the deposit-rates page."
+      },
+      "sources": [
+        {
+          "label": "Thomaston Savings rates",
+          "url": "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "thomaston-savings"
+      }
+    },
+    {
       "id": "2026-11-05-riverbank-federal-credit-union-savings-standard-item",
       "fields": {
         "institution": "Riverbank Federal Credit Union",
@@ -10776,6 +13272,526 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "institution": "rhode-island-cu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-savings-standard-item",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Savings",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-money-market-standard-item",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Money Market Account",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.15%",
+        "min_deposit": null,
+        "conditions": "$2,500 minimum balance to avoid monthly fee",
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-3-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month Share Certificate",
+        "apy_1k": "2.78%",
+        "apy_10k": "2.78%",
+        "apy_25k": "2.78%",
+        "apy_100k": "2.78%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-6-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month Share Certificate",
+        "apy_1k": "3.30%",
+        "apy_10k": "3.30%",
+        "apy_25k": "3.30%",
+        "apy_100k": "3.30%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-12-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month Share Certificate",
+        "apy_1k": "3.56%",
+        "apy_10k": "3.56%",
+        "apy_25k": "3.56%",
+        "apy_100k": "3.56%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-18-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month Share Certificate",
+        "apy_1k": "2.02%",
+        "apy_10k": "2.02%",
+        "apy_25k": "2.02%",
+        "apy_100k": "2.02%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-24-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month Share Certificate",
+        "apy_1k": "3.30%",
+        "apy_10k": "3.30%",
+        "apy_25k": "3.30%",
+        "apy_100k": "3.30%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-36-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month Share Certificate",
+        "apy_1k": "2.78%",
+        "apy_10k": "2.78%",
+        "apy_25k": "2.78%",
+        "apy_100k": "2.78%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-48-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month Share Certificate",
+        "apy_1k": "2.78%",
+        "apy_10k": "2.78%",
+        "apy_25k": "2.78%",
+        "apy_100k": "2.78%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
+      }
+    },
+    {
+      "id": "2026-11-01-360-federal-credit-union-cd-standard-60-mo",
+      "fields": {
+        "institution": "360 Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month Share Certificate",
+        "apy_1k": "2.78%",
+        "apy_10k": "2.78%",
+        "apy_25k": "2.78%",
+        "apy_100k": "2.78%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-01",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 3,
+        "counties": "Hartford, Tolland, Middlesex",
+        "notes": "18-month is an add-on certificate."
+      },
+      "sources": [
+        {
+          "label": "360 FCU rates",
+          "url": "https://www.360fcu.org/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "360-fcu"
       }
     },
     {
@@ -13830,7 +16846,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": "3-mo is the 91-day CD."
       },
       "sources": [
         {
@@ -13845,12 +16861,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": "3-mo is the 91-day CD."
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -13882,7 +16913,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -13897,12 +16928,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -13934,7 +16980,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -13949,12 +16995,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -13986,7 +17047,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -14001,12 +17062,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -14038,7 +17114,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -14053,12 +17129,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -14090,7 +17181,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -14105,12 +17196,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -14142,7 +17248,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -14157,12 +17263,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -14194,7 +17315,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -14209,12 +17330,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -14246,7 +17382,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -14261,12 +17397,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -14298,7 +17449,7 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
@@ -14313,12 +17464,27 @@
         }
       ],
       "field_sources": {
-        "local_branches": 1
+        "local_branches": 1,
+        "notes": 0
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -14350,12 +17516,131 @@
         "membership": "Open",
         "local_branches": 7,
         "counties": "Windham, New London",
-        "notes": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch."
+        "notes": null
       },
       "sources": [
         {
           "label": "Jewett City Savings rates",
           "url": "https://www.jcsbank.com/cd-ira-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18237",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Savings and money market now loaded; note cleared",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.jcsbank.com/cd-ira-rates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "jewett-city-savings"
+      }
+    },
+    {
+      "id": "2026-10-05-jewett-city-savings-bank-savings-standard-item",
+      "fields": {
+        "institution": "Jewett City Savings Bank",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Statement Savings",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$5",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-10-05",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Windham, New London",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Jewett City Savings rates",
+          "url": "https://www.jcsbank.com/deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18237",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "jewett-city-savings"
+      }
+    },
+    {
+      "id": "2026-10-05-jewett-city-savings-bank-money-market-standard-item",
+      "fields": {
+        "institution": "Jewett City Savings Bank",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Money Market / Inner Circle Money Market",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.20%",
+        "apy_25k": "0.20%",
+        "apy_100k": "0.65%",
+        "min_deposit": "$100",
+        "conditions": "$100K tier is Inner Circle Money Market ($10,000 to open)",
+        "ends": null,
+        "rates_as_of": "2026-10-05",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Windham, New London",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Jewett City Savings rates",
+          "url": "https://www.jcsbank.com/deposit-rates/",
           "type": "primary"
         },
         {
@@ -15577,6 +18862,462 @@
       }
     },
     {
+      "id": "2026-09-21-connecticut-state-police-credit-union-savings-standard-item",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Regular Shares",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
+      "id": "2026-09-21-connecticut-state-police-credit-union-money-market-standard-item",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Money Market",
+        "apy_1k": "1.715%",
+        "apy_10k": "1.715%",
+        "apy_25k": "1.816%",
+        "apy_100k": "1.918%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
+      "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-6-mo",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month Share Certificate",
+        "apy_1k": "4.075%",
+        "apy_10k": "4.075%",
+        "apy_25k": "4.075%",
+        "apy_100k": "4.075%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
+      "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-12-mo",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month Share Certificate",
+        "apy_1k": "4.075%",
+        "apy_10k": "4.075%",
+        "apy_25k": "4.075%",
+        "apy_100k": "4.075%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
+      "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-24-mo",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month Share Certificate",
+        "apy_1k": "4.178%",
+        "apy_10k": "4.178%",
+        "apy_25k": "4.178%",
+        "apy_100k": "4.178%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
+      "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-36-mo",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month Share Certificate",
+        "apy_1k": "4.334%",
+        "apy_10k": "4.334%",
+        "apy_25k": "4.334%",
+        "apy_100k": "4.334%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
+      "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-48-mo",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month Share Certificate",
+        "apy_1k": "4.438%",
+        "apy_10k": "4.438%",
+        "apy_25k": "4.438%",
+        "apy_100k": "4.438%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
+      "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-60-mo",
+      "fields": {
+        "institution": "Connecticut State Police Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month Share Certificate",
+        "apy_1k": "4.490%",
+        "apy_10k": "4.490%",
+        "apy_25k": "4.490%",
+        "apy_100k": "4.490%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-09-21",
+        "inst_type": "Credit union",
+        "membership": "Restricted",
+        "local_branches": 1,
+        "counties": "Middlesex",
+        "notes": "Also offers 72-month (4.594%) and 120-month (4.855%) certificates."
+      },
+      "sources": [
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Savings-Rates",
+          "type": "primary"
+        },
+        {
+          "label": "CT State Police CU rates",
+          "url": "https://www.cspcu.org/Rates/Share-IRA-CDs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "ct-state-police-cu"
+      }
+    },
+    {
       "id": "2026-09-14-american-broadcast-employees-federal-credit-union-savings-standard-item",
       "fields": {
         "institution": "American Broadcast Employees Federal Credit Union",
@@ -15990,6 +19731,526 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "institution": "tobacco-valley-teachers-fcu"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-savings-standard-item",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Statement Savings",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.03%",
+        "min_deposit": "$25",
+        "conditions": "Relationship offering pays 0.03%-0.05%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-money-market-standard-item",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Money Market Account",
+        "apy_1k": "Not eligible",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.03%",
+        "min_deposit": "$5,000",
+        "conditions": "Relationship offering pays 0.03%-0.05%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-3-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month CD",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-6-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month CD",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-12-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month CD",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.10%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-18-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month CD",
+        "apy_1k": "0.15%",
+        "apy_10k": "0.15%",
+        "apy_25k": "0.15%",
+        "apy_100k": "0.15%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-24-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month CD",
+        "apy_1k": "0.20%",
+        "apy_10k": "0.20%",
+        "apy_25k": "0.20%",
+        "apy_100k": "0.20%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-36-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month CD",
+        "apy_1k": "0.30%",
+        "apy_10k": "0.30%",
+        "apy_25k": "0.30%",
+        "apy_100k": "0.30%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-48-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month CD",
+        "apy_1k": "0.45%",
+        "apy_10k": "0.45%",
+        "apy_25k": "0.45%",
+        "apy_100k": "0.45%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
+      }
+    },
+    {
+      "id": "2026-08-25-chelsea-groton-bank-cd-standard-60-mo",
+      "fields": {
+        "institution": "Chelsea Groton Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month CD",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": "$500",
+        "conditions": "Relationship offering adds 0.05%-0.10%",
+        "ends": null,
+        "rates_as_of": "2026-08-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 14,
+        "counties": "New London",
+        "notes": "From the deposit rate sheet (PDF) linked on chelseagroton.com/rates; no CD specials on the sheet."
+      },
+      "sources": [
+        {
+          "label": "Chelsea Groton rates",
+          "url": "https://chelseagroton.com/wp-content/uploads/2023/01/DepositRates.pdf",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18238",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "chelsea-groton"
       }
     },
     {

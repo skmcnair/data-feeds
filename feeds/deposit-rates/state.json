@@ -1,1364 +1,457 @@
 {
-  "last_review": "2026-11-23T05:47:37-05:00",
-  "last_review_file": "2026-11-23-0547.json",
+  "last_review": "2026-11-23T06:27:01-05:00",
+  "last_review_file": "2026-11-23-0627.json",
   "last_review_result": "ok",
   "last_review_errors": [],
   "last_review_report": {
     "added": [
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
-        "summary": "Charter Oak Federal Credit Union / Savings / Standard / "
+        "id": "2026-08-25-chelsea-groton-bank-savings-standard-item",
+        "summary": "Chelsea Groton Bank / Savings / Standard / "
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-money-market-standard-item",
-        "summary": "Charter Oak Federal Credit Union / Money market / Standard / "
+        "id": "2026-08-25-chelsea-groton-bank-money-market-standard-item",
+        "summary": "Chelsea Groton Bank / Money market / Standard / "
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-money-market-special-item",
-        "summary": "Charter Oak Federal Credit Union / Money market / Special / "
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-3-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 3 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-3-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 3 mo"
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-6-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-6-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 6 mo"
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-12-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-12-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 12 mo"
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-18-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 18 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-18-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 18 mo"
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-24-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-24-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 24 mo"
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-36-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-36-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 36 mo"
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-48-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-48-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 48 mo"
+        "id": "2026-08-25-chelsea-groton-bank-cd-standard-60-mo",
+        "summary": "Chelsea Groton Bank / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-60-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Standard / 60 mo"
+        "id": "2026-11-19-peoplesbank-savings-standard-item",
+        "summary": "PeoplesBank / Savings / Standard / "
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-8-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Special / 8 mo"
+        "id": "2026-11-19-peoplesbank-money-market-standard-item",
+        "summary": "PeoplesBank / Money market / Standard / "
       },
       {
-        "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-30-mo",
-        "summary": "Charter Oak Federal Credit Union / CD / Special / 30 mo"
+        "id": "2026-11-19-peoplesbank-cd-standard-3-mo",
+        "summary": "PeoplesBank / CD / Standard / 3 mo"
       },
       {
-        "id": "2024-05-15-liberty-bank-savings-standard-item",
-        "summary": "Liberty Bank / Savings / Standard / "
+        "id": "2026-11-19-peoplesbank-cd-standard-6-mo",
+        "summary": "PeoplesBank / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-savings-special-item",
-        "summary": "Liberty Bank / Savings / Special / "
+        "id": "2026-11-19-peoplesbank-cd-standard-12-mo",
+        "summary": "PeoplesBank / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-01-05-liberty-bank-money-market-standard-item",
-        "summary": "Liberty Bank / Money market / Standard / "
+        "id": "2026-11-19-peoplesbank-cd-standard-18-mo",
+        "summary": "PeoplesBank / CD / Standard / 18 mo"
       },
       {
-        "id": "2026-01-05-liberty-bank-money-market-special-item",
-        "summary": "Liberty Bank / Money market / Special / "
+        "id": "2026-11-19-peoplesbank-cd-standard-24-mo",
+        "summary": "PeoplesBank / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-standard-3-mo",
-        "summary": "Liberty Bank / CD / Standard / 3 mo"
+        "id": "2026-11-19-peoplesbank-cd-standard-36-mo",
+        "summary": "PeoplesBank / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-standard-6-mo",
-        "summary": "Liberty Bank / CD / Standard / 6 mo"
+        "id": "2026-11-19-peoplesbank-cd-standard-48-mo",
+        "summary": "PeoplesBank / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-standard-12-mo",
-        "summary": "Liberty Bank / CD / Standard / 12 mo"
+        "id": "2026-11-19-peoplesbank-cd-standard-60-mo",
+        "summary": "PeoplesBank / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-standard-24-mo",
-        "summary": "Liberty Bank / CD / Standard / 24 mo"
+        "id": "2026-11-19-peoplesbank-cd-special-10-mo",
+        "summary": "PeoplesBank / CD / Special / 10 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-standard-36-mo",
-        "summary": "Liberty Bank / CD / Standard / 36 mo"
+        "id": "2026-11-19-peoplesbank-cd-special-20-mo",
+        "summary": "PeoplesBank / CD / Special / 20 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-standard-48-mo",
-        "summary": "Liberty Bank / CD / Standard / 48 mo"
+        "id": "2026-11-19-peoplesbank-cd-special-30-mo",
+        "summary": "PeoplesBank / CD / Special / 30 mo"
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-standard-60-mo",
-        "summary": "Liberty Bank / CD / Standard / 60 mo"
+        "id": "2026-11-18-thomaston-savings-bank-savings-standard-item",
+        "summary": "Thomaston Savings Bank / Savings / Standard / "
       },
       {
-        "id": "2026-10-14-liberty-bank-cd-special-13-mo",
-        "summary": "Liberty Bank / CD / Special / 13 mo"
+        "id": "2026-11-18-thomaston-savings-bank-savings-special-item",
+        "summary": "Thomaston Savings Bank / Savings / Special / "
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-savings-standard-item",
-        "summary": "The Washington Trust Company / Savings / Standard / "
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-3-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 3 mo"
       },
       {
-        "id": "2026-10-14-the-washington-trust-company-savings-special-item",
-        "summary": "The Washington Trust Company / Savings / Special / "
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-6-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-3-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 3 mo"
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-12-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-6-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 6 mo"
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-18-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 18 mo"
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-12-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 12 mo"
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-24-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-18-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 18 mo"
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-36-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-24-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 24 mo"
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-48-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-36-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 36 mo"
+        "id": "2026-11-18-thomaston-savings-bank-cd-standard-60-mo",
+        "summary": "Thomaston Savings Bank / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-48-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 48 mo"
+        "id": "2026-11-23-asa-federal-credit-union-savings-standard-item",
+        "summary": "ASA Federal Credit Union / Savings / Standard / "
       },
       {
-        "id": "2026-07-13-the-washington-trust-company-cd-standard-60-mo",
-        "summary": "The Washington Trust Company / CD / Standard / 60 mo"
+        "id": "2026-11-23-asa-federal-credit-union-cd-standard-6-mo",
+        "summary": "ASA Federal Credit Union / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-10-27-the-washington-trust-company-cd-special-12-24-mo",
-        "summary": "The Washington Trust Company / CD / Special / 12-24 mo"
+        "id": "2026-11-23-asa-federal-credit-union-cd-standard-12-mo",
+        "summary": "ASA Federal Credit Union / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-04-01-the-washington-trust-company-cd-special-6-mo",
-        "summary": "The Washington Trust Company / CD / Special / 6 mo"
+        "id": "2026-11-23-selfreliance-federal-credit-union-savings-standard-item",
+        "summary": "Selfreliance Federal Credit Union / Savings / Standard / "
       },
       {
-        "id": "2026-02-13-the-washington-trust-company-cd-special-9-mo",
-        "summary": "The Washington Trust Company / CD / Special / 9 mo"
+        "id": "2026-11-23-selfreliance-federal-credit-union-money-market-standard-item",
+        "summary": "Selfreliance Federal Credit Union / Money market / Standard / "
       },
       {
-        "id": "2026-04-29-the-washington-trust-company-cd-special-13-mo",
-        "summary": "The Washington Trust Company / CD / Special / 13 mo"
+        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-6-mo",
+        "summary": "Selfreliance Federal Credit Union / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-savings-standard-item",
-        "summary": "Ascend Bank / Savings / Standard / "
+        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-12-mo",
+        "summary": "Selfreliance Federal Credit Union / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-money-market-standard-item",
-        "summary": "Ascend Bank / Money market / Standard / "
+        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-24-mo",
+        "summary": "Selfreliance Federal Credit Union / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-money-market-special-item",
-        "summary": "Ascend Bank / Money market / Special / "
+        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-36-mo",
+        "summary": "Selfreliance Federal Credit Union / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-3-mo",
-        "summary": "Ascend Bank / CD / Standard / 3 mo"
+        "id": "2026-11-23-selfreliance-federal-credit-union-cd-special-5-mo",
+        "summary": "Selfreliance Federal Credit Union / CD / Special / 5 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-6-mo",
-        "summary": "Ascend Bank / CD / Standard / 6 mo"
+        "id": "2026-11-23-selfreliance-federal-credit-union-cd-special-13-mo",
+        "summary": "Selfreliance Federal Credit Union / CD / Special / 13 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-12-mo",
-        "summary": "Ascend Bank / CD / Standard / 12 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-savings-standard-item",
+        "summary": "Connecticut State Police Credit Union / Savings / Standard / "
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-18-mo",
-        "summary": "Ascend Bank / CD / Standard / 18 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-money-market-standard-item",
+        "summary": "Connecticut State Police Credit Union / Money market / Standard / "
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-24-mo",
-        "summary": "Ascend Bank / CD / Standard / 24 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-6-mo",
+        "summary": "Connecticut State Police Credit Union / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-36-mo",
-        "summary": "Ascend Bank / CD / Standard / 36 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-12-mo",
+        "summary": "Connecticut State Police Credit Union / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-48-mo",
-        "summary": "Ascend Bank / CD / Standard / 48 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-24-mo",
+        "summary": "Connecticut State Police Credit Union / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-standard-60-mo",
-        "summary": "Ascend Bank / CD / Standard / 60 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-36-mo",
+        "summary": "Connecticut State Police Credit Union / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-special-19-mo",
-        "summary": "Ascend Bank / CD / Special / 19 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-48-mo",
+        "summary": "Connecticut State Police Credit Union / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-special-12-mo",
-        "summary": "Ascend Bank / CD / Special / 12 mo"
+        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-60-mo",
+        "summary": "Connecticut State Police Credit Union / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-special-17-mo",
-        "summary": "Ascend Bank / CD / Special / 17 mo"
+        "id": "2026-11-01-360-federal-credit-union-savings-standard-item",
+        "summary": "360 Federal Credit Union / Savings / Standard / "
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-special-9-mo",
-        "summary": "Ascend Bank / CD / Special / 9 mo"
+        "id": "2026-11-01-360-federal-credit-union-money-market-standard-item",
+        "summary": "360 Federal Credit Union / Money market / Standard / "
       },
       {
-        "id": "2026-11-23-ascend-bank-cd-special-5-mo",
-        "summary": "Ascend Bank / CD / Special / 5 mo"
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-3-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 3 mo"
       },
       {
-        "id": "2026-10-01-waypoint-federal-credit-union-savings-standard-item",
-        "summary": "Waypoint Federal Credit Union / Savings / Standard / "
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-6-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-10-01-waypoint-federal-credit-union-savings-special-item",
-        "summary": "Waypoint Federal Credit Union / Savings / Special / "
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-12-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-money-market-standard-item",
-        "summary": "Waypoint Federal Credit Union / Money market / Standard / "
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-18-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 18 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-cd-standard-3-mo",
-        "summary": "Waypoint Federal Credit Union / CD / Standard / 3 mo"
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-24-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-cd-standard-6-mo",
-        "summary": "Waypoint Federal Credit Union / CD / Standard / 6 mo"
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-36-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-cd-standard-12-mo",
-        "summary": "Waypoint Federal Credit Union / CD / Standard / 12 mo"
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-48-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-cd-standard-24-mo",
-        "summary": "Waypoint Federal Credit Union / CD / Standard / 24 mo"
+        "id": "2026-11-01-360-federal-credit-union-cd-standard-60-mo",
+        "summary": "360 Federal Credit Union / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-cd-standard-36-mo",
-        "summary": "Waypoint Federal Credit Union / CD / Standard / 36 mo"
+        "id": "2026-11-23-union-savings-bank-cd-standard-3-mo",
+        "summary": "Union Savings Bank / CD / Standard / 3 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-cd-standard-48-mo",
-        "summary": "Waypoint Federal Credit Union / CD / Standard / 48 mo"
+        "id": "2026-11-23-union-savings-bank-cd-standard-6-mo",
+        "summary": "Union Savings Bank / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-10-05-waypoint-federal-credit-union-cd-standard-60-mo",
-        "summary": "Waypoint Federal Credit Union / CD / Standard / 60 mo"
+        "id": "2026-11-23-union-savings-bank-cd-standard-12-mo",
+        "summary": "Union Savings Bank / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-savings-standard-item",
-        "summary": "Navy Federal Credit Union / Savings / Standard / "
+        "id": "2026-11-23-union-savings-bank-cd-standard-18-mo",
+        "summary": "Union Savings Bank / CD / Standard / 18 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-money-market-standard-item",
-        "summary": "Navy Federal Credit Union / Money market / Standard / "
+        "id": "2026-11-23-union-savings-bank-cd-standard-24-mo",
+        "summary": "Union Savings Bank / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-cd-standard-3-mo",
-        "summary": "Navy Federal Credit Union / CD / Standard / 3 mo"
+        "id": "2026-11-23-union-savings-bank-cd-standard-36-mo",
+        "summary": "Union Savings Bank / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-cd-standard-12-mo",
-        "summary": "Navy Federal Credit Union / CD / Standard / 12 mo"
+        "id": "2026-11-23-union-savings-bank-cd-standard-48-mo",
+        "summary": "Union Savings Bank / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-cd-standard-18-mo",
-        "summary": "Navy Federal Credit Union / CD / Standard / 18 mo"
+        "id": "2026-11-23-union-savings-bank-cd-standard-60-mo",
+        "summary": "Union Savings Bank / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-cd-standard-24-mo",
-        "summary": "Navy Federal Credit Union / CD / Standard / 24 mo"
+        "id": "2026-11-23-union-savings-bank-cd-special-5-mo",
+        "summary": "Union Savings Bank / CD / Special / 5 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-cd-standard-36-mo",
-        "summary": "Navy Federal Credit Union / CD / Standard / 36 mo"
+        "id": "2026-11-23-union-savings-bank-cd-special-7-mo",
+        "summary": "Union Savings Bank / CD / Special / 7 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-cd-standard-60-mo",
-        "summary": "Navy Federal Credit Union / CD / Standard / 60 mo"
+        "id": "2026-11-23-union-savings-bank-cd-special-8-mo",
+        "summary": "Union Savings Bank / CD / Special / 8 mo"
       },
       {
-        "id": "2026-11-23-navy-federal-credit-union-cd-special-12-mo",
-        "summary": "Navy Federal Credit Union / CD / Special / 12 mo"
+        "id": "2026-11-23-union-savings-bank-cd-special-13-mo",
+        "summary": "Union Savings Bank / CD / Special / 13 mo"
       },
       {
-        "id": "2026-11-23-windsor-federal-bank-savings-standard-item",
-        "summary": "Windsor Federal Bank / Savings / Standard / "
+        "id": "2026-11-23-union-savings-bank-cd-special-25-mo",
+        "summary": "Union Savings Bank / CD / Special / 25 mo"
       },
       {
-        "id": "2026-11-23-windsor-federal-bank-money-market-standard-item",
-        "summary": "Windsor Federal Bank / Money market / Standard / "
+        "id": "2026-11-23-union-savings-bank-cd-special-54-mo",
+        "summary": "Union Savings Bank / CD / Special / 54 mo"
       },
       {
-        "id": "2026-11-23-windsor-federal-bank-money-market-special-item",
-        "summary": "Windsor Federal Bank / Money market / Special / "
+        "id": "2026-10-05-jewett-city-savings-bank-savings-standard-item",
+        "summary": "Jewett City Savings Bank / Savings / Standard / "
       },
       {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-3-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-6-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-12-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-18-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-24-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-36-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-48-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-standard-60-mo",
-        "summary": "Windsor Federal Bank / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-special-5-mo",
-        "summary": "Windsor Federal Bank / CD / Special / 5 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-special-11-mo",
-        "summary": "Windsor Federal Bank / CD / Special / 11 mo"
-      },
-      {
-        "id": "2026-11-23-windsor-federal-bank-cd-special-28-mo",
-        "summary": "Windsor Federal Bank / CD / Special / 28 mo"
-      },
-      {
-        "id": "2026-09-14-american-broadcast-employees-federal-credit-union-savings-standard-item",
-        "summary": "American Broadcast Employees Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-09-14-american-broadcast-employees-federal-credit-union-money-market-standard-item",
-        "summary": "American Broadcast Employees Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-3-mo",
-        "summary": "American Broadcast Employees Federal Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-6-mo",
-        "summary": "American Broadcast Employees Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-12-mo",
-        "summary": "American Broadcast Employees Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-24-mo",
-        "summary": "American Broadcast Employees Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-60-mo",
-        "summary": "American Broadcast Employees Federal Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-savings-standard-item",
-        "summary": "Achieve Financial Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-money-market-standard-item",
-        "summary": "Achieve Financial Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-cd-standard-6-mo",
-        "summary": "Achieve Financial Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-cd-standard-12-mo",
-        "summary": "Achieve Financial Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-cd-standard-18-mo",
-        "summary": "Achieve Financial Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-cd-standard-24-mo",
-        "summary": "Achieve Financial Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-cd-standard-36-mo",
-        "summary": "Achieve Financial Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-cd-standard-48-mo",
-        "summary": "Achieve Financial Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-01-achieve-financial-credit-union-cd-standard-60-mo",
-        "summary": "Achieve Financial Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-20-banknewport-savings-standard-item",
-        "summary": "BankNewport / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-20-banknewport-money-market-standard-item",
-        "summary": "BankNewport / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-20-banknewport-money-market-special-item",
-        "summary": "BankNewport / Money market / Special / "
-      },
-      {
-        "id": "2026-11-20-banknewport-cd-standard-6-mo",
-        "summary": "BankNewport / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-20-banknewport-cd-standard-18-mo",
-        "summary": "BankNewport / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-20-banknewport-cd-standard-24-mo",
-        "summary": "BankNewport / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-20-banknewport-cd-special-12-mo",
-        "summary": "BankNewport / CD / Special / 12 mo"
-      },
-      {
-        "id": "2026-11-20-banknewport-cd-special-18-mo",
-        "summary": "BankNewport / CD / Special / 18 mo"
-      },
-      {
-        "id": "2026-11-20-banknewport-cd-special-24-mo",
-        "summary": "BankNewport / CD / Special / 24 mo"
-      },
-      {
-        "id": "2026-11-20-banknewport-cd-special-7-mo",
-        "summary": "BankNewport / CD / Special / 7 mo"
-      },
-      {
-        "id": "2026-10-07-connecticut-state-employees-credit-union-savings-standard-item",
-        "summary": "Connecticut State Employees Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-10-07-connecticut-state-employees-credit-union-cd-standard-3-mo",
-        "summary": "Connecticut State Employees Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-10-07-connecticut-state-employees-credit-union-cd-standard-6-mo",
-        "summary": "Connecticut State Employees Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-10-07-connecticut-state-employees-credit-union-cd-standard-12-mo",
-        "summary": "Connecticut State Employees Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-10-07-connecticut-state-employees-credit-union-cd-standard-18-mo",
-        "summary": "Connecticut State Employees Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-10-07-connecticut-state-employees-credit-union-cd-standard-36-mo",
-        "summary": "Connecticut State Employees Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2022-12-31-connecticut-firefighters-federal-credit-union-savings-standard-item",
-        "summary": "Connecticut Firefighters Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-connecticut-firefighters-federal-credit-union-cd-special-18-mo",
-        "summary": "Connecticut Firefighters Federal Credit Union / CD / Special / 18 mo"
-      },
-      {
-        "id": "2026-11-01-finex-credit-union-money-market-standard-item",
-        "summary": "Finex Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-09-01-finex-credit-union-savings-special-item",
-        "summary": "Finex Credit Union / Savings / Special / "
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-standard-6-mo",
-        "summary": "Finex Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-standard-12-mo",
-        "summary": "Finex Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-standard-18-mo",
-        "summary": "Finex Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-standard-24-mo",
-        "summary": "Finex Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-standard-36-mo",
-        "summary": "Finex Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-standard-48-mo",
-        "summary": "Finex Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-standard-60-mo",
-        "summary": "Finex Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-special-9-mo",
-        "summary": "Finex Credit Union / CD / Special / 9 mo"
-      },
-      {
-        "id": "2026-10-16-finex-credit-union-cd-special-18-mo",
-        "summary": "Finex Credit Union / CD / Special / 18 mo"
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-savings-standard-item",
-        "summary": "Franklin Trust Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-money-market-standard-item",
-        "summary": "Franklin Trust Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-cd-standard-12-mo",
-        "summary": "Franklin Trust Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-cd-standard-18-mo",
-        "summary": "Franklin Trust Federal Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-cd-standard-24-mo",
-        "summary": "Franklin Trust Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-cd-standard-36-mo",
-        "summary": "Franklin Trust Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-cd-standard-48-mo",
-        "summary": "Franklin Trust Federal Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-franklin-trust-federal-credit-union-cd-standard-60-mo",
-        "summary": "Franklin Trust Federal Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-savings-standard-item",
-        "summary": "Hartford Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-money-market-standard-item",
-        "summary": "Hartford Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-cd-standard-3-mo",
-        "summary": "Hartford Federal Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-cd-standard-6-mo",
-        "summary": "Hartford Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-cd-standard-12-mo",
-        "summary": "Hartford Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-cd-standard-18-mo",
-        "summary": "Hartford Federal Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-cd-standard-24-mo",
-        "summary": "Hartford Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-cd-standard-36-mo",
-        "summary": "Hartford Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-hartford-federal-credit-union-cd-standard-60-mo",
-        "summary": "Hartford Federal Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2025-03-01-lawrence-memorial-hospital-employees-federal-credit-union-savings-standard-item",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-6-mo",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-12-mo",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-18-mo",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-24-mo",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-36-mo",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-48-mo",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-60-mo",
-        "summary": "Lawrence Memorial Hospital Employees Federal Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-savings-standard-item",
-        "summary": "Navigant Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-money-market-standard-item",
-        "summary": "Navigant Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-standard-6-mo",
-        "summary": "Navigant Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-standard-12-mo",
-        "summary": "Navigant Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-standard-18-mo",
-        "summary": "Navigant Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-standard-24-mo",
-        "summary": "Navigant Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-standard-36-mo",
-        "summary": "Navigant Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-standard-48-mo",
-        "summary": "Navigant Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-standard-60-mo",
-        "summary": "Navigant Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-special-15-mo",
-        "summary": "Navigant Credit Union / CD / Special / 15 mo"
-      },
-      {
-        "id": "2026-11-23-navigant-credit-union-cd-special-23-mo",
-        "summary": "Navigant Credit Union / CD / Special / 23 mo"
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-savings-standard-item",
-        "summary": "Ocean State Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-money-market-standard-item",
-        "summary": "Ocean State Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-cd-standard-12-mo",
-        "summary": "Ocean State Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-cd-standard-18-mo",
-        "summary": "Ocean State Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-cd-standard-24-mo",
-        "summary": "Ocean State Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-cd-standard-36-mo",
-        "summary": "Ocean State Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-cd-standard-48-mo",
-        "summary": "Ocean State Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-01-01-ocean-state-credit-union-cd-standard-60-mo",
-        "summary": "Ocean State Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-savings-standard-item",
-        "summary": "The Peoples Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-money-market-standard-item",
-        "summary": "The Peoples Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-money-market-special-item",
-        "summary": "The Peoples Credit Union / Money market / Special / "
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-3-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-6-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-12-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-18-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-24-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-36-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-48-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-the-peoples-credit-union-cd-standard-60-mo",
-        "summary": "The Peoples Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2025-12-18-police-credit-union-of-connecticut-savings-standard-item",
-        "summary": "Police Credit Union of Connecticut / Savings / Standard / "
-      },
-      {
-        "id": "2025-12-18-police-credit-union-of-connecticut-money-market-standard-item",
-        "summary": "Police Credit Union of Connecticut / Money market / Standard / "
-      },
-      {
-        "id": "2026-10-01-police-credit-union-of-connecticut-cd-standard-6-mo",
-        "summary": "Police Credit Union of Connecticut / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-10-01-police-credit-union-of-connecticut-cd-standard-12-mo",
-        "summary": "Police Credit Union of Connecticut / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-10-01-police-credit-union-of-connecticut-cd-standard-24-mo",
-        "summary": "Police Credit Union of Connecticut / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-10-01-police-credit-union-of-connecticut-cd-standard-36-mo",
-        "summary": "Police Credit Union of Connecticut / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-10-01-police-credit-union-of-connecticut-cd-standard-48-mo",
-        "summary": "Police Credit Union of Connecticut / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-10-01-police-credit-union-of-connecticut-cd-standard-60-mo",
-        "summary": "Police Credit Union of Connecticut / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-savings-standard-item",
-        "summary": "Polish & Slavic Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-money-market-standard-item",
-        "summary": "Polish & Slavic Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-3-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-6-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-12-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-18-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-24-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-36-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-48-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-60-mo",
-        "summary": "Polish & Slavic Federal Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-09-30-rhode-island-credit-union-savings-standard-item",
-        "summary": "Rhode Island Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-01-rhode-island-credit-union-money-market-standard-item",
-        "summary": "Rhode Island Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-19-rhode-island-credit-union-cd-standard-3-mo",
-        "summary": "Rhode Island Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-19-rhode-island-credit-union-cd-standard-6-mo",
-        "summary": "Rhode Island Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-19-rhode-island-credit-union-cd-standard-12-mo",
-        "summary": "Rhode Island Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-19-rhode-island-credit-union-cd-standard-18-mo",
-        "summary": "Rhode Island Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-19-rhode-island-credit-union-cd-standard-24-mo",
-        "summary": "Rhode Island Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-savings-standard-item",
-        "summary": "Riverbank Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-money-market-standard-item",
-        "summary": "Riverbank Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-standard-6-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-standard-12-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-standard-18-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-standard-24-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-standard-36-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-standard-48-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-standard-60-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-special-6-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Special / 6 mo"
-      },
-      {
-        "id": "2026-11-05-riverbank-federal-credit-union-cd-special-9-mo",
-        "summary": "Riverbank Federal Credit Union / CD / Special / 9 mo"
-      },
-      {
-        "id": "2026-11-23-stafford-savings-bank-savings-standard-item",
-        "summary": "Stafford Savings Bank / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-stafford-savings-bank-money-market-standard-item",
-        "summary": "Stafford Savings Bank / Money market / Standard / "
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-3-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-6-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-12-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-18-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-24-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-36-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-48-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-08-12-stafford-savings-bank-cd-standard-60-mo",
-        "summary": "Stafford Savings Bank / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-09-01-tobacco-valley-teachers-federal-credit-union-savings-standard-item",
-        "summary": "Tobacco Valley Teachers Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-09-01-tobacco-valley-teachers-federal-credit-union-money-market-standard-item",
-        "summary": "Tobacco Valley Teachers Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-09-01-tobacco-valley-teachers-federal-credit-union-cd-standard-12-mo",
-        "summary": "Tobacco Valley Teachers Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-09-01-tobacco-valley-teachers-federal-credit-union-cd-standard-24-mo",
-        "summary": "Tobacco Valley Teachers Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-09-01-tobacco-valley-teachers-federal-credit-union-cd-standard-36-mo",
-        "summary": "Tobacco Valley Teachers Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-savings-standard-item",
-        "summary": "The Torrington Savings Bank / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-money-market-standard-item",
-        "summary": "The Torrington Savings Bank / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-3-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-6-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-12-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-18-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-24-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-36-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-48-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-standard-60-mo",
-        "summary": "The Torrington Savings Bank / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-special-7-mo",
-        "summary": "The Torrington Savings Bank / CD / Special / 7 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-special-11-mo",
-        "summary": "The Torrington Savings Bank / CD / Special / 11 mo"
-      },
-      {
-        "id": "2026-11-23-the-torrington-savings-bank-cd-special-15-mo",
-        "summary": "The Torrington Savings Bank / CD / Special / 15 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-savings-standard-item",
-        "summary": "TruNorth Bank / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-money-market-standard-item",
-        "summary": "TruNorth Bank / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-3-mo",
-        "summary": "TruNorth Bank / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-6-mo",
-        "summary": "TruNorth Bank / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-12-mo",
-        "summary": "TruNorth Bank / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-18-mo",
-        "summary": "TruNorth Bank / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-24-mo",
-        "summary": "TruNorth Bank / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-36-mo",
-        "summary": "TruNorth Bank / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-48-mo",
-        "summary": "TruNorth Bank / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-standard-60-mo",
-        "summary": "TruNorth Bank / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-special-11-mo",
-        "summary": "TruNorth Bank / CD / Special / 11 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-special-15-mo",
-        "summary": "TruNorth Bank / CD / Special / 15 mo"
-      },
-      {
-        "id": "2026-11-23-trunorth-bank-cd-special-19-mo",
-        "summary": "TruNorth Bank / CD / Special / 19 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-savings-standard-item",
-        "summary": "Ion Bank / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-ion-bank-savings-special-item",
-        "summary": "Ion Bank / Savings / Special / "
-      },
-      {
-        "id": "2026-11-23-ion-bank-money-market-standard-item",
-        "summary": "Ion Bank / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-3-mo",
-        "summary": "Ion Bank / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-6-mo",
-        "summary": "Ion Bank / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-12-mo",
-        "summary": "Ion Bank / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-18-mo",
-        "summary": "Ion Bank / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-24-mo",
-        "summary": "Ion Bank / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-36-mo",
-        "summary": "Ion Bank / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-48-mo",
-        "summary": "Ion Bank / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-standard-60-mo",
-        "summary": "Ion Bank / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-special-10-mo",
-        "summary": "Ion Bank / CD / Special / 10 mo"
-      },
-      {
-        "id": "2026-11-23-ion-bank-cd-special-25-mo",
-        "summary": "Ion Bank / CD / Special / 25 mo"
-      },
-      {
-        "id": "2026-11-23-northwest-community-bank-savings-standard-item",
-        "summary": "Northwest Community Bank / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-northwest-community-bank-money-market-standard-item",
-        "summary": "Northwest Community Bank / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-23-northwest-community-bank-money-market-special-item",
-        "summary": "Northwest Community Bank / Money market / Special / "
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-3-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-6-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-12-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-18-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-24-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-36-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-48-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-standard-60-mo",
-        "summary": "Northwest Community Bank / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-special-5-mo",
-        "summary": "Northwest Community Bank / CD / Special / 5 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-special-7-mo",
-        "summary": "Northwest Community Bank / CD / Special / 7 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-special-11-mo",
-        "summary": "Northwest Community Bank / CD / Special / 11 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-special-15-mo",
-        "summary": "Northwest Community Bank / CD / Special / 15 mo"
-      },
-      {
-        "id": "2026-10-06-northwest-community-bank-cd-special-21-mo",
-        "summary": "Northwest Community Bank / CD / Special / 21 mo"
-      },
+        "id": "2026-10-05-jewett-city-savings-bank-money-market-standard-item",
+        "summary": "Jewett City Savings Bank / Money market / Standard / "
+      }
+    ],
+    "updated": [
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-3-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 3 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": "3-mo is the 91-day CD."
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-6-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 6 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-12-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 12 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-18-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 18 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-24-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 24 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-36-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 36 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-48-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 48 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-standard-60-mo",
-        "summary": "Jewett City Savings Bank / CD / Standard / 60 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-special-7-mo",
-        "summary": "Jewett City Savings Bank / CD / Special / 7 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-special-11-mo",
-        "summary": "Jewett City Savings Bank / CD / Special / 11 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       },
       {
         "id": "2026-10-05-jewett-city-savings-bank-cd-special-18-mo",
-        "summary": "Jewett City Savings Bank / CD / Special / 18 mo"
-      },
-      {
-        "id": "2026-10-01-community-healthcare-credit-union-savings-standard-item",
-        "summary": "Community Healthcare Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-10-01-community-healthcare-credit-union-cd-standard-6-mo",
-        "summary": "Community Healthcare Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-10-01-community-healthcare-credit-union-cd-standard-12-mo",
-        "summary": "Community Healthcare Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-10-01-connecticut-labor-department-federal-credit-union-savings-standard-item",
-        "summary": "Connecticut Labor Department Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-6-mo",
-        "summary": "Connecticut Labor Department Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-12-mo",
-        "summary": "Connecticut Labor Department Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-24-mo",
-        "summary": "Connecticut Labor Department Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-36-mo",
-        "summary": "Connecticut Labor Department Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-48-mo",
-        "summary": "Connecticut Labor Department Federal Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-savings-standard-item",
-        "summary": "Westerly Community Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-money-market-special-item",
-        "summary": "Westerly Community Credit Union / Money market / Special / "
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-3-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-6-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-12-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-18-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-24-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-36-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-48-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-standard-60-mo",
-        "summary": "Westerly Community Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-special-3-mo",
-        "summary": "Westerly Community Credit Union / CD / Special / 3 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-special-8-mo",
-        "summary": "Westerly Community Credit Union / CD / Special / 8 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-special-11-mo",
-        "summary": "Westerly Community Credit Union / CD / Special / 11 mo"
-      },
-      {
-        "id": "2026-11-23-westerly-community-credit-union-cd-special-14-mo",
-        "summary": "Westerly Community Credit Union / CD / Special / 14 mo"
-      },
-      {
-        "id": "2026-05-01-ellafi-federal-credit-union-savings-standard-item",
-        "summary": "Ellafi Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-05-01-ellafi-federal-credit-union-money-market-standard-item",
-        "summary": "Ellafi Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-3-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-6-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-12-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-18-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-24-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-36-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-48-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-10-06-ellafi-federal-credit-union-cd-standard-60-mo",
-        "summary": "Ellafi Federal Credit Union / CD / Standard / 60 mo"
+        "note": "Savings and money market now loaded; note cleared",
+        "changes": [
+          {
+            "field": "notes",
+            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
+            "new": null
+          }
+        ],
+        "kept": []
       }
     ],
-    "updated": [],
     "rechecked": [],
     "reviewed": 0,
     "rejected": []
