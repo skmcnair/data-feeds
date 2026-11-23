@@ -68,6 +68,18 @@ corrections) by hand, and never touch a `wallboard` branch.
    (`--kind`: credit_union, bank, league, association, regulator or other;
    `--fdic-cert` for banks). Short names are what people call it: "Navy
    Federal", "TDECU", "Arsenal CU".
+   **Same name, different organization.** Different credit unions can share a
+   legal name (Consumers Credit Union is in Illinois, charter 68588, and in
+   Michigan, charter 62172). First run `python3 engine/orgs.py find "<name>"`.
+   If an entry with that name exists but its charter, FDIC cert or state isn't
+   this organization's, it is a different organization: never change that
+   entry. Add this one as its own entry with
+   `orgs.py add --slug <slug>-<state> --name ... --charter ... --state ...`,
+   then name it in your change file with `org_slugs` (section 4). `orgs.py add`
+   without `--slug` refuses to change an existing entry's charter, FDIC cert
+   or state for this reason. When an organization's charter really changed
+   (a conversion to a federal charter, a move), update its own entry with
+   `--slug <its slug>`.
 6. **Logos.** For each organization in `logos_missing` and each new one:
    - Fetch its homepage with curl and a plain browser User-Agent. Take the
      header logo (`<img src>` .svg/.png/.webp, or an inline `<svg>` whose
@@ -82,6 +94,12 @@ corrections) by hand, and never touch a `wallboard` branch.
      (`--style white` only when the only logo is white or near-white).
    - Open the saved PNG in `shared/logos/` with the Read tool and confirm
      it's the right organization's logo and isn't cut off.
+   - Before replacing an existing logo (a checker MISMATCH, an "outdated"
+     mark), confirm the entry's website belongs to the credit union with
+     the entry's charter (NCUA's record for that charter lists it). A website,
+     state or charter that recently changed to another organization's means the
+     entry was mixed up with a same-name organization: fix the entry (step 5),
+     not the logo.
    - If none can be found, leave it and name it in your message.
 7. **Logo reviews.** For each `logo_reviews` entry:
    - With a `pending_file`, view `shared/logos/<pending_file>` and the current
@@ -140,6 +158,16 @@ Write it even when nothing is new: it is the run's heartbeat. Name it
 - An update names the item by `id` (from `tracked` or `recheck`), changes
   only what changed, and always has a short `note`. The engine dates it.
   You can't change a key field, and Sean's corrections always win.
+- `org_slugs` says which organization entry an `org` field means, by slug:
+  `"org_slugs": {"acquirer": "consumers-cu-mi"}`. It's required when the name
+  is shared by more than one entry (the dry run says so); otherwise the engine
+  records the only match itself. Every record remembers its entries, so a
+  same-name organization added later can't take it over. An update can carry
+  `org_slugs` (with a `note`, and no `set`) to point a record at the right
+  entry.
+- A change file without a `run` section is a maintenance fix made with Sean.
+  It's applied the same way but doesn't count as the daily review. Your daily
+  file always has `run`.
 - Leave out any field you couldn't confirm. Never write "Unknown" or
   "Not disclosed" unless the feed's `help` for that field says to.
 

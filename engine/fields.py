@@ -71,7 +71,7 @@ def normalize_value(f, value):
     return out
 
 
-def key_tuple(s, fields, orgs, idx):
+def key_tuple(s, fields, orgs, idx, pins=None):
     parts = []
     for k in s["key"]:
         f = field_def(s, k)
@@ -79,7 +79,7 @@ def key_tuple(s, fields, orgs, idx):
         if v is None:
             parts.append("")
         elif f["type"] == "org":
-            slug, _ = resolve_org(v, orgs, idx)
+            slug, _ = resolve_org(v, orgs, idx, (pins or {}).get(k))
             parts.append(slug or norm_org(v))
         elif f["type"] in ("date", "int", "money", "percent"):
             parts.append(str(v))
@@ -100,8 +100,9 @@ def make_id(s, fields, existing_ids):
     return out
 
 
-def output_field(f, v, orgs, idx):
-    """The published form: every value a string."""
+def output_field(f, v, orgs, idx, pin=None):
+    """The published form: every value a string. pin: the record's slug for an
+    org field (see common.resolve_org)."""
     n, t = f["name"], f["type"]
     if t == "date":
         d = parse_date(v) if v else None
@@ -116,7 +117,7 @@ def output_field(f, v, orgs, idx):
     if t == "percent":
         return {n: f"{v}%" if v is not None else ""}
     if t == "org":
-        slug, org = resolve_org(v, orgs, idx) if v else (None, None)
+        slug, org = resolve_org(v, orgs, idx, pin) if v else (None, None)
         logo = (org or {}).get("logo") or {}
         return {
             n: v or "",

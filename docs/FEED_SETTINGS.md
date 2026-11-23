@@ -34,7 +34,7 @@ toward confidence; required fields count by default) and `tracker: false`
 | `money` | $ millions | `name` "$1.85B" or "$345M"; `name_m` "1850.0" |
 | `percent` | 0-100 | "97%" |
 | `title` | job title in the house style | "VP, Marketing", "SVP, Chief Lending Officer", "President & CEO" |
-| `org` | organization name | `name`, `name_short`, `name_logo_url`, `name_logo_style` from the shared organization list |
+| `org` | organization name | `name`, `name_short`, `name_logo_url`, `name_logo_style` from the shared organization list (each record remembers which entry it means; a name two entries share needs `org_slugs`, see REVIEW.md) |
 | `url` | web address | as is |
 | `state` | two-letter state or National | as is |
 | `yesno` | yes or no | as is |

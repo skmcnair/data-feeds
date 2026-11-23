@@ -10,13 +10,14 @@ bad ones are set aside with the reason in changes/rejected/. The file then
 moves to changes/applied/. Applying is safe to repeat: a file is applied once.
 """
 import argparse
+import re
 import shutil
 import sys
 
 from common import (
-    SOURCE_TYPES, ascii_text, feed_dir, feed_names, field_def, load_feed, load_json,
-    load_orgs, norm_org, now_et, org_index, orgs_path, resolve_org, save_json, slugify,
-    today_et,
+    SOURCE_TYPES, ascii_text, feed_dir, feed_names, field_def, is_ambiguous, load_feed,
+    load_json, load_orgs, norm_org, now_et, org_index, org_matches, orgs_named, orgs_path,
+    resolve_org, save_json, slugify, today_et,
 )
 from fields import key_tuple, make_id, normalize_value
 
@@ -75,20 +76,57 @@ def merge_sources(rec, new, field_sources):
     return out
 
 
+IDENTITY = ("charter", "fdic_cert", "state")
+
+
 def apply_org(orgs, o, today):
+    """Create an organization or fill in what's new. Found by name (or short
+    name) unless o["slug"] names it. By name, it never changes an existing
+    organization's charter, FDIC cert or state: a different value means a
+    different organization that happens to share the name, which gets its own
+    entry with its own slug."""
     name = ascii_text(o.get("name"))
-    if not name:
-        raise ValueError("organization needs a name")
+    want = ascii_text(o.get("slug")).strip()
     idx = org_index(orgs)
-    slug, existing = resolve_org(name, orgs, idx)
-    if not existing and o.get("short_name"):
-        slug, existing = resolve_org(o["short_name"], orgs, idx)
-    if not existing:
-        slug = slugify(o.get("short_name") or name)
-        base, n = slug, 2
-        while slug in orgs["organizations"]:
-            slug, n = f"{base}-{n}", n + 1
-        existing = orgs["organizations"].setdefault(slug, {"name": name, "added": today})
+    if want:
+        if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", want):
+            raise ValueError(f"slug {want!r} must be lowercase letters, digits and hyphens")
+        slug, existing = want, orgs["organizations"].get(want)
+        if not existing:
+            if not name:
+                raise ValueError(f"new organization {want!r} needs a name")
+            existing = orgs["organizations"].setdefault(want, {"name": name, "added": today})
+    else:
+        if not name:
+            raise ValueError("organization needs a name")
+        slug, existing = None, None
+        for n in (name, o.get("short_name")):
+            if not n:
+                continue
+            if is_ambiguous(n, idx):
+                raise ValueError(f"{n!r} matches several organizations ({', '.join(orgs_named(n, orgs))}); "
+                                 "say which with its slug")
+            slug, existing = resolve_org(n, orgs, idx)
+            if existing:
+                break
+        if existing:
+            clash = [f"{k} {existing[k]} vs {ascii_text(o[k])}" for k in IDENTITY
+                     if o.get(k) and existing.get(k)
+                     and str(existing[k]).strip().upper() != ascii_text(o[k]).strip().upper()]
+            if clash:
+                hint = f"{slug}-{ascii_text(o.get('state') or 'x').strip().lower()}"
+                raise ValueError(
+                    f"{name!r} matches {slug} ({existing.get('name')}), but {'; '.join(clash)}: "
+                    f"a different organization with the same name. Add it as its own entry with a "
+                    f"new slug (--slug {hint}) and name it with org_slugs in change files. If {slug} "
+                    f"itself changed (a charter conversion, a move), update it with --slug {slug}.")
+        else:
+            slug = slugify(o.get("short_name") or name)
+            base, n = slug, 2
+            while slug in orgs["organizations"]:
+                slug, n = f"{base}-{n}", n + 1
+            existing = orgs["organizations"].setdefault(slug, {"name": name, "added": today})
+    name = name or existing.get("name")
     for k in ("short_name", "kind", "charter", "website", "state", "fdic_cert"):
         if o.get(k):
             existing[k] = ascii_text(o[k])
@@ -122,8 +160,46 @@ def apply_change(s, change, records, corr, orgs, today):
     idx = org_index(orgs)
     recs = records["records"]
     by_id = {r["id"]: r for r in recs}
-    by_key = {key_tuple(s, r["fields"], orgs, idx): r for r in recs}
+    by_key = {key_tuple(s, r["fields"], orgs, idx, r.get("org_slugs")): r for r in recs}
     names = {f["name"] for f in s["fields"]}
+    org_fields = [f["name"] for f in s["fields"] if f["type"] == "org"]
+
+    def pin_orgs(fields, given, old=None):
+        """The organization slug behind each org field: the one the entry gives
+        in org_slugs, else the record's current one, else the only organization
+        with that name. A name several organizations share must be given."""
+        pins, errs = dict(old or {}), []
+        if given is None:
+            given = {}
+        if not isinstance(given, dict):
+            return pins, ['org_slugs must be an object, e.g. {"acquirer": "consumers-cu"}']
+        errs += [f"org_slugs: {k} is not an organization field" for k in given if k not in org_fields]
+        for k in org_fields:
+            v = fields.get(k)
+            if not v:
+                pins.pop(k, None)
+                continue
+            if k in given:
+                org = orgs["organizations"].get(given[k])
+                if not org:
+                    errs.append(f"org_slugs: no organization {given[k]!r}")
+                elif not org_matches(org, v):
+                    errs.append(f"org_slugs: {given[k]} is not called {v!r} (add that name as an alias if it is)")
+                else:
+                    pins[k] = given[k]
+                continue
+            if pins.get(k) in orgs["organizations"] and org_matches(orgs["organizations"][pins[k]], v):
+                continue
+            if is_ambiguous(v, idx):
+                errs.append(f"{k}: {v!r} matches several organizations ({', '.join(orgs_named(v, orgs))}); "
+                            f'say which with "org_slugs": {{"{k}": "<slug>"}}')
+                continue
+            slug, _ = resolve_org(v, orgs, idx)
+            if slug:
+                pins[k] = slug
+            else:
+                pins.pop(k, None)
+        return pins, errs
 
     def clean_fields(raw, need_required):
         out, errs = {}, []
@@ -180,10 +256,12 @@ def apply_change(s, change, records, corr, orgs, today):
         errs += serrs
         if not sources:
             errs.append("every new item needs at least one source")
+        pins, perrs = pin_orgs(fields, (e or {}).get("org_slugs"))
+        errs += perrs
         if errs:
             rep["rejected"].append({"entry": e, "reasons": errs})
             continue
-        k = key_tuple(s, fields, orgs, idx)
+        k = key_tuple(s, fields, orgs, idx, pins)
         if k in by_key:
             rec = by_key[k]
             changes, _ = update_record(rec, fields, e.get("note") or "Details added from a new report",
@@ -194,7 +272,7 @@ def apply_change(s, change, records, corr, orgs, today):
         rid = make_id(s, fields, by_id)
         rec = {"id": rid, "fields": {f["name"]: fields.get(f["name"]) for f in s["fields"]},
                "sources": [], "field_sources": {}, "history": [{"date": today, "note": "Added"}],
-               "added": today, "updated": today, "last_checked": today}
+               "added": today, "updated": today, "last_checked": today, "org_slugs": pins}
         rec["field_sources"] = merge_sources(rec, sources, e.get("field_sources"))
         recs.append(rec)
         by_id[rid], by_key[k] = rec, rec
@@ -203,23 +281,43 @@ def apply_change(s, change, records, corr, orgs, today):
     for e in change.get("updates", []) or []:
         e = e or {}
         rec = by_id.get(e.get("id"))
+        given = e.get("org_slugs")
         if not rec and e.get("key"):
             kf, _ = clean_fields(e["key"], False)
-            rec = by_key.get(key_tuple(s, kf, orgs, idx))
+            rec = by_key.get(key_tuple(s, kf, orgs, idx, given if isinstance(given, dict) else None))
         if not rec:
             rep["rejected"].append({"entry": e, "reasons": ["no tracked item has that id or key"]})
             continue
-        fields, errs = clean_fields(e.get("set"), False)
+        if e.get("set") is None and given:  # only says which organization the record means
+            fields, errs = {}, []
+        else:
+            fields, errs = clean_fields(e.get("set"), False)
         sources, serrs = clean_sources(e.get("sources"))
         errs += serrs
         if fields and not sources:
             errs.append("an update needs a source for what changed")
-        if fields and not ascii_text(e.get("note")):
+        if (fields or given) and not ascii_text(e.get("note")):
             errs.append("an update needs a short note saying what changed")
+        _, perrs = pin_orgs({**rec["fields"], **fields}, given, rec.get("org_slugs"))
+        errs += perrs
         if errs:
             rep["rejected"].append({"entry": e, "reasons": errs})
             continue
         changes, kept = update_record(rec, fields, e.get("note"), sources, e.get("field_sources"))
+        old = rec.get("org_slugs") or {}
+        ok_given = {k: v for k, v in (given or {}).items()
+                    if v in orgs["organizations"] and org_matches(orgs["organizations"][v], rec["fields"].get(k))}
+        pins, _ = pin_orgs(rec["fields"], ok_given, old)
+        moved = [{"field": f"{k} organization", "old": old.get(k), "new": pins.get(k)}
+                 for k in sorted(set(old) | set(pins)) if old.get(k) != pins.get(k)]
+        if pins or old:
+            rec["org_slugs"] = pins
+        if moved and given:
+            rec["updated"] = today
+            rec.setdefault("history", []).append(
+                {"date": today, "note": ascii_text(e.get("note")), "changes": moved,
+                 "sources": [x["url"] for x in sources]})
+            changes = changes + moved
         if changes:
             rep["updated"].append({"id": rec["id"], "note": ascii_text(e.get("note")),
                                    "changes": changes, "kept": kept})
@@ -245,6 +343,7 @@ def run(name, dry_file=None):
     today = today_et().isoformat()
     records, corr, orgs = load_records(name), load_corrections(name), load_orgs()
     files = [dry_file] if dry_file else sorted((d / "changes").glob("*.json"))
+    pinned = pin_records(s, records, orgs)
     reports = []
     for path in files:
         try:
@@ -268,6 +367,8 @@ def run(name, dry_file=None):
             save_json(d / "changes" / "rejected" / path.name, {"rejected": rep["rejected"]})
         (d / "changes" / "applied").mkdir(parents=True, exist_ok=True)
         shutil.move(str(path), d / "changes" / "applied" / path.name)
+        if isinstance(change, dict) and "run" not in change:
+            continue  # a maintenance file (a fix made with Sean), not a daily review
         state = load_json(d / "state.json", {})
         run_info = (change or {}).get("run") or {}
         state["last_review"] = run_info.get("finished") or now_et().isoformat()
@@ -277,11 +378,35 @@ def run(name, dry_file=None):
         state["last_review_report"] = {k: rep[k] for k in ("added", "updated", "rechecked", "reviewed")}
         state["last_review_report"]["rejected"] = [r["reasons"] for r in rep["rejected"]]
         save_json(d / "state.json", state)
-    if not dry_file and files:
+    if not dry_file and (files or pinned):
         records["records"].sort(key=lambda r: (r["fields"].get(s["date_field"]) or "", r["added"]), reverse=True)
         save_json(d / "records.json", records)
         save_json(orgs_path(), orgs)
     return reports
+
+
+def pin_records(s, records, orgs):
+    """Record, for every org field not yet pinned, the slug its name resolves
+    to while it is the only organization with that name, so a same-name
+    organization added later can't take over the record. Returns the count."""
+    idx = org_index(orgs)
+    n = 0
+    for rec in records["records"]:
+        pins = rec.get("org_slugs") or {}
+        for f in s["fields"]:
+            v = rec["fields"].get(f["name"])
+            if f["type"] != "org" or not v:
+                continue
+            p = pins.get(f["name"])
+            if p in orgs["organizations"] and org_matches(orgs["organizations"][p], v):
+                continue
+            slug, _ = resolve_org(v, orgs, idx)
+            if slug and slug != p:
+                pins[f["name"]] = slug
+                n += 1
+        if pins:
+            rec["org_slugs"] = pins
+    return n
 
 
 def main():

@@ -56,7 +56,7 @@
  },
  "consumers-cu": {
   "checked": "2026-11-22",
-  "file": "consumers-cu-v2.png",
+  "file": "consumers-cu-v3.png",
   "live_sig": [
    [
     "12232d63346636d41a5889591d9134953a992b092b090400948019801d801d80",
@@ -67,6 +67,11 @@
     4.967
    ]
   ],
+  "result": "current"
+ },
+ "consumers-cu-mi": {
+  "checked": "2026-11-22",
+  "file": "consumers-cu-mi-v1.png",
   "result": "current"
  },
  "credit-union-one": {

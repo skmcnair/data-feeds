@@ -250,6 +250,58 @@ def main():
     it = json.loads((fd / "feed.json").read_text())[0]
     expect(it["acquirer_logo_url"].endswith("alpha-cu-v2.png"), "feed points at the new logo")
 
+    # two organizations with the same name (Consumers CU in Illinois and Michigan)
+    rec = json.loads((fd / "records.json").read_text())["records"][0]
+    expect(rec.get("org_slugs") == {"acquirer": "alpha-cu", "partner": "beta-fcu"},
+           f"records remember which organization they mean: {rec.get('org_slugs')}")
+    bad = run(["engine/orgs.py", "add", "--name", "Alpha Credit Union", "--state", "MI",
+               "--website", "https://alpha-mi.example"], root, ok=False)
+    expect("different organization" in bad.stderr, f"same name, other state must be refused: {bad.stderr}")
+    o = json.loads((root / "shared" / "organizations.json").read_text())["organizations"]["alpha-cu"]
+    expect(o["state"] == "CT" and not o.get("website"), "refused add must not touch the existing entry")
+    run(["engine/orgs.py", "add", "--slug", "alpha-cu-mi", "--name", "Alpha Credit Union",
+         "--short", "Alpha CU", "--state", "MI"], root)
+    found = run(["engine/orgs.py", "find", "Alpha Credit Union"], root)
+    expect("2 organizations share this name" in found.stdout, f"find lists both: {found.stdout}")
+    run(["engine/build.py", "sample"], root)
+    it = json.loads((fd / "feed.json").read_text())[0]
+    expect(it["acquirer_logo_url"].endswith("alpha-cu-v2.png"), "a pinned record keeps its organization")
+    st = json.loads((fd / "status.json").read_text())
+    expect(not any("several organizations" in w for w in st["warnings"]), "pinned records raise no warning")
+    add = {"fields": {"announced": "2026-11-20", "acquirer": "Alpha CU", "partner": "Gamma Credit Union",
+                      "status": "Announced", "state": "MI"},
+           "sources": [{"label": "x", "url": "https://gamma.example", "type": "primary"}]}
+    (cdir / "2026-11-24-0650.json").write_text(json.dumps({"feed": "sample", "adds": [add]}))
+    r = run(["engine/apply.py", "sample", "--dry-run", str(cdir / "2026-11-24-0650.json")], root, ok=False)
+    expect("matches several organizations" in r.stdout, f"an unpinned shared name is refused: {r.stdout}")
+    add["org_slugs"] = {"acquirer": "alpha-cu-mi"}
+    (cdir / "2026-11-24-0650.json").write_text(json.dumps({"feed": "sample", "adds": [add]}))
+    state_before = json.loads((fd / "state.json").read_text())["last_review"]
+    run(["engine/apply.py", "sample"], root)
+    expect(json.loads((fd / "state.json").read_text())["last_review"] == state_before,
+           "a change file without a run section is maintenance, not a review")
+    run(["engine/build.py", "sample"], root)
+    feed = {x["partner"]: x for x in json.loads((fd / "feed.json").read_text())}
+    expect(feed["Gamma Credit Union"]["acquirer_logo_url"] == "", "the Michigan one has no logo yet")
+    expect(feed["Beta Federal Credit Union"]["acquirer_logo_url"].endswith("alpha-cu-v2.png"),
+           "the Connecticut one keeps its logo")
+    wl = json.loads((fd / "worklist.json").read_text())
+    expect("alpha-cu-mi" in [x["slug"] for x in wl["logos_missing"]], "worklist asks for the new one's logo")
+    gid = feed["Gamma Credit Union"]["id"]
+    (cdir / "2026-11-24-0700.json").write_text(json.dumps({"feed": "sample", "updates": [
+        {"id": gid, "org_slugs": {"acquirer": "alpha-cu"}, "note": "It was the Connecticut one"}]}))
+    run(["engine/apply.py", "sample"], root)
+    g = next(x for x in json.loads((fd / "records.json").read_text())["records"] if x["id"] == gid)
+    expect(g["org_slugs"]["acquirer"] == "alpha-cu" and "It was the Connecticut one" in g["history"][-1]["note"],
+           f"an update can re-point a record: {g.get('org_slugs')}")
+    all_recs = json.loads((fd / "records.json").read_text())
+    for x in all_recs["records"]:
+        x.pop("org_slugs", None)
+    (fd / "records.json").write_text(json.dumps(all_recs))
+    run(["engine/build.py", "sample"], root)
+    st = json.loads((fd / "status.json").read_text())
+    expect(any("several organizations" in w for w in st["warnings"]), f"unpinned shared name warns: {st['warnings']}")
+
     if os.environ.get("KEEP_TEST_DIR"):
         print("kept", root)
     else:

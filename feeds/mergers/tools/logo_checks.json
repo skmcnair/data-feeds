@@ -175,8 +175,13 @@
   "result": "current"
  },
  "consumers-cu": {
-  "checked": "2026-11-21",
-  "file": "consumers-cu-v1.png",
+  "checked": "2026-11-22",
+  "file": "consumers-cu-v3.png",
+  "result": "current"
+ },
+ "consumers-cu-mi": {
+  "checked": "2026-11-22",
+  "file": "consumers-cu-mi-v1.png",
   "result": "current"
  },
  "cu1": {

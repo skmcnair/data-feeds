@@ -23,7 +23,7 @@ import sys
 from checks import check_items
 from common import (
     REPO, TITLE_AMBIGUOUS, ascii_text, feed_dir, feed_names, field_def, load_feed, load_json,
-    load_orgs, now_et, org_index, resolve_org, save_json, today_et,
+    is_ambiguous, load_orgs, now_et, org_index, orgs_named, resolve_org, save_json, today_et,
 )
 from fields import (
     confidence, derived_value, history_text, is_open, normalize_value, output_field, summary,
@@ -58,8 +58,9 @@ def build_item(s, rec, fields, corrected, orgs, idx, today):
     df = s["date_field"]
     d = fields.get(df)
     out["sort_date"] = d if d and len(str(d)) == 10 and str(d)[4] == "-" else ""
+    pins = rec.get("org_slugs") or {}
     for f in s["fields"]:
-        out.update(output_field(f, fields.get(f["name"]), orgs, idx))
+        out.update(output_field(f, fields.get(f["name"]), orgs, idx, pins.get(f["name"])))
     for dv in s["derived"]:
         out[dv["name"]] = derived_value(dv, out)
     srcs = rec.get("sources", [])
@@ -147,13 +148,19 @@ def build(name):
         save_json(d / "columns.json", {"title": s["title"], "item": s["item"], "columns": columns(s)})
 
     # what Claude's next review should look at
-    needs_org, missing_logo, logo_reviews = set(), {}, []
+    needs_org, missing_logo, logo_reviews, shared_names = set(), {}, [], {}
     for rec, fields in open_recs + [(r, r["fields"]) for r in records["records"]]:
         for f in s["fields"]:
             if f["type"] == "org" and fields.get(f["name"]):
-                slug, org = resolve_org(fields[f["name"]], orgs, idx)
-                if not org:
-                    needs_org.add(fields[f["name"]])
+                v = fields[f["name"]]
+                slug, org = resolve_org(v, orgs, idx, (rec.get("org_slugs") or {}).get(f["name"]))
+                if not org and is_ambiguous(v, idx):
+                    shared_names[(rec["id"], f["name"])] = (
+                        f"{rec['id']}: {f['name']} {v!r} matches several organizations "
+                        f"({', '.join(orgs_named(v, orgs))}); say which in an update with "
+                        f"\"org_slugs\": {{\"{f['name']}\": \"<slug>\"}}")
+                elif not org:
+                    needs_org.add(v)
                 elif not (org.get("logo") or {}).get("file"):
                     missing_logo[slug] = {"slug": slug, "name": org["name"], "website": org.get("website", "")}
     for slug, o in orgs["organizations"].items():
@@ -163,6 +170,7 @@ def build(name):
         if lg.get("check_requested"):
             logo_reviews.append({"slug": slug, "name": o["name"], "reason": "logo check requested",
                                  "requested": lg["check_requested"]})
+    warnings += list(shared_names.values())
     open_recs.sort(key=lambda rf: rf[0].get("last_checked") or "")
     rv = s["review"]
     lookback = rv["monday_lookback_days"] if today.weekday() == 0 else rv["lookback_days"]

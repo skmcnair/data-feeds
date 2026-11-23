@@ -407,21 +407,51 @@ def load_orgs():
     return load_json(orgs_path(), {"organizations": {}})
 
 
+# A name two different organizations share (Consumers Credit Union in Illinois
+# and in Michigan) resolves to neither: each record says which one it means in
+# its "org_slugs" ({field: slug}), recorded when it is added.
+AMBIGUOUS = "?ambiguous"
+
+
+def org_names(o):
+    return {norm_org(n) for n in [o.get("name"), o.get("short_name"), *o.get("aliases", [])] if n}
+
+
 def org_index(orgs):
+    """Matching name -> slug, or AMBIGUOUS when several organizations share it."""
     idx = {}
     for slug, o in orgs["organizations"].items():
-        for n in [o.get("name"), o.get("short_name"), *o.get("aliases", [])]:
-            if n:
-                idx.setdefault(norm_org(n), slug)
+        for n in org_names(o):
+            idx[n] = slug if idx.get(n, slug) == slug else AMBIGUOUS
     return idx
 
 
-def resolve_org(name, orgs, idx=None):
+def org_matches(org, name):
+    return bool(name) and norm_org(name) in org_names(org)
+
+
+def orgs_named(name, orgs):
+    n = norm_org(name)
+    return [s for s, o in orgs["organizations"].items() if n in org_names(o)]
+
+
+def is_ambiguous(name, idx):
+    return bool(name) and idx.get(norm_org(name)) == AMBIGUOUS
+
+
+def resolve_org(name, orgs, idx=None, pin=None):
+    """(slug, org) for a name, or (None, None) when it's unknown or shared by
+    several organizations. pin: the slug a record recorded for this field; it
+    wins while that organization still goes by the name."""
     if not name:
         return None, None
+    if pin and pin in orgs["organizations"] and org_matches(orgs["organizations"][pin], name):
+        return pin, orgs["organizations"][pin]
     idx = idx if idx is not None else org_index(orgs)
     slug = idx.get(norm_org(name))
-    return (slug, orgs["organizations"][slug]) if slug else (None, None)
+    if not slug or slug == AMBIGUOUS:
+        return None, None
+    return slug, orgs["organizations"][slug]
 
 
 def logo_url(org):

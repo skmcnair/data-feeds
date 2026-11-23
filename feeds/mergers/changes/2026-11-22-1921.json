@@ -1,0 +1,8 @@
+{
+ "feed": "mergers",
+ "updates": [
+  {"id": "2026-10-01-consumers-credit-union-scott-credit-union",
+   "org_slugs": {"acquirer": "consumers-cu"},
+   "note": "Linked to the Illinois Consumers Credit Union (charter 68588); a Michigan credit union of the same name had taken over its logo"}
+ ]
+}
