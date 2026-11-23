@@ -25,8 +25,8 @@ instructions: |
     and add the incoming leader's row with succeeds.
   - Retiring needs a source that says retire or retirement. A leader "stepping down", "leaving" or
     "departing" with no retirement stated is not a row of its own; name them in the successor's
-    succeeds and notes (e.g. Gary Moody at Credit Union ONE, Rick Skaggs at USF CU, Dave Preter at
-    Georgia's Own).
+    succeeds (e.g. Gary Moody at Credit Union ONE, Rick Skaggs at USF CU, Dave Preter at
+    Georgia's Own). The successor's notes may add the outgoing leader's tenure, without the name.
   - Interim CEOs are rows (title "Interim President & CEO"). When the same person is later made
     permanent, update that row's title and notes rather than adding a row.
   - A person moving from one credit union to another is one Hired row at the new credit union, with
@@ -42,8 +42,8 @@ instructions: |
     newsroom. CUInsight editorial, CU Times, CU Today, Credit Union Daily, The Credit Union
     Connection, local business journals and newspapers are trade_press. LinkedIn posts are social.
   - LinkedIn-only moves are allowed (they score lower confidence). Still look for a release or
-    story first, and if one turns up later for a LinkedIn-only row, update its notes to
-    "Confirmed by <source>" with that source so it is on the row.
+    story first, and if one turns up later for a LinkedIn-only row, add that source to the row with
+    an update whose note says "Confirmed by <source>" (the notes field stays background only).
   - LinkedIn: never log in and never open LinkedIn pages directly (LinkedIn refuses automated
     reading). Find public posts through WebSearch results only, e.g. site:linkedin.com/posts
     "credit union" "new role", and The Credit Union Connection's page
@@ -225,7 +225,7 @@ fields:
   - name: notes
     type: text
     label: Notes
-    help: One short line of context a reader would want, e.g. "Newly created role", "CEO for 20 years" or "One of four Whitefish CU promotions".
+    help: One or two short sentences of background a reader can't get from the other fields - tenure and career path ("With TLC since 2002, starting as a part-time teller"), how the person was chosen ("Chosen after a national search"), what a new role covers ("Newly created role"), or how a handover works ("Co-leads through 2027, then becomes sole CEO"). Never restate another field - not the title, previous title or previous organization on its own, who they succeed or who succeeds them, the start, effective or retirement date, the credit union or its location - and no research remarks ("not named in the release", "release doesn't say"). Leave it blank when there's nothing to add. Wallboards show this as the new CEO's background.
 
 derived:
   - name: region

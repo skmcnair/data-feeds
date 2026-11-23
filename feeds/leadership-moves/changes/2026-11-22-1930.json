@@ -1,0 +1,482 @@
+{
+ "feed": "leadership-moves",
+ "updates": [
+  {
+   "id": "2026-10-20-jeff-gehris-sun-east-federal-credit-union-hired",
+   "set": {
+    "notes": "Placed by DDJ Myers."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/sun-east-federal-credit-union-names-jeff-gehris-as-new-ceo/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-richard-sellwood-usf-federal-credit-union-promoted",
+   "set": {
+    "notes": "The outgoing CEO leaves after 16 years."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "Business Observer",
+     "url": "https://www.businessobserverfl.com/news/2026/oct/20/tampa-credit-union-new-ceo/",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+   "set": {
+    "notes": ""
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/scott-zahnle-president-and-chief-executive-officer-announces-retirement/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+   "set": {
+    "notes": "Joins as CEO-elect and becomes CEO after a transition. The outgoing CEO, in the role 32+ years, becomes CEO emeritus."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/peach-state-federal-credit-union-welcomes-mr-walt-martin-as-next-ceo/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+   "set": {
+    "notes": "22 years at St. Mary's CU; placed by CU Leadership."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "All One CU",
+     "url": "https://all-onecu.com/all-one-credit-union-announces-new-president-ceo/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-misty-harrison-afena-federal-credit-union-hired",
+   "set": {
+    "notes": "Led Community Link since 2009, after starting there as a teller in 1999."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/afena-federal-credit-union-announces-hiring-of-misty-harrison-as-new-ceo/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-30-eric-broome-georgia-s-own-credit-union-promoted",
+   "set": {
+    "notes": "Earlier COO, CRO and general counsel. Fifth CEO in 92 years; the outgoing CEO served nearly 18."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/georgias-own-credit-union-names-eric-s-broome-as-next-president-and-ceo/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+   "set": {
+    "notes": "With TLC since 2002, starting as a part-time teller; has led lending and operations since 2022."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CU Daily",
+     "url": "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+   "set": {
+    "notes": "Chosen after a national search; COO since 2007."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "Indiana Daily Student",
+     "url": "https://www.idsnews.com/article/2026/11/iu-credit-union-111026",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+   "set": {
+    "notes": "Co-leads through 2027, then becomes sole CEO when the other co-CEO retires on Jan 31, 2028."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/?p=219090",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+   "set": {
+    "notes": "With TBACU since 2012."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "Traverse City Record-Eagle",
+     "url": "https://www.record-eagle.com/news/business/business-memoranda-11-18-2026/article_48a7e3d6-d17b-4b0c-bb0b-d0fc370c965f.html",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-christian-marcussen-arsenal-credit-union-hired",
+   "set": {
+    "notes": "Earlier Chief Strategy Officer at Abound Credit Union."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "Arsenal CU",
+     "url": "https://arsenalcu.com/2026/11/christian-marcussen-named-new-president-ceo/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
+   "set": {
+    "notes": "Earlier CFO at Credit Union ONE. The outgoing CEO led it for 20 years."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/credit-union-one-announces-tina-tracy-as-chief-executive-officer/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-william-mcsweeney-journey-federal-credit-union-promoted",
+   "set": {
+    "notes": "Interim CEO since Oct 2025. Earlier COO and VP, Member Experience at Journey, and leadership roles at CASE Credit Union.",
+    "effective": "2026-11-19"
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks); start date set from the release (effective immediately)",
+   "sources": [
+    {
+     "label": "MCUL",
+     "url": "https://www.mcul.org/newsroom/journey-federal-credit-union-appoints-william-mcsweeney-as-ceo",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
+   "set": {
+    "notes": "Handed over the CEO role in November and stays on in an advisory role until retirement."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/sun-east-federal-credit-union-names-jeff-gehris-as-new-ceo/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+   "set": {
+    "notes": "27+ years at the credit union; a successor search is under way."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/plus-credit-union-announces-retirement-of-longtime-ceo-carol-j-schumacher-after-more-than-27-years-of-service/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+   "set": {
+    "notes": "With Greater Iowa since 2012."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/scott-zahnle-president-and-chief-executive-officer-announces-retirement/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-27-mike-schenck-topline-financial-credit-union-hired",
+   "set": {
+    "notes": "30+ years in the industry."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/mike-schenck-named-new-senior-vice-president-and-chief-lending-officer-at-topline-financial-credit-union/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-kevin-kelly-financial-center-first-credit-union-hired",
+   "set": {
+    "notes": ""
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/financial-center-first-credit-union-names-kevin-kelly-vice-president-of-internal-audit/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-29-laura-blanding-lafcu-promoted",
+   "set": {
+    "notes": "Newly created role focused on employee development and future leaders."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CreditUnions.com",
+     "url": "https://creditunions.com/press_releases/lafcu-names-laura-blanding-director-of-corporate-education/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+   "set": {
+    "notes": "CEO for 8 years."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CU Daily",
+     "url": "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-kristen-saito-aurora-federal-credit-union-hired",
+   "set": {
+    "notes": "20+ years in lending, including at Elevations CU and Bellco CU; most recently at a $700M credit union."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/aurora-federal-credit-union-announces-kristen-saito-as-vice-president-of-lending/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+   "set": {
+    "notes": "After 32 years; a successor search is under way."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "The Credit Union Connection",
+     "url": "https://thecreditunionconnection.com/westconsin-credit-union-ceo-jim-wookey-to-retire-in-2027-after-32-years/",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-dele-shell-american-eagle-financial-credit-union-hired",
+   "set": {
+    "notes": "28+ years' experience, two decades in HR leadership."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-pamela-villanova-american-eagle-financial-credit-union-promoted",
+   "set": {
+    "notes": "Earlier held leadership roles at Rockville Bank."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-ann-riley-american-eagle-financial-credit-union-promoted",
+   "set": {
+    "notes": ""
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-jill-vanwyk-consumers-credit-union-hired",
+   "set": {
+    "notes": "Leads Consumers Investment Services; joins from a private bank."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/press-release/consumers-credit-union-adds-investment-services-leader-and-two-mortgage-loan-officers/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+   "set": {
+    "notes": "CEO since 2007 and about 40 years at IUCU; earlier CFO and EVP."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "Indiana Daily Student",
+     "url": "https://www.idsnews.com/article/2026/11/iu-credit-union-111026",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+   "set": {
+    "notes": "Co-CEO from Jan 2027 until retirement."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CUInsight",
+     "url": "https://www.cuinsight.com/?p=219090",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-chris-turnley-texas-dow-employees-credit-union-hired",
+   "set": {
+    "notes": ""
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "GlobeNewswire",
+     "url": "https://www.globenewswire.com/news-release/2026/11/18/3406068/0/en/tdecu-names-chris-turnley-chief-revenue-officer.html",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
+   "set": {
+    "notes": "CEO since Jan 2008 (interim from Aug 2007); with TBACU since 1991."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "Traverse City Record-Eagle",
+     "url": "https://www.record-eagle.com/news/business/business-memoranda-11-18-2026/article_48a7e3d6-d17b-4b0c-bb0b-d0fc370c965f.html",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-duane-wilcoxson-lake-trust-credit-union-hired",
+   "set": {
+    "notes": ""
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CU Daily",
+     "url": "https://thecudaily.com/lake-trust-cu-names-duane-wilcoxson-as-cio-coo/",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-jim-maskell-united-federal-credit-union-hired",
+   "set": {
+    "notes": ""
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CU Daily",
+     "url": "https://thecudaily.com/united-fcu-names-jim-maskell-as-chief-commercial-officer/",
+     "type": "trade_press"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-earvin-pugh-lafcu-hired",
+   "set": {
+    "notes": "Newly created role."
+   },
+   "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+   "sources": [
+    {
+     "label": "CreditUnions.com",
+     "url": "https://creditunions.com/press_releases/lafcu-names-earvin-pugh-to-newly-created-chief-experience-officer-position/",
+     "type": "primary"
+    }
+   ]
+  }
+ ]
+}
