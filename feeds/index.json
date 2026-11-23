@@ -3,9 +3,9 @@
     {
       "name": "deposit-rates",
       "title": "Local Deposit Rates",
-      "items": 416,
+      "items": 460,
       "result": "ok",
-      "last_review": "2026-11-23T06:27:01-05:00",
+      "last_review": "2026-11-23T06:30:56-05:00",
       "feed_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/deposit-rates/feed.json",
       "csv_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/deposit-rates/feed.csv",
       "tracker_url": "https://skmcnair.github.io/data-feeds/tracker/?feed=deposit-rates"

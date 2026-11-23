@@ -1,6 +1,6 @@
 {
   "feed": "deposit-rates",
-  "generated": "2026-11-23T06:27:22-05:00",
+  "generated": "2026-11-23T06:31:19-05:00",
   "trial": true,
   "lookback_days": 30,
   "pending_inbox": [],
@@ -3516,7 +3516,7 @@
       }
     }
   ],
-  "open_items": 416,
+  "open_items": 460,
   "organizations_needed": [],
   "logos_missing": [
     {
@@ -3530,9 +3530,19 @@
       "website": "https://asafcu.com"
     },
     {
+      "slug": "beacon-bank",
+      "name": "Beacon Bank & Trust",
+      "website": "https://www.beaconbank.com"
+    },
+    {
       "slug": "chelsea-groton",
       "name": "Chelsea Groton Bank",
       "website": "https://chelseagroton.com"
+    },
+    {
+      "slug": "coastal1-cu",
+      "name": "Coastal1 Credit Union",
+      "website": "https://www.coastal1.org"
     },
     {
       "slug": "ct-labor-dept-fcu",
@@ -3550,6 +3560,11 @@
       "website": "https://www.finexcu.org"
     },
     {
+      "slug": "m-and-t-bank",
+      "name": "M&T Bank",
+      "website": "https://www.mtb.com"
+    },
+    {
       "slug": "peoplesbank",
       "name": "PeoplesBank",
       "website": "https://www.bankatpeoples.com"
@@ -3563,6 +3578,11 @@
       "slug": "union-savings-bank",
       "name": "Union Savings Bank",
       "website": "https://www.unionsavings.com"
+    },
+    {
+      "slug": "wells-fargo",
+      "name": "Wells Fargo",
+      "website": "https://www.wellsfargo.com"
     }
   ],
   "logo_reviews": [],
@@ -3570,452 +3590,183 @@
   "last_review": {
     "added": [
       {
-        "id": "2026-08-25-chelsea-groton-bank-savings-standard-item",
-        "summary": "Chelsea Groton Bank / Savings / Standard / "
+        "id": "2026-11-23-wells-fargo-savings-standard-item",
+        "summary": "Wells Fargo / Savings / Standard / "
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-money-market-standard-item",
-        "summary": "Chelsea Groton Bank / Money market / Standard / "
+        "id": "2026-11-10-wells-fargo-savings-special-item",
+        "summary": "Wells Fargo / Savings / Special / "
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-3-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 3 mo"
+        "id": "2026-11-23-wells-fargo-cd-standard-3-mo",
+        "summary": "Wells Fargo / CD / Standard / 3 mo"
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-6-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 6 mo"
+        "id": "2026-11-23-wells-fargo-cd-standard-6-mo",
+        "summary": "Wells Fargo / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-12-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 12 mo"
+        "id": "2026-11-23-wells-fargo-cd-standard-12-mo",
+        "summary": "Wells Fargo / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-18-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 18 mo"
+        "id": "2026-11-23-wells-fargo-cd-special-4-mo",
+        "summary": "Wells Fargo / CD / Special / 4 mo"
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-24-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 24 mo"
+        "id": "2026-11-23-wells-fargo-cd-special-7-mo",
+        "summary": "Wells Fargo / CD / Special / 7 mo"
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-36-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 36 mo"
+        "id": "2026-11-23-wells-fargo-cd-special-11-mo",
+        "summary": "Wells Fargo / CD / Special / 11 mo"
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-48-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 48 mo"
+        "id": "2026-11-23-wells-fargo-cd-special-15-mo",
+        "summary": "Wells Fargo / CD / Special / 15 mo"
       },
       {
-        "id": "2026-08-25-chelsea-groton-bank-cd-standard-60-mo",
-        "summary": "Chelsea Groton Bank / CD / Standard / 60 mo"
+        "id": "2026-11-23-m-and-t-bank-cd-standard-6-mo",
+        "summary": "M&T Bank / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-savings-standard-item",
-        "summary": "PeoplesBank / Savings / Standard / "
+        "id": "2026-11-23-m-and-t-bank-cd-special-6-mo",
+        "summary": "M&T Bank / CD / Special / 6 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-money-market-standard-item",
-        "summary": "PeoplesBank / Money market / Standard / "
+        "id": "2026-11-23-m-and-t-bank-cd-special-12-mo",
+        "summary": "M&T Bank / CD / Special / 12 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-3-mo",
-        "summary": "PeoplesBank / CD / Standard / 3 mo"
+        "id": "2026-11-23-m-and-t-bank-cd-special-18-mo",
+        "summary": "M&T Bank / CD / Special / 18 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-6-mo",
-        "summary": "PeoplesBank / CD / Standard / 6 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-savings-standard-item",
+        "summary": "American Eagle Financial Credit Union / Savings / Standard / "
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-12-mo",
-        "summary": "PeoplesBank / CD / Standard / 12 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-money-market-standard-item",
+        "summary": "American Eagle Financial Credit Union / Money market / Standard / "
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-18-mo",
-        "summary": "PeoplesBank / CD / Standard / 18 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-money-market-special-item",
+        "summary": "American Eagle Financial Credit Union / Money market / Special / "
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-24-mo",
-        "summary": "PeoplesBank / CD / Standard / 24 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-3-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 3 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-36-mo",
-        "summary": "PeoplesBank / CD / Standard / 36 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-6-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-48-mo",
-        "summary": "PeoplesBank / CD / Standard / 48 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-12-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-standard-60-mo",
-        "summary": "PeoplesBank / CD / Standard / 60 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-18-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 18 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-special-10-mo",
-        "summary": "PeoplesBank / CD / Special / 10 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-24-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-special-20-mo",
-        "summary": "PeoplesBank / CD / Special / 20 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-36-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-11-19-peoplesbank-cd-special-30-mo",
-        "summary": "PeoplesBank / CD / Special / 30 mo"
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-48-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-savings-standard-item",
-        "summary": "Thomaston Savings Bank / Savings / Standard / "
+        "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-60-mo",
+        "summary": "American Eagle Financial Credit Union / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-savings-special-item",
-        "summary": "Thomaston Savings Bank / Savings / Special / "
+        "id": "2026-11-23-coastal1-credit-union-savings-standard-item",
+        "summary": "Coastal1 Credit Union / Savings / Standard / "
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-3-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 3 mo"
+        "id": "2026-11-23-coastal1-credit-union-money-market-special-item",
+        "summary": "Coastal1 Credit Union / Money market / Special / "
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-6-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 6 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-standard-6-mo",
+        "summary": "Coastal1 Credit Union / CD / Standard / 6 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-12-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 12 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-standard-12-mo",
+        "summary": "Coastal1 Credit Union / CD / Standard / 12 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-18-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 18 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-standard-18-mo",
+        "summary": "Coastal1 Credit Union / CD / Standard / 18 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-24-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 24 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-standard-24-mo",
+        "summary": "Coastal1 Credit Union / CD / Standard / 24 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-36-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 36 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-standard-36-mo",
+        "summary": "Coastal1 Credit Union / CD / Standard / 36 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-48-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 48 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-standard-48-mo",
+        "summary": "Coastal1 Credit Union / CD / Standard / 48 mo"
       },
       {
-        "id": "2026-11-18-thomaston-savings-bank-cd-standard-60-mo",
-        "summary": "Thomaston Savings Bank / CD / Standard / 60 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-standard-60-mo",
+        "summary": "Coastal1 Credit Union / CD / Standard / 60 mo"
       },
       {
-        "id": "2026-11-23-asa-federal-credit-union-savings-standard-item",
-        "summary": "ASA Federal Credit Union / Savings / Standard / "
+        "id": "2026-11-23-coastal1-credit-union-cd-special-4-mo",
+        "summary": "Coastal1 Credit Union / CD / Special / 4 mo"
       },
       {
-        "id": "2026-11-23-asa-federal-credit-union-cd-standard-6-mo",
-        "summary": "ASA Federal Credit Union / CD / Standard / 6 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-special-5-mo",
+        "summary": "Coastal1 Credit Union / CD / Special / 5 mo"
       },
       {
-        "id": "2026-11-23-asa-federal-credit-union-cd-standard-12-mo",
-        "summary": "ASA Federal Credit Union / CD / Standard / 12 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-special-9-mo",
+        "summary": "Coastal1 Credit Union / CD / Special / 9 mo"
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-savings-standard-item",
-        "summary": "Selfreliance Federal Credit Union / Savings / Standard / "
+        "id": "2026-11-23-coastal1-credit-union-cd-special-13-mo",
+        "summary": "Coastal1 Credit Union / CD / Special / 13 mo"
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-money-market-standard-item",
-        "summary": "Selfreliance Federal Credit Union / Money market / Standard / "
+        "id": "2026-11-23-coastal1-credit-union-cd-special-17-mo",
+        "summary": "Coastal1 Credit Union / CD / Special / 17 mo"
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-6-mo",
-        "summary": "Selfreliance Federal Credit Union / CD / Standard / 6 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-special-22-mo",
+        "summary": "Coastal1 Credit Union / CD / Special / 22 mo"
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-12-mo",
-        "summary": "Selfreliance Federal Credit Union / CD / Standard / 12 mo"
+        "id": "2026-11-23-coastal1-credit-union-cd-special-30-mo",
+        "summary": "Coastal1 Credit Union / CD / Special / 30 mo"
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-24-mo",
-        "summary": "Selfreliance Federal Credit Union / CD / Standard / 24 mo"
+        "id": "2026-02-06-beacon-bank-and-trust-savings-special-item",
+        "summary": "Beacon Bank & Trust / Savings / Special / "
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-cd-standard-36-mo",
-        "summary": "Selfreliance Federal Credit Union / CD / Standard / 36 mo"
+        "id": "2026-02-06-beacon-bank-and-trust-money-market-special-item",
+        "summary": "Beacon Bank & Trust / Money market / Special / "
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-cd-special-5-mo",
-        "summary": "Selfreliance Federal Credit Union / CD / Special / 5 mo"
+        "id": "2026-02-06-beacon-bank-and-trust-cd-special-6-mo",
+        "summary": "Beacon Bank & Trust / CD / Special / 6 mo"
       },
       {
-        "id": "2026-11-23-selfreliance-federal-credit-union-cd-special-13-mo",
-        "summary": "Selfreliance Federal Credit Union / CD / Special / 13 mo"
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-savings-standard-item",
-        "summary": "Connecticut State Police Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-money-market-standard-item",
-        "summary": "Connecticut State Police Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-6-mo",
-        "summary": "Connecticut State Police Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-12-mo",
-        "summary": "Connecticut State Police Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-24-mo",
-        "summary": "Connecticut State Police Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-36-mo",
-        "summary": "Connecticut State Police Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-48-mo",
-        "summary": "Connecticut State Police Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-09-21-connecticut-state-police-credit-union-cd-standard-60-mo",
-        "summary": "Connecticut State Police Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-savings-standard-item",
-        "summary": "360 Federal Credit Union / Savings / Standard / "
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-money-market-standard-item",
-        "summary": "360 Federal Credit Union / Money market / Standard / "
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-3-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-6-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-12-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-18-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-24-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-36-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-48-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-01-360-federal-credit-union-cd-standard-60-mo",
-        "summary": "360 Federal Credit Union / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-3-mo",
-        "summary": "Union Savings Bank / CD / Standard / 3 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-6-mo",
-        "summary": "Union Savings Bank / CD / Standard / 6 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-12-mo",
-        "summary": "Union Savings Bank / CD / Standard / 12 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-18-mo",
-        "summary": "Union Savings Bank / CD / Standard / 18 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-24-mo",
-        "summary": "Union Savings Bank / CD / Standard / 24 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-36-mo",
-        "summary": "Union Savings Bank / CD / Standard / 36 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-48-mo",
-        "summary": "Union Savings Bank / CD / Standard / 48 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-standard-60-mo",
-        "summary": "Union Savings Bank / CD / Standard / 60 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-special-5-mo",
-        "summary": "Union Savings Bank / CD / Special / 5 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-special-7-mo",
-        "summary": "Union Savings Bank / CD / Special / 7 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-special-8-mo",
-        "summary": "Union Savings Bank / CD / Special / 8 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-special-13-mo",
-        "summary": "Union Savings Bank / CD / Special / 13 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-special-25-mo",
-        "summary": "Union Savings Bank / CD / Special / 25 mo"
-      },
-      {
-        "id": "2026-11-23-union-savings-bank-cd-special-54-mo",
-        "summary": "Union Savings Bank / CD / Special / 54 mo"
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-savings-standard-item",
-        "summary": "Jewett City Savings Bank / Savings / Standard / "
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-money-market-standard-item",
-        "summary": "Jewett City Savings Bank / Money market / Standard / "
+        "id": "2026-02-06-beacon-bank-and-trust-cd-special-24-mo",
+        "summary": "Beacon Bank & Trust / CD / Special / 24 mo"
       }
     ],
-    "updated": [
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-3-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": "3-mo is the 91-day CD."
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-6-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-12-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-18-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-24-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-36-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-48-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-standard-60-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-special-7-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-special-11-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-05-jewett-city-savings-bank-cd-special-18-mo",
-        "note": "Savings and money market now loaded; note cleared",
-        "changes": [
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day CD. Savings and money market rates load by script on jcsbank.com/current-rates; to be read by WebFetch.",
-            "new": null
-          }
-        ],
-        "kept": []
-      }
-    ],
+    "updated": [],
     "rechecked": [],
     "reviewed": 0,
     "rejected": []
@@ -4738,6 +4489,118 @@
       "summary": "Union Savings Bank / CD / Special / 54 mo"
     },
     {
+      "id": "2026-11-23-wells-fargo-savings-standard-item",
+      "summary": "Wells Fargo / Savings / Standard / "
+    },
+    {
+      "id": "2026-11-23-wells-fargo-cd-standard-3-mo",
+      "summary": "Wells Fargo / CD / Standard / 3 mo"
+    },
+    {
+      "id": "2026-11-23-wells-fargo-cd-standard-6-mo",
+      "summary": "Wells Fargo / CD / Standard / 6 mo"
+    },
+    {
+      "id": "2026-11-23-wells-fargo-cd-standard-12-mo",
+      "summary": "Wells Fargo / CD / Standard / 12 mo"
+    },
+    {
+      "id": "2026-11-23-wells-fargo-cd-special-4-mo",
+      "summary": "Wells Fargo / CD / Special / 4 mo"
+    },
+    {
+      "id": "2026-11-23-wells-fargo-cd-special-7-mo",
+      "summary": "Wells Fargo / CD / Special / 7 mo"
+    },
+    {
+      "id": "2026-11-23-wells-fargo-cd-special-11-mo",
+      "summary": "Wells Fargo / CD / Special / 11 mo"
+    },
+    {
+      "id": "2026-11-23-wells-fargo-cd-special-15-mo",
+      "summary": "Wells Fargo / CD / Special / 15 mo"
+    },
+    {
+      "id": "2026-11-23-m-and-t-bank-cd-standard-6-mo",
+      "summary": "M&T Bank / CD / Standard / 6 mo"
+    },
+    {
+      "id": "2026-11-23-m-and-t-bank-cd-special-6-mo",
+      "summary": "M&T Bank / CD / Special / 6 mo"
+    },
+    {
+      "id": "2026-11-23-m-and-t-bank-cd-special-12-mo",
+      "summary": "M&T Bank / CD / Special / 12 mo"
+    },
+    {
+      "id": "2026-11-23-m-and-t-bank-cd-special-18-mo",
+      "summary": "M&T Bank / CD / Special / 18 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-savings-standard-item",
+      "summary": "Coastal1 Credit Union / Savings / Standard / "
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-money-market-special-item",
+      "summary": "Coastal1 Credit Union / Money market / Special / "
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-standard-6-mo",
+      "summary": "Coastal1 Credit Union / CD / Standard / 6 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-standard-12-mo",
+      "summary": "Coastal1 Credit Union / CD / Standard / 12 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-standard-18-mo",
+      "summary": "Coastal1 Credit Union / CD / Standard / 18 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-standard-24-mo",
+      "summary": "Coastal1 Credit Union / CD / Standard / 24 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-standard-36-mo",
+      "summary": "Coastal1 Credit Union / CD / Standard / 36 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-standard-48-mo",
+      "summary": "Coastal1 Credit Union / CD / Standard / 48 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-standard-60-mo",
+      "summary": "Coastal1 Credit Union / CD / Standard / 60 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-special-4-mo",
+      "summary": "Coastal1 Credit Union / CD / Special / 4 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-special-5-mo",
+      "summary": "Coastal1 Credit Union / CD / Special / 5 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-special-9-mo",
+      "summary": "Coastal1 Credit Union / CD / Special / 9 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-special-13-mo",
+      "summary": "Coastal1 Credit Union / CD / Special / 13 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-special-17-mo",
+      "summary": "Coastal1 Credit Union / CD / Special / 17 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-special-22-mo",
+      "summary": "Coastal1 Credit Union / CD / Special / 22 mo"
+    },
+    {
+      "id": "2026-11-23-coastal1-credit-union-cd-special-30-mo",
+      "summary": "Coastal1 Credit Union / CD / Special / 30 mo"
+    },
+    {
       "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
       "summary": "Charter Oak Federal Credit Union / Savings / Standard / "
     },
@@ -4940,6 +4803,10 @@
     {
       "id": "2026-11-18-thomaston-savings-bank-cd-standard-60-mo",
       "summary": "Thomaston Savings Bank / CD / Standard / 60 mo"
+    },
+    {
+      "id": "2026-11-10-wells-fargo-savings-special-item",
+      "summary": "Wells Fargo / Savings / Special / "
     },
     {
       "id": "2026-11-05-riverbank-federal-credit-union-savings-standard-item",
@@ -5606,6 +5473,50 @@
       "summary": "The Washington Trust Company / CD / Standard / 60 mo"
     },
     {
+      "id": "2026-06-03-american-eagle-financial-credit-union-savings-standard-item",
+      "summary": "American Eagle Financial Credit Union / Savings / Standard / "
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-money-market-standard-item",
+      "summary": "American Eagle Financial Credit Union / Money market / Standard / "
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-money-market-special-item",
+      "summary": "American Eagle Financial Credit Union / Money market / Special / "
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-3-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 3 mo"
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-6-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 6 mo"
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-12-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 12 mo"
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-18-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 18 mo"
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-24-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 24 mo"
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-36-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 36 mo"
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-48-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 48 mo"
+    },
+    {
+      "id": "2026-06-03-american-eagle-financial-credit-union-cd-standard-60-mo",
+      "summary": "American Eagle Financial Credit Union / CD / Standard / 60 mo"
+    },
+    {
       "id": "2026-05-01-ellafi-federal-credit-union-savings-standard-item",
       "summary": "Ellafi Federal Credit Union / Savings / Standard / "
     },
@@ -5624,6 +5535,22 @@
     {
       "id": "2026-02-13-the-washington-trust-company-cd-special-9-mo",
       "summary": "The Washington Trust Company / CD / Special / 9 mo"
+    },
+    {
+      "id": "2026-02-06-beacon-bank-and-trust-savings-special-item",
+      "summary": "Beacon Bank & Trust / Savings / Special / "
+    },
+    {
+      "id": "2026-02-06-beacon-bank-and-trust-money-market-special-item",
+      "summary": "Beacon Bank & Trust / Money market / Special / "
+    },
+    {
+      "id": "2026-02-06-beacon-bank-and-trust-cd-special-6-mo",
+      "summary": "Beacon Bank & Trust / CD / Special / 6 mo"
+    },
+    {
+      "id": "2026-02-06-beacon-bank-and-trust-cd-special-24-mo",
+      "summary": "Beacon Bank & Trust / CD / Special / 24 mo"
     },
     {
       "id": "2026-01-05-liberty-bank-money-market-standard-item",
