@@ -101,10 +101,10 @@
   "chase": {
     "method": "webfetch",
     "name": "Chase",
-    "note": "Rates by ZIP; script page",
+    "note": "Rates by ZIP; bank-cd page links 'Explore all relationship rates' and standard rates",
     "pages": [
-      "https://www.chase.com/personal/savings/savings-account/interest-rates",
-      "https://www.chase.com/personal/cd-rates"
+      "https://www.chase.com/personal/savings/bank-cd",
+      "https://www.chase.com/digital/disclosures-and-interest-rates-personal"
     ]
   },
   "chelsea-groton": {
@@ -408,9 +408,11 @@
   "santander": {
     "method": "webfetch",
     "name": "Santander Bank",
-    "note": "Find the current rates page",
+    "note": "Rendered CD page shows 4.25%/4.00% without term labels; rates may be ZIP-priced. Pages: /personal/savings/certificates-of-deposit/, /money-market-savings/, /savings/",
     "pages": [
-      "https://www.santanderbank.com/personal/savings-cds"
+      "https://www.santanderbank.com/personal/savings/certificates-of-deposit/",
+      "https://www.santanderbank.com/personal/savings/money-market-savings/",
+      "https://www.santanderbank.com/personal/savings/savings/"
     ]
   },
   "self-help-fcu": {
@@ -504,11 +506,11 @@
     ]
   },
   "webster-bank": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "Webster Bank",
-    "note": "Webster Bank division of Santander Bank, N.A.; find the current rates page",
     "pages": [
-      "https://www.websterbank.com/personal/rates"
+      "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+      "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/"
     ]
   },
   "wells-fargo": {
