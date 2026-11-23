@@ -1,6 +1,526 @@
 {
   "records": [
     {
+      "id": "2026-11-20-rev-federal-credit-union-regional-vp",
+      "fields": {
+        "posted": "2026-11-20",
+        "organization": "REV Federal Credit Union",
+        "title": "Regional VP",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Summerville, SC",
+        "job_url": "https://recruiting.ultipro.com/REV1012FEDER/JobBoard/6a6a630a-97f1-40e0-a0f7-2365e64d2d32/OpportunityDetail?opportunityId=6eebe8c7-e9c1-4f5a-8a6d-b27b4006f828",
+        "size_band": "$1B-$5B",
+        "city": "Summerville",
+        "state": "SC",
+        "org_assets": 1385.2,
+        "org_members": 71145,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Rev careers (UKG)",
+          "url": "https://recruiting.ultipro.com/REV1012FEDER/JobBoard/6a6a630a-97f1-40e0-a0f7-2365e64d2d32/OpportunityDetail?opportunityId=6eebe8c7-e9c1-4f5a-8a6d-b27b4006f828",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9986",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "rev-fcu"
+      }
+    },
+    {
+      "id": "2026-11-20-members-first-credit-union-vp-finance-i",
+      "fields": {
+        "posted": "2026-11-20",
+        "organization": "Members First Credit Union",
+        "title": "VP Finance I",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Midland, MI",
+        "job_url": "https://recruiting2.ultipro.com/MEM1004MEFI/JobBoard/fd8b0053-1855-4e4d-a1c7-1cec08c4cee6/OpportunityDetail?opportunityId=379e1f60-91ab-4470-9cdd-d649a36c6cf1",
+        "size_band": "$500M-$1B",
+        "city": "Midland",
+        "state": "MI",
+        "org_assets": 906.3,
+        "org_members": 68385,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Members First careers (UKG)",
+          "url": "https://recruiting2.ultipro.com/MEM1004MEFI/JobBoard/fd8b0053-1855-4e4d-a1c7-1cec08c4cee6/OpportunityDetail?opportunityId=379e1f60-91ab-4470-9cdd-d649a36c6cf1",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62076",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "members-first-cu-mi"
+      }
+    },
+    {
+      "id": "2026-11-19-san-diego-county-credit-union-svp-regional-manager",
+      "fields": {
+        "posted": "2026-11-19",
+        "organization": "San Diego County Credit Union",
+        "title": "SVP, Regional Manager",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "San Diego, CA",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=60a418a2-e4cc-44a9-b837-cdd877de6dd0&ccId=19000101_000001&jobId=9202528073223_300&lang=en_US",
+        "size_band": "$5B+",
+        "city": "San Diego",
+        "state": "CA",
+        "org_assets": 9494.3,
+        "org_members": 405880,
+        "assets_as_of": "Q3 2026",
+        "notes": "Two openings, in San Diego and Vista."
+      },
+      "sources": [
+        {
+          "label": "San Diego County careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=60a418a2-e4cc-44a9-b837-cdd877de6dd0&ccId=19000101_000001&jobId=9202528073223_300&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61004",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "sdccu"
+      }
+    },
+    {
+      "id": "2026-11-19-elements-financial-federal-credit-union-vp-legal-and-risk-management",
+      "fields": {
+        "posted": "2026-11-19",
+        "organization": "Elements Financial Federal Credit Union",
+        "title": "VP, Legal & Risk Management",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Indianapolis, IN",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=320fbe97-29f2-45d2-a5f3-f8445eea3789&ccId=19000101_000001&jobId=9201314246139_11&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Indianapolis",
+        "state": "IN",
+        "org_assets": 2563.6,
+        "org_members": 106146,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Elements Financial careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=320fbe97-29f2-45d2-a5f3-f8445eea3789&ccId=19000101_000001&jobId=9201314246139_11&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/22468",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "elements-financial-fcu"
+      }
+    },
+    {
+      "id": "2026-11-17-randolph-brooks-federal-credit-union-vp-project-management-office",
+      "fields": {
+        "posted": "2026-11-17",
+        "organization": "Randolph-Brooks Federal Credit Union",
+        "title": "VP, Project Management Office",
+        "level": "EVP / SVP / VP",
+        "function": "Strategy",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://rbfcu.wd503.myworkdayjobs.com/RBFCUCareers/job/ASC---San-Antonio/Vice-President---Project-Management-Office_015525-1",
+        "size_band": "$5B+",
+        "city": "Live Oak",
+        "state": "TX",
+        "org_assets": 19938.5,
+        "org_members": 1162377,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Randolph-Brooks careers (Workday)",
+          "url": "https://rbfcu.wd503.myworkdayjobs.com/RBFCUCareers/job/ASC---San-Antonio/Vice-President---Project-Management-Office_015525-1",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "rbfcu"
+      }
+    },
+    {
+      "id": "2026-11-17-langley-federal-credit-union-vp-performance-marketing",
+      "fields": {
+        "posted": "2026-11-17",
+        "organization": "Langley Federal Credit Union",
+        "title": "VP, Performance Marketing",
+        "level": "EVP / SVP / VP",
+        "function": "Marketing",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Newport News, VA",
+        "job_url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=7f0f3b0d-f8f1-4bb2-a7c8-47e0d08c1095",
+        "size_band": "$5B+",
+        "city": "Newport News",
+        "state": "VA",
+        "org_assets": 5654.5,
+        "org_members": 409897,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Langley careers (UKG)",
+          "url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=7f0f3b0d-f8f1-4bb2-a7c8-47e0d08c1095",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1261",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "langley-fcu"
+      }
+    },
+    {
+      "id": "2026-11-17-keesler-federal-credit-union-vp-head-of-digital",
+      "fields": {
+        "posted": "2026-11-17",
+        "organization": "Keesler Federal Credit Union",
+        "title": "VP Head of Digital",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Biloxi, MS",
+        "job_url": "https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa/OpportunityDetail?opportunityId=8a7ab06c-f3c5-4215-abec-dfa96174c105",
+        "size_band": "$5B+",
+        "city": "Biloxi",
+        "state": "MS",
+        "org_assets": 5267.6,
+        "org_members": 404047,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Keesler careers (UKG)",
+          "url": "https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa/OpportunityDetail?opportunityId=8a7ab06c-f3c5-4215-abec-dfa96174c105",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5561",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "keesler-fcu"
+      }
+    },
+    {
+      "id": "2026-11-17-orange-county-s-federal-credit-union-vp-money-movement-and-payments",
+      "fields": {
+        "posted": "2026-11-17",
+        "organization": "Orange County's Federal Credit Union",
+        "title": "VP Money Movement & Payments",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Santa Ana, CA",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0e384b78-7d58-4f1c-939b-a42c67ee25be&ccId=19000101_000001&jobId=9200943223338_30&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Santa Ana",
+        "state": "CA",
+        "org_assets": 3159.4,
+        "org_members": 146470,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Orange County'S careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0e384b78-7d58-4f1c-939b-a42c67ee25be&ccId=19000101_000001&jobId=9200943223338_30&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24981",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "orange-countys-cu"
+      }
+    },
+    {
       "id": "2026-11-16-ascentra-credit-union-chief-technology-and-innovation-officer",
       "fields": {
         "posted": "2026-11-16",
@@ -68,6 +588,397 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "ascentra-cu"
+      }
+    },
+    {
+      "id": "2026-11-16-navigant-credit-union-vp-internal-audit",
+      "fields": {
+        "posted": "2026-11-16",
+        "organization": "Navigant Credit Union",
+        "title": "VP, Internal Audit",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Smithfield, RI",
+        "job_url": "https://navigantcu.applicantpro.com/jobs/4244659.html",
+        "size_band": "$1B-$5B",
+        "city": "Smithfield",
+        "state": "RI",
+        "org_assets": 4321.8,
+        "org_members": 173302,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Navigant careers (ApplicantPro)",
+          "url": "https://navigantcu.applicantpro.com/jobs/4244659.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62882",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "navigant-cu"
+      }
+    },
+    {
+      "id": "2026-11-15-first-technology-federal-credit-union-vp-payment-operations",
+      "fields": {
+        "posted": "2026-11-15",
+        "organization": "First Technology Federal Credit Union",
+        "title": "VP, Payment Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$184K-$220K",
+        "work_mode": "Hybrid",
+        "job_location": "Hillsboro, OR",
+        "job_url": "https://www.ziprecruiter.com/c/First-Tech-Federal-Credit-Union/Job/VP,-Payment-Operations/-in-Hillsboro,OR?jid=2e668d0b6410749a",
+        "size_band": "$5B+",
+        "city": "San Jose",
+        "state": "CA",
+        "org_assets": 27492.4,
+        "org_members": 1888218,
+        "assets_as_of": "Q3 2026",
+        "notes": "First Tech's own careers site blocks automated reading; seen on job sites."
+      },
+      "sources": [
+        {
+          "label": "ZipRecruiter listing",
+          "url": "https://www.ziprecruiter.com/c/First-Tech-Federal-Credit-Union/Job/VP,-Payment-Operations/-in-Hillsboro,OR?jid=2e668d0b6410749a",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23521",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "pay_range": 0,
+        "job_location": 0,
+        "work_mode": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-tech-fcu"
+      }
+    },
+    {
+      "id": "2026-11-13-state-employees-credit-union-vp-identity-access-management",
+      "fields": {
+        "posted": "2026-11-13",
+        "organization": "State Employees' Credit Union",
+        "title": "VP Identity Access Management",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/VP-Identity-Access-Management_JR-16804",
+        "size_band": "$5B+",
+        "city": "Raleigh",
+        "state": "NC",
+        "org_assets": 60051.0,
+        "org_members": 3019180,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "State Employees' careers (Workday)",
+          "url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/VP-Identity-Access-Management_JR-16804",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66310",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "secu-nc"
+      }
+    },
+    {
+      "id": "2026-11-13-jsc-federal-credit-union-vp-wealth-management",
+      "fields": {
+        "posted": "2026-11-13",
+        "organization": "JSC Federal Credit Union",
+        "title": "VP, Wealth Management",
+        "level": "EVP / SVP / VP",
+        "function": "Other",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Webster, TX",
+        "job_url": "https://jscfcu.wd1.myworkdayjobs.com/JSC/job/Webster-TX/Vice-President-of-Wealth-Management_JR101560",
+        "size_band": "$1B-$5B",
+        "city": "Houston",
+        "state": "TX",
+        "org_assets": 2611.7,
+        "org_members": 129192,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Jsc careers (Workday)",
+          "url": "https://jscfcu.wd1.myworkdayjobs.com/JSC/job/Webster-TX/Vice-President-of-Wealth-Management_JR101560",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/14762",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "wellby-financial"
+      }
+    },
+    {
+      "id": "2026-11-13-allegacy-financial-federal-credit-union-vp-commercial-banking",
+      "fields": {
+        "posted": "2026-11-13",
+        "organization": "Allegacy Financial Federal Credit Union",
+        "title": "VP, Commercial Banking",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4456220",
+        "size_band": "$1B-$5B",
+        "city": "Winston Salem",
+        "state": "NC",
+        "org_assets": 2639.2,
+        "org_members": 191465,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Allegacy Financial careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4456220",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24438",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "allegacy-fcu"
+      }
+    },
+    {
+      "id": "2026-11-13-southpoint-financial-credit-union-vp-technology",
+      "fields": {
+        "posted": "2026-11-13",
+        "organization": "SouthPoint Financial Credit Union",
+        "title": "VP, Technology",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "North Mankato, MN",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d6f1c134-608a-42b5-95d8-91169213be71&ccId=19000101_000001&jobId=9200870923125_41&lang=en_US",
+        "size_band": "$500M-$1B",
+        "city": "Sleepy Eye",
+        "state": "MN",
+        "org_assets": 601.2,
+        "org_members": 35738,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Southpoint Financial careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d6f1c134-608a-42b5-95d8-91169213be71&ccId=19000101_000001&jobId=9200870923125_41&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68667",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "southpoint-financial-cu"
       }
     },
     {
@@ -145,6 +1056,396 @@
       }
     },
     {
+      "id": "2026-11-12-tower-federal-credit-union-vp-collections",
+      "fields": {
+        "posted": "2026-11-12",
+        "organization": "Tower Federal Credit Union",
+        "title": "VP, Collections",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Laurel, MD",
+        "job_url": "https://recruiting.ultipro.com/TOW1005TOFEC/JobBoard/5badaec5-8173-4499-8787-2c8413156e83/OpportunityDetail?opportunityId=44aace35-fb10-414b-a428-f8d985b773a1",
+        "size_band": "$5B+",
+        "city": "Laurel",
+        "state": "MD",
+        "org_assets": 5048.8,
+        "org_members": 226032,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Tower careers (UKG)",
+          "url": "https://recruiting.ultipro.com/TOW1005TOFEC/JobBoard/5badaec5-8173-4499-8787-2c8413156e83/OpportunityDetail?opportunityId=44aace35-fb10-414b-a428-f8d985b773a1",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8333",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "tower-fcu"
+      }
+    },
+    {
+      "id": "2026-11-11-chevron-federal-credit-union-svp-marketing",
+      "fields": {
+        "posted": "2026-11-11",
+        "organization": "Chevron Federal Credit Union",
+        "title": "SVP, Marketing",
+        "level": "EVP / SVP / VP",
+        "function": "Marketing",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=3d50d80c-5499-4cd8-97b6-6ebe8fc0df51",
+        "size_band": "$5B+",
+        "city": "Concord",
+        "state": "CA",
+        "org_assets": 5383.0,
+        "org_members": 139927,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Chevron careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=3d50d80c-5499-4cd8-97b6-6ebe8fc0df51",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24326",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "chevron-fcu"
+      }
+    },
+    {
+      "id": "2026-11-10-navy-federal-credit-union-vp-member-research-and-analytics",
+      "fields": {
+        "posted": "2026-11-10",
+        "organization": "Navy Federal Credit Union",
+        "title": "VP, Member Research & Analytics",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Vienna, VA",
+        "job_url": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/job/33594",
+        "size_band": "$5B+",
+        "city": "Vienna",
+        "state": "VA",
+        "org_assets": 204332.6,
+        "org_members": 15722352,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Navy Federal Credit Union careers (Oracle)",
+          "url": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/job/33594",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5536",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "navy-federal"
+      }
+    },
+    {
+      "id": "2026-11-09-georgia-s-own-credit-union-svp-senior-credit-officer",
+      "fields": {
+        "posted": "2026-11-09",
+        "organization": "Georgia's Own Credit Union",
+        "title": "SVP, Senior Credit Officer",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": "Hybrid",
+        "job_location": "Georgia (hybrid)",
+        "job_url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Hybrid---Georgia/SVP--Senior-Credit-Officer_R-101763-1",
+        "size_band": "$1B-$5B",
+        "city": "Atlanta",
+        "state": "GA",
+        "org_assets": 4184.4,
+        "org_members": 238034,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Georgia'S Own careers (Workday)",
+          "url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Hybrid---Georgia/SVP--Senior-Credit-Officer_R-101763-1",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67390",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "georgia-s-own"
+      }
+    },
+    {
+      "id": "2026-11-08-charter-oak-federal-credit-union-vp-human-resources-operations",
+      "fields": {
+        "posted": "2026-11-08",
+        "organization": "Charter Oak Federal Credit Union",
+        "title": "VP Human Resources Operations",
+        "level": "EVP / SVP / VP",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Waterford, CT",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ad93dc8-c852-4d8d-9448-a31d9d9e4fc7&ccId=19000101_000001&jobId=9207439915976_19&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Waterford",
+        "state": "CT",
+        "org_assets": 1688.8,
+        "org_members": 79126,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ad93dc8-c852-4d8d-9448-a31d9d9e4fc7&ccId=19000101_000001&jobId=9207439915976_19&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3413",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-07-blackhawk-community-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": "2026-11-07",
+        "organization": "Blackhawk Community Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Janesville, WI",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fafa422-31e5-4820-af80-155bceda346b&ccId=19000101_000001&jobId=9202102288504_1&lang=en_US",
+        "size_band": "$500M-$1B",
+        "city": "Janesville",
+        "state": "WI",
+        "org_assets": 941.1,
+        "org_members": 43990,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Blackhawk Community careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fafa422-31e5-4820-af80-155bceda346b&ccId=19000101_000001&jobId=9202102288504_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66998",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "blackhawk-ccu"
+      }
+    },
+    {
       "id": "2026-11-06-westconsin-credit-union-president-and-ceo",
       "fields": {
         "posted": "2026-11-06",
@@ -206,6 +1507,525 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "westconsin-cu"
+      }
+    },
+    {
+      "id": "2026-11-04-state-employees-credit-union-associate-evp-cyber-defense",
+      "fields": {
+        "posted": "2026-11-04",
+        "organization": "State Employees' Credit Union",
+        "title": "Associate EVP Cyber Defense",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/Associate-Executive-Vice-President-Cyber-Defense_JR-16803",
+        "size_band": "$5B+",
+        "city": "Raleigh",
+        "state": "NC",
+        "org_assets": 60051.0,
+        "org_members": 3019180,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "State Employees' careers (Workday)",
+          "url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/Associate-Executive-Vice-President-Cyber-Defense_JR-16803",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66310",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "secu-nc"
+      }
+    },
+    {
+      "id": "2026-11-04-ornl-federal-credit-union-svp-culture-and-impact",
+      "fields": {
+        "posted": "2026-11-04",
+        "organization": "ORNL Federal Credit Union",
+        "title": "SVP Culture & Impact",
+        "level": "EVP / SVP / VP",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Oak Ridge, TN",
+        "job_url": "https://recruiting.ultipro.com/ORN1000ORNL/JobBoard/65362607-1ad7-45d8-a0c0-e176b1f92e4c/OpportunityDetail?opportunityId=d1eea35f-b256-44bc-b01e-f37b8ede5e5d",
+        "size_band": "$5B+",
+        "city": "Oak Ridge",
+        "state": "TN",
+        "org_assets": 5053.3,
+        "org_members": 238140,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Ornl careers (UKG)",
+          "url": "https://recruiting.ultipro.com/ORN1000ORNL/JobBoard/65362607-1ad7-45d8-a0c0-e176b1f92e4c/OpportunityDetail?opportunityId=d1eea35f-b256-44bc-b01e-f37b8ede5e5d",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5797",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "ornl-fcu"
+      }
+    },
+    {
+      "id": "2026-11-04-georgia-s-own-credit-union-vp-digital",
+      "fields": {
+        "posted": "2026-11-04",
+        "organization": "Georgia's Own Credit Union",
+        "title": "VP, Digital",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": "Hybrid",
+        "job_location": "Georgia (hybrid)",
+        "job_url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544",
+        "size_band": "$1B-$5B",
+        "city": "Atlanta",
+        "state": "GA",
+        "org_assets": 4184.4,
+        "org_members": 238034,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Georgia'S Own careers (Workday)",
+          "url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67390",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "georgia-s-own"
+      }
+    },
+    {
+      "id": "2026-11-04-austin-telco-federal-credit-union-vp-legal",
+      "fields": {
+        "posted": "2026-11-04",
+        "organization": "Austin Telco Federal Credit Union",
+        "title": "VP, Legal",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4637477",
+        "size_band": "$1B-$5B",
+        "city": "Austin",
+        "state": "TX",
+        "org_assets": 2645.9,
+        "org_members": 96075,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Austin Telco careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4637477",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4584",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "austin-telco-fcu"
+      }
+    },
+    {
+      "id": "2026-11-03-citadel-federal-credit-union-vp-product",
+      "fields": {
+        "posted": "2026-11-03",
+        "organization": "Citadel Federal Credit Union",
+        "title": "VP, Product",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Exton, PA",
+        "job_url": "https://recruiting.ultipro.com/CIT1012CITAD/JobBoard/69156559-163e-4102-92c8-43771e19e8e5/OpportunityDetail?opportunityId=2fd06498-2524-499c-bdd4-564a963d2ed8",
+        "size_band": "$5B+",
+        "city": "Exton",
+        "state": "PA",
+        "org_assets": 7129.4,
+        "org_members": 296290,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Citadel careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CIT1012CITAD/JobBoard/69156559-163e-4102-92c8-43771e19e8e5/OpportunityDetail?opportunityId=2fd06498-2524-499c-bdd4-564a963d2ed8",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2099",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "citadel-fcu"
+      }
+    },
+    {
+      "id": "2026-11-03-citadel-federal-credit-union-vp-infrastructure-and-cloud",
+      "fields": {
+        "posted": "2026-11-03",
+        "organization": "Citadel Federal Credit Union",
+        "title": "VP, Infrastructure & Cloud",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Exton, PA",
+        "job_url": "https://recruiting.ultipro.com/CIT1012CITAD/JobBoard/69156559-163e-4102-92c8-43771e19e8e5/OpportunityDetail?opportunityId=00a30810-5342-4c7b-89d6-50b46f893b71",
+        "size_band": "$5B+",
+        "city": "Exton",
+        "state": "PA",
+        "org_assets": 7129.4,
+        "org_members": 296290,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Citadel careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CIT1012CITAD/JobBoard/69156559-163e-4102-92c8-43771e19e8e5/OpportunityDetail?opportunityId=00a30810-5342-4c7b-89d6-50b46f893b71",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2099",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "citadel-fcu"
+      }
+    },
+    {
+      "id": "2026-11-03-citadel-federal-credit-union-vp-technology-strategy-and-engineering",
+      "fields": {
+        "posted": "2026-11-03",
+        "organization": "Citadel Federal Credit Union",
+        "title": "VP, Technology Strategy & Engineering",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Exton, PA",
+        "job_url": "https://recruiting.ultipro.com/CIT1012CITAD/JobBoard/69156559-163e-4102-92c8-43771e19e8e5/OpportunityDetail?opportunityId=f9cbdd85-6bab-4387-8fe3-7dd76556fe4c",
+        "size_band": "$5B+",
+        "city": "Exton",
+        "state": "PA",
+        "org_assets": 7129.4,
+        "org_members": 296290,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Citadel careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CIT1012CITAD/JobBoard/69156559-163e-4102-92c8-43771e19e8e5/OpportunityDetail?opportunityId=f9cbdd85-6bab-4387-8fe3-7dd76556fe4c",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/2099",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "citadel-fcu"
+      }
+    },
+    {
+      "id": "2026-11-03-charter-oak-federal-credit-union-vp-loan-sales",
+      "fields": {
+        "posted": "2026-11-03",
+        "organization": "Charter Oak Federal Credit Union",
+        "title": "VP Loan Sales",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Waterford, CT",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ad93dc8-c852-4d8d-9448-a31d9d9e4fc7&ccId=19000101_000001&jobId=9207171767017_1&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Waterford",
+        "state": "CT",
+        "org_assets": 1688.8,
+        "org_members": 79126,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ad93dc8-c852-4d8d-9448-a31d9d9e4fc7&ccId=19000101_000001&jobId=9207171767017_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3413",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "charter-oak-fcu"
       }
     },
     {
@@ -275,6 +2095,396 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-10-30-pacific-service-credit-union-vp-commercial-services",
+      "fields": {
+        "posted": "2026-10-30",
+        "organization": "Pacific Service Credit Union",
+        "title": "VP, Commercial Services",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Concord, CA",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=619eb214-8e90-4c8d-95ba-93b4eeefad80&ccId=19000101_000001&jobId=9201869396608_13&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Concord",
+        "state": "CA",
+        "org_assets": 1346.4,
+        "org_members": 71130,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Pacific Service careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=619eb214-8e90-4c8d-95ba-93b4eeefad80&ccId=19000101_000001&jobId=9201869396608_13&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68413",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "pacific-service-cu"
+      }
+    },
+    {
+      "id": "2026-10-28-langley-federal-credit-union-vp-technology-strategy-and-architecture",
+      "fields": {
+        "posted": "2026-10-28",
+        "organization": "Langley Federal Credit Union",
+        "title": "VP, Technology Strategy & Architecture",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Newport News, VA",
+        "job_url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=decf16b8-3767-4b01-b194-b3c76049f845",
+        "size_band": "$5B+",
+        "city": "Newport News",
+        "state": "VA",
+        "org_assets": 5654.5,
+        "org_members": 409897,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Langley careers (UKG)",
+          "url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=decf16b8-3767-4b01-b194-b3c76049f845",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1261",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "langley-fcu"
+      }
+    },
+    {
+      "id": "2026-10-27-georgia-s-own-credit-union-vp-accounting",
+      "fields": {
+        "posted": "2026-10-27",
+        "organization": "Georgia's Own Credit Union",
+        "title": "VP, Accounting",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": "Hybrid",
+        "job_location": "Georgia (hybrid)",
+        "job_url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Accounting_R-101559",
+        "size_band": "$1B-$5B",
+        "city": "Atlanta",
+        "state": "GA",
+        "org_assets": 4184.4,
+        "org_members": 238034,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Georgia'S Own careers (Workday)",
+          "url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Accounting_R-101559",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67390",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "georgia-s-own"
+      }
+    },
+    {
+      "id": "2026-10-27-allegacy-financial-federal-credit-union-vp-digital-operations",
+      "fields": {
+        "posted": "2026-10-27",
+        "organization": "Allegacy Financial Federal Credit Union",
+        "title": "VP Digital Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619325",
+        "size_band": "$1B-$5B",
+        "city": "Winston Salem",
+        "state": "NC",
+        "org_assets": 2639.2,
+        "org_members": 191465,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Allegacy Financial careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619325",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24438",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "allegacy-fcu"
+      }
+    },
+    {
+      "id": "2026-10-27-gulf-winds-credit-union-vp-enterprise-technology",
+      "fields": {
+        "posted": "2026-10-27",
+        "organization": "Gulf Winds Credit Union",
+        "title": "VP, Enterprise Technology",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Pensacola, FL",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9946cffb-1c96-4eae-be59-9d7b15d53e25&ccId=19000101_000001&jobId=470925977_13&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Pensacola",
+        "state": "FL",
+        "org_assets": 1374.8,
+        "org_members": 75037,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Gulf Winds careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9946cffb-1c96-4eae-be59-9d7b15d53e25&ccId=19000101_000001&jobId=470925977_13&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "gulf-winds"
+      }
+    },
+    {
+      "id": "2026-10-27-members-choice-credit-union-vp-mortgage-lending",
+      "fields": {
+        "posted": "2026-10-27",
+        "organization": "Members Choice Credit Union",
+        "title": "VP Mortgage Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Houston, TX",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0b5dcdc2-6b14-401e-93da-0a7a5f51439f&ccId=19000101_000001&jobId=9201863443349_2&lang=en_US",
+        "size_band": "$500M-$1B",
+        "city": "Houston",
+        "state": "TX",
+        "org_assets": 724.3,
+        "org_members": 46175,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Members Choice careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0b5dcdc2-6b14-401e-93da-0a7a5f51439f&ccId=19000101_000001&jobId=9201863443349_2&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67508",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "members-choice-cu-tx"
       }
     },
     {
@@ -414,6 +2624,202 @@
       }
     },
     {
+      "id": "2026-10-22-first-technology-federal-credit-union-vp-data-governance",
+      "fields": {
+        "posted": "2026-10-22",
+        "organization": "First Technology Federal Credit Union",
+        "title": "VP, Data Governance",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$221K-$277K",
+        "work_mode": null,
+        "job_location": "Hillsboro, OR",
+        "job_url": "https://www.indeed.com/q-vp-credit-union-$146,200-jobs.html",
+        "size_band": "$5B+",
+        "city": "San Jose",
+        "state": "CA",
+        "org_assets": 27492.4,
+        "org_members": 1888218,
+        "assets_as_of": "Q3 2026",
+        "notes": "First Tech's own careers site blocks automated reading; seen on job sites."
+      },
+      "sources": [
+        {
+          "label": "Indeed listing",
+          "url": "https://www.indeed.com/q-vp-credit-union-$146,200-jobs.html",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23521",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "pay_range": 0,
+        "job_location": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-tech-fcu"
+      }
+    },
+    {
+      "id": "2026-10-21-chevron-federal-credit-union-chief-experience-officer",
+      "fields": {
+        "posted": "2026-10-21",
+        "organization": "Chevron Federal Credit Union",
+        "title": "Chief Experience Officer",
+        "level": "C-suite",
+        "function": "Member Experience",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=e084926c-9013-4211-8a94-a4ef4238fcce",
+        "size_band": "$5B+",
+        "city": "Concord",
+        "state": "CA",
+        "org_assets": 5383.0,
+        "org_members": 139927,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Chevron careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=e084926c-9013-4211-8a94-a4ef4238fcce",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24326",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "chevron-fcu"
+      }
+    },
+    {
+      "id": "2026-10-20-liberty-federal-credit-union-vp-consumer-lending",
+      "fields": {
+        "posted": "2026-10-20",
+        "organization": "Liberty Federal Credit Union",
+        "title": "VP, Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Evansville, IN",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=11609411-c701-42ea-9d7e-101b41241efa&ccId=507800823_4926&jobId=9201238453348_1&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Evansville",
+        "state": "IN",
+        "org_assets": 4909.1,
+        "org_members": 270088,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Liberty careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=11609411-c701-42ea-9d7e-101b41241efa&ccId=507800823_4926&jobId=9201238453348_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1682",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "liberty-fcu-in"
+      }
+    },
+    {
       "id": "2026-10-19-champions-first-credit-union-vp-retail-operations",
       "fields": {
         "posted": "2026-10-19",
@@ -480,6 +2886,136 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "champions-first-cu"
+      }
+    },
+    {
+      "id": "2026-10-19-penair-credit-union-vp-consumer-lending",
+      "fields": {
+        "posted": "2026-10-19",
+        "organization": "PenAir Credit Union",
+        "title": "VP, Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Pensacola, FL",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7881090a-a7e4-433f-b3e0-2096f2168c42&ccId=19000101_000001&jobId=9201242770103_1&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Pensacola",
+        "state": "FL",
+        "org_assets": 2880.6,
+        "org_members": 143010,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Penair careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7881090a-a7e4-433f-b3e0-2096f2168c42&ccId=19000101_000001&jobId=9201242770103_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68734",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "penair"
+      }
+    },
+    {
+      "id": "2026-10-19-atlantic-regional-federal-credit-union-vp-residential-lending",
+      "fields": {
+        "posted": "2026-10-19",
+        "organization": "Atlantic Regional Federal Credit Union",
+        "title": "VP, Residential Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "South Portland",
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596001",
+        "size_band": "$1B-$5B",
+        "city": "South Portland",
+        "state": "ME",
+        "org_assets": 1112.9,
+        "org_members": 49376,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Atlantic Regional careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596001",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/4281",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "atlantic-fcu-me"
       }
     },
     {
@@ -691,6 +3227,136 @@
       }
     },
     {
+      "id": "2026-10-13-hope-federal-credit-union-svp-regional-manager",
+      "fields": {
+        "posted": "2026-10-13",
+        "organization": "Hope Federal Credit Union",
+        "title": "SVP, Regional Manager",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Jackson, MS",
+        "job_url": "https://recruiting2.ultipro.com/HOP1001HOPEE/JobBoard/34735991-1228-4a4b-8393-1303f5901116/OpportunityDetail?opportunityId=cabb97e8-c0fb-4e35-9718-d0a95ed6b6b2",
+        "size_band": "$500M-$1B",
+        "city": "Jackson",
+        "state": "MS",
+        "org_assets": 882.3,
+        "org_members": 49335,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Hope careers (UKG)",
+          "url": "https://recruiting2.ultipro.com/HOP1001HOPEE/JobBoard/34735991-1228-4a4b-8393-1303f5901116/OpportunityDetail?opportunityId=cabb97e8-c0fb-4e35-9718-d0a95ed6b6b2",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24829",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "hope-fcu"
+      }
+    },
+    {
+      "id": "2026-10-13-superior-choice-credit-union-vp-commercial-lending",
+      "fields": {
+        "posted": "2026-10-13",
+        "organization": "Superior Choice Credit Union",
+        "title": "VP Commercial Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Superior, WI",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=66ba5968-907b-4995-ba55-11092ad65c13&ccId=19000101_000001&jobId=9201328161307_1&lang=en_US",
+        "size_band": "$500M-$1B",
+        "city": "Superior",
+        "state": "WI",
+        "org_assets": 727.1,
+        "org_members": 36687,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Superior Choice careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=66ba5968-907b-4995-ba55-11092ad65c13&ccId=19000101_000001&jobId=9201328161307_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67173",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "superior-choice-cu"
+      }
+    },
+    {
       "id": "2026-10-09-great-plains-federal-credit-union-vp-lending",
       "fields": {
         "posted": "2026-10-09",
@@ -831,6 +3497,70 @@
       }
     },
     {
+      "id": "2026-10-08-lafayette-federal-credit-union-svp-servicing-administration",
+      "fields": {
+        "posted": "2026-10-08",
+        "organization": "Lafayette Federal Credit Union",
+        "title": "SVP, Servicing Administration",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4116760",
+        "size_band": "$1B-$5B",
+        "city": "Rockville",
+        "state": "MD",
+        "org_assets": 2032.2,
+        "org_members": 56828,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Lafayette careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4116760",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/619",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "lafayette-fcu"
+      }
+    },
+    {
       "id": "2026-10-06-spectra-federal-credit-union-chief-member-experience-officer",
       "fields": {
         "posted": "2026-10-06",
@@ -897,6 +3627,266 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "spectra-cu"
+      }
+    },
+    {
+      "id": "2026-10-06-credit-union-of-southern-california-vp-digital-banking",
+      "fields": {
+        "posted": "2026-10-06",
+        "organization": "Credit Union of Southern California",
+        "title": "VP, Digital Banking",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Anaheim Hills",
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4562595",
+        "size_band": "$1B-$5B",
+        "city": "Anaheim",
+        "state": "CA",
+        "org_assets": 4065.9,
+        "org_members": 188626,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Credit Union Of Southern Ca, A careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4562595",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24983",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "cu-socal"
+      }
+    },
+    {
+      "id": "2026-10-05-capital-credit-union-vp-facilities",
+      "fields": {
+        "posted": "2026-10-05",
+        "organization": "Capital Credit Union",
+        "title": "VP Facilities",
+        "level": "EVP / SVP / VP",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "De Pere, WI",
+        "job_url": "https://recruiting2.ultipro.com/CAP1016CACU/JobBoard/7752a76f-1ee2-4abe-8094-cc6ebdae9fa0/OpportunityDetail?opportunityId=a8c0d33b-47f6-486b-b650-fab922939482",
+        "size_band": "$1B-$5B",
+        "city": "Green Bay",
+        "state": "WI",
+        "org_assets": 2891.2,
+        "org_members": 132030,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Capital careers (UKG)",
+          "url": "https://recruiting2.ultipro.com/CAP1016CACU/JobBoard/7752a76f-1ee2-4abe-8094-cc6ebdae9fa0/OpportunityDetail?opportunityId=a8c0d33b-47f6-486b-b650-fab922939482",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66865",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "capital-cu-wi"
+      }
+    },
+    {
+      "id": "2026-10-05-gulf-winds-credit-union-svp-chief-people-officer",
+      "fields": {
+        "posted": "2026-10-05",
+        "organization": "Gulf Winds Credit Union",
+        "title": "SVP, Chief People Officer",
+        "level": "C-suite",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Pensacola, FL",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9946cffb-1c96-4eae-be59-9d7b15d53e25&ccId=19000101_000001&jobId=433432406_1&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Pensacola",
+        "state": "FL",
+        "org_assets": 1374.8,
+        "org_members": 75037,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Gulf Winds careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9946cffb-1c96-4eae-be59-9d7b15d53e25&ccId=19000101_000001&jobId=433432406_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "gulf-winds"
+      }
+    },
+    {
+      "id": "2026-10-02-uncle-credit-union-vp-retail-growth",
+      "fields": {
+        "posted": "2026-10-02",
+        "organization": "Uncle Credit Union",
+        "title": "VP Retail Growth",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Livermore, CA",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=806b00b1-3ebf-4a20-b37f-1a3bb94c1480&ccId=19000101_000001&jobId=9202436618769_1&lang=en_US",
+        "size_band": "$500M-$1B",
+        "city": "Livermore",
+        "state": "CA",
+        "org_assets": 713.8,
+        "org_members": 36001,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Uncle careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=806b00b1-3ebf-4a20-b37f-1a3bb94c1480&ccId=19000101_000001&jobId=9202436618769_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/64482",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "uncle-cu"
       }
     },
     {
@@ -1104,6 +4094,71 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "intrepid-cu"
+      }
+    },
+    {
+      "id": "2026-09-30-orsa-credit-union-vp-storytelling",
+      "fields": {
+        "posted": "2026-09-30",
+        "organization": "Orsa Credit Union",
+        "title": "VP, Storytelling",
+        "level": "EVP / SVP / VP",
+        "function": "Marketing",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Plymouth, MI",
+        "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2b7717fa-bc5e-4a0f-9c76-c0ec9b360a76&ccId=19000101_000001&jobId=9201445250096_1&lang=en_US",
+        "size_band": "$1B-$5B",
+        "city": "Plymouth",
+        "state": "MI",
+        "org_assets": 1524.0,
+        "org_members": 85338,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Orsa careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2b7717fa-bc5e-4a0f-9c76-c0ec9b360a76&ccId=19000101_000001&jobId=9201445250096_1&lang=en_US",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68631",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "orsa-cu"
       }
     },
     {
@@ -1450,6 +4505,136 @@
       }
     },
     {
+      "id": "2026-09-21-keesler-federal-credit-union-vp-corporate-training",
+      "fields": {
+        "posted": "2026-09-21",
+        "organization": "Keesler Federal Credit Union",
+        "title": "VP, Corporate Training",
+        "level": "EVP / SVP / VP",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Gulfport, MS",
+        "job_url": "https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa/OpportunityDetail?opportunityId=9421dc83-5bf1-4e9f-b6e7-35ba3672e73d",
+        "size_band": "$5B+",
+        "city": "Biloxi",
+        "state": "MS",
+        "org_assets": 5267.6,
+        "org_members": 404047,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Keesler careers (UKG)",
+          "url": "https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa/OpportunityDetail?opportunityId=9421dc83-5bf1-4e9f-b6e7-35ba3672e73d",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5561",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "keesler-fcu"
+      }
+    },
+    {
+      "id": "2026-09-18-first-community-credit-union-vp-product-management",
+      "fields": {
+        "posted": "2026-09-18",
+        "organization": "First Community Credit Union",
+        "title": "VP Product Management",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Houston, TX",
+        "job_url": "https://recruiting.ultipro.com/FIR1030FCCU/JobBoard/85400acd-0000-4949-8a8d-b257b414d923/OpportunityDetail?opportunityId=12fdd996-96a4-462f-b3c7-fe61d2dac584",
+        "size_band": "$1B-$5B",
+        "city": "Houston",
+        "state": "TX",
+        "org_assets": 2987.7,
+        "org_members": 195415,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "First Community careers (UKG)",
+          "url": "https://recruiting.ultipro.com/FIR1030FCCU/JobBoard/85400acd-0000-4949-8a8d-b257b414d923/OpportunityDetail?opportunityId=12fdd996-96a4-462f-b3c7-fe61d2dac584",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66818",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-community-cu-tx"
+      }
+    },
+    {
       "id": "2026-09-17-winnebago-community-credit-union-vp-finance",
       "fields": {
         "posted": "2026-09-17",
@@ -1511,6 +4696,135 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "winnebago-community-cu"
+      }
+    },
+    {
+      "id": "2026-09-17-credit-union-of-colorado-chief-lending-officer",
+      "fields": {
+        "posted": "2026-09-17",
+        "organization": "Credit Union of Colorado",
+        "title": "Chief Lending Officer",
+        "level": "C-suite",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://job-boards.greenhouse.io/creditunionofcolorado/jobs/5381286008",
+        "size_band": "$1B-$5B",
+        "city": "Denver",
+        "state": "CO",
+        "org_assets": 2635.3,
+        "org_members": 173139,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Credit Union Of Colorado, A careers (Greenhouse)",
+          "url": "https://job-boards.greenhouse.io/creditunionofcolorado/jobs/5381286008",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24854",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "cu-of-colorado"
+      }
+    },
+    {
+      "id": "2026-09-17-hanscom-federal-credit-union-vp-comm-impact-officer",
+      "fields": {
+        "posted": "2026-09-17",
+        "organization": "Hanscom Federal Credit Union",
+        "title": "VP, Comm Impact Officer",
+        "level": "EVP / SVP / VP",
+        "function": "Marketing",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Littleton, MA",
+        "job_url": "https://recruiting.ultipro.com/HAN1015HFCU/JobBoard/fba58347-e29f-4416-8e12-98236b8302e7/OpportunityDetail?opportunityId=9e6539cc-25ae-40ce-80aa-3b0d50f36e10",
+        "size_band": "$1B-$5B",
+        "city": "Hanscom AFB",
+        "state": "MA",
+        "org_assets": 2206.2,
+        "org_members": 98440,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Hanscom careers (UKG)",
+          "url": "https://recruiting.ultipro.com/HAN1015HFCU/JobBoard/fba58347-e29f-4416-8e12-98236b8302e7/OpportunityDetail?opportunityId=9e6539cc-25ae-40ce-80aa-3b0d50f36e10",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9095",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "hanscom-fcu"
       }
     },
     {
@@ -1578,6 +4892,71 @@
       }
     },
     {
+      "id": "2026-09-16-zeal-credit-union-vp-lending",
+      "fields": {
+        "posted": "2026-09-16",
+        "organization": "Zeal Credit Union",
+        "title": "VP, Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Livonia, MI",
+        "job_url": "https://zealcu.applicantpro.com/jobs/4212224.html",
+        "size_band": "$1B-$5B",
+        "city": "Livonia",
+        "state": "MI",
+        "org_assets": 1047.1,
+        "org_members": 68036,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Zeal careers (ApplicantPro)",
+          "url": "https://zealcu.applicantpro.com/jobs/4212224.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62426",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "zeal"
+      }
+    },
+    {
       "id": "2026-09-14-greylock-federal-credit-union-vp-real-estate-lending",
       "fields": {
         "posted": "2026-09-14",
@@ -1598,7 +4977,8 @@
         "org_assets": 1769.9,
         "org_members": 114880,
         "assets_as_of": "Q3 2026",
-        "notes": null
+        "notes": null,
+        "job_location": "Pittsfield, MA"
       },
       "sources": [
         {
@@ -1620,6 +5000,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24560",
           "type": "regulator"
+        },
+        {
+          "label": "Greylock careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5e2befa0-ee04-452e-ad5f-c608d9a9a414&ccId=19000101_000001&jobId=9202465026756_1&lang=en_US",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -1636,12 +5021,28 @@
         "org_members": 3,
         "assets_as_of": 3,
         "search_firm": 0,
-        "posted": 0
+        "posted": 0,
+        "job_location": 4
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-23",
+          "note": "Details added from a new report",
+          "changes": [
+            {
+              "field": "job_location",
+              "old": null,
+              "new": "Pittsfield, MA"
+            }
+          ],
+          "sources": [
+            "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5e2befa0-ee04-452e-ad5f-c608d9a9a414&ccId=19000101_000001&jobId=9202465026756_1&lang=en_US",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24560"
+          ]
         }
       ],
       "added": "2026-11-23",
@@ -1855,6 +5256,71 @@
       }
     },
     {
+      "id": "2026-09-10-tower-federal-credit-union-vp-consumer-lending",
+      "fields": {
+        "posted": "2026-09-10",
+        "organization": "Tower Federal Credit Union",
+        "title": "VP Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Laurel, MD",
+        "job_url": "https://recruiting.ultipro.com/TOW1005TOFEC/JobBoard/5badaec5-8173-4499-8787-2c8413156e83/OpportunityDetail?opportunityId=514a6d39-3455-4459-a3ae-461ad6417175",
+        "size_band": "$5B+",
+        "city": "Laurel",
+        "state": "MD",
+        "org_assets": 5048.8,
+        "org_members": 226032,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Tower careers (UKG)",
+          "url": "https://recruiting.ultipro.com/TOW1005TOFEC/JobBoard/5badaec5-8173-4499-8787-2c8413156e83/OpportunityDetail?opportunityId=514a6d39-3455-4459-a3ae-461ad6417175",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8333",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "tower-fcu"
+      }
+    },
+    {
       "id": "2026-09-09-first-choice-credit-union-chief-operations-officer",
       "fields": {
         "posted": "2026-09-09",
@@ -1981,6 +5447,393 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "first-source-fcu"
+      }
+    },
+    {
+      "id": "2026-09-03-chevron-federal-credit-union-vp-accounting",
+      "fields": {
+        "posted": "2026-09-03",
+        "organization": "Chevron Federal Credit Union",
+        "title": "VP, Accounting",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=eb93ac5c-5b3b-4dc6-81b5-663140a5d0ef",
+        "size_band": "$5B+",
+        "city": "Concord",
+        "state": "CA",
+        "org_assets": 5383.0,
+        "org_members": 139927,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Chevron careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=eb93ac5c-5b3b-4dc6-81b5-663140a5d0ef",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24326",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "chevron-fcu"
+      }
+    },
+    {
+      "id": "2026-09-03-town-and-country-credit-union-vp-commercial-lending",
+      "fields": {
+        "posted": "2026-09-03",
+        "organization": "Town and Country Credit Union",
+        "title": "VP Commercial Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Fargo, ND",
+        "job_url": "https://townandcountryhiring.applicantpro.com/jobs/4197820.html",
+        "size_band": "$500M-$1B",
+        "city": "Minot",
+        "state": "ND",
+        "org_assets": 776.9,
+        "org_members": 26732,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Town And Country careers (ApplicantPro)",
+          "url": "https://townandcountryhiring.applicantpro.com/jobs/4197820.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60790",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "town-and-country-cu-nd"
+      }
+    },
+    {
+      "id": "2026-09-02-credit-union-of-southern-california-vp-consumer-lending",
+      "fields": {
+        "posted": "2026-09-02",
+        "organization": "Credit Union of Southern California",
+        "title": "VP, Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Anaheim Hills",
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4363508",
+        "size_band": "$1B-$5B",
+        "city": "Anaheim",
+        "state": "CA",
+        "org_assets": 4065.9,
+        "org_members": 188626,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Credit Union Of Southern Ca, A careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4363508",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24983",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "cu-socal"
+      }
+    },
+    {
+      "id": "2026-09-01-lafayette-federal-credit-union-principal-vp-of-consumer-lending",
+      "fields": {
+        "posted": "2026-09-01",
+        "organization": "Lafayette Federal Credit Union",
+        "title": "Principal VP of Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3953716",
+        "size_band": "$1B-$5B",
+        "city": "Rockville",
+        "state": "MD",
+        "org_assets": 2032.2,
+        "org_members": 56828,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Lafayette careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3953716",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/619",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "lafayette-fcu"
+      }
+    },
+    {
+      "id": "2026-09-01-selfreliance-federal-credit-union-vp-member-experience",
+      "fields": {
+        "posted": "2026-09-01",
+        "organization": "Selfreliance Federal Credit Union",
+        "title": "VP, Member Experience",
+        "level": "EVP / SVP / VP",
+        "function": "Member Experience",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4470688",
+        "size_band": "$1B-$5B",
+        "city": "Chicago",
+        "state": "IL",
+        "org_assets": 1198.7,
+        "org_members": 47052,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Selfreliance careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4470688",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7346",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "selfreliance-fcu"
+      }
+    },
+    {
+      "id": "2026-08-18-desert-financial-credit-union-vp-member-experience",
+      "fields": {
+        "posted": "2026-08-18",
+        "organization": "Desert Financial Credit Union",
+        "title": "VP, Member Experience",
+        "level": "EVP / SVP / VP",
+        "function": "Member Experience",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Phoenix, AZ",
+        "job_url": "https://jobs.desertfinancial.com/us/en/job/DFCDFCUSVICEP008840EXTERNALENUS",
+        "size_band": "$5B+",
+        "city": "Phoenix",
+        "state": "AZ",
+        "org_assets": 9902.1,
+        "org_members": 526630,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Desert Financial careers (careers site)",
+          "url": "https://jobs.desertfinancial.com/us/en/job/DFCDFCUSVICEP008840EXTERNALENUS",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68713",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "desert-financial-cu"
       }
     },
     {
@@ -2181,6 +6034,135 @@
       }
     },
     {
+      "id": "2026-08-04-lafayette-federal-credit-union-regional-vp-branch-operations",
+      "fields": {
+        "posted": "2026-08-04",
+        "organization": "Lafayette Federal Credit Union",
+        "title": "Regional VP, Branch Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4389743",
+        "size_band": "$1B-$5B",
+        "city": "Rockville",
+        "state": "MD",
+        "org_assets": 2032.2,
+        "org_members": 56828,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Lafayette careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4389743",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/619",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "lafayette-fcu"
+      }
+    },
+    {
+      "id": "2026-07-24-credit-human-federal-credit-union-vp-mortgage-operations",
+      "fields": {
+        "posted": "2026-07-24",
+        "organization": "Credit Human Federal Credit Union",
+        "title": "VP, Mortgage Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "New Orleans, LA",
+        "job_url": "https://recruiting.ultipro.com/CRE1014CHFCU/JobBoard/8dbd57af-a243-40f8-8e98-b9325d35338b/OpportunityDetail?opportunityId=918ab874-b44d-4db0-8e7a-bcd3212df6c9",
+        "size_band": "$1B-$5B",
+        "city": "San Antonio",
+        "state": "TX",
+        "org_assets": 4239.5,
+        "org_members": 258650,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Credit Human careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CRE1014CHFCU/JobBoard/8dbd57af-a243-40f8-8e98-b9325d35338b/OpportunityDetail?opportunityId=918ab874-b44d-4db0-8e7a-bcd3212df6c9",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24382",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "credit-human"
+      }
+    },
+    {
       "id": "2026-07-09-park-federal-credit-union-chief-strategy-and-capital-officer",
       "fields": {
         "posted": "2026-07-09",
@@ -2243,6 +6225,70 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "park-community-cu"
+      }
+    },
+    {
+      "id": "2026-07-01-heritage-financial-federal-credit-union-vp-risk-management",
+      "fields": {
+        "posted": "2026-07-01",
+        "organization": "Heritage Financial Federal Credit Union",
+        "title": "VP, Risk Management",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4059682",
+        "size_band": "$500M-$1B",
+        "city": "Middletown",
+        "state": "NY",
+        "org_assets": 821.2,
+        "org_members": 59562,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Heritage Financial careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4059682",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24985",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "heritage-financial-fcu-ny"
       }
     },
     {
@@ -2377,6 +6423,70 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "oswego-county-fcu"
+      }
+    },
+    {
+      "id": "2026-05-18-alabama-credit-union-chief-financial-officer",
+      "fields": {
+        "posted": "2026-05-18",
+        "organization": "Alabama Credit Union",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4179446",
+        "size_band": "$1B-$5B",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "org_assets": 2051.0,
+        "org_members": 151069,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Alabama careers (Paylocity)",
+          "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4179446",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60823",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "alabama-cu"
       }
     },
     {
@@ -2639,6 +6749,201 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "noble-cu"
+      }
+    },
+    {
+      "id": "2026-03-13-credit-union-of-texas-vp-title-operations",
+      "fields": {
+        "posted": "2026-03-13",
+        "organization": "Credit Union of Texas",
+        "title": "VP Title Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Dallas, TX",
+        "job_url": "https://recruiting.ultipro.com/CRE1008CRE/JobBoard/e0cfc298-d676-47e0-bee0-b92266263369/OpportunityDetail?opportunityId=b8645c35-5059-47a1-8a59-aac3619d65ed",
+        "size_band": "$1B-$5B",
+        "city": "Allen",
+        "state": "TX",
+        "org_assets": 2646.4,
+        "org_members": 186828,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Credit Union Of Texas careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CRE1008CRE/JobBoard/e0cfc298-d676-47e0-bee0-b92266263369/OpportunityDetail?opportunityId=b8645c35-5059-47a1-8a59-aac3619d65ed",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66327",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "cutx"
+      }
+    },
+    {
+      "id": "2026-02-24-chevron-federal-credit-union-vp-business-development",
+      "fields": {
+        "posted": "2026-02-24",
+        "organization": "Chevron Federal Credit Union",
+        "title": "VP, Business Development",
+        "level": "EVP / SVP / VP",
+        "function": "Marketing",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Houston, TX",
+        "job_url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=8b96490c-60b7-41b4-9b3d-448520568492",
+        "size_band": "$5B+",
+        "city": "Concord",
+        "state": "CA",
+        "org_assets": 5383.0,
+        "org_members": 139927,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Chevron careers (UKG)",
+          "url": "https://recruiting.ultipro.com/CHE1007CHEV/JobBoard/604b85b9-c229-47a8-8319-5b9130e7bd81/OpportunityDetail?opportunityId=8b96490c-60b7-41b4-9b3d-448520568492",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24326",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "chevron-fcu"
+      }
+    },
+    {
+      "id": "2025-09-03-town-and-country-credit-union-vp-agricultural-lending",
+      "fields": {
+        "posted": "2025-09-03",
+        "organization": "Town and Country Credit Union",
+        "title": "VP Agricultural Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Fargo, ND",
+        "job_url": "https://townandcountryhiring.applicantpro.com/jobs/3846042.html",
+        "size_band": "$500M-$1B",
+        "city": "Minot",
+        "state": "ND",
+        "org_assets": 776.9,
+        "org_members": 26732,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Town And Country careers (ApplicantPro)",
+          "url": "https://townandcountryhiring.applicantpro.com/jobs/3846042.html",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60790",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "posted": 0,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "town-and-country-cu-nd"
       }
     },
     {
@@ -3712,6 +8017,1667 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "richland-fcu-mt"
+      }
+    },
+    {
+      "id": "undated-state-employees-credit-union-vp-infrastructure-infosec-regulatory-and-shared-servi",
+      "fields": {
+        "posted": null,
+        "organization": "State Employees' Credit Union",
+        "title": "VP Infrastructure, InfoSec, Regulatory & Shared Services Programs",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/VP-Infrastructure--InfoSec--Regulatory-and-Shared-Services-Programs_JR-16386",
+        "size_band": "$5B+",
+        "city": "Raleigh",
+        "state": "NC",
+        "org_assets": 60051.0,
+        "org_members": 3019180,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "State Employees' careers (Workday)",
+          "url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/VP-Infrastructure--InfoSec--Regulatory-and-Shared-Services-Programs_JR-16386",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66310",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "secu-nc"
+      }
+    },
+    {
+      "id": "undated-state-employees-credit-union-vp-qa-engineering",
+      "fields": {
+        "posted": null,
+        "organization": "State Employees' Credit Union",
+        "title": "VP QA Engineering",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/VP-QA-Engineering_JR-14908",
+        "size_band": "$5B+",
+        "city": "Raleigh",
+        "state": "NC",
+        "org_assets": 60051.0,
+        "org_members": 3019180,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "State Employees' careers (Workday)",
+          "url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/VP-QA-Engineering_JR-14908",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66310",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "secu-nc"
+      }
+    },
+    {
+      "id": "undated-state-employees-credit-union-svp-identity-and-access-management",
+      "fields": {
+        "posted": null,
+        "organization": "State Employees' Credit Union",
+        "title": "SVP Identity & Access Management",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/SVP-Identity---Access-Management_JR-16667",
+        "size_band": "$5B+",
+        "city": "Raleigh",
+        "state": "NC",
+        "org_assets": 60051.0,
+        "org_members": 3019180,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "State Employees' careers (Workday)",
+          "url": "https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/SVP-Identity---Access-Management_JR-16667",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66310",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "secu-nc"
+      }
+    },
+    {
+      "id": "undated-schoolsfirst-federal-credit-union-vp-consumer-loan-operations",
+      "fields": {
+        "posted": null,
+        "organization": "SchoolsFirst Federal Credit Union",
+        "title": "VP, Consumer Loan Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Tustin-CA/Vice-President--Consumer-Loan-Operations_JR106419",
+        "size_band": "$5B+",
+        "city": "Tustin",
+        "state": "CA",
+        "org_assets": 36995.3,
+        "org_members": 1610831,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Schoolsfirst careers (Workday)",
+          "url": "https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Tustin-CA/Vice-President--Consumer-Loan-Operations_JR106419",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24212",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "schoolsfirst-fcu"
+      }
+    },
+    {
+      "id": "undated-schoolsfirst-federal-credit-union-vp-consumer-loan-originations",
+      "fields": {
+        "posted": null,
+        "organization": "SchoolsFirst Federal Credit Union",
+        "title": "VP, Consumer Loan Originations",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Tustin-CA/Vice-President--Consumer-Loan-Originations_JR106421",
+        "size_band": "$5B+",
+        "city": "Tustin",
+        "state": "CA",
+        "org_assets": 36995.3,
+        "org_members": 1610831,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Schoolsfirst careers (Workday)",
+          "url": "https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Tustin-CA/Vice-President--Consumer-Loan-Originations_JR106421",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24212",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "schoolsfirst-fcu"
+      }
+    },
+    {
+      "id": "undated-mountain-america-federal-credit-union-vp-consumer-lending",
+      "fields": {
+        "posted": null,
+        "organization": "Mountain America Federal Credit Union",
+        "title": "VP Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Sandy, Utah",
+        "job_url": "https://careers.macu.com/jobs/r20408/vice-president-consumer-lending/",
+        "size_band": "$5B+",
+        "city": "Sandy",
+        "state": "UT",
+        "org_assets": 22773.0,
+        "org_members": 1477182,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Mountain America careers (careers feed)",
+          "url": "https://careers.macu.com/jobs/r20408/vice-president-consumer-lending/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24692",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "mountain-america-cu"
+      }
+    },
+    {
+      "id": "undated-randolph-brooks-federal-credit-union-regional-vp-branch-operations",
+      "fields": {
+        "posted": null,
+        "organization": "Randolph-Brooks Federal Credit Union",
+        "title": "Regional VP, Branch Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "San Antonio, TX",
+        "job_url": "https://rbfcu.wd503.myworkdayjobs.com/RBFCUCareers/job/San-Antonio-Texas-Area/Regional-Vice-President---Branch-Operations---San-Antonio_015447-1",
+        "size_band": "$5B+",
+        "city": "Live Oak",
+        "state": "TX",
+        "org_assets": 19938.5,
+        "org_members": 1162377,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Randolph-Brooks careers (Workday)",
+          "url": "https://rbfcu.wd503.myworkdayjobs.com/RBFCUCareers/job/San-Antonio-Texas-Area/Regional-Vice-President---Branch-Operations---San-Antonio_015447-1",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/8111",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "rbfcu"
+      }
+    },
+    {
+      "id": "undated-global-federal-credit-union-svp-special-credits",
+      "fields": {
+        "posted": null,
+        "organization": "Global Federal Credit Union",
+        "title": "SVP Special Credits",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://careers-globalcu.icims.com/jobs/9095/senior-vice-president-special-credits/job",
+        "size_band": "$5B+",
+        "city": "Anchorage",
+        "state": "AK",
+        "org_assets": 13149.1,
+        "org_members": 813569,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Global careers (iCIMS)",
+          "url": "https://careers-globalcu.icims.com/jobs/9095/senior-vice-president-special-credits/job",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5913",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "global-fcu-ak"
+      }
+    },
+    {
+      "id": "undated-united-nations-federal-credit-union-vp-investment-management",
+      "fields": {
+        "posted": null,
+        "organization": "United Nations Federal Credit Union",
+        "title": "VP Investment Management",
+        "level": "EVP / SVP / VP",
+        "function": "Other",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://careers-unfcu.icims.com/jobs/2208/vp-investment-management/job",
+        "size_band": "$5B+",
+        "city": "Long Island City",
+        "state": "NY",
+        "org_assets": 10769.8,
+        "org_members": 270082,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "United Nations careers (iCIMS)",
+          "url": "https://careers-unfcu.icims.com/jobs/2208/vp-investment-management/job",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/5588",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "unfcu"
+      }
+    },
+    {
+      "id": "undated-logix-federal-credit-union-vp-it-governance-architecture-and-service-management",
+      "fields": {
+        "posted": null,
+        "organization": "Logix Federal Credit Union",
+        "title": "VP IT Governance, Architecture & Service Management",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": "Hybrid",
+        "job_location": null,
+        "job_url": "https://careers-logixbanking.icims.com/jobs/1764/vp-it-governance%2c-architecture-%26-service-management-hybrid/job",
+        "size_band": "$5B+",
+        "city": "Valencia",
+        "state": "CA",
+        "org_assets": 9660.7,
+        "org_members": 247563,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Logix careers (iCIMS)",
+          "url": "https://careers-logixbanking.icims.com/jobs/1764/vp-it-governance%2c-architecture-%26-service-management-hybrid/job",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1999",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "logix-fcu"
+      }
+    },
+    {
+      "id": "undated-logix-federal-credit-union-vp-real-estate-lending",
+      "fields": {
+        "posted": null,
+        "organization": "Logix Federal Credit Union",
+        "title": "VP Real Estate Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": "Hybrid",
+        "job_location": null,
+        "job_url": "https://careers-logixbanking.icims.com/jobs/1732/vp-real-estate-lending-hybrid/job",
+        "size_band": "$5B+",
+        "city": "Valencia",
+        "state": "CA",
+        "org_assets": 9660.7,
+        "org_members": 247563,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Logix careers (iCIMS)",
+          "url": "https://careers-logixbanking.icims.com/jobs/1732/vp-real-estate-lending-hybrid/job",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1999",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "logix-fcu"
+      }
+    },
+    {
+      "id": "undated-logix-federal-credit-union-vp-commercial-lending",
+      "fields": {
+        "posted": null,
+        "organization": "Logix Federal Credit Union",
+        "title": "VP Commercial Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": "Hybrid",
+        "job_location": null,
+        "job_url": "https://careers-logixbanking.icims.com/jobs/1704/vp-commercial-lending-hybrid/job",
+        "size_band": "$5B+",
+        "city": "Valencia",
+        "state": "CA",
+        "org_assets": 9660.7,
+        "org_members": 247563,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Logix careers (iCIMS)",
+          "url": "https://careers-logixbanking.icims.com/jobs/1704/vp-commercial-lending-hybrid/job",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1999",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "work_mode": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "logix-fcu"
+      }
+    },
+    {
+      "id": "undated-broadview-federal-credit-union-vp-payments-strategy",
+      "fields": {
+        "posted": null,
+        "organization": "Broadview Federal Credit Union",
+        "title": "VP, Payments Strategy",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Albany, NY",
+        "job_url": "https://broadviewfcu.wd1.myworkdayjobs.com/broadviewfcucareers/job/Albany-NY/VP--Payments-Strategy_R4133",
+        "size_band": "$5B+",
+        "city": "Albany",
+        "state": "NY",
+        "org_assets": 9283.2,
+        "org_members": 522500,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Broadview careers (Workday)",
+          "url": "https://broadviewfcu.wd1.myworkdayjobs.com/broadviewfcucareers/job/Albany-NY/VP--Payments-Strategy_R4133",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/51",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "broadview-fcu"
+      }
+    },
+    {
+      "id": "undated-broadview-federal-credit-union-vp-cyber-assurance-and-defense",
+      "fields": {
+        "posted": null,
+        "organization": "Broadview Federal Credit Union",
+        "title": "VP, Cyber Assurance & Defense",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Albany, NY",
+        "job_url": "https://broadviewfcu.wd1.myworkdayjobs.com/broadviewfcucareers/job/Albany-NY/VP--Cyber-Assurance---Defense_R4018",
+        "size_band": "$5B+",
+        "city": "Albany",
+        "state": "NY",
+        "org_assets": 9283.2,
+        "org_members": 522500,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Broadview careers (Workday)",
+          "url": "https://broadviewfcu.wd1.myworkdayjobs.com/broadviewfcucareers/job/Albany-NY/VP--Cyber-Assurance---Defense_R4018",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/51",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "broadview-fcu"
+      }
+    },
+    {
+      "id": "undated-communityamerica-credit-union-vp-infrastructure-and-support",
+      "fields": {
+        "posted": null,
+        "organization": "CommunityAmerica Credit Union",
+        "title": "VP, Infrastructure & Support",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://careers-cacu.icims.com/jobs/3236/vp---infrastructure-%26-support/job",
+        "size_band": "$5B+",
+        "city": "Lenexa",
+        "state": "KS",
+        "org_assets": 9224.9,
+        "org_members": 604252,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Communityamerica careers (iCIMS)",
+          "url": "https://careers-cacu.icims.com/jobs/3236/vp---infrastructure-%26-support/job",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15732",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "communityamerica"
+      }
+    },
+    {
+      "id": "undated-travis-credit-union-vp-assistant-general-counsel",
+      "fields": {
+        "posted": null,
+        "organization": "Travis Credit Union",
+        "title": "VP, Assistant General Counsel",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://jobs.jobvite.com/travis-credit-union/job/oTbTAfwh",
+        "size_band": "$5B+",
+        "city": "Vacaville",
+        "state": "CA",
+        "org_assets": 5994.7,
+        "org_members": 278797,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Travis careers (Jobvite)",
+          "url": "https://jobs.jobvite.com/travis-credit-union/job/oTbTAfwh",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68429",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "travis-cu"
+      }
+    },
+    {
+      "id": "undated-washington-state-employees-credit-union-vp-consumer-lending",
+      "fields": {
+        "posted": null,
+        "organization": "Washington State Employees Credit Union",
+        "title": "VP, Consumer Lending",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Olympia, Washington",
+        "job_url": "https://wsecu.wd5.myworkdayjobs.com/WSECU/job/Olympia-Washington/Vice-President-of-Consumer-Lending_R4163",
+        "size_band": "$5B+",
+        "city": "Olympia",
+        "state": "WA",
+        "org_assets": 5108.6,
+        "org_members": 328471,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Washington State Employees careers (Workday)",
+          "url": "https://wsecu.wd5.myworkdayjobs.com/WSECU/job/Olympia-Washington/Vice-President-of-Consumer-Lending_R4163",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60042",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "wsecu"
+      }
+    },
+    {
+      "id": "undated-georgia-s-own-credit-union-vp-product-and-marketing",
+      "fields": {
+        "posted": null,
+        "organization": "Georgia's Own Credit Union",
+        "title": "VP, Product & Marketing",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Atlanta, Georgia",
+        "job_url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Atlanta-Georgia/VP--Product---Marketing_R-101725",
+        "size_band": "$1B-$5B",
+        "city": "Atlanta",
+        "state": "GA",
+        "org_assets": 4184.4,
+        "org_members": 238034,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Georgia'S Own careers (Workday)",
+          "url": "https://georgiasown.wd1.myworkdayjobs.com/GeorgiasOwnCareers/job/Atlanta-Georgia/VP--Product---Marketing_R-101725",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67390",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "job_location": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "georgia-s-own"
+      }
+    },
+    {
+      "id": "undated-achieva-credit-union-vp-enterprise-project-management",
+      "fields": {
+        "posted": null,
+        "organization": "Achieva Credit Union",
+        "title": "VP Enterprise Project Management",
+        "level": "EVP / SVP / VP",
+        "function": "Strategy",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08bd4f76e018c17bffc8111b3&id=8a7885aca18473fa01a1c198f6554137&source=&lang=en",
+        "size_band": "$1B-$5B",
+        "city": "Dunedin",
+        "state": "FL",
+        "org_assets": 3378.1,
+        "org_members": 222451,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Achieva Credit Union careers (Paycor)",
+          "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08bd4f76e018c17bffc8111b3&id=8a7885aca18473fa01a1c198f6554137&source=&lang=en",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60087",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "achieva-cu"
+      }
+    },
+    {
+      "id": "undated-park-federal-credit-union-vp-operations",
+      "fields": {
+        "posted": null,
+        "organization": "Park Federal Credit Union",
+        "title": "VP, Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08c3cac02018c44f13f7202b0&id=8a7887a89f8b9426019fd211ae3a6ce3&source=&lang=en",
+        "size_band": "$1B-$5B",
+        "city": "Louisville",
+        "state": "KY",
+        "org_assets": 1453.2,
+        "org_members": 82626,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Park careers (Paycor)",
+          "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08c3cac02018c44f13f7202b0&id=8a7887a89f8b9426019fd211ae3a6ce3&source=&lang=en",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24931",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "park-community-cu"
+      }
+    },
+    {
+      "id": "undated-service-1st-federal-credit-union-vp-branch-market",
+      "fields": {
+        "posted": null,
+        "organization": "Service 1st Federal Credit Union",
+        "title": "VP Branch Market",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://service1stfederalcreditunion.applytojob.com/apply/UjpxntoSqS/VP-Branch-Market",
+        "size_band": "$500M-$1B",
+        "city": "Danville",
+        "state": "PA",
+        "org_assets": 851.8,
+        "org_members": 54467,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Service 1St careers (JazzHR)",
+          "url": "https://service1stfederalcreditunion.applytojob.com/apply/UjpxntoSqS/VP-Branch-Market",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/22128",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "service-1st-fcu"
+      }
+    },
+    {
+      "id": "undated-meridian-trust-federal-credit-union-vp-risk-and-compliance",
+      "fields": {
+        "posted": null,
+        "organization": "Meridian Trust Federal Credit Union",
+        "title": "VP, Risk & Compliance",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://mymeridiantrust.com/careers/vp-of-risk-and-compliance-cheyenne/",
+        "size_band": "$500M-$1B",
+        "city": "Cheyenne",
+        "state": "WY",
+        "org_assets": 738.1,
+        "org_members": 44981,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Meridian Trust careers (careers page)",
+          "url": "https://mymeridiantrust.com/careers/vp-of-risk-and-compliance-cheyenne/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9160",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "meridian-trust-fcu"
+      }
+    },
+    {
+      "id": "undated-first-technology-federal-credit-union-svp-market-risk-management",
+      "fields": {
+        "posted": null,
+        "organization": "First Technology Federal Credit Union",
+        "title": "SVP, Market Risk Management",
+        "level": "EVP / SVP / VP",
+        "function": "Risk & Compliance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$285K-$325K",
+        "work_mode": null,
+        "job_location": "Hillsboro, OR or Marlborough, MA",
+        "job_url": "https://www.indeed.com/q-First-Tech-Credit-Union-$45,000-jobs.html",
+        "size_band": "$5B+",
+        "city": "San Jose",
+        "state": "CA",
+        "org_assets": 27492.4,
+        "org_members": 1888218,
+        "assets_as_of": "Q3 2026",
+        "notes": "First Tech's own careers site blocks automated reading; seen on job sites."
+      },
+      "sources": [
+        {
+          "label": "Indeed listing",
+          "url": "https://www.indeed.com/q-First-Tech-Credit-Union-$45,000-jobs.html",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23521",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "pay_range": 0,
+        "job_location": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-tech-fcu"
+      }
+    },
+    {
+      "id": "undated-first-technology-federal-credit-union-vp-total-rewards",
+      "fields": {
+        "posted": null,
+        "organization": "First Technology Federal Credit Union",
+        "title": "VP, Total Rewards",
+        "level": "EVP / SVP / VP",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$197K-$247K",
+        "work_mode": "On-site",
+        "job_location": "Hillsboro, OR or Marlborough, MA",
+        "job_url": "https://www.ziprecruiter.com/c/first-tech-federal-credit-union/Job/VP,-Total-Rewards/-in-Marlborough,MA?jid=b98f4fd0c4c5a24f",
+        "size_band": "$5B+",
+        "city": "San Jose",
+        "state": "CA",
+        "org_assets": 27492.4,
+        "org_members": 1888218,
+        "assets_as_of": "Q3 2026",
+        "notes": "First Tech's own careers site blocks automated reading; seen on job sites."
+      },
+      "sources": [
+        {
+          "label": "ZipRecruiter listing",
+          "url": "https://www.ziprecruiter.com/c/first-tech-federal-credit-union/Job/VP,-Total-Rewards/-in-Marlborough,MA?jid=b98f4fd0c4c5a24f",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23521",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "pay_range": 0,
+        "job_location": 0,
+        "work_mode": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-tech-fcu"
+      }
+    },
+    {
+      "id": "undated-first-technology-federal-credit-union-vp-information-security",
+      "fields": {
+        "posted": null,
+        "organization": "First Technology Federal Credit Union",
+        "title": "VP, Information Security",
+        "level": "EVP / SVP / VP",
+        "function": "Technology",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$221K-$276K",
+        "work_mode": "On-site",
+        "job_location": "Marlborough, MA",
+        "job_url": "https://www.ziprecruiter.com/c/First-Tech-Federal-Credit-Union/Job/Vice-President,-Information-Security/-in-Marlborough,MA?jid=b96e473068b5bd3e",
+        "size_band": "$5B+",
+        "city": "San Jose",
+        "state": "CA",
+        "org_assets": 27492.4,
+        "org_members": 1888218,
+        "assets_as_of": "Q3 2026",
+        "notes": "First Tech's own careers site blocks automated reading; seen on job sites."
+      },
+      "sources": [
+        {
+          "label": "ZipRecruiter listing",
+          "url": "https://www.ziprecruiter.com/c/First-Tech-Federal-Credit-Union/Job/Vice-President,-Information-Security/-in-Marlborough,MA?jid=b96e473068b5bd3e",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23521",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "pay_range": 0,
+        "job_location": 0,
+        "work_mode": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-tech-fcu"
+      }
+    },
+    {
+      "id": "undated-first-technology-federal-credit-union-vp-digital-product-online-mobile-banking",
+      "fields": {
+        "posted": null,
+        "organization": "First Technology Federal Credit Union",
+        "title": "VP, Digital Product, Online/Mobile Banking",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$220K-$260K",
+        "work_mode": null,
+        "job_location": "Hillsboro, OR, Rocklin, CA or Marlborough, MA",
+        "job_url": "https://www.ziprecruiter.com/c/First-Tech-Federal-Credit-Union/Job/VP-of-Digital-Product,-Online-Mobile-Banking/-in-Hillsboro,OR?jid=2a82365b0a7cfe21",
+        "size_band": "$5B+",
+        "city": "San Jose",
+        "state": "CA",
+        "org_assets": 27492.4,
+        "org_members": 1888218,
+        "assets_as_of": "Q3 2026",
+        "notes": "First Tech's own careers site blocks automated reading; seen on job sites."
+      },
+      "sources": [
+        {
+          "label": "ZipRecruiter listing",
+          "url": "https://www.ziprecruiter.com/c/First-Tech-Federal-Credit-Union/Job/VP-of-Digital-Product,-Online-Mobile-Banking/-in-Hillsboro,OR?jid=2a82365b0a7cfe21",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23521",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "job_url": 0,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "pay_range": 0,
+        "job_location": 0,
+        "notes": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "organization": "first-tech-fcu"
       }
     }
   ]

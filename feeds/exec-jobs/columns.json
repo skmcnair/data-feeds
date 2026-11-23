@@ -42,6 +42,7 @@
         "Commercial",
         "Operations",
         "Technology",
+        "Product",
         "Risk & Compliance",
         "Marketing",
         "Member Experience",
@@ -91,6 +92,11 @@
         "Hybrid",
         "Remote"
       ]
+    },
+    {
+      "name": "job_location",
+      "label": "Job location",
+      "kind": "text"
     },
     {
       "name": "job_url",
