@@ -5003,6 +5003,1008 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "bank-of-america": {
+      "name": "Bank of America",
+      "added": "2026-11-23",
+      "short_name": "Bank of America",
+      "kind": "bank",
+      "website": "https://www.bankofamerica.com",
+      "state": "NC",
+      "fdic_cert": "3510"
+    },
+    "essex-bank": {
+      "name": "Essex Bank",
+      "added": "2026-11-23",
+      "short_name": "Essex Bank",
+      "kind": "bank",
+      "website": "https://www.essex.bank",
+      "state": "CT",
+      "fdic_cert": "17262"
+    },
+    "keybank": {
+      "name": "KeyBank",
+      "added": "2026-11-23",
+      "short_name": "KeyBank",
+      "kind": "bank",
+      "website": "https://www.key.com",
+      "state": "OH",
+      "fdic_cert": "17534"
+    },
+    "liberty-bank": {
+      "name": "Liberty Bank",
+      "added": "2026-11-23",
+      "short_name": "Liberty Bank",
+      "kind": "bank",
+      "website": "https://www.liberty-bank.com",
+      "state": "CT",
+      "fdic_cert": "17943",
+      "logo": {
+        "file": "liberty-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.liberty-bank.com/images/default-source/logos/liberty-bank-header-logo.png?sfvrsn=212bc8e3_1",
+        "fingerprint": "68004a59c0005a595a5b5a4a5a4a4b2a04200a882a88a9600000b44b9eca91aa",
+        "aspect": 1.724,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "m-and-t-bank": {
+      "name": "M&T Bank",
+      "added": "2026-11-23",
+      "short_name": "M&T Bank",
+      "kind": "bank",
+      "website": "https://www.mtb.com",
+      "state": "NY",
+      "fdic_cert": "588"
+    },
+    "citizens": {
+      "name": "Citizens Bank",
+      "added": "2026-11-23",
+      "short_name": "Citizens",
+      "kind": "bank",
+      "website": "https://www.citizensbank.com",
+      "state": "RI",
+      "fdic_cert": "57957"
+    },
+    "dime-bank": {
+      "name": "Dime Bank",
+      "added": "2026-11-23",
+      "short_name": "Dime Bank",
+      "kind": "bank",
+      "website": "https://www.dime-bank.com",
+      "state": "CT",
+      "fdic_cert": "18200"
+    },
+    "beacon-bank": {
+      "name": "Beacon Bank & Trust",
+      "added": "2026-11-23",
+      "short_name": "Beacon Bank",
+      "kind": "bank",
+      "website": "https://www.beaconbank.com",
+      "state": "MA",
+      "fdic_cert": "17798"
+    },
+    "northwest-community-bank": {
+      "name": "Northwest Community Bank",
+      "added": "2026-11-23",
+      "short_name": "Northwest Community Bank",
+      "kind": "bank",
+      "website": "https://nwcommunitybank.com",
+      "state": "CT",
+      "fdic_cert": "18229",
+      "logo": {
+        "file": "northwest-community-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://nwcommunitybank.com/wp-content/uploads/2025/02/northwest-favicon.png",
+        "fingerprint": "9e0231e1e710dd8c9264a3322332233b233b2333a33a98e6ce0cf7197872bf84",
+        "aspect": 0.986,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "td-bank": {
+      "name": "TD Bank",
+      "added": "2026-11-23",
+      "short_name": "TD Bank",
+      "kind": "bank",
+      "website": "https://www.td.com/us/en/personal-banking",
+      "state": "DE",
+      "fdic_cert": "18409"
+    },
+    "stafford-savings": {
+      "name": "Stafford Savings Bank",
+      "added": "2026-11-23",
+      "short_name": "Stafford Savings",
+      "kind": "bank",
+      "website": "https://www.staffordsavingsbank.com",
+      "state": "CT",
+      "fdic_cert": "18227",
+      "logo": {
+        "file": "stafford-savings-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.staffordsavingsbank.com/dA/8e46468990ee4f223dda0b6d76f09611/logo/",
+        "fingerprint": "912080009720cb20db601ac05ca08ca4cb138b53d95a499b99d8c0c0884a9000",
+        "aspect": 2.949,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "jewett-city-savings": {
+      "name": "Jewett City Savings Bank",
+      "added": "2026-11-23",
+      "short_name": "Jewett City Savings",
+      "kind": "bank",
+      "website": "https://www.jcsbank.com",
+      "state": "CT",
+      "fdic_cert": "18237",
+      "logo": {
+        "file": "jewett-city-savings-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.jcsbank.com/wp-content/uploads/2022/10/Shield-1.png",
+        "fingerprint": "c03ce038dc04d01cd060d182d606d81cc07cc3e48f143c44f304c9686e898782",
+        "aspect": 0.835,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "chelsea-groton": {
+      "name": "Chelsea Groton Bank",
+      "added": "2026-11-23",
+      "short_name": "Chelsea Groton",
+      "kind": "bank",
+      "website": "https://chelseagroton.com",
+      "state": "CT",
+      "fdic_cert": "18238"
+    },
+    "centreville-bank": {
+      "name": "Centreville Bank",
+      "added": "2026-11-23",
+      "short_name": "Centreville Bank",
+      "kind": "bank",
+      "website": "https://www.centrevillebank.com",
+      "state": "RI",
+      "fdic_cert": "17764"
+    },
+    "santander": {
+      "name": "Santander Bank",
+      "added": "2026-11-23",
+      "short_name": "Santander",
+      "kind": "bank",
+      "website": "https://www.santanderbank.com",
+      "state": "DE",
+      "fdic_cert": "29950"
+    },
+    "wells-fargo": {
+      "name": "Wells Fargo",
+      "added": "2026-11-23",
+      "short_name": "Wells Fargo",
+      "kind": "bank",
+      "website": "https://www.wellsfargo.com",
+      "state": "SD",
+      "fdic_cert": "3511"
+    },
+    "trunorth-bank": {
+      "name": "TruNorth Bank",
+      "added": "2026-11-23",
+      "short_name": "TruNorth Bank",
+      "kind": "bank",
+      "website": "https://trunorthbank.com",
+      "state": "MA",
+      "fdic_cert": "90188",
+      "logo": {
+        "file": "trunorth-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://trunorthbank.com/wp-content/themes/trunorthbank/images/logo-trunorthbank.png",
+        "fingerprint": "02800280018005880168014803900580479331a231a6d55cb0eabad2e8e26daa",
+        "aspect": 3.472,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "peoplesbank": {
+      "name": "PeoplesBank",
+      "added": "2026-11-23",
+      "short_name": "PeoplesBank",
+      "kind": "bank",
+      "website": "https://www.bankatpeoples.com",
+      "state": "MA",
+      "fdic_cert": "90213"
+    },
+    "torrington-savings": {
+      "name": "The Torrington Savings Bank",
+      "added": "2026-11-23",
+      "short_name": "Torrington Savings",
+      "kind": "bank",
+      "website": "https://www.torringtonsavings.bank",
+      "state": "CT",
+      "fdic_cert": "16636",
+      "logo": {
+        "file": "torrington-savings-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.torringtonsavings.bank/wp-content/themes/tsb2022/images/logo.svg",
+        "fingerprint": "e000e200d248a958a994a934892c8934885988d9a8498966894de36de220e0a4",
+        "aspect": 4.033,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "windsor-federal": {
+      "name": "Windsor Federal Bank",
+      "added": "2026-11-23",
+      "short_name": "Windsor Federal",
+      "kind": "bank",
+      "website": "https://windsorfederal.com",
+      "state": "CT",
+      "fdic_cert": "29632",
+      "logo": {
+        "file": "windsor-federal-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://windsorfederal.com/wp-content/uploads/2024/09/WFB-logo-horz-RGB.png",
+        "fingerprint": "65342d342c342cad2da62d562c52ec5acc4acd6cdd34d000dc9acd1ccdd8ce4a",
+        "aspect": 4.883,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "washington-trust": {
+      "name": "The Washington Trust Company",
+      "added": "2026-11-23",
+      "short_name": "Washington Trust",
+      "kind": "bank",
+      "website": "https://www.washtrust.com",
+      "state": "RI",
+      "fdic_cert": "23623",
+      "logo": {
+        "file": "washington-trust-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.washtrust.com/images/logo-2026.svg",
+        "fingerprint": "9000948880002c9b6ec9684a5d081d98000090989022918d019a01aa019a00da",
+        "aspect": 5.089,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ascend-bank": {
+      "name": "Ascend Bank",
+      "added": "2026-11-23",
+      "short_name": "Ascend Bank",
+      "kind": "bank",
+      "website": "https://ascend.bank",
+      "state": "CT",
+      "fdic_cert": "18194",
+      "logo": {
+        "file": "ascend-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://ascend.bank/wp-content/uploads/2025/06/ascend-logo.svg",
+        "fingerprint": "80009052101a12d29ed2b5d2b54019a915aab56bb925aab78ab18000a8b0a000",
+        "aspect": 6.269,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "union-savings-bank": {
+      "name": "Union Savings Bank",
+      "added": "2026-11-23",
+      "short_name": "Union Savings Bank",
+      "kind": "bank",
+      "website": "https://www.unionsavings.com",
+      "state": "CT",
+      "fdic_cert": "18190"
+    },
+    "thomaston-savings": {
+      "name": "Thomaston Savings Bank",
+      "added": "2026-11-23",
+      "short_name": "Thomaston Savings",
+      "kind": "bank",
+      "website": "https://www.thomastonsavingsbank.com",
+      "state": "CT",
+      "fdic_cert": "18258"
+    },
+    "westfield-bank": {
+      "name": "Westfield Bank",
+      "added": "2026-11-23",
+      "short_name": "Westfield Bank",
+      "kind": "bank",
+      "website": "https://www.westfieldbank.com",
+      "state": "MA",
+      "fdic_cert": "90300"
+    },
+    "ion-bank": {
+      "name": "Ion Bank",
+      "added": "2026-11-23",
+      "short_name": "Ion Bank",
+      "kind": "bank",
+      "website": "https://ionbank.com",
+      "state": "CT",
+      "fdic_cert": "18198",
+      "logo": {
+        "file": "ion-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://ionbank.com/wp-content/uploads/2021/03/IonBankLogo.png",
+        "fingerprint": "000000000c0000004c804c004ca5baaabaaa32aa32aa326ab2dc32954a154a00",
+        "aspect": 3.721,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "chase": {
+      "name": "Chase",
+      "added": "2026-11-23",
+      "short_name": "Chase",
+      "kind": "bank",
+      "website": "https://www.chase.com",
+      "state": "OH",
+      "fdic_cert": "628"
+    },
+    "nbt-bank": {
+      "name": "NBT Bank",
+      "added": "2026-11-23",
+      "short_name": "NBT Bank",
+      "kind": "bank",
+      "website": "https://www.nbtbank.com",
+      "state": "NY",
+      "fdic_cert": "7230"
+    },
+    "banknewport": {
+      "name": "BankNewport",
+      "added": "2026-11-23",
+      "short_name": "BankNewport",
+      "kind": "bank",
+      "website": "https://www.banknewport.com",
+      "state": "RI",
+      "fdic_cert": "18129",
+      "logo": {
+        "file": "banknewport-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.banknewport.com/wp-content/uploads/2026/02/banknewport-logo-norule-color.svg",
+        "fingerprint": "8000800080008000010000002300231527572daa24b254a616a662dd89448020",
+        "aspect": 4.388,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "franklin-trust-fcu": {
+      "name": "Franklin Trust Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Franklin Trust FCU",
+      "kind": "credit_union",
+      "charter": "12",
+      "website": "https://www.franklintrust.org",
+      "state": "CT",
+      "logo": {
+        "file": "franklin-trust-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://assets.franklintrust.org/img/www/main/logos/franklin-trust-federal-credit-union/schema_1794768602.png",
+        "fingerprint": "155017101f0016902d402ec017101f001710012100001d619939c8b98242f312",
+        "aspect": 1.815,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "comtrust-fcu": {
+      "name": "Comtrust Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Comtrust FCU",
+      "kind": "credit_union",
+      "charter": "606",
+      "website": "https://www.comtrustfcu.com",
+      "state": "TN"
+    },
+    "ellafi-fcu": {
+      "name": "Ellafi Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Ellafi FCU",
+      "kind": "credit_union",
+      "charter": "854",
+      "website": "https://www.ellafifcu.org",
+      "state": "CT",
+      "logo": {
+        "file": "ellafi-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ellafifcu.org/images/logo-ellafi.svg",
+        "fingerprint": "b6acb6aa568a360a96d956ea56ab56ab566b366b376b96ab96ab20009cd80e36",
+        "aspect": 2.35,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "tobacco-valley-teachers-fcu": {
+      "name": "Tobacco Valley Teachers Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Tobacco Valley Teachers FCU",
+      "kind": "credit_union",
+      "charter": "1077",
+      "website": "https://www.tvtfcu.org",
+      "state": "CT",
+      "logo": {
+        "file": "tobacco-valley-teachers-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.tvtfcu.org/files/tvtfcu20/1/image/TVTFCU-LOGO-hrizontal-for-website-copy.jpg",
+        "fingerprint": "4000c400c000c200d205904890eab66cb235b0b0b66ca66cc000c208b000e000",
+        "aspect": 2.861,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "waypoint-fcu": {
+      "name": "Waypoint Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Waypoint FCU",
+      "kind": "credit_union",
+      "charter": "1148",
+      "website": "https://waypointcu.org",
+      "state": "CT",
+      "aliases": [
+        "CorePlus Federal Credit Union"
+      ],
+      "logo": {
+        "file": "waypoint-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://waypointcredit.wpenginepowered.com/wp-content/uploads/2026/08/Waypoint-Logo.svg",
+        "fingerprint": "2001320c320532233272a254b21192a190409240d184d654d74bd78dd78cd6d2",
+        "aspect": 4.482,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "enfield-community-fcu": {
+      "name": "Enfield Community Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Enfield Community FCU",
+      "kind": "credit_union",
+      "charter": "1729",
+      "website": "https://www.enfieldcommunityfcu.org",
+      "state": "CT"
+    },
+    "ct-labor-dept-fcu": {
+      "name": "Connecticut Labor Department Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "CT Labor Dept FCU",
+      "kind": "credit_union",
+      "charter": "3544",
+      "website": "https://www.ctlaborfcu.com",
+      "state": "CT"
+    },
+    "ct-postal-fcu": {
+      "name": "Connecticut Postal Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "CT Postal FCU",
+      "kind": "credit_union",
+      "charter": "3683",
+      "state": "CT"
+    },
+    "riverbank-fcu": {
+      "name": "Riverbank Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Riverbank FCU",
+      "kind": "credit_union",
+      "charter": "3757",
+      "website": "https://www.riverbankfcu.com",
+      "state": "CT",
+      "logo": {
+        "file": "riverbank-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.riverbankfcu.com/S3Assets/WLFCU/images/logo-site-new.png",
+        "fingerprint": "c8228000aea2cc23cca2cce4cd9bad3b65b3449bc00064c82ed9ae59a0008000",
+        "aspect": 3.883,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ct-firefighters-fcu": {
+      "name": "Connecticut Firefighters Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "CT Firefighters FCU",
+      "kind": "credit_union",
+      "charter": "6498",
+      "website": "https://www.ctffcu.org",
+      "state": "CT",
+      "logo": {
+        "file": "ct-firefighters-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ctffcu.org/templates/hffcu_2022/images/CTFFCU_WebsiteLogo.png",
+        "fingerprint": "b2159892792a2a6d3bcd1996349934890000040022a6436a5349230d5b4d8a9a",
+        "aspect": 5.4,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "police-cu-of-ct": {
+      "name": "Police Credit Union of Connecticut",
+      "added": "2026-11-23",
+      "short_name": "Police CU of CT",
+      "kind": "credit_union",
+      "charter": "6628",
+      "website": "https://pcuct.org",
+      "state": "CT",
+      "logo": {
+        "file": "police-cu-of-ct-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/6a77626525665a79d2338c8b/623a9938-e84d-4625-9661-0efd97289963/police-credit-union-ct-logo.png?format=1500w",
+        "fingerprint": "76d095549536b4d6c32ccd4cc140e1608e1c871ea3329236c698f6b03c01cf04",
+        "aspect": 0.861,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ubi-fcu": {
+      "name": "United Business & Industry Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "UBI FCU",
+      "kind": "credit_union",
+      "charter": "7244",
+      "state": "CT"
+    },
+    "selfreliance-fcu": {
+      "name": "Selfreliance Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Selfreliance FCU",
+      "kind": "credit_union",
+      "charter": "7346",
+      "website": "https://www.selfreliance.com",
+      "state": "IL"
+    },
+    "360-fcu": {
+      "name": "360 Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "360 FCU",
+      "kind": "credit_union",
+      "charter": "7723",
+      "website": "https://www.360fcu.org",
+      "state": "CT"
+    },
+    "l-m-hospital-employees-fcu": {
+      "name": "Lawrence Memorial Hospital Employees Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "L+M Hospital Employees FCU",
+      "kind": "credit_union",
+      "charter": "13305",
+      "website": "https://www.lmhospcu.com",
+      "state": "CT",
+      "logo": {
+        "file": "l-m-hospital-employees-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.lmhospcu.com/S3Assets/LawrenceMemorial/images/logo-site.png",
+        "fingerprint": "a56aa55aa61aae1aa55ab56c354cf264d268d240c864c6588482900080009000",
+        "aspect": 1.894,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "manchester-municipal-fcu": {
+      "name": "Manchester Municipal Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Manchester Municipal FCU",
+      "kind": "credit_union",
+      "charter": "13602",
+      "website": "https://www.mmfcu.net",
+      "state": "CT"
+    },
+    "hartford-fcu": {
+      "name": "Hartford Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Hartford FCU",
+      "kind": "credit_union",
+      "charter": "14388",
+      "website": "https://www.hartfordfcu.com",
+      "state": "CT",
+      "logo": {
+        "file": "hartford-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.hartfordfcu.com/S3Assets/hartford/images/logo-site.png",
+        "fingerprint": "3d300f007b8070e062397c9175a86da8766875206c886cd8a0820300454cc584",
+        "aspect": 2.225,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "abe-fcu": {
+      "name": "American Broadcast Employees Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "ABE FCU",
+      "kind": "credit_union",
+      "charter": "18273",
+      "website": "https://www.abefcu.org",
+      "state": "NY",
+      "logo": {
+        "file": "abe-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.abefcu.org/assets/img/american-broadcast-employees-fcu-logo.svg",
+        "fingerprint": "6c00d500d50096008c00d600b600ad00f50056000c000c005200550005002d00",
+        "aspect": 3.281,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "asa-fcu": {
+      "name": "ASA Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "ASA FCU",
+      "kind": "credit_union",
+      "charter": "21190",
+      "website": "https://asafcu.com",
+      "state": "CT"
+    },
+    "polam-fcu": {
+      "name": "Polam Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Polam FCU",
+      "kind": "credit_union",
+      "charter": "21502",
+      "website": "https://polamfcu.com",
+      "state": "CA"
+    },
+    "psfcu": {
+      "name": "Polish & Slavic Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "PSFCU",
+      "kind": "credit_union",
+      "charter": "22592",
+      "website": "https://www.psfcu.com",
+      "state": "NY",
+      "logo": {
+        "file": "psfcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.psfcu.com/templates/polish_slavic_2022/images/logo.png",
+        "fingerprint": "32a99125d935913a9529d5ad56954e4b4acd48cc44cc46e54a2d4d2a2692d21a",
+        "aspect": 2.546,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "self-help-fcu": {
+      "name": "Self-Help Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Self-Help FCU",
+      "kind": "credit_union",
+      "charter": "24802",
+      "website": "https://www.self-helpfcu.org",
+      "state": "NC"
+    },
+    "ct-state-police-cu": {
+      "name": "Connecticut State Police Credit Union",
+      "added": "2026-11-23",
+      "short_name": "CT State Police CU",
+      "kind": "credit_union",
+      "charter": "60048",
+      "website": "https://www.cspcu.org",
+      "state": "CT"
+    },
+    "community-healthcare-cu": {
+      "name": "Community Healthcare Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Community Healthcare CU",
+      "kind": "credit_union",
+      "charter": "60247",
+      "website": "https://www.chcu.org",
+      "state": "CT",
+      "logo": {
+        "file": "community-healthcare-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.chcu.org/wp-content/themes/chcu/images/chcu-logo.png",
+        "fingerprint": "2c002c901c903594bb647a607a617b603392d4e2e8622a644a30f950f99058a8",
+        "aspect": 2.071,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "dutch-point-cu": {
+      "name": "Dutch Point Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Dutch Point CU",
+      "kind": "credit_union",
+      "charter": "60457",
+      "website": "https://www.dutchpoint.org",
+      "state": "CT"
+    },
+    "achieve-financial-cu": {
+      "name": "Achieve Financial Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Achieve Financial CU",
+      "kind": "credit_union",
+      "charter": "61256",
+      "website": "https://www.achievefinancialcu.com",
+      "state": "CT",
+      "logo": {
+        "file": "achieve-financial-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.achievefinancialcu.com/S3Assets/Achieve/images/logo-site.png?v=1",
+        "fingerprint": "6422e088c623e463a699bd313d1b341ae00464526552c51be612c00008101000",
+        "aspect": 4.317,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "kief-cu": {
+      "name": "Kief Protective Mutual Benefit Association Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Kief CU",
+      "kind": "credit_union",
+      "charter": "61265",
+      "state": "CT"
+    },
+    "navigant-cu": {
+      "name": "Navigant Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Navigant CU",
+      "kind": "credit_union",
+      "charter": "62882",
+      "website": "https://navigantcu.org",
+      "state": "RI",
+      "logo": {
+        "file": "navigant-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://navigantcu.org/wp-content/uploads/2023/06/main-nav-logo.png",
+        "fingerprint": "03000b4003001f005f004207400332adb25e9b52b1b2c93a49a265837b5c71a4",
+        "aspect": 2.82,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "cse-cu": {
+      "name": "Connecticut State Employees Credit Union",
+      "added": "2026-11-23",
+      "short_name": "CSE CU",
+      "kind": "credit_union",
+      "charter": "65728",
+      "website": "https://www.csecreditunion.com",
+      "state": "CT",
+      "logo": {
+        "file": "cse-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.csecreditunion.com/S3Assets/CSE/images/logo-site.png",
+        "fingerprint": "2ad729b35568546c756855b84a310a6a1b2a336a335a4da0b255dae5c8a352d5",
+        "aspect": 2.311,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "mdc-employees-cu": {
+      "name": "Metropolitan District Employees Credit Union",
+      "added": "2026-11-23",
+      "short_name": "MDC Employees CU",
+      "kind": "credit_union",
+      "charter": "65817",
+      "website": "http://www.mdecu.org",
+      "state": "CT"
+    },
+    "peoples-cu": {
+      "name": "The Peoples Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Peoples CU",
+      "kind": "credit_union",
+      "charter": "65861",
+      "website": "https://www.peoplescu.com",
+      "state": "RI",
+      "logo": {
+        "file": "peoples-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.peoplescu.com/wp-content/uploads/2020/10/PeoplesCU_Logo.svg",
+        "fingerprint": "d952cc12eeb66ead4d53ad52ae5c22d123530b52caadaae5ac4e8c4b5d69ba64",
+        "aspect": 3.336,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ocean-state-cu": {
+      "name": "Ocean State Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Ocean State CU",
+      "kind": "credit_union",
+      "charter": "66595",
+      "website": "https://www.oceanstatecu.org",
+      "state": "RI",
+      "logo": {
+        "file": "ocean-state-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.oceanstatecu.org/wp-content/themes/ncr-child-theme/images/img-logo.png",
+        "fingerprint": "2360c8c0c2502c40284a226021a231b6273526346a254960800005a683ad03ac",
+        "aspect": 3.212,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "rhode-island-cu": {
+      "name": "Rhode Island Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Rhode Island CU",
+      "kind": "credit_union",
+      "charter": "67269",
+      "website": "https://ricreditunion.org",
+      "state": "RI",
+      "logo": {
+        "file": "rhode-island-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://ricreditunion.org/wp-content/uploads/logo-smaller-tag-300x224-1.png",
+        "fingerprint": "a43484342d342d342d346934783474342a342d346c942498d9c4412a91b88924",
+        "aspect": 1.227,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "westerly-community-cu": {
+      "name": "Westerly Community Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Westerly Community CU",
+      "kind": "credit_union",
+      "charter": "67270",
+      "website": "https://www.westerlyccu.com",
+      "state": "RI",
+      "logo": {
+        "file": "westerly-community-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.westerlyccu.com/Content/Images/logo.png",
+        "fingerprint": "613063106d716a996ba9ac8800187b3474a85489acc9632ac492cc84b0ecd8b8",
+        "aspect": 2.396,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "coastal1-cu": {
+      "name": "Coastal1 Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Coastal1 CU",
+      "kind": "credit_union",
+      "charter": "67278",
+      "website": "https://www.coastal1.org",
+      "state": "RI"
+    },
+    "alero-financial": {
+      "name": "ALERO Financial Credit Union",
+      "added": "2026-11-23",
+      "short_name": "ALERO Financial",
+      "kind": "credit_union",
+      "charter": "68215",
+      "website": "https://www.alerofinancial.org",
+      "state": "IL"
+    },
+    "finex-cu": {
+      "name": "Finex Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Finex CU",
+      "kind": "credit_union",
+      "charter": "68662",
+      "website": "https://www.finexcu.org",
+      "state": "CT"
+    },
+    "afn-cu": {
+      "name": "America's First Network Credit Union",
+      "added": "2026-11-23",
+      "short_name": "AFN CU",
+      "kind": "credit_union",
+      "charter": "68680",
+      "website": "https://www.afncu.com",
+      "state": "CT"
+    },
+    "webster-bank": {
+      "name": "Webster Bank",
+      "added": "2026-11-23",
+      "short_name": "Webster Bank",
+      "kind": "bank",
+      "website": "https://www.websterbank.com",
+      "state": "DE",
+      "fdic_cert": "29950"
     }
   }
 }

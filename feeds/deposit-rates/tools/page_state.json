@@ -1,0 +1,166 @@
+{
+  "https://ascend.bank/personal/bank/deposit-rates/": {
+    "fingerprint": "94b33c879c057d0a",
+    "reviewed": "2026-11-23"
+  },
+  "https://charteroak.org/personal-banking/cd-share-certificates/": {
+    "fingerprint": "fa22bd2f38f4b575",
+    "reviewed": "2026-11-23"
+  },
+  "https://charteroak.org/personal-banking/money-markets/": {
+    "fingerprint": "ea253792dc6fcc58",
+    "reviewed": "2026-11-23"
+  },
+  "https://charteroak.org/personal-banking/savings-accounts/": {
+    "fingerprint": "243b8fb07fbfbbcf",
+    "reviewed": "2026-11-23"
+  },
+  "https://ionbank.com/rates/deposit-rates/": {
+    "fingerprint": "fcd08b31ee681849",
+    "reviewed": "2026-11-23"
+  },
+  "https://navigantcu.org/personal/rates/": {
+    "fingerprint": "e0e4aea808f2fc84",
+    "reviewed": "2026-11-23"
+  },
+  "https://nwcommunitybank.com/cd-rates/": {
+    "fingerprint": "22429f2baa4cd161",
+    "reviewed": "2026-11-23"
+  },
+  "https://nwcommunitybank.com/rates-cd/": {
+    "fingerprint": "385184e42e024da1",
+    "reviewed": "2026-11-23"
+  },
+  "https://nwcommunitybank.com/rates-deposit/": {
+    "fingerprint": "90ddc6a9cc1dffa3",
+    "reviewed": "2026-11-23"
+  },
+  "https://pcuct.org/share-rates": {
+    "fingerprint": "32dab71290396f4f",
+    "reviewed": "2026-11-23"
+  },
+  "https://ricreditunion.org/rates": {
+    "fingerprint": "a4c5d8123b59050c",
+    "reviewed": "2026-11-23"
+  },
+  "https://trunorthbank.com/rates/": {
+    "fingerprint": "853bb4d4f5d7fcf0",
+    "reviewed": "2026-11-23"
+  },
+  "https://waypointcu.org/rates/": {
+    "fingerprint": "a71f4a468302efda",
+    "reviewed": "2026-11-23"
+  },
+  "https://windsorfederal.com/resources/rates/": {
+    "fingerprint": "855da46e9bb6b9db",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.abefcu.org/resources/rates": {
+    "fingerprint": "ea46f758e3b093ef",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.achievefinancialcu.com/Accounts/Deposit-Rates": {
+    "fingerprint": "18fa00db15b3efec",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.banknewport.com/rates": {
+    "fingerprint": "55d9a577cc7f2e5d",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.chcu.org/rates/savings-rates/": {
+    "fingerprint": "50dca4ae43d346e6",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.csecreditunion.com/Rates": {
+    "fingerprint": "05052025a73a3106",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.ctffcu.org/current-rates": {
+    "fingerprint": "ce7450886a6f7ae1",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.ctlaborfcu.com/Rates/Savings-Rates.aspx": {
+    "fingerprint": "154638acf7c16475",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.ellafifcu.org/rates-and-fees/certificate-rates/": {
+    "fingerprint": "42c1d382fbb39b55",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.ellafifcu.org/rates-and-fees/share-rates/": {
+    "fingerprint": "6db6c62908a097d5",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.finexcu.org/rates": {
+    "fingerprint": "f600c9e0e5f37418",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.franklintrust.org/rates/deposits/": {
+    "fingerprint": "0f62792ce6a07759",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.hartfordfcu.com/Accounts/Deposit-Rates.aspx": {
+    "fingerprint": "d6ef0f2f048c1d76",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.jcsbank.com/cd-ira-rates/": {
+    "fingerprint": "3cc2d955aabb4ec5",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.liberty-bank.com/personal/rates": {
+    "fingerprint": "eff1d71878b63f00",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.lmhospcu.com/Accounts/Rates": {
+    "fingerprint": "aabf70b513a26ecd",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.navyfederal.org/rates.html": {
+    "fingerprint": "cfd3ed7785071d83",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.oceanstatecu.org/rates": {
+    "fingerprint": "67699268402c6181",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.peoplescu.com/rates/": {
+    "fingerprint": "538d297348ae7555",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.psfcu.com/about-us/terms-and-conditions/rates": {
+    "fingerprint": "a444746141f41344",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.riverbankfcu.com/Rates/Savings-Rates": {
+    "fingerprint": "2eb6bcbc9e5501bd",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.staffordsavingsbank.com/Rates/Certificates-of-Deposit": {
+    "fingerprint": "002faa2cf78ce608",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.staffordsavingsbank.com/Rates/Savings": {
+    "fingerprint": "b3a820b786803904",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.torringtonsavings.bank/rates/": {
+    "fingerprint": "e9622712a20c0dec",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.tvtfcu.org/accounts/savings-rates": {
+    "fingerprint": "6efece61b3e374fd",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.washtrust.com/personal/deposit-rates": {
+    "fingerprint": "142559d50b5d757b",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.wellsfargo.com/savings-cds/rates/": {
+    "fingerprint": "ebdcbc389f03eb18",
+    "reviewed": "2026-11-23"
+  },
+  "https://www.westerlyccu.com/resources/explore/rates/deposit-rates": {
+    "fingerprint": "4fa80b703b637fe5",
+    "reviewed": "2026-11-23"
+  }
+}

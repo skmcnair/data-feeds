@@ -1,0 +1,219 @@
+title: Local Deposit Rates
+item: rate
+trial: true
+
+scope: |
+  In: published consumer savings, money market and CD (share certificate) rates of every bank and
+  credit union with a retail branch in Windham, New London, Middlesex, Tolland or Hartford County, CT,
+  or Washington County, RI (72 institutions; the list is feeds/deposit-rates/tools/sites.json).
+  Restricted-membership credit unions are in, marked Restricted. Webster Bank and Santander Bank are
+  separate institutions here (one charter, Santander Bank, N.A., two brands with their own rates).
+  Out: business, IRA, HSA, youth, club, holiday and escrow accounts; checking accounts; loan-only,
+  trust-only, administrative and internet-only offices (Atlantic Community Bankers Bank, Wilmington
+  Trust, Bank of England and Paramount Bank loan offices, CT Community Bank's internet office);
+  online-only banks.
+
+instructions: |
+  WHAT A ROW IS. One row per institution + product (Savings, Money market, CD) + offer (Standard,
+  Special) + term. Key fields never change; a different term is a new row.
+  - Standard CD rows: only terms 3, 6, 12, 18, 24, 36, 48 and 60 mo (a 91-day CD is "3 mo"). No row
+    for a term the institution does not offer.
+  - Special rows: any promotional, limited-time, new-money or relationship (checking-required) offer,
+    for any product and term. An odd-term CD listed with regular CDs (e.g. 7, 11, 15, 19 mo) is a
+    Special only when it is marketed as a special/limited-time offer or pays more than every standard
+    term at that institution; otherwise leave it out. If two specials share a product and term, keep
+    the better one and name the other in conditions.
+  - Standard savings and money market rows: the best rate available at each tier without any other
+    relationship or promotion, across the institution's consumer savings (or money market) products;
+    product_name names the product(s), conditions say which product pays which tier.
+  TIERS. apy_1k, apy_10k, apy_25k, apy_100k = the APY the institution prints for a balance or deposit
+  of exactly that amount: the tier that contains the amount (not a blended split-rate). "Not
+  eligible" when the amount is below the minimum to open/earn or above a cap. Copy APY, never the
+  interest/dividend rate, and never compute one. Write APYs like 0.05% (keep 3 decimals if printed).
+  Leave a tier blank when the page gives no rate for it (e.g. "call for jumbo rates").
+  OTHER FIELDS. min_deposit = minimum to open. conditions = everything a member must do or know
+  (checking required, new money, max deposit, bump-up, rate without the relationship). ends = the
+  offer's printed end date. rates_as_of = the effective/"as of" date printed for that product's rates;
+  if none is printed, the date you read it. Keep the institution-level fields (inst_type, membership,
+  local_branches, counties) identical on every row of an institution.
+  ENDING. Set status Ended (update with a note) when a special is gone from the page or its printed
+  end date has passed, and when a standard term is no longer offered. A page that still shows an
+  expired special does not count. Ended rows stay 90 days, then drop out.
+  SOURCES. The institution's own rate page or rate sheet (type primary). Only when its own site shows
+  no rate for a product: DepositAccounts.com, Bankrate.com or BestCashCow.com via WebFetch, type
+  aggregator, with notes naming the aggregator and the date it shows; prefer data under 30 days old.
+  Banks that price by ZIP code: use ZIP 06385 (Waterford, CT), or 02891 (Westerly, RI) for a bank with
+  no CT branch in scope. Never log in, never get around a bot check.
+  BRANCHES. local_branches and counties come from FDIC BankFind locations (service types 11, 12, 23,
+  28, 29) for banks and NCUA's quarterly branch file (MemberServices = 1) for credit unions, mapped to
+  the six counties by town. Webster = Santander Bank, N.A. offices with ACQDATE 08/20/2026; Santander
+  = the rest. counties lists counties by branch count, e.g. "Hartford, Middlesex". When NCUA posts a
+  new quarter (about two months after quarter end), refresh these on every row with a note.
+  MEMBERSHIP. Banks are Open. A credit union is Open when anyone who lives or works in its county
+  (or the state) can join; Restricted for employer, association, heritage, military or similar
+  fields of membership. Correct it when a credit union's own site says otherwise.
+
+  DAILY PROCEDURE (in place of the news steps of docs/REVIEW.md section 3, steps 1-3):
+  1. python3 feeds/deposit-rates/tools/rate_pages.py fetch
+     It reads every "curl" institution's pages and prints CHANGED / NEW / SAME / NO-RATES / FAILED,
+     and WEBFETCH for sites that need WebFetch. Text goes to /tmp/rates/<slug>.txt (rate lines with
+     context) and /tmp/rates/<slug>.full.txt (whole page).
+  2. CHANGED or NEW: read the text and compare EVERY row of that institution (tracked ids start with
+     the date and contain the institution's slug-like name; the worklist's tracked list has them all).
+     Write updates for every changed value with a note "apy_10k 3.75% -> 4.00%", adds for new
+     specials or terms, and Ended updates for specials no longer shown.
+  3. recheck list (worklist.json): group the ids by institution and fully compare each of those
+     institutions the same way, even when its page is SAME. List unchanged ids in rechecked.
+  4. WEBFETCH institutions with no rows yet: load up to 10 per run, most local branches first. WebFetch
+     the pages in sites.json; if no rates show, WebSearch "<name> CD rates" / "<name> savings rates"
+     for its own rate page or rate-sheet PDF and WebFetch that; if the page turns out to be readable
+     with curl, add it to sites.json with method curl. Only then use an aggregator (see SOURCES). If
+     nothing is published anywhere, add no rows, set the site's note to "no published rates found
+     <date>" and say so in the message. WEBFETCH institutions that already have rows are re-read when
+     their ids come up in the recheck list.
+  5. FAILED or NO-RATES: WebFetch the page; if it moved, find the new page and fix sites.json.
+  6. After the dry run is clean, run python3 feeds/deposit-rates/tools/rate_pages.py mark <slug> ...
+     for every curl institution you fully compared today, and commit feeds/deposit-rates/tools
+     (page_state.json, sites.json) together with the change file:
+     git add feeds/deposit-rates/changes feeds/deposit-rates/tools shared
+  Logos: every institution needs one (a board will use this feed); follow REVIEW.md steps 6-7.
+
+date_field: rates_as_of
+key: [institution, product, offer, term]
+
+fields:
+  - name: institution
+    type: org
+    label: Institution
+    required: true
+    help: The consumer brand (Waypoint Federal Credit Union, not CorePlus; Webster Bank and Santander are separate).
+  - name: product
+    type: choice
+    label: Product
+    choices: [Savings, Money market, CD]
+    required: true
+  - name: offer
+    type: choice
+    label: Offer
+    choices: [Standard, Special]
+    required: true
+    help: Special = promotional, limited-time, new-money or relationship offer. See instructions.
+  - name: term
+    type: text
+    label: Term
+    pattern: '(\d{1,3}(-\d{1,3})? mo|\d{1,4} days)'
+    pattern_hint: "must be like 12 mo, 12-24 mo or 91 days; blank for savings and money market"
+    help: CDs only. Standard CDs use 3, 6, 12, 18, 24, 36, 48 or 60 mo.
+  - name: term_months
+    type: int
+    label: Term (months)
+    tracker: false
+    help: Term in months for sorting (low end of a range; days / 30.4 rounded).
+  - name: status
+    type: choice
+    label: Status
+    choices: [Current, Ended]
+    required: true
+  - name: product_name
+    type: text
+    label: Product name
+    help: The institution's own product name(s).
+  - name: apy_1k
+    type: text
+    label: APY $1K
+    pattern: '(\d{1,2}\.\d{2,3}%|Not eligible)'
+    pattern_hint: "must be an APY like 0.05% or Not eligible"
+  - name: apy_10k
+    type: text
+    label: APY $10K
+    scored: true
+    pattern: '(\d{1,2}\.\d{2,3}%|Not eligible)'
+    pattern_hint: "must be an APY like 0.05% or Not eligible"
+  - name: apy_25k
+    type: text
+    label: APY $25K
+    pattern: '(\d{1,2}\.\d{2,3}%|Not eligible)'
+    pattern_hint: "must be an APY like 0.05% or Not eligible"
+  - name: apy_100k
+    type: text
+    label: APY $100K
+    pattern: '(\d{1,2}\.\d{2,3}%|Not eligible)'
+    pattern_hint: "must be an APY like 0.05% or Not eligible"
+  - name: min_deposit
+    type: text
+    label: Min to open
+    pattern: '\$\d{1,3}(,\d{3})*(\.\d\d)?'
+    pattern_hint: "must be a dollar amount like $1,000"
+  - name: conditions
+    type: text
+    label: Conditions
+  - name: ends
+    type: datetext
+    label: Offer ends
+    help: Printed end date of a special, if any.
+  - name: rates_as_of
+    type: date
+    label: Rates as of
+    required: true
+    help: Effective date printed for this product's rates; the date read if none is printed.
+  - name: inst_type
+    type: choice
+    label: Type
+    choices: [Bank, Credit union]
+    required: true
+  - name: membership
+    type: choice
+    label: Membership
+    choices: [Open, Restricted]
+    required: true
+  - name: local_branches
+    type: int
+    label: Local branches
+    help: Branches in the six counties (FDIC or NCUA branch data).
+  - name: counties
+    type: text
+    label: Counties
+    tracker: false
+    pattern: '(Hartford|Tolland|Windham|New London|Middlesex|Washington RI)(, (Hartford|Tolland|Windham|New London|Middlesex|Washington RI))*'
+    pattern_hint: "must list counties from Hartford, Tolland, Windham, New London, Middlesex, Washington RI, most branches first"
+  - name: notes
+    type: text
+    label: Notes
+
+derived:
+  - name: product_label
+    label: Rate
+    cases:
+      - when: {product: CD, offer: Standard}
+        template: "{term} CD"
+      - when: {product: CD, offer: Special}
+        template: "{term} CD special"
+      - when: {offer: Special}
+        template: "{product} special"
+      - template: "{product}"
+
+open_when: {field: status, not_in: [Ended]}
+
+publish:
+  max_age_days: 90
+
+sources: []
+
+review:
+  time: "04:47"
+  lookback_days: 3
+  monday_lookback_days: 30
+  recheck_max: 130
+  searches: []
+
+message:
+  new_line: "{institution_short} - {product_label}: {apy_10k} at $10K ({conditions})"
+  update_line: "{institution_short} {product_label}: <field old -> new>"
+  notes: |
+    Order: new and ended specials first, then standard-rate changes. Within each group put Charter
+    Oak's own rows first, then New London and Windham County institutions, then the rest.
+    When one institution gets more than 5 new rows in a run (a first load), give it one line:
+    "<short name>: N rates added; best CD special <APY> <term>; savings <APY>; money market <APY> at $10K".
+    End with one line listing institutions still waiting for a first load.
+
+confidence: {enabled: true}

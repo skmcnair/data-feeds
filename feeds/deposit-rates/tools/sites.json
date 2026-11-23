@@ -1,0 +1,550 @@
+{
+  "360-fcu": {
+    "method": "webfetch",
+    "name": "360 Federal Credit Union",
+    "note": "No rate link on the homepage; find the rates page",
+    "pages": [
+      "https://www.360fcu.org/"
+    ]
+  },
+  "abe-fcu": {
+    "method": "curl",
+    "name": "American Broadcast Employees Federal Credit Union",
+    "pages": [
+      "https://www.abefcu.org/resources/rates"
+    ]
+  },
+  "achieve-financial-cu": {
+    "method": "curl",
+    "name": "Achieve Financial Credit Union",
+    "pages": [
+      "https://www.achievefinancialcu.com/Accounts/Deposit-Rates"
+    ]
+  },
+  "afn-cu": {
+    "method": "webfetch",
+    "name": "America's First Network Credit Union",
+    "note": "Site returned 503",
+    "pages": [
+      "https://www.afncu.com/"
+    ]
+  },
+  "alero-financial": {
+    "method": "webfetch",
+    "name": "ALERO Financial Credit Union",
+    "note": "Site refused the request (406)",
+    "pages": [
+      "https://www.alerofinancial.org/"
+    ]
+  },
+  "american-eagle": {
+    "method": "webfetch",
+    "name": "American Eagle Financial Credit Union",
+    "note": "Bot check",
+    "pages": [
+      "https://www.americaneagle.org/"
+    ]
+  },
+  "asa-fcu": {
+    "method": "webfetch",
+    "name": "ASA Federal Credit Union",
+    "note": "Rates load by script",
+    "pages": [
+      "https://asafcu.com/share-rates"
+    ]
+  },
+  "ascend-bank": {
+    "method": "curl",
+    "name": "Ascend Bank",
+    "pages": [
+      "https://ascend.bank/personal/bank/deposit-rates/"
+    ]
+  },
+  "bank-of-america": {
+    "method": "webfetch",
+    "name": "Bank of America",
+    "note": "Bot check; rates by ZIP",
+    "pages": [
+      "https://www.bankofamerica.com/deposits/bank-account-interest-rates/?zip=06385"
+    ]
+  },
+  "banknewport": {
+    "method": "curl",
+    "name": "BankNewport",
+    "pages": [
+      "https://www.banknewport.com/rates"
+    ]
+  },
+  "beacon-bank": {
+    "method": "webfetch",
+    "name": "Beacon Bank & Trust",
+    "note": "Bot check",
+    "pages": [
+      "https://www.beaconbank.com/"
+    ]
+  },
+  "centreville-bank": {
+    "method": "webfetch",
+    "name": "Centreville Bank",
+    "note": "Rates load by script",
+    "pages": [
+      "https://www.centrevillebank.com/rates"
+    ]
+  },
+  "charter-oak-fcu": {
+    "method": "curl",
+    "name": "Charter Oak Federal Credit Union",
+    "pages": [
+      "https://charteroak.org/personal-banking/cd-share-certificates/",
+      "https://charteroak.org/personal-banking/money-markets/",
+      "https://charteroak.org/personal-banking/savings-accounts/"
+    ]
+  },
+  "chase": {
+    "method": "webfetch",
+    "name": "Chase",
+    "note": "Rates by ZIP; script page",
+    "pages": [
+      "https://www.chase.com/personal/savings/savings-account/interest-rates",
+      "https://www.chase.com/personal/cd-rates"
+    ]
+  },
+  "chelsea-groton": {
+    "method": "webfetch",
+    "name": "Chelsea Groton Bank",
+    "note": "Rates load by script",
+    "pages": [
+      "https://chelseagroton.com/banking/personal-banking/saving/cds-iras/",
+      "https://chelseagroton.com/banking/personal-banking/saving/savings-money-markets/"
+    ]
+  },
+  "citizens": {
+    "method": "webfetch",
+    "name": "Citizens Bank",
+    "note": "Bot check",
+    "pages": [
+      "https://www.citizensbank.com/rates/"
+    ]
+  },
+  "coastal1-cu": {
+    "method": "webfetch",
+    "name": "Coastal1 Credit Union",
+    "note": "Bot check",
+    "pages": [
+      "https://www.coastal1.org/"
+    ]
+  },
+  "community-healthcare-cu": {
+    "method": "curl",
+    "name": "Community Healthcare Credit Union",
+    "pages": [
+      "https://www.chcu.org/rates/savings-rates/"
+    ]
+  },
+  "comtrust-fcu": {
+    "method": "webfetch",
+    "name": "Comtrust Federal Credit Union",
+    "note": "Bot check",
+    "pages": [
+      "https://www.comtrustfcu.com/"
+    ]
+  },
+  "cse-cu": {
+    "method": "curl",
+    "name": "Connecticut State Employees Credit Union",
+    "pages": [
+      "https://www.csecreditunion.com/Rates"
+    ]
+  },
+  "ct-firefighters-fcu": {
+    "method": "curl",
+    "name": "Connecticut Firefighters Federal Credit Union",
+    "pages": [
+      "https://www.ctffcu.org/current-rates"
+    ]
+  },
+  "ct-labor-dept-fcu": {
+    "method": "curl",
+    "name": "Connecticut Labor Department Federal Credit Union",
+    "pages": [
+      "https://www.ctlaborfcu.com/Rates/Savings-Rates.aspx"
+    ]
+  },
+  "ct-postal-fcu": {
+    "method": "webfetch",
+    "name": "Connecticut Postal Federal Credit Union",
+    "note": "No website on NCUA's record; may not post rates",
+    "pages": []
+  },
+  "ct-state-police-cu": {
+    "method": "webfetch",
+    "name": "Connecticut State Police Credit Union",
+    "note": "Rates load by script",
+    "pages": [
+      "https://www.cspcu.org/Rates/Savings-Rates",
+      "https://www.cspcu.org/Rates/Share-IRA-CDs"
+    ]
+  },
+  "dime-bank": {
+    "method": "webfetch",
+    "name": "Dime Bank",
+    "note": "Bot check",
+    "pages": [
+      "https://www.dime-bank.com/"
+    ]
+  },
+  "dutch-point-cu": {
+    "method": "webfetch",
+    "name": "Dutch Point Credit Union",
+    "note": "Bot check",
+    "pages": [
+      "https://www.dutchpoint.org/"
+    ]
+  },
+  "ellafi-fcu": {
+    "method": "curl",
+    "name": "Ellafi Federal Credit Union",
+    "pages": [
+      "https://www.ellafifcu.org/rates-and-fees/share-rates/",
+      "https://www.ellafifcu.org/rates-and-fees/certificate-rates/"
+    ]
+  },
+  "enfield-community-fcu": {
+    "method": "webfetch",
+    "name": "Enfield Community Federal Credit Union",
+    "note": "Bot check",
+    "pages": [
+      "https://www.enfieldcommunityfcu.org/"
+    ]
+  },
+  "essex-bank": {
+    "method": "webfetch",
+    "name": "Essex Bank",
+    "note": "Rates load by script",
+    "pages": [
+      "https://www.essex.bank/learn/current-rates"
+    ]
+  },
+  "finex-cu": {
+    "method": "curl",
+    "name": "Finex Credit Union",
+    "pages": [
+      "https://www.finexcu.org/rates"
+    ]
+  },
+  "franklin-trust-fcu": {
+    "method": "curl",
+    "name": "Franklin Trust Federal Credit Union",
+    "pages": [
+      "https://www.franklintrust.org/rates/deposits/"
+    ]
+  },
+  "hartford-fcu": {
+    "method": "curl",
+    "name": "Hartford Federal Credit Union",
+    "pages": [
+      "https://www.hartfordfcu.com/Accounts/Deposit-Rates.aspx"
+    ]
+  },
+  "ion-bank": {
+    "method": "curl",
+    "name": "Ion Bank",
+    "pages": [
+      "https://ionbank.com/rates/deposit-rates/"
+    ]
+  },
+  "jewett-city-savings": {
+    "method": "curl",
+    "name": "Jewett City Savings Bank",
+    "note": "CD page is read by curl; savings and money market load by script on current-rates",
+    "pages": [
+      "https://www.jcsbank.com/cd-ira-rates/"
+    ],
+    "webfetch_pages": [
+      "https://www.jcsbank.com/current-rates/"
+    ]
+  },
+  "keybank": {
+    "method": "webfetch",
+    "name": "KeyBank",
+    "note": "Rates by ZIP; script page",
+    "pages": [
+      "https://www.key.com/personal/cd/tiered-cd-rates.html"
+    ]
+  },
+  "kief-cu": {
+    "method": "webfetch",
+    "name": "Kief Protective Mutual Benefit Association Credit Union",
+    "note": "No website on NCUA's record; may not post rates",
+    "pages": []
+  },
+  "l-m-hospital-employees-fcu": {
+    "method": "curl",
+    "name": "Lawrence Memorial Hospital Employees Federal Credit Union",
+    "pages": [
+      "https://www.lmhospcu.com/Accounts/Rates"
+    ]
+  },
+  "liberty-bank": {
+    "method": "curl",
+    "name": "Liberty Bank",
+    "pages": [
+      "https://www.liberty-bank.com/personal/rates"
+    ]
+  },
+  "m-and-t-bank": {
+    "method": "webfetch",
+    "name": "M&T Bank",
+    "note": "Rates by ZIP; script page shows 0.00% placeholders",
+    "pages": [
+      "https://www.mtb.com/personal/savings-and-cds/certificates-of-deposit"
+    ]
+  },
+  "manchester-municipal-fcu": {
+    "method": "webfetch",
+    "name": "Manchester Municipal Federal Credit Union",
+    "note": "Bot check",
+    "pages": [
+      "https://www.mmfcu.net/"
+    ]
+  },
+  "mdc-employees-cu": {
+    "method": "webfetch",
+    "name": "Metropolitan District Employees Credit Union",
+    "note": "Tiny site; may not post rates",
+    "pages": [
+      "http://www.mdecu.org/"
+    ]
+  },
+  "navigant-cu": {
+    "method": "curl",
+    "name": "Navigant Credit Union",
+    "pages": [
+      "https://navigantcu.org/personal/rates/"
+    ]
+  },
+  "navy-federal": {
+    "method": "curl",
+    "name": "Navy Federal Credit Union",
+    "pages": [
+      "https://www.navyfederal.org/rates.html"
+    ]
+  },
+  "nbt-bank": {
+    "method": "webfetch",
+    "name": "NBT Bank",
+    "note": "Bot check",
+    "pages": [
+      "https://www.nbtbank.com/"
+    ]
+  },
+  "northwest-community-bank": {
+    "method": "curl",
+    "name": "Northwest Community Bank",
+    "pages": [
+      "https://nwcommunitybank.com/rates-cd/",
+      "https://nwcommunitybank.com/rates-deposit/",
+      "https://nwcommunitybank.com/cd-rates/"
+    ]
+  },
+  "nutmeg": {
+    "method": "webfetch",
+    "name": "Nutmeg State Financial Credit Union",
+    "note": "No website on NCUA's record; find the official site through search",
+    "pages": []
+  },
+  "ocean-state-cu": {
+    "method": "curl",
+    "name": "Ocean State Credit Union",
+    "pages": [
+      "https://www.oceanstatecu.org/rates"
+    ]
+  },
+  "peoples-cu": {
+    "method": "curl",
+    "name": "The Peoples Credit Union",
+    "pages": [
+      "https://www.peoplescu.com/rates/"
+    ]
+  },
+  "peoplesbank": {
+    "method": "webfetch",
+    "name": "PeoplesBank",
+    "note": "Rates load by script",
+    "pages": [
+      "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+    ]
+  },
+  "polam-fcu": {
+    "method": "webfetch",
+    "name": "Polam Federal Credit Union",
+    "note": "Rates load by script",
+    "pages": [
+      "https://polamfcu.com/rates/"
+    ]
+  },
+  "police-cu-of-ct": {
+    "method": "curl",
+    "name": "Police Credit Union of Connecticut",
+    "pages": [
+      "https://pcuct.org/share-rates"
+    ]
+  },
+  "psfcu": {
+    "method": "curl",
+    "name": "Polish & Slavic Federal Credit Union",
+    "pages": [
+      "https://www.psfcu.com/about-us/terms-and-conditions/rates"
+    ]
+  },
+  "rhode-island-cu": {
+    "method": "curl",
+    "name": "Rhode Island Credit Union",
+    "pages": [
+      "https://ricreditunion.org/rates"
+    ]
+  },
+  "riverbank-fcu": {
+    "method": "curl",
+    "name": "Riverbank Federal Credit Union",
+    "pages": [
+      "https://www.riverbankfcu.com/Rates/Savings-Rates"
+    ]
+  },
+  "santander": {
+    "method": "webfetch",
+    "name": "Santander Bank",
+    "note": "Find the current rates page",
+    "pages": [
+      "https://www.santanderbank.com/personal/savings-cds"
+    ]
+  },
+  "self-help-fcu": {
+    "method": "webfetch",
+    "name": "Self-Help Federal Credit Union",
+    "note": "Bot check",
+    "pages": [
+      "https://www.self-helpfcu.org/"
+    ]
+  },
+  "selfreliance-fcu": {
+    "method": "webfetch",
+    "name": "Selfreliance Federal Credit Union",
+    "note": "Rates load by script",
+    "pages": [
+      "https://www.selfreliance.com/join-about-us/all-rates"
+    ]
+  },
+  "stafford-savings": {
+    "method": "curl",
+    "name": "Stafford Savings Bank",
+    "pages": [
+      "https://www.staffordsavingsbank.com/Rates/Certificates-of-Deposit",
+      "https://www.staffordsavingsbank.com/Rates/Savings"
+    ]
+  },
+  "td-bank": {
+    "method": "webfetch",
+    "name": "TD Bank",
+    "note": "Rates by ZIP; script page",
+    "pages": [
+      "https://www.td.com/us/en/personal-banking/certificates-of-deposit",
+      "https://www.td.com/us/en/personal-banking/savings-accounts"
+    ]
+  },
+  "thomaston-savings": {
+    "method": "webfetch",
+    "name": "Thomaston Savings Bank",
+    "note": "Rates load by script",
+    "pages": [
+      "https://www.thomastonsavingsbank.com/personal/explore/deposit-rates"
+    ]
+  },
+  "tobacco-valley-teachers-fcu": {
+    "method": "curl",
+    "name": "Tobacco Valley Teachers Federal Credit Union",
+    "pages": [
+      "https://www.tvtfcu.org/accounts/savings-rates"
+    ]
+  },
+  "torrington-savings": {
+    "method": "curl",
+    "name": "The Torrington Savings Bank",
+    "pages": [
+      "https://www.torringtonsavings.bank/rates/"
+    ]
+  },
+  "trunorth-bank": {
+    "method": "curl",
+    "name": "TruNorth Bank",
+    "pages": [
+      "https://trunorthbank.com/rates/"
+    ]
+  },
+  "ubi-fcu": {
+    "method": "webfetch",
+    "name": "United Business & Industry Federal Credit Union",
+    "note": "No website on NCUA's record; find it",
+    "pages": []
+  },
+  "union-savings-bank": {
+    "method": "webfetch",
+    "name": "Union Savings Bank",
+    "note": "Find the rates page",
+    "pages": [
+      "https://www.unionsavings.com/"
+    ]
+  },
+  "washington-trust": {
+    "method": "curl",
+    "name": "The Washington Trust Company",
+    "pages": [
+      "https://www.washtrust.com/personal/deposit-rates"
+    ]
+  },
+  "waypoint-fcu": {
+    "method": "curl",
+    "name": "Waypoint Federal Credit Union",
+    "pages": [
+      "https://waypointcu.org/rates/"
+    ]
+  },
+  "webster-bank": {
+    "method": "webfetch",
+    "name": "Webster Bank",
+    "note": "Webster Bank division of Santander Bank, N.A.; find the current rates page",
+    "pages": [
+      "https://www.websterbank.com/personal/rates"
+    ]
+  },
+  "wells-fargo": {
+    "method": "webfetch",
+    "name": "Wells Fargo",
+    "note": "Rates by ZIP; script page",
+    "pages": [
+      "https://www.wellsfargo.com/savings-cds/rates/"
+    ]
+  },
+  "westerly-community-cu": {
+    "method": "curl",
+    "name": "Westerly Community Credit Union",
+    "pages": [
+      "https://www.westerlyccu.com/resources/explore/rates/deposit-rates"
+    ]
+  },
+  "westfield-bank": {
+    "method": "webfetch",
+    "name": "Westfield Bank",
+    "note": "Rates load by script",
+    "pages": [
+      "https://www.westfieldbank.com/personal/deposit-rates"
+    ]
+  },
+  "windsor-federal": {
+    "method": "curl",
+    "name": "Windsor Federal Bank",
+    "pages": [
+      "https://windsorfederal.com/resources/rates/"
+    ]
+  }
+}
