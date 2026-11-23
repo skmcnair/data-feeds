@@ -1,9 +1,27 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-23T07:46:46-05:00",
+  "generated": "2026-11-23T08:38:15-05:00",
   "trial": true,
   "lookback_days": 30,
   "pending_inbox": [
+    {
+      "id": "218d99eaed76",
+      "title": "Research Solutions to Join KnowledgeWorks Global Ltd., a CJK Group Company in All-Cash Acquisition",
+      "url": "https://www.prnewswire.com/news-releases/research-solutions-to-join-knowledgeworks-global-ltd-a-cjk-group-company-in-all-cash-acquisition-302947935.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-23T08:00:00-05:00",
+      "found": "2026-11-23T08:38:05-05:00",
+      "summary": "Stockholders to receive $3.25 per share, a premium of 51.9% to the November 20th, 2026, closing price HENDERSON, Nev., Nov. 23, 2026 /PRNewswire/ -- Research Solutions, Inc. (NASDAQ: RSSS) today announced that it has entered into a definiti"
+    },
+    {
+      "id": "e1cdd35e9bd5",
+      "title": "Landmark CU Completes Acquisition of American National Bank-Fox Cities - Credit Union Daily",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMUlYwSVgxN0FKbHlXREZiRC1WREczMUZEbE5RUWw0bnlPSzhfZFFrRkpOc2poM002VFFuTWdwYnBKa0JUWnEwa1dpek40Mmd0cUJoOVJfQWNhVWVicDRLQ2dR",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-23T04:44:26-05:00",
+      "found": "2026-11-23T08:38:05-05:00",
+      "summary": "Landmark CU Completes Acquisition of American National Bank-Fox Cities Credit Union Daily"
+    },
     {
       "id": "903a813ce35e",
       "title": "Hanscom FCU CEO Says Members Should Make Call on Merger, Not Deposit Insurance Company - Credit Union Daily",
@@ -21,6 +39,15 @@
       "published": "2026-11-23T04:16:00-05:00",
       "found": "2026-11-23T05:27:47-05:00",
       "summary": "The Group is consolidating its position in Vertical AI and strengthening its organization to support the transformation, growth and competitiveness of businesses, public administrations and healthcare organizations, building on more than 30"
+    },
+    {
+      "id": "2de0ab4a7a54",
+      "title": "Beeline to merge with TYTL, eyeing $1T tokenized home equity market - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGxLeXhzaGdZQ1Bzb0tQbjBHeUh6dzlfcFVOWUxaNEE2VHJPY3k2T3VlWkQyXzZtcFdSUXQ2dElKcDVxdXdXdlE0YnpDYW52NjZFcGVKbUc4Zk14bzlRb2RwVTE5d2Y1LWxZMUc4dGplS1lZZUlBcG02b1Q1MXRlLTVXUmUwQ3lidTlJMWpTN1hTaWpYWnRqNk1UbzRQeUli",
+      "source": "Google News - credit union merger",
+      "published": "2026-11-19T13:16:32-05:00",
+      "found": "2026-11-23T08:38:05-05:00",
+      "summary": "Beeline to merge with TYTL, eyeing $1T tokenized home equity market Dealroom"
     }
   ],
   "recheck": [

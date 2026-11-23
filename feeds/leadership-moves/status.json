@@ -2,10 +2,12 @@
   "feed": "leadership-moves",
   "title": "Credit Union Leadership Moves",
   "result": "ok",
-  "last_build": "2026-11-23T07:46:46-05:00",
-  "last_collect": "2026-11-23T05:27:45-05:00",
-  "last_collect_result": "ok",
-  "collect_errors": [],
+  "last_build": "2026-11-23T08:38:15-05:00",
+  "last_collect": "2026-11-23T08:37:44-05:00",
+  "last_collect_result": "partial",
+  "collect_errors": [
+    "CU Circle: https://rss.app/feeds/jXHvxXgW9PzMNEUr.xml: HTTP Error 402: Payment Required"
+  ],
   "last_review": "2026-11-23T00:53:00-05:00",
   "last_review_result": "ok",
   "review_errors": [],
