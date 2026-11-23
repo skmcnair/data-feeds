@@ -39,9 +39,9 @@
   "american-eagle": {
     "method": "webfetch",
     "name": "American Eagle Financial Credit Union",
-    "note": "Bot check",
+    "note": "Refuses curl; WebFetch works",
     "pages": [
-      "https://www.americaneagle.org/"
+      "https://www.americaneagle.org/rates/account-rates"
     ]
   },
   "asa-fcu": {
@@ -76,9 +76,9 @@
   "beacon-bank": {
     "method": "webfetch",
     "name": "Beacon Bank & Trust",
-    "note": "Bot check",
+    "note": "Refuses curl; WebFetch works. Only Beacon One relationship rates found; look for a standard rate page",
     "pages": [
-      "https://www.beaconbank.com/"
+      "https://www.beaconbank.com/personal/beacon-one/savings"
     ]
   },
   "centreville-bank": {
@@ -126,9 +126,9 @@
   "coastal1-cu": {
     "method": "webfetch",
     "name": "Coastal1 Credit Union",
-    "note": "Bot check",
+    "note": "Refuses curl; WebFetch works",
     "pages": [
-      "https://www.coastal1.org/"
+      "https://www.coastal1.org/rates/deposits/"
     ]
   },
   "community-healthcare-cu": {
@@ -184,7 +184,7 @@
   "dime-bank": {
     "method": "webfetch",
     "name": "Dime Bank",
-    "note": "Bot check",
+    "note": "Refuses curl and WebFetch. Aggregators (MonitorBankRates Aug 28, 2026; BestCashCow 2025) are too old to use",
     "pages": [
       "https://www.dime-bank.com/"
     ]
@@ -192,7 +192,7 @@
   "dutch-point-cu": {
     "method": "webfetch",
     "name": "Dutch Point Credit Union",
-    "note": "Bot check",
+    "note": "Refuses curl; WebFetch works but no rate page found yet. Aggregator data is from 2025",
     "pages": [
       "https://www.dutchpoint.org/"
     ]
@@ -260,10 +260,11 @@
   "keybank": {
     "method": "webfetch",
     "name": "KeyBank",
-    "note": "Rates by ZIP; script page",
+    "note": "ZIP box did not take 06385 in the browser; rates page shows Cleveland 44114 by default",
     "pages": [
       "https://www.key.com/personal/cd/tiered-cd-rates.html"
-    ]
+    ],
+    "zip_input": "input[name=q]"
   },
   "kief-cu": {
     "method": "webfetch",
@@ -286,12 +287,13 @@
     ]
   },
   "m-and-t-bank": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "M&T Bank",
-    "note": "Rates by ZIP; script page shows 0.00% placeholders",
+    "note": "Savings and money market pages also price by ZIP; add them",
     "pages": [
       "https://www.mtb.com/personal/savings-and-cds/certificates-of-deposit"
-    ]
+    ],
+    "zip_input": "#ppc-zip"
   },
   "manchester-municipal-fcu": {
     "method": "webfetch",
@@ -510,12 +512,12 @@
     ]
   },
   "wells-fargo": {
-    "method": "webfetch",
+    "method": "browser",
     "name": "Wells Fargo",
-    "note": "Rates by ZIP; script page",
     "pages": [
       "https://www.wellsfargo.com/savings-cds/rates/"
-    ]
+    ],
+    "zip_input": "input[name=zipCode]"
   },
   "westerly-community-cu": {
     "method": "curl",

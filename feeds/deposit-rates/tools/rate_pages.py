@@ -20,7 +20,7 @@ institution:
 Methods in sites.json: "curl" (plain page), "pdf" (a rate-sheet PDF; text via pdftotext,
 image-only pages show as a change whenever the file changes; render them with
 pdftoppm and read the image), "browser" (pages that only show rates after a script
-runs: rendered in headless Chrome; needs `pip install --break-system-packages
+runs: rendered in headless Chrome; "zip_input" names the ZIP box to fill with 06385; needs `pip install --break-system-packages
 playwright` and Chrome at /usr/bin/google-chrome), "webfetch" and "none".
 mark records the fingerprints from the last fetch as reviewed. Run it only after the
 change file covers what the page shows (or for SAME pages, nothing to do).
@@ -83,7 +83,7 @@ def fetch_pdf(url):
 _BROWSER = None
 
 
-def fetch_browser(url):
+def fetch_browser(url, zip_input=None):
     global _BROWSER
     from playwright.sync_api import sync_playwright
     if _BROWSER is None:
@@ -93,6 +93,11 @@ def fetch_browser(url):
     try:
         r = pg.goto(url, wait_until="load", timeout=60000)
         pg.wait_for_timeout(5000)
+        if zip_input:  # banks that price by ZIP: Waterford, CT
+            box = pg.locator(zip_input).first
+            box.fill("06385", timeout=10000)
+            box.press("Enter")
+            pg.wait_for_timeout(7000)
         code = str(r.status) if r else "000"
         rows = pg.evaluate("""() => Array.from(document.querySelectorAll('tr')).map(tr =>
             Array.from(tr.children).map(td => (td.innerText || '').replace(/\\s+/g, ' ').trim()).join(' | '))""")
@@ -172,7 +177,7 @@ def cmd_fetch(slugs):
             if method == "pdf" or url.lower().split("?")[0].endswith(".pdf"):
                 code, lines, pdf_fp = fetch_pdf(url)
             elif method == "browser":
-                code, lines = fetch_browser(url)
+                code, lines = fetch_browser(url, site.get("zip_input"))
             else:
                 code, body = fetch(url)
                 lines = to_lines(body) if code.startswith("2") else []
