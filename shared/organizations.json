@@ -3966,6 +3966,1043 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "seattle-cu": {
+      "name": "Seattle Metropolitan Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Seattle CU",
+      "kind": "credit_union",
+      "charter": "68315",
+      "website": "https://www.seattlecu.com",
+      "state": "WA",
+      "aliases": [
+        "Seattle Credit Union"
+      ],
+      "logo": {
+        "file": "seattle-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.seattlecu.com/files/seattle.jpg",
+        "fingerprint": "01c1b2d0b2a12c8b6cabee8bac9baca5a8968c978c9721978a935a9301e405d2",
+        "aspect": 3.457,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "rocky-mountain-cu-mt": {
+      "name": "Rocky Mountain Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Rocky Mountain CU",
+      "kind": "credit_union",
+      "charter": "97110",
+      "website": "https://rmcu.net",
+      "state": "MT",
+      "logo": {
+        "file": "rocky-mountain-cu-mt-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://rmcu.net/hubfs/RMCU-logo.svg",
+        "fingerprint": "644064c06660656466a462a46422643265a964a2654c314c0ca33d5a2e9b2e1b",
+        "aspect": 2.5,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "sf-fire-cu": {
+      "name": "San Francisco Fire Credit Union",
+      "added": "2026-11-23",
+      "short_name": "SF Fire CU",
+      "kind": "credit_union",
+      "charter": "97069",
+      "website": "https://sffirecu.org",
+      "state": "CA",
+      "logo": {
+        "file": "sf-fire-cu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://sffirecu.org/wp-content/uploads/logo-sffire-white-red-bug.svg",
+        "fingerprint": "00b10168016c014400d200d200520144016c017000b100400024000000000000",
+        "aspect": 2.05,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "spectra-cu": {
+      "name": "Spectra Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Spectra CU",
+      "kind": "credit_union",
+      "charter": "5380",
+      "website": "https://www.spectracu.com",
+      "state": "VA",
+      "aliases": [
+        "Spectra Credit Union"
+      ],
+      "logo": {
+        "file": "spectra-cu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://cdn.prod.website-files.com/6076fda1d539fa48c412b03b/607746d154d5d3206ebd5d25_Spectra_Logo_Color_H_W-01.svg",
+        "fingerprint": "a00080009000d000500040002000200080009000d0005000000020008000a000",
+        "aspect": 4.622,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ccu-florida": {
+      "name": "Community Credit Union of Florida",
+      "added": "2026-11-23",
+      "short_name": "CCU Florida",
+      "kind": "credit_union",
+      "charter": "60816",
+      "website": "https://www.ccuflorida.org",
+      "state": "FL",
+      "logo": {
+        "file": "ccu-florida-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ccuflorida.org/home/diFiles/skins/default/images/logo.png",
+        "fingerprint": "f000c607290694c9293432aad6aaa6ca5926dd28df51398af0608a0f0b0f9260",
+        "aspect": 2.108,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "apple-fcu": {
+      "name": "Apple Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Apple FCU",
+      "kind": "credit_union",
+      "charter": "11307",
+      "website": "https://www.applefcu.org",
+      "state": "VA",
+      "logo": {
+        "file": "apple-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Apple-fcu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "fingerprint": "5a00120050186a00c95a8c99943a364a2d9535952d94284aa4ca84c0dcc2cf27",
+        "aspect": 1.8,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "champions-first-cu": {
+      "name": "Champions First Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Champions First",
+      "kind": "credit_union",
+      "charter": "67874",
+      "website": "https://www.championsfirst.org",
+      "state": "FL",
+      "logo": {
+        "file": "champions-first-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://championsfirst.org/images/logo.svg",
+        "fingerprint": "8000a0008000aa30e010aab5bb249c4c94589456ba55eae4e8a6aaa6806620e6",
+        "aspect": 4.961,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "community-first-cu-fl": {
+      "name": "Community First Credit Union of Florida",
+      "added": "2026-11-23",
+      "short_name": "Community First CU",
+      "kind": "credit_union",
+      "charter": "67290",
+      "website": "https://www.communityfirstfl.org",
+      "state": "FL",
+      "aliases": [
+        "Community First Credit Union"
+      ],
+      "logo": {
+        "file": "community-first-cu-fl-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.communityfirstfl.org/getmedia/addf5aff-0552-4329-a166-593f8ad2d231/logo-header.png?width=198&height=54&ext=.png",
+        "fingerprint": "8d4c456d7363726172714a918c912280e0c6c04af1193d5d4f4a425ab0d432d4",
+        "aspect": 3.667,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "kinetic-cu": {
+      "name": "Kinetic Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Kinetic CU",
+      "kind": "credit_union",
+      "charter": "10866",
+      "website": "https://www.kineticcu.com",
+      "state": "GA",
+      "aliases": [
+        "Kinetic Credit Union"
+      ],
+      "logo": {
+        "file": "kinetic-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.kineticcu.com/sites/default/themes/kineticcu/logo.svg",
+        "fingerprint": "00174047008f424341c75793369329226e642da02e924a920000b2f27ad2bce2",
+        "aspect": 2.653,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "multipli-cu": {
+      "name": "Multipli Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Multipli CU",
+      "kind": "credit_union",
+      "charter": "24955",
+      "website": "https://www.multiplicu.com",
+      "state": "MO",
+      "aliases": [
+        "Multipli Credit Union"
+      ],
+      "logo": {
+        "file": "multipli-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://multiplicu.com/wp-content/uploads/2026/10/cropped-Multipli_Logos_FullColor_Lines_Whiteletters.png",
+        "fingerprint": "2446264626462734c732d532d56c756c756c356828b228b2002020a400a400a4",
+        "aspect": 3.217,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "north-star-ccu": {
+      "name": "North Star Community Credit Union",
+      "added": "2026-11-23",
+      "short_name": "North Star CCU",
+      "kind": "credit_union",
+      "charter": "62563",
+      "website": "https://www.northstarccu.com",
+      "state": "ND",
+      "logo": {
+        "file": "north-star-ccu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.northstarccu.com/templates/northstar/images/logo.png",
+        "fingerprint": "34003400b000b0003000e428c492e0686268632d732e6b2a6b68cb4a8420a800",
+        "aspect": 2.488,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "great-plains-fcu-mo": {
+      "name": "Great Plains Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Great Plains FCU",
+      "kind": "credit_union",
+      "charter": "6853",
+      "website": "https://www.greatplainsfcu.com",
+      "state": "MO",
+      "logo": {
+        "file": "great-plains-fcu-mo-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.greatplainsfcu.com/assets/img/great-plains-logo.svg",
+        "fingerprint": "0001918022526869d965db47134b2b2da4948142491a5ce31ce7344ac2200001",
+        "aspect": 2.894,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "intrepid-cu": {
+      "name": "Intrepid Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Intrepid CU",
+      "kind": "credit_union",
+      "charter": "68495",
+      "website": "https://www.intrepidcu.org",
+      "state": "MT",
+      "logo": {
+        "file": "intrepid-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.intrepidcu.org/custom/intrepidcu/image/logo-color.png",
+        "fingerprint": "043200d04dc81e68f330c51806d69816a944eec4b530b570b94cbd5c7652fc56",
+        "aspect": 2.781,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "fedchoice-fcu": {
+      "name": "FedChoice Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "FedChoice",
+      "kind": "credit_union",
+      "charter": "150",
+      "website": "https://www.fedchoice.org",
+      "state": "MD",
+      "logo": {
+        "file": "fedchoice-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.fedchoice.org/templates/fedchoice/images/logo.png",
+        "fingerprint": "00000000000000000000000000000000000030000400b200700079205c002e40",
+        "aspect": 2.925,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "valley-first-cu-ca": {
+      "name": "Valley First Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Valley First CU",
+      "kind": "credit_union",
+      "charter": "24986",
+      "website": "https://www.valleyfirstcu.org",
+      "state": "CA",
+      "aliases": [
+        "Valley First Credit Union"
+      ],
+      "logo": {
+        "file": "valley-first-cu-ca-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.valleyfirstcu.org/sites/default/themes/valleyfirstcu/logo.svg",
+        "fingerprint": "40005030040004b224a0a4232c2d2ca9ab2aaaaaaa2b292b0080288a00e60066",
+        "aspect": 3.933,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "revity-cu": {
+      "name": "Revity Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Revity",
+      "kind": "credit_union",
+      "charter": "68623",
+      "website": "https://www.revitycu.com",
+      "state": "IL",
+      "logo": {
+        "file": "revity-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.revitycu.com/custom/revitycu/image/logo-2x.png",
+        "fingerprint": "c800c528c000e539ed19c4d3c9514853455353517044761236baa534a000c800",
+        "aspect": 3.366,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "enrichment-fcu": {
+      "name": "Enrichment Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Enrichment FCU",
+      "kind": "credit_union",
+      "charter": "6778",
+      "website": "https://www.enrichmentfcu.org",
+      "state": "TN",
+      "logo": {
+        "file": "enrichment-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.enrichmentfcu.org/assets/img/enrichment-fcu-logo.svg",
+        "fingerprint": "9350935193c1d4d7dc96d96dc56dc56bd9adc8adc01089758ac588449d549d6a",
+        "aspect": 4.644,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "frontwave-cu": {
+      "name": "Frontwave Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Frontwave",
+      "kind": "credit_union",
+      "charter": "68494",
+      "website": "https://www.frontwavecu.com",
+      "state": "CA",
+      "logo": {
+        "file": "frontwave-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://ddjmyers.com/wp-content/uploads/2026/06/FRONTWAVE_Logo_ND_PRIMARY_employee_survey_439x125-002-Solid-black-Font.jpg",
+        "fingerprint": "4001400500014337a3363cccacda6cd072ce40150e415ce55ca5000144850001",
+        "aspect": 3.639,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "capital-cu-wi": {
+      "name": "Capital Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Capital CU",
+      "kind": "credit_union",
+      "charter": "66865",
+      "website": "https://www.capitalcu.com",
+      "state": "WI",
+      "logo": {
+        "file": "capital-cu-wi-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.capitalcu.com",
+        "fingerprint": "c800a000200814004cb14c394b596b5e6bab6aab4aaa5d4e2d4ca092ca9640e4",
+        "aspect": 3.7,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "kh-cu": {
+      "name": "KH Credit Union, Inc.",
+      "added": "2026-11-23",
+      "short_name": "KH Credit Union",
+      "kind": "credit_union",
+      "charter": "97113",
+      "website": "https://www.khcreditunion.com",
+      "state": "OH",
+      "logo": {
+        "file": "kh-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.khcreditunion.com/wp-content/uploads/2022/08/KHCU-Logo.png",
+        "fingerprint": "f326d3267266d666b466d8ea6872724ea64ca64ce64cc64c0000ca58e4e4a8aa",
+        "aspect": 1.992,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "seaboard-fcu": {
+      "name": "Seaboard Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Seaboard FCU",
+      "kind": "credit_union",
+      "charter": "4118",
+      "website": "https://www.seaboardfcu.com",
+      "state": "ME",
+      "logo": {
+        "file": "seaboard-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.seaboardfcu.com/images/layout/logo.png",
+        "fingerprint": "dcadc9ab4d944b794caf4a50692848c34a458965c9aa5a44000014e8175c0784",
+        "aspect": 4.133,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "pioneer-fcu-id": {
+      "name": "Pioneer Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Pioneer FCU",
+      "kind": "credit_union",
+      "charter": "9247",
+      "website": "https://www.pioneerfcu.org",
+      "state": "ID",
+      "logo": {
+        "file": "pioneer-fcu-id-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.pioneerfcu.org/S3Assets/PioneerFCU/images/logo-site.png",
+        "fingerprint": "40004c0050008c446c0064a526a5255a35542945a5b6a5b5a0009c628d678f26",
+        "aspect": 4.051,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "first-choice-cu-fl": {
+      "name": "First Choice Credit Union",
+      "added": "2026-11-23",
+      "short_name": "First Choice CU",
+      "kind": "credit_union",
+      "charter": "67725",
+      "website": "https://www.firstchoicecu.org",
+      "state": "FL",
+      "logo": {
+        "file": "first-choice-cu-fl-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://firstchoicecu.org/wp-content/uploads/2023/12/First-Choice-Logo-2023.png",
+        "fingerprint": "001000500452213004711ab2535251c06ca1d1a863b005ac034406820d000800",
+        "aspect": 1.724,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "first-source-fcu": {
+      "name": "First Source Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "First Source FCU",
+      "kind": "credit_union",
+      "charter": "2658",
+      "website": "https://www.fsource.org",
+      "state": "NY",
+      "logo": {
+        "file": "first-source-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.fsource.org/getmedia/c4c943f7-53df-424f-a169-b40a9ddf49e2/fsource-logo-2019.png.aspx",
+        "fingerprint": "8000800080008000800080000000000080008000800080008000800000000000",
+        "aspect": 3.52,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "levo-cu": {
+      "name": "Levo Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Levo",
+      "kind": "credit_union",
+      "charter": "60",
+      "website": "https://www.levo.org",
+      "state": "SD",
+      "aliases": [
+        "Levo Credit Union"
+      ],
+      "logo": {
+        "file": "levo-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.levo.org/hs-fs/hubfs/levo-logo-blue.jpg?width=129&name=levo-logo-blue.jpg",
+        "fingerprint": "2d2c3d2c392a17aa34b2259231d29adaccdccccc011126a4668278d2acb00000",
+        "aspect": 2.244,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "oswego-county-fcu": {
+      "name": "Oswego County Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Oswego County FCU",
+      "kind": "credit_union",
+      "charter": "21927",
+      "website": "https://www.oswegofcu.org",
+      "state": "NY",
+      "logo": {
+        "file": "oswego-county-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.oswegofcu.org/media/1034/logo-white.png",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 3.419,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "park-community-cu": {
+      "name": "Park Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Park Community CU",
+      "kind": "credit_union",
+      "charter": "24931",
+      "website": "https://www.parkcommunity.com",
+      "state": "KY",
+      "aliases": [
+        "Park Community Credit Union"
+      ],
+      "logo": {
+        "file": "park-community-cu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://parkcommunity.com/wp-content/uploads/2025/02/park-logo-white.svg",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 3.858,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "university-cu-ca": {
+      "name": "University Credit Union",
+      "added": "2026-11-23",
+      "short_name": "UCU",
+      "kind": "credit_union",
+      "charter": "64171",
+      "website": "https://www.ucu.org",
+      "state": "CA",
+      "logo": {
+        "file": "university-cu-ca-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://cdn.ucu.org/university-credit-union-ca/logo/ucu-horz.svg",
+        "fingerprint": "00009b0440004b346b4c626b655374d1c3259b6194000620b65078d87cb0ac90",
+        "aspect": 4.174,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "arapahoe-cu": {
+      "name": "Arapahoe Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Arapahoe CU",
+      "kind": "credit_union",
+      "charter": "64110",
+      "website": "https://www.arapahoecu.org",
+      "state": "CO",
+      "logo": {
+        "file": "arapahoe-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.arapahoecu.org/img/primelogo.png",
+        "fingerprint": "0300030057000c80d040d541d6991ab013289d16cd3ac72c04c0c70003000300",
+        "aspect": 2.041,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "noble-cu": {
+      "name": "Noble Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Noble CU",
+      "kind": "credit_union",
+      "charter": "24552",
+      "website": "https://www.noblecu.com",
+      "state": "CA",
+      "aliases": [
+        "Noble Credit Union"
+      ],
+      "logo": {
+        "file": "noble-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.noblecu.com/wp-content/themes/ncr-child-theme/images/logo.png",
+        "fingerprint": "c000cda3ada3a55aa5622662265a273a27a520002120a40aa659ae19cd16c000",
+        "aspect": 3.672,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "truity-fcu": {
+      "name": "Truity Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Truity",
+      "kind": "credit_union",
+      "charter": "3130",
+      "website": "https://www.truitycu.org",
+      "state": "OK",
+      "aliases": [
+        "Truity Credit Union"
+      ],
+      "logo": {
+        "file": "truity-fcu-v2.png",
+        "version": 2,
+        "style": "color",
+        "source_url": "https://www.truitycu.org/resource/crblob/745672/7fd9a4be9e67c4213a82c59bc2ff3f54/truitylogotagline-svg-data.svg",
+        "fingerprint": "91b9a995ad94ad96ad96b096b496a896aa56ab5610008002ea54f91cf938e9b0",
+        "aspect": 2.941,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [
+          "truity-fcu-v1.png"
+        ],
+        "ignored": []
+      }
+    },
+    "golden-circle-cu": {
+      "name": "Golden Circle Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Golden Circle CU",
+      "kind": "credit_union",
+      "charter": "61239",
+      "website": "https://www.goldencirclecu.com",
+      "state": "OH",
+      "logo": {
+        "file": "golden-circle-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.goldencirclecu.com/images/logo2_1.png",
+        "fingerprint": "90009000800088000000000028002800180049005000931b4132853691339929",
+        "aspect": 4.938,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "americhoice-fcu": {
+      "name": "AmeriChoice Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "AmeriChoice FCU",
+      "kind": "credit_union",
+      "charter": "20041",
+      "website": "https://www.americhoice.org",
+      "state": "PA",
+      "logo": {
+        "file": "americhoice-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://americhoice.org/hs-fs/hubfs/AFCU-logo-2019-white-sm%20(1)-2.png?width=300&height=65&name=AFCU-logo-2019-white-sm%20(1)-2.png",
+        "fingerprint": "800090008800a80068004800480048004800d000800028004800480048004800",
+        "aspect": 5.034,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "we-florida-financial": {
+      "name": "We Florida Financial Credit Union",
+      "added": "2026-11-23",
+      "short_name": "We Florida Financial",
+      "kind": "credit_union",
+      "charter": "61525",
+      "website": "https://www.wefloridafinancial.com",
+      "state": "FL",
+      "aliases": [
+        "We Florida Financial"
+      ],
+      "logo": {
+        "file": "we-florida-financial-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://wefloridafinancial.com/images/we_logo444.jpg",
+        "fingerprint": "32003200b390b350b310b320b250aa1088a0c800c948cd64cdcccd98cd924dc9",
+        "aspect": 2.277,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "uecu": {
+      "name": "Utilities Employees Credit Union",
+      "added": "2026-11-23",
+      "short_name": "UECU",
+      "kind": "credit_union",
+      "charter": "64896",
+      "website": "https://www.uecu.org",
+      "state": "PA",
+      "aliases": [
+        "UECU"
+      ],
+      "logo": {
+        "file": "uecu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://uecu.org/wp-content/uploads/2025/09/sitelogo.svg",
+        "fingerprint": "953575357569354db54db50d354d954d956d99b69eb69bc193f380fc0b30809c",
+        "aspect": 2.575,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "public-safety-cu-mo": {
+      "name": "Public Safety Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Public Safety CU",
+      "kind": "credit_union",
+      "charter": "62812",
+      "website": "https://www.publicsafetycu.org",
+      "state": "MO"
+    },
+    "bronco-fcu": {
+      "name": "Bronco Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Bronco FCU",
+      "kind": "credit_union",
+      "charter": "4616",
+      "website": "https://www.broncofcu.com",
+      "state": "VA",
+      "logo": {
+        "file": "bronco-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.broncofcu.com/wp-content/uploads/2024/10/bronco-logo-main.png",
+        "fingerprint": "10252552245264362b252b2d93ad538d634d6e4d664510523052148d05db11db",
+        "aspect": 4.817,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "first-heritage-fcu": {
+      "name": "First Heritage Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "First Heritage FCU",
+      "kind": "credit_union",
+      "charter": "9604",
+      "website": "https://www.fhfcu.org",
+      "state": "NY",
+      "logo": {
+        "file": "first-heritage-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.fhfcu.org/assets/img/fhfcu-logo.svg",
+        "fingerprint": "25205b20490025005b0a4d004d0b6b1b5c24282648b456a466eb44b24628d761",
+        "aspect": 2.569,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "qside-fcu": {
+      "name": "Qside Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Qside FCU",
+      "kind": "credit_union",
+      "charter": "3947",
+      "website": "https://www.qsidefcu.org",
+      "state": "NY",
+      "logo": {
+        "file": "qside-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://static1.squarespace.com/static/ta/5b06f125f8370afba4c2cc88/54/assets/qsideModal.png",
+        "fingerprint": "c192cd92a5b2219034b234a639d53ddd34de26d9aa55c4a664a20ad06c362e66",
+        "aspect": 2.661,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "brewery-cu": {
+      "name": "Brewery Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Brewery CU",
+      "kind": "credit_union",
+      "charter": "66637",
+      "website": "https://www.brewerycu.com",
+      "state": "WI",
+      "logo": {
+        "file": "brewery-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://brewerycu.com/wp-content/uploads/2023/08/brewery-credit-union.png",
+        "fingerprint": "0c037c8b648bd401b393b932a9549724d72cd469d44990e8d008c40064006400",
+        "aspect": 2.785,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "greylock-fcu": {
+      "name": "Greylock Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Greylock",
+      "kind": "credit_union",
+      "charter": "24560",
+      "website": "https://www.greylock.org",
+      "state": "MA",
+      "logo": {
+        "file": "greylock-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.greylock.org/img/gfcu-logo-RGB-horizontal.png",
+        "fingerprint": "c8804000cca4ce1aca5aca0aae6aae7aad36a524a44aa5adc442a64617645ca6",
+        "aspect": 6.289,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "charter-oak-fcu": {
+      "name": "Charter Oak Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Charter Oak",
+      "kind": "credit_union",
+      "charter": "3413",
+      "website": "https://www.charteroak.org",
+      "state": "CT",
+      "logo": {
+        "file": "charter-oak-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://charteroak.org/wp-content/uploads/2024/01/horizontal-cmyk.svg",
+        "fingerprint": "002c002c002c011e001e013c395ea59ca5d8255a4e7c30dcb14439440014111c",
+        "aspect": 5.0,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "americu": {
+      "name": "AmeriCU Credit Union",
+      "added": "2026-11-23",
+      "short_name": "AmeriCU",
+      "kind": "credit_union",
+      "charter": "68433",
+      "website": "https://www.americu.org",
+      "state": "NY",
+      "logo": {
+        "file": "americu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.americu.org/wp-content/uploads/2023/05/logo-1.png",
+        "fingerprint": "8b8816448dc89bd99cd59035a2e5baa5b525462564a56c356a1a00ca04c502e5",
+        "aspect": 3.094,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ascentra-cu": {
+      "name": "Ascentra Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Ascentra",
+      "kind": "credit_union",
+      "charter": "63268",
+      "website": "https://www.ascentra.org",
+      "state": "IA",
+      "logo": {
+        "file": "ascentra-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ascentra.org/images/default-source/logos/ascentralogo.png",
+        "fingerprint": "f200d200d200a00084009008915a156998cd12db8aabad4b10000da605c505ea",
+        "aspect": 2.563,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "winnebago-community-cu": {
+      "name": "Winnebago Community Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Winnebago Community CU",
+      "kind": "credit_union",
+      "charter": "66437",
+      "website": "https://www.wincu.org",
+      "state": "WI",
+      "logo": {
+        "file": "winnebago-community-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.wincu.org/ResourcePackages/Custom/assets/images/logo.svg",
+        "fingerprint": "d10061206aa06ea09ee080447b247225658965a94dd9099d06221e4831c88402",
+        "aspect": 3.006,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "richland-fcu-mt": {
+      "name": "Richland Federal Credit Union",
+      "added": "2026-11-23",
+      "short_name": "Richland FCU",
+      "kind": "credit_union",
+      "charter": "3391",
+      "website": "https://www.richlandfederalcreditunion.com",
+      "state": "MT",
+      "logo": {
+        "file": "richland-fcu-mt-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.richlandfederalcreditunion.com/wp-content/uploads/2019/11/Richland-Small.png",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 3.048,
+        "pinned": false,
+        "added": "2026-11-23",
+        "checked": "2026-11-23",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }

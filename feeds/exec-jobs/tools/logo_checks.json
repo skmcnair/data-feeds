@@ -1,0 +1,249 @@
+{
+ "americhoice-fcu": {
+  "checked": "2026-11-23",
+  "file": "americhoice-fcu-v1.png",
+  "result": "current"
+ },
+ "americu": {
+  "checked": "2026-11-23",
+  "file": "americu-v1.png",
+  "result": "current"
+ },
+ "apple-fcu": {
+  "checked": "2026-11-23",
+  "file": "apple-fcu-v1.png",
+  "note": "site refused us on 2026-11-23 (403); not asked again for 30 days; source undated",
+  "result": "BLOCKED"
+ },
+ "arapahoe-cu": {
+  "checked": "2026-11-23",
+  "file": "arapahoe-cu-v1.png",
+  "result": "current"
+ },
+ "ascentra-cu": {
+  "checked": "2026-11-23",
+  "file": "ascentra-cu-v1.png",
+  "result": "current"
+ },
+ "brewery-cu": {
+  "checked": "2026-11-23",
+  "file": "brewery-cu-v1.png",
+  "result": "current"
+ },
+ "bronco-fcu": {
+  "checked": "2026-11-23",
+  "file": "bronco-fcu-v1.png",
+  "result": "current"
+ },
+ "capital-cu-wi": {
+  "checked": "2026-11-23",
+  "file": "capital-cu-wi-v1.png",
+  "result": "current"
+ },
+ "ccu-florida": {
+  "checked": "2026-11-23",
+  "file": "ccu-florida-v1.png",
+  "result": "current"
+ },
+ "champions-first-cu": {
+  "checked": "2026-11-23",
+  "file": "champions-first-cu-v1.png",
+  "result": "current"
+ },
+ "charter-oak-fcu": {
+  "checked": "2026-11-23",
+  "file": "charter-oak-fcu-v1.png",
+  "result": "current"
+ },
+ "community-first-cu-fl": {
+  "checked": "2026-11-23",
+  "file": "community-first-cu-fl-v1.png",
+  "result": "current"
+ },
+ "enrichment-fcu": {
+  "checked": "2026-11-23",
+  "file": "enrichment-fcu-v1.png",
+  "result": "current"
+ },
+ "fedchoice-fcu": {
+  "checked": "2026-11-23",
+  "file": "fedchoice-fcu-v1.png",
+  "result": "current"
+ },
+ "first-choice-cu-fl": {
+  "checked": "2026-11-23",
+  "file": "first-choice-cu-fl-v1.png",
+  "result": "current"
+ },
+ "first-heritage-fcu": {
+  "checked": "2026-11-23",
+  "file": "first-heritage-fcu-v1.png",
+  "result": "current"
+ },
+ "first-source-fcu": {
+  "checked": "2026-11-23",
+  "file": "first-source-fcu-v1.png",
+  "result": "current"
+ },
+ "frontwave-cu": {
+  "checked": "2026-11-23",
+  "confirmed": {
+   "date": "2026-06-01",
+   "source": "https://ddjmyers.com/wp-content/uploads/2026/06/FRONTWAVE_Logo_ND_PRIMARY_employee_survey_439x125-002-Solid-black-Font.jpg"
+  },
+  "file": "frontwave-cu-v1.png",
+  "note": "site refused us on 2026-11-23 (403); not asked again for 30 days; source dated 2026-06-01",
+  "result": "confirmed"
+ },
+ "golden-circle-cu": {
+  "checked": "2026-11-23",
+  "file": "golden-circle-cu-v1.png",
+  "result": "current"
+ },
+ "great-plains-fcu-mo": {
+  "checked": "2026-11-23",
+  "file": "great-plains-fcu-mo-v1.png",
+  "result": "current"
+ },
+ "greylock-fcu": {
+  "checked": "2026-11-23",
+  "file": "greylock-fcu-v1.png",
+  "result": "current"
+ },
+ "intrepid-cu": {
+  "checked": "2026-11-23",
+  "file": "intrepid-cu-v1.png",
+  "result": "current"
+ },
+ "kh-cu": {
+  "checked": "2026-11-23",
+  "confirmed": {
+   "date": "2026-11-23",
+   "source": "https://www.khcreditunion.com/"
+  },
+  "file": "kh-cu-v1.png",
+  "note": "no logo found on the live site; source dated 2022-08-01; confirm against a source from the last 12 months",
+  "result": "confirmed"
+ },
+ "kinetic-cu": {
+  "checked": "2026-11-23",
+  "file": "kinetic-cu-v1.png",
+  "result": "current"
+ },
+ "levo-cu": {
+  "checked": "2026-11-23",
+  "file": "levo-cu-v1.png",
+  "result": "current"
+ },
+ "multipli-cu": {
+  "checked": "2026-11-23",
+  "file": "multipli-cu-v1.png",
+  "result": "current"
+ },
+ "noble-cu": {
+  "checked": "2026-11-23",
+  "file": "noble-cu-v1.png",
+  "result": "current"
+ },
+ "north-star-ccu": {
+  "checked": "2026-11-23",
+  "file": "north-star-ccu-v1.png",
+  "result": "current"
+ },
+ "oswego-county-fcu": {
+  "checked": "2026-11-23",
+  "file": "oswego-county-fcu-v1.png",
+  "result": "current"
+ },
+ "park-community-cu": {
+  "checked": "2026-11-23",
+  "file": "park-community-cu-v1.png",
+  "result": "current"
+ },
+ "pioneer-fcu-id": {
+  "checked": "2026-11-23",
+  "file": "pioneer-fcu-id-v1.png",
+  "result": "current"
+ },
+ "qside-fcu": {
+  "checked": "2026-11-23",
+  "file": "qside-fcu-v1.png",
+  "result": "current"
+ },
+ "revity-cu": {
+  "checked": "2026-11-23",
+  "file": "revity-cu-v1.png",
+  "result": "current"
+ },
+ "richland-fcu-mt": {
+  "checked": "2026-11-23",
+  "file": "richland-fcu-mt-v1.png",
+  "result": "current"
+ },
+ "rocky-mountain-cu-mt": {
+  "checked": "2026-11-23",
+  "file": "rocky-mountain-cu-mt-v1.png",
+  "result": "current"
+ },
+ "seaboard-fcu": {
+  "checked": "2026-11-23",
+  "file": "seaboard-fcu-v1.png",
+  "result": "current"
+ },
+ "seattle-cu": {
+  "checked": "2026-11-23",
+  "file": "seattle-cu-v1.png",
+  "result": "current"
+ },
+ "sf-fire-cu": {
+  "checked": "2026-11-23",
+  "file": "sf-fire-cu-v1.png",
+  "result": "current"
+ },
+ "spectra-cu": {
+  "checked": "2026-11-23",
+  "file": "spectra-cu-v1.png",
+  "result": "current"
+ },
+ "truity-fcu": {
+  "checked": "2026-11-23",
+  "file": "truity-fcu-v2.png",
+  "live_sig": [
+   [
+    "10b1a895ac94ac96a896b096a496a896aa56a852000000006254f110c1104100",
+    2.941
+   ]
+  ],
+  "result": "current"
+ },
+ "uecu": {
+  "checked": "2026-11-23",
+  "file": "uecu-v1.png",
+  "result": "current"
+ },
+ "university-cu-ca": {
+  "checked": "2026-11-23",
+  "file": "university-cu-ca-v1.png",
+  "result": "current"
+ },
+ "valley-first-cu-ca": {
+  "checked": "2026-11-23",
+  "file": "valley-first-cu-ca-v1.png",
+  "result": "current"
+ },
+ "we-florida-financial": {
+  "checked": "2026-11-23",
+  "confirmed": {
+   "date": "2026-11-23",
+   "source": "https://wefloridafinancial.com/"
+  },
+  "file": "we-florida-financial-v1.png",
+  "note": "no logo found on the live site; source undated",
+  "result": "confirmed"
+ },
+ "winnebago-community-cu": {
+  "checked": "2026-11-23",
+  "file": "winnebago-community-cu-v1.png",
+  "result": "current"
+ }
+}

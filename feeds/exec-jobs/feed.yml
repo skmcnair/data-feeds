@@ -1,0 +1,273 @@
+title: Credit Union Executive Openings
+item: opening
+trial: true
+
+scope: |
+  In: open executive positions, VP and above, at U.S. credit unions of every size: VP (incl. Regional
+  VP), SVP, EVP, chief officers, President, President and CEO, and General Manager of a small credit
+  union. One row per open position. An opening counts once a public source shows it: a search firm's
+  posting, the credit union's own careers page or release, or a job board (CUES, CUInsight, league
+  boards). A credit union's announcement that its board has started a search for a CEO (a retirement
+  release saying a search firm or a national search will find the successor) is an opening too.
+  The first load (Nov 23, 2026) holds every opening live that day; filled and closed openings stay
+  in the feed (boards show filled ones for 30 days by their closed date).
+  Out: AVP and Director roles and anything below; leagues and trade associations, CUSOs (Navari,
+  formerly CUSG, is MCUL's CUSO), corporate credit unions, vendors, fintechs, banks (Shanley's de novo
+  bank CFO), NCUA and regulators, credit union foundations; board seats; non-U.S. credit unions;
+  confidential searches that don't name the credit union (add them once a source names it).
+
+instructions: |
+  Where openings come from (work the boards first, then search):
+  - Every run: python3 feeds/exec-jobs/tools/job_boards.py. It reads D. Hilton Associates, DDJ Myers,
+    Shanley Search Partners, JSpire Recruiting (its detail pages name the credit union), Zealyst and
+    CUInsight's job board (page 1 only; later pages answer with a Cloudflare check, never get around
+    it), and lists VP-and-up listings as NEW (not tracked), GONE (a tracked Open posting that its
+    board no longer lists) and FILLED (Shanley's "Just Filled"). Handle every NEW, GONE and FILLED line.
+    Listings are leads: org names on boards are brand names, abbreviations or typos ("Intrepid Credit
+    Unon", "AmeriChioce", "UECU" = Utilities Employees Credit Union, "Seattle Credit Union" = Seattle
+    Metropolitan Credit Union) and some employers are CUSOs, leagues or banks - check each.
+  - Every run, WebFetch the CUES job board (https://www.cues.org/networking/credit-union-job-board,
+    newest first; read pages ?page=0 and ?page=1, all four pages on Mondays). Scripts get a 403 there;
+    WebFetch works. Open the detail page of each VP-and-up posting for its deadline, firm, pay and
+    work arrangement. A CUES posting whose application deadline has passed and that no firm or credit
+    union page still shows is not live: don't add it (ORNL FCU's Chief Strategy Officer & Chief of
+    Staff, deadline Nov 6, 2026) and close a tracked one that rests only on it.
+  - Mondays, also read the league job boards: the GoWest board comes in through its RSS feed; WebFetch
+    https://www.ccua.org/jobs (New England), https://www.theleague.coop/careers (Wisconsin), and
+    WebSearch "<league> job board vice president" for two other leagues each week, in rotation
+    (Cornerstone, Heartland, Carolinas, The League of CUs & Affiliates, MCUL, Ohio, PCUA, NYCUA,
+    MD|DC, Iowa, MnCUN, Illinois, Indiana, Tennessee, Kentucky, Louisiana, Mississippi, Missouri,
+    Nebraska, Dakotas, Montana, NJ, Mountain West, California & Nevada, Northwest).
+  - Then the review searches. Trial week (through Nov 30, 2026): search with a 60-day lookback, to
+    finish the first load (searches announced since Sep 24, 2026 that are still open).
+  - Cornerstone Resources posts its searches on the Credit Union Job Network
+    (creditunionjobnetwork.iapplicants.com, also syndicated to CareerBuilder); that site was down
+    (HTTP 521) on Nov 23, 2026. Try it on Mondays; never get around a block.
+  Rows and status:
+  - One row per credit union and title. A posting on several boards is one row: list each as a
+    source. The key is organization + title, so before adding, compare with every tracked item for
+    that credit union: "Vice President of Lending" and "VP, Lending" are the same opening - update the
+    tracked row instead of adding one. Use the title the search firm (or else the credit union) gives.
+  - Open: the posting is live on a firm's page, the credit union's site or a job board, or a search
+    was announced and no hire yet.
+  - Filled: a hire is announced (the credit union's release, trade press, the leadership-moves feed's
+    sources), or the firm marks it filled ("Just Filled", moved to its completed-searches page). Set
+    closed (the announcement date, else today) and filled_by when a source names the person.
+  - Closed: the posting came down with no hire announced (job_boards.py GONE: first search
+    "<credit union> <title>" for a hire; none found -> Closed), it was withdrawn, or no source has
+    shown it live for 90 days. Set closed to today. A firm taking a posting down outranks a job-board
+    copy that is still up (San Francisco Fire CU's CTO was still on CUES after D. Hilton removed it).
+  - A closed or filled opening that is posted again: update the same row back to Open with a note
+    "Re-posted <date>", clear closed and filled_by, and add the new posting as a source.
+  - Re-checks: an Open row is re-checked by opening its job_url; still listed -> rechecked. For an
+    announced search with no posting, search "<credit union> CEO" for a named successor.
+  Sources and confidence:
+  - A search firm's own posting and the credit union's own careers page, posting or release
+    (including CUInsight /press-release/ pages and press wires) are primary. CUES, CUInsight's job
+    board, league job boards, CareerBuilder and other job sites are aggregator. News stories are
+    trade_press. List the strongest source first and NCUA last.
+  - job_url is the posting to re-check: the firm's posting when a firm runs the search, else the
+    credit union's own posting for this job (its applicant-tracking page, not a general careers
+    page), else the job board's; for an announced search, the announcement.
+  - The Credit Union Connection's job board (thecreditunionconnection.com/job/...) carries Cornerstone
+    Resources' and Shanley's postings: aggregator.
+  Credit union facts:
+  - Run python3 feeds/exec-jobs/tools/cu_lookup.py "<name>|<ST>" (several per call) for every credit
+    union not already in the shared organization list. Pick the candidate whose city and state match
+    the posting (the posting's location can be a branch or a remote option; state is the credit
+    union's headquarters state from NCUA). Never take assets or members from postings or news.
+  - Every add lists NCUA last (https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/
+    <charter>, or the call report file cu_lookup gives for credit unions with no live record, type
+    regulator). In field_sources point org_assets, org_members, assets_as_of, size_band, city and state
+    at the NCUA source and every other field at the source it came from (usually 0).
+  - organization is the full legal name (NCUA's name plus Credit Union / Federal Credit Union,
+    with the credit union's own capitalization: AmeriCU, FedChoice, GECU). Short names are what
+    people call it ("Seattle CU", "UECU", "Georgia's Own").
+  - Refresh org_assets, org_members, assets_as_of and size_band on Open rows when NCUA has a newer
+    quarter.
+  Logos: every credit union needs its CURRENT logo, found the day it is first added (this feed feeds
+  a wallboard). Use only this feed's tools (feeds/exec-jobs/tools); never another feed's tools,
+  files or notes.
+    1. python3 feeds/exec-jobs/tools/find_logo.py <slug> ...   then view every
+       /tmp/logo-candidates/sheet-N.png. Take the logo in the live header first; a clean og:image is
+       the fallback. Search-firm pages often carry the credit union's logo (D. Hilton, DDJ Myers,
+       Shanley): pass the posting with --page slug=<url> when the site gives nothing usable.
+    2. Sites that refuse (401/403/429) are remembered for 30 days in tools/refused_sites.json and not
+       asked again. Never retry one with other headers, a cache, a mirror or curl. Instead WebSearch
+       "<name> logo" or "<name> press release", then rerun with --page, --pdf or --image.
+    3. Lockups: crop the credit union's own mark out of "powered by X" / anniversary lockups where a
+       divider separates them; otherwise keep looking.
+    4. python3 engine/logos.py add --slug S --file F --source-url URL (--style white for a white logo).
+  After adding or changing a logo run python3 feeds/exec-jobs/tools/verify_logos.py <slug> ...; on
+  Mondays run it with no slugs and resolve every MISMATCH, STALE-RISK, BLOCKED and NO-SITE as the
+  tool explains (--ok, --confirm, or replace the logo). Never use another organization's logo (a
+  search firm's, a league's, a vendor's), online-banking product marks, award or anniversary badges,
+  NCUA/Equal Housing marks, social icons or photos. The morning message lists every credit union
+  whose logo is missing or unresolved, with what was tried.
+  Search budget: about 200 web searches a run. Boards first (no searches needed), then the review
+  searches, then re-checks. Stop at about 180 and say what was left.
+
+date_field: posted
+key: [organization, title]
+
+fields:
+  - name: posted
+    type: date
+    label: Posted
+    help: The earliest date any source gives for this posting (a firm's or job board's posting date, the credit union's release announcing the search). Blank when no source dates it; never use the day you found it (the feed's added date shows that).
+  - name: organization
+    type: org
+    label: Credit union
+    required: true
+    help: The credit union's full legal name.
+  - name: title
+    type: title
+    label: Title
+    required: true
+    help: The position title as the search firm (or else the credit union) gives it, with chief titles spelled out ("Chief Financial Officer", never "CFO") and "VP X" written "VP, X". For an announced CEO search with no posting, "President & CEO" unless the release names the title.
+  - name: level
+    type: choice
+    label: Level
+    choices: [CEO, C-suite, EVP / SVP / VP]
+    required: true
+    help: CEO = the top job (President & CEO, CEO, President/CEO, General Manager of a small credit union). C-suite = any title with "Chief ... Officer", even when it also carries a rank ("SVP, Chief Technology Officer", "VP, Chief Strategy & Marketing Officer"), and President when someone else is CEO. EVP / SVP / VP = every other EVP, SVP, VP or Regional VP title.
+  - name: function
+    type: choice
+    label: Function
+    choices: [Executive, Finance, Lending, Commercial, Operations, Technology, Risk & Compliance, Marketing, Member Experience, Retail, People, Strategy, Other]
+    required: true
+    help: The area the role leads. Executive = CEO, President, General Manager, Chief of Staff. Finance = CFO, accounting, treasury. Lending = consumer, mortgage and real estate lending, credit, collections. Commercial = business lending and banking, treasury management. Operations = COO, deposit and back-office operations, payments, cards, enterprise applications run by operations. Technology = CIO, CTO, IT, digital, data, AI, information security, enterprise applications. Risk & Compliance = risk, ERM, compliance, BSA, fraud, internal audit, legal. Marketing = marketing, brand, communications, business development. Member Experience = CXO, member service, contact center. Retail = retail, branches, sales and service, member growth. People = HR, talent, people development, culture. Strategy = strategy, innovation, transformation. Other = anything else. Combined roles use the first area named ("Chief Strategy & Marketing Officer" = Strategy).
+  - name: status
+    type: choice
+    label: Status
+    choices: [Open, Filled, Closed]
+    required: true
+    help: See "Rows and status" in instructions.
+  - name: closed
+    type: date
+    label: Closed
+    help: Filled or Closed rows only - the date a source gives for the hire or the close, else the day the review found it filled or closed. Blank while Open. Boards show filled openings for 30 days from this date.
+  - name: filled_by
+    type: text
+    label: Filled by
+    help: Filled rows only - the person hired, first and last name as they use it publicly, once a source names them. No credentials.
+  - name: search_firm
+    type: text
+    label: Search firm
+    help: The executive search firm running the search, as it names itself (D. Hilton Associates, DDJ Myers, Shanley Search Partners, JSpire Recruiting, Zealyst, Cornerstone Resources, McDermott + Bull, Smith & Wilkinson). Blank when the credit union recruits itself or no source names a firm.
+  - name: pay_range
+    type: text
+    label: Pay range
+    pattern: '\$\d{2,3}K(-\$\d{2,3}K)?\+?'
+    pattern_hint: "must read like $190K-$275K or $200K+ (thousands, rounded)"
+    help: Base pay as the posting states it, in thousands, rounded ($184,815-$246,421 -> $185K-$246K). Blank when not stated.
+  - name: work_mode
+    type: choice
+    label: Work mode
+    choices: [On-site, Hybrid, Remote]
+    help: Only when the posting states it. A posting that allows on-site, hybrid or remote is Remote. Blank when not stated.
+  - name: job_url
+    type: url
+    label: Posting
+    required: true
+    help: The posting to re-check (see "Sources and confidence").
+  - name: size_band
+    type: choice
+    label: Asset size
+    choices: [Under $500M, $500M-$1B, $1B-$5B, $5B+]
+    required: true
+    help: From org_assets (NCUA) - under $500M; $500M up to $1B; $1B up to $5B; $5B and up.
+  - name: city
+    type: text
+    label: City
+    help: Credit union headquarters city from cu_lookup.py, normal capitalization.
+  - name: state
+    type: state
+    label: State
+    required: true
+    help: Credit union headquarters state from cu_lookup.py (not the job's location).
+  - name: org_assets
+    type: money
+    label: CU assets
+    scored: true
+    help: Total assets from NCUA's latest call report (cu_lookup.py), never from postings or news.
+  - name: org_members
+    type: int
+    label: CU members
+    help: Members from NCUA's latest call report (cu_lookup.py).
+  - name: assets_as_of
+    type: text
+    label: Assets as of
+    pattern: 'Q[1-4] \d{4}'
+    pattern_hint: "must be a call report quarter, e.g. Q3 2026"
+    help: The call report quarter for org_assets and org_members.
+  - name: notes
+    type: text
+    label: Notes
+    help: One short sentence a reader can't get from the other fields - why the job is open ("CEO Jim Wookey retires in 2027"), where it can be based ("Chicago or Las Vegas", "remote allowed"), a deadline ("Apply by Dec 5, 2026"), or a re-post. Never restate another field; no research remarks. Blank when there's nothing to add.
+
+derived:
+  - name: region
+    label: Region
+    map_from: state
+    groups:
+      Northeast: [CT, ME, MA, NH, RI, VT, NJ, NY, PA]
+      Midwest: [IL, IN, MI, OH, WI, IA, KS, MN, MO, NE, ND, SD]
+      South: [DE, FL, GA, MD, NC, SC, VA, DC, WV, AL, KY, MS, TN, AR, LA, OK, TX]
+      West: [AZ, CO, ID, MT, NV, NM, UT, WY, AK, CA, HI, OR, WA]
+    default: Territories
+  - name: location
+    label: Location
+    cases:
+      - when: {city: ""}
+        template: "{state}"
+      - template: "{city}, {state}"
+  - name: headline
+    label: Headline
+    cases:
+      - when: {status: Filled}
+        template: "{organization_short} fills {title}"
+      - when: {status: Closed}
+        template: "{organization_short} closes {title} search"
+      - template: "{organization_short} seeks {title}"
+
+open_when: {field: status, in: [Open]}
+publish:
+  max_age_days: 365
+
+sources:
+  - {name: GoWest job board, type: rss, url: https://gowestassociation.org/jobs/feed/}
+  - {name: Google News - CU executive searches, type: google_news, query: '"credit union" ("national search" OR "nationwide search" OR "search firm" OR "executive search" OR "search for its next") when:7d'}
+  - {name: Google News - CU CEO retirements, type: google_news, query: '"credit union" (CEO OR president) (retire OR retirement OR "step down") (search OR successor) when:7d'}
+  - {name: Google News - CU trade press searches, type: google_news, query: '(site:cuinsight.com OR site:cutimes.com OR site:thecudaily.com OR site:cutoday.info OR site:thecreditunionconnection.com) (search OR seeks OR seeking OR hiring) (CEO OR chief OR "vice president") when:7d'}
+  - {name: Google News - search firm placements, type: google_news, query: '("D. Hilton" OR "DDJ Myers" OR "Shanley Search" OR "JSpire" OR "Zealyst" OR "Cornerstone Resources" OR "McDermott + Bull" OR "Smith & Wilkinson" OR "Humanidei") "credit union" when:7d'}
+
+collect:
+  include_any: [search, seek, hiring, hire, recruit, retire, successor, opening, position, job, career, vice president, chief, president, ceo, vp, svp, evp, names, appoint, select, fill, placed]
+  exclude_any: [obituary]
+
+review:
+  time: "02:41"
+  lookback_days: 3
+  monday_lookback_days: 30
+  recheck_max: 25
+  searches:
+    - 'credit union launches national search CEO'
+    - 'credit union board retained executive search firm president CEO'
+    - 'credit union CEO retirement national search successor'
+    - 'credit union "is seeking" "Chief" Officer'
+    - 'credit union seeking "Vice President" executive'
+    - 'credit union "Senior Vice President" job opening'
+    - 'site:cuinsight.com/press-release "search" CEO'
+    - 'site:gowestassociation.org/job chief OR "vice president" OR president'
+    - 'site:careerbuilder.com "Credit Union Job Network" CEO OR CFO OR "Vice President"'
+    - '"McDermott + Bull" credit union search'
+    - '"Smith & Wilkinson" credit union search'
+    - '"Humanidei" credit union search'
+    - '"Sterling|Martin" OR "PARC Street Group" credit union search'
+message:
+  new_line: "{organization_short} ({state}, {org_assets}) - {title} - {search_firm} - confidence {confidence}"
+  update_line: "{organization_short} - {title}: <what changed>"
+  notes: List CEO openings first (start each with "CEO SEARCH - "), then C-suite, then EVP / SVP / VP, newest first within each; then filled and closed openings ("FILLED - " with who was hired when named, "CLOSED - "). Leave out empty parts of a line (no firm, no assets).
+
+confidence: {enabled: true}
