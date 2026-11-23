@@ -1,21 +1,21 @@
 {
  "access-of-louisiana-fcu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "access-of-louisiana-fcu-v1.png",
   "result": "current"
  },
  "advantage-one": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "advantage-one-v1.png",
   "result": "current"
  },
  "agriculture-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "agriculture-fcu-v1.png",
   "result": "current"
  },
  "alabama-one": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "alabama-one-v1.png",
   "live_sig": [
    [
@@ -37,22 +37,22 @@
   "reviewed": "2026-11-21"
  },
  "allegent": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "allegent-v1.png",
   "result": "current"
  },
  "america-first": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "america-first-v1.png",
   "result": "current"
  },
  "american-united-fcu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "american-united-fcu-v2.png",
   "result": "current"
  },
  "anb-fox-cities": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "anb-fox-cities-v1.png",
   "live_sig": [
    [
@@ -86,7 +86,7 @@
   "reviewed": "2026-11-21"
  },
  "anco-community-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "anco-community-cu-v1.png",
   "live_sig": [
    [
@@ -104,16 +104,16 @@
   "reviewed": "2026-11-21"
  },
  "ascend": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "ascend-v1.png",
   "result": "current"
  },
  "baker-hughes-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "bank-of-the-southwest": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "bank-of-the-southwest-v1.png",
   "live_sig": [
    [
@@ -127,94 +127,98 @@
   "reviewed": "2026-11-21"
  },
  "bcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "bcu-v1.png",
   "result": "current"
  },
  "becu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "becu-v1.png",
   "result": "current"
  },
  "bluegrass-community-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "bp-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "bp-fcu-v1.png",
   "result": "current"
  },
+ "cape-fcu": {
+  "checked": "2026-11-23",
+  "result": "MISSING"
+ },
  "caprock-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "caprock-fcu-v1.png",
   "result": "current"
  },
  "case-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "case-cu-v1.png",
   "result": "current"
  },
  "centuryfirst": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "centuryfirst-v1.png",
   "result": "current"
  },
  "cincinnati-interagency-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "city-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "city-fcu-v1.png",
   "result": "current"
  },
  "communityamerica": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "communityamerica-v1.png",
   "result": "current"
  },
  "consumers-cu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "consumers-cu-v3.png",
   "result": "current"
  },
  "consumers-cu-mi": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "consumers-cu-mi-v1.png",
   "result": "current"
  },
  "cu1": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "cu1-v1.png",
   "result": "current"
  },
  "cy-fair-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "cy-fair-fcu-v1.png",
   "result": "current"
  },
  "daniels-sheridan-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "daniels-sheridan-fcu-v1.png",
   "result": "current"
  },
  "dcfcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "dcfcu-v1.png",
   "result": "current"
  },
  "delta-refining-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "dfcu-financial": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "dfcu-financial-v1.png",
   "result": "current"
  },
  "directors-choice-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-11-21",
    "source": "http://www.directorschoicecu.com (header image on its live site)"
@@ -224,81 +228,81 @@
   "result": "confirmed"
  },
  "dow-great-western-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "dow-great-western-cu-v1.png",
   "note": "no logo found on the live site; source dated 2018-05-01; confirm against a source from the last 12 months",
   "result": "current"
  },
  "dunlop-employees-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "evermore-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "evermore-bank-v1.png",
   "result": "current"
  },
  "f-and-a-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "f-and-a-fcu-v1.png",
   "result": "current"
  },
  "financial-plus": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "financial-plus-v1.png",
   "result": "current"
  },
  "firefighters-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "firefighters-cu-v1.png",
   "result": "current"
  },
  "first-class-community-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "first-class-community-cu-v1.png",
   "result": "current"
  },
  "first-financial-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "first-financial-bank-v2.png",
   "result": "current"
  },
  "first-responders-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "first-responders-cu-v1.png",
   "result": "current"
  },
  "first-south-financial": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "first-south-financial-v1.png",
   "result": "current"
  },
  "first-u-s": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "first-u-s-v1.png",
   "result": "current"
  },
  "fort-mcclellan-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "fort-mcclellan-cu-v1.png",
   "result": "current"
  },
  "fort-morgan-schools-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "fort-peck-community-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "fort-peck-community-fcu-v1.png",
   "result": "current"
  },
  "fortera": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "fortera-v1.png",
   "result": "current"
  },
  "g-and-r-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "g-and-r-fcu-v1.png",
   "live_sig": [
    [
@@ -312,21 +316,25 @@
   "reviewed": "2026-11-21"
  },
  "gaf-linden-employees-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "garden-savings-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "garden-savings-fcu-v1.png",
   "result": "current"
  },
+ "gca-fcu": {
+  "checked": "2026-11-23",
+  "result": "MISSING"
+ },
  "gecu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "gecu-v1.png",
   "result": "current"
  },
  "gesa": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-11-21",
    "source": "logo file supplied by Sean from gesa.com"
@@ -335,7 +343,7 @@
   "result": "pinned"
  },
  "gold-coast-bank": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-05-01",
    "source": "https://media.msufcu.org/publicsites/publicsite/documents/y1aalv74iydpdsc91eaq.pdf"
@@ -345,79 +353,83 @@
   "result": "confirmed"
  },
  "great-horizons-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "great-horizons-fcu-v1.png",
   "result": "current"
  },
  "great-neck-school-employees-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "greater-nevada": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "greater-nevada-v1.png",
   "result": "current"
  },
  "guardian-cu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "guardian-cu-v1.png",
   "result": "current"
  },
  "gulf-coast-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "gulf-coast-fcu-v1.png",
   "result": "current"
  },
  "gulf-winds": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "gulf-winds-v1.png",
   "result": "current"
  },
  "gulfside-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "gulfside-bank-v1.png",
   "result": "current"
  },
  "harris-employees-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "healthcare-associates-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "healthcare-associates-cu-v1.png",
   "result": "current"
  },
  "healthcare-plus-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "healthcare-plus-fcu-v1.png",
   "result": "current"
  },
  "healthcare-systems-fcu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-11-22",
    "source": "https://www.healthcarefcu.org"
   },
   "file": "healthcare-systems-fcu-v1.png",
   "note": "site 404; matches https://www.healthcarefcu.org (2026-11-22)",
-  "result": "confirmed"
+  "result": "current"
+ },
+ "hema-fcu": {
+  "checked": "2026-11-23",
+  "result": "MISSING"
  },
  "hicksville-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "home-fcu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "home-fcu-v1.png",
   "result": "current"
  },
  "hoosier-hills": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "hoosier-hills-v1.png",
   "result": "current"
  },
  "hope-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "hope-fcu-v1.png",
   "live_sig": [
    [
@@ -439,101 +451,106 @@
   "reviewed": "2026-11-21"
  },
  "illinois-valley-cu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "illinois-valley-cu-v1.png",
   "result": "current"
  },
  "interra": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "interra-v1.png",
   "note": "no website on file; source undated",
   "result": "current"
  },
  "kemba": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "kemba-v1.png",
   "result": "current"
  },
  "kimberly-clark-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "kimberly-clark-cu-v1.png",
   "result": "current"
  },
  "landmark-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "landmark-cu-v1.png",
   "result": "current"
  },
  "launch-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "launch-cu-v1.png",
   "result": "current"
  },
  "lge": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "lge-v1.png",
   "result": "current"
  },
  "lincoln-county-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "lincoln-county-cu-v1.png",
   "result": "current"
  },
  "loc-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "loc-cu-v1.png",
   "result": "current"
  },
  "lynn-firemen-s-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "madison-county-community-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "madison-county-community-bank-v1.png",
   "result": "current"
  },
  "magnolia-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "magnolia-fcu-v1.png",
   "result": "current"
  },
  "martin-county-co-op-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "max-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "max-cu-v1.png",
   "result": "current"
  },
  "members-plus-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "members-plus-cu-v1.png",
   "result": "current"
  },
  "members-trust-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "members-trust-fcu-v1.png",
   "result": "current"
  },
  "metro-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "metro-cu-v1.png",
   "result": "current"
  },
  "miners-state-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
+  "confirmed": {
+   "date": "2026-11-21",
+   "source": "https://theminersstatebank.com/"
+  },
   "file": "miners-state-bank-v1.png",
-  "result": "current"
+  "note": "no logo found on the live site; source undated",
+  "result": "confirmed"
  },
  "monroe-community-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "monroe-community-cu-v1.png",
   "result": "current"
  },
  "msufcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-06-15",
    "source": "https://acquisitions.msufcu.org/wp-content/uploads/sites/5/2026/06/AEB-Consumer-Welcome-Mailing-Notice-of-Acquisition-Completion.pdf"
@@ -543,7 +560,7 @@
   "result": "confirmed"
  },
  "my-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "my-cu-v1.png",
   "live_sig": [
    [
@@ -565,22 +582,22 @@
   "reviewed": "2026-11-21"
  },
  "new-haven-teachers-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "norstar": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "norstar-v1.png",
   "result": "current"
  },
  "nrcs-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "nrcs-fcu-v1.png",
   "note": "site error Remote end closed connection without response",
   "result": "current"
  },
  "nrs-community-development-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-11-21",
    "source": "https://static.wixstatic.com/media/e40f7a_1b49621d6f524bbabe4134611885d632~mv2.jpg (logo image on its live Wix site)"
@@ -590,29 +607,29 @@
   "result": "confirmed"
  },
  "numerica": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "numerica-v1.png",
   "note": "site error <urlopen error [Errno 104] Connection reset by pee",
   "result": "current"
  },
  "nutmeg": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "nutmeg-v1.png",
   "note": "no website on file; source undated",
   "result": "current"
  },
  "nuvision": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "nuvision-v1.png",
   "result": "current"
  },
  "on-tap": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "on-tap-v1.png",
   "result": "current"
  },
  "ontario-public-employees-fcu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "ontario-public-employees-fcu-v1.png",
   "live_sig": [
    [
@@ -630,36 +647,36 @@
   "reviewed": "2026-11-22"
  },
  "p-and-s-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "p-and-s-cu-v1.png",
   "result": "current"
  },
  "paho-who-fcu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "paho-who-fcu-v1.png",
   "result": "current"
  },
  "park-side": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "park-side-v1.png",
   "result": "current"
  },
  "penair": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "penair-v1.png",
   "result": "current"
  },
  "penn-hills-municipal-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "peoples-exchange-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "peoples-exchange-bank-v1.png",
   "result": "current"
  },
  "peoples-independent-bank": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "file": "peoples-independent-bank-v1.png",
   "live_sig": [
    [
@@ -685,7 +702,7 @@
   "reviewed": "2026-11-22"
  },
  "piedmont-advantage-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "piedmont-advantage-cu-v1.png",
   "live_sig": [
    [
@@ -707,11 +724,11 @@
   "reviewed": "2026-11-21"
  },
  "plains-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "result": "MISSING"
  },
  "port-washington-fcu": {
-  "checked": "2026-11-22",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-11-22",
    "source": "https://www.pwfcu.org"
@@ -721,57 +738,58 @@
   "result": "confirmed"
  },
  "rbfcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "rbfcu-v1.png",
   "result": "current"
  },
  "robins-financial": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "robins-financial-v1.png",
   "result": "current"
  },
  "safe-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "safe-cu-v1.png",
   "result": "current"
  },
  "scott-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "scott-cu-v1.png",
   "result": "current"
  },
  "selco": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "selco-v1.png",
   "result": "current"
  },
  "sharefax": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "sharefax-v1.png",
   "result": "current"
  },
  "sierra-central": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "sierra-central-v1.png",
   "result": "current"
  },
  "sjp-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "sjp-fcu-v2.png",
   "note": "no logo found on the live site; source dated 2016-08-01; confirm against a source from the last 12 months",
   "result": "current"
  },
  "sky-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "sky-fcu-v1.png",
   "result": "current"
  },
  "smart-financial": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "smart-financial-v1.png",
   "result": "current"
  },
  "solutions-first-fcu": {
+  "checked": "2026-11-23",
   "file": "solutions-first-fcu-v1.png",
   "live_sig": [
    [
@@ -781,15 +799,20 @@
   ],
   "note": "Solutions First's own mark cropped from Guardian's 2026 merger graphic; its old site shows only NCUA/EHL marks",
   "ok": true,
+  "result": "reviewed",
   "reviewed": "2026-11-22"
  },
  "southern-star-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "southern-star-cu-v1.png",
   "result": "current"
  },
+ "southwest-communities-fcu": {
+  "checked": "2026-11-23",
+  "result": "MISSING"
+ },
  "sterling-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "sterling-fcu-v1.png",
   "live_sig": [
    "58ab5cc01d",
@@ -799,36 +822,44 @@
   "result": "current"
  },
  "streator-onized-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
+  "confirmed": {
+   "date": "2026-11-23",
+   "source": "https://socu.org/"
+  },
   "file": "streator-onized-cu-v1.png",
   "live_sig": [
    [
-    "23365e92b0c6338e363b60fb65cb463b6c7a39f699cc4738a3745c88a2652463",
-    0.94
-   ],
-   [
-    "6078ce0c932737292539673973597709343139439e06460d31f24c04220e268b",
-    0.866
+    "001f001f002744c71b3b64c56ab56b3564d9644a62491087085f005f007f007d",
+    1.083
    ],
    [
     "062009381338255846cd4e4d4b8d4b0d44ad4e2d2d1a263a527409da556ddd4b",
     1.197
    ],
    [
-    "18c123e426125cbc592c1167b67696224e164b2e241c103c08f1c60835651961",
-    1.203
+    "607d8c8e116b26956b2b638b419b78a7766139911e26839d60f1dc4927a61bae",
+    0.828
+   ],
+   [
+    "93cc847a9818308e64a64c534f4343cb66836326310d9839663699c865236c63",
+    0.865
+   ],
+   [
+    "6078ce0c932737292539673973597709343139439e06460d31f24c04220e268b",
+    0.866
    ]
   ],
   "note": "site 403; source undated",
-  "result": "MISMATCH"
+  "result": "confirmed"
  },
  "summit-hampton-roads-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "summit-hampton-roads-fcu-v1.png",
   "result": "current"
  },
  "suncoast": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "confirmed": {
    "date": "2026-08-17",
    "source": "https://edge.sitecorecloud.io/suncoastcre57dd-suncoast-suncoastprod-d848/media/Project/suncoast/Files/Press-Releases/2026/FINAL-Juntos-y-con-Ritmo-News-Release_RH.pdf"
@@ -838,32 +869,32 @@
   "result": "confirmed"
  },
  "sunmark": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "sunmark-v1.png",
   "result": "current"
  },
  "tdecu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "tdecu-v1.png",
   "result": "current"
  },
  "team-one": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "team-one-v1.png",
   "result": "current"
  },
  "tech-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "tech-cu-v1.png",
   "result": "current"
  },
  "texas-trust": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "texas-trust-v1.png",
   "result": "current"
  },
  "true-sky": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "true-sky-v2.png",
   "live_sig": [
    [
@@ -885,31 +916,32 @@
   "reviewed": "2026-11-21"
  },
  "truliant": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "truliant-v1.png",
   "result": "current"
  },
  "ufcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "ufcu-v1.png",
   "result": "current"
  },
  "ukfcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "ukfcu-v1.png",
   "result": "current"
  },
  "vanderbilt-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "vanderbilt-cu-v1.png",
   "result": "current"
  },
  "water-s-edge-fcu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "water-s-edge-fcu-v1.png",
   "result": "current"
  },
  "west-aircomm-fcu": {
+  "checked": "2026-11-23",
   "file": "west-aircomm-fcu-v1.png",
   "live_sig": [
    [
@@ -923,20 +955,21 @@
   ],
   "note": "Live header logo (lazy-loaded data-src wp-content/uploads/2020/11/logo.png), which the checker can't see",
   "ok": true,
+  "result": "reviewed",
   "reviewed": "2026-11-22"
  },
  "west-tennessee-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "west-tennessee-cu-v1.png",
   "result": "current"
  },
  "westreet-cu": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "westreet-cu-v1.png",
   "result": "current"
  },
  "willamette-valley-bank": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "willamette-valley-bank-v1.png",
   "live_sig": [
    [
@@ -954,7 +987,7 @@
   "reviewed": "2026-11-21"
  },
  "zeal": {
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "file": "zeal-v1.png",
   "result": "current"
  }

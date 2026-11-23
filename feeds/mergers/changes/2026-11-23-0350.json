@@ -1,0 +1,226 @@
+{
+ "feed": "mergers",
+ "run": {
+  "started": "2026-11-23T03:34:39-05:00",
+  "finished": "2026-11-23T03:50:02-05:00",
+  "searches": 66,
+  "errors": []
+ },
+ "reviewed": [
+  "25532cb4d538",
+  "83e1aad24f19",
+  "a07c56d78a3c",
+  "c2525b4e8915",
+  "47dd89e09e6e",
+  "d52acf448b35"
+ ],
+ "adds": [],
+ "updates": [
+  {
+   "id": "undated-magnolia-federal-credit-union-city-federal-credit-union",
+   "note": "Completed Oct 1, 2026, per City FCU's merger updates page",
+   "sources": [
+    {
+     "label": "City FCU merger updates",
+     "url": "https://www.cityfederalcu.com/merger-updates/",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "status": "Completed",
+    "completed": "2026-10-01",
+    "expected_close": "Completed",
+    "next_steps": null,
+    "notes": "City FCU (Amarillo, TX) members voted on the merger at a Sep 16, 2026 special meeting. City FCU's merger updates page (Sep 29, 2026) says City FCU merged with Magnolia FCU effective Oct 1, 2026, with operations and systems to be integrated in the coming months. Sizes are frozen at the Sep 30, 2026 call report, City FCU's last before the merger. NCUA still lists City FCU as active (its records lag)."
+   }
+  },
+  {
+   "id": "undated-credit-union-1-first-class-community-credit-union",
+   "note": "CU1's merger page gives the Nov 30 special meeting, a proposed legal merger date of Dec 31, 2026 and conversion May 31, 2027",
+   "sources": [
+    {
+     "label": "CU1 merger page (First Class Community)",
+     "url": "https://www.creditunion1.org/about/mergers/first-class-community/",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "expected_close": "Q4 2026",
+    "next_steps": "First Class member vote at a Nov 30, 2026 special meeting",
+    "notes": "A first member meeting was set for Jul 23, 2026 (proposed legal date Oct 31); NCUA now lists a member vote on Nov 30, 2026. CU1's merger page (checked Nov 23, 2026) sets the special meeting for Nov 30, 2026 at 5:00 pm, with a proposed legal merger date of Dec 31, 2026 and a system conversion on May 31, 2027."
+   }
+  },
+  {
+   "id": "undated-credit-union-1-gulf-coast-federal-credit-union",
+   "note": "Added the Jan 15, 2027 system conversion date from CU1's merger page",
+   "sources": [
+    {
+     "label": "CU1 merger page (Gulf Coast)",
+     "url": "https://www.creditunion1.org/about/mergers/gulf-coast/",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "notes": "Gulf Coast FCU (Corpus Christi, TX) members approved Sep 29; legal merger date Dec 31, 2026. CU1's merger page (checked Nov 23, 2026) sets the core system conversion for Jan 15, 2027."
+   }
+  },
+  {
+   "id": "undated-firefighters-credit-union-p-and-s-credit-union",
+   "note": "Found the announcement (Oct 1, 2026, Firefighters CU): regulators approved; effective Dec 1, 2026 if P&S members approve",
+   "sources": [
+    {
+     "label": "Firefighters CU news: Firefighters CU & P&S CU to Merge",
+     "url": "https://www.firefighterscu.com/about/news/firefighters-cu--ps-cu-to-merge",
+     "type": "primary"
+    },
+    {
+     "label": "Firefighters CU merger FAQs",
+     "url": "https://www.firefighterscu.com/about/news/merger-faqs",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "announced": "2026-10-01",
+    "status": "Approved",
+    "expected_close": "Q4 2026",
+    "next_steps": "P&S member vote (NCUA lists Nov 16, 2026; result not yet published); if approved, the merger takes effect Dec 1, 2026",
+    "notes": "Firefighters CU announced the merger on Oct 1, 2026. The Utah Department of Financial Institutions and NCUA have approved it; P&S members began voting Oct 1 (NCUA lists the vote for Nov 16, 2026), and if they approve, the merger takes effect Dec 1, 2026. Firefighters CU members don't vote. The P&S branch keeps the P&S name while operations are combined, which is expected to take up to a year."
+   }
+  },
+  {
+   "id": "undated-tech-credit-union-great-horizons-federal-credit-union",
+   "note": "Great Horizons members approved the merger at the Oct 8, 2026 special meeting",
+   "sources": [
+    {
+     "label": "Great Horizons FCU website",
+     "url": "https://greathorizonsfcu.org/",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "status": "Members approved",
+    "notes": "On NCUA's proposed-merger list. Great Horizons FCU's website says its members voted to approve the merger with Tech CU at the Oct 8, 2026 special meeting and sends members to Tech CU's member support. No legal merger date published yet."
+   }
+  },
+  {
+   "id": "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+   "note": "Kemba's CIFCU page gives an effective date of Nov 1, 2026; vote result and completion not yet confirmed",
+   "sources": [
+    {
+     "label": "Kemba CIFCU merger page",
+     "url": "https://www.kemba.com/cifcu",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "expected_close": "Q4 2026",
+    "notes": "On NCUA's proposed-merger list; member vote was set for Oct 13, 2026 (special meeting). cifcu.org now redirects to Kemba's CIFCU page, where a letter from Kemba CEO Dan Sutton says CIFCU will officially merge with Kemba effective Nov 1, 2026. The vote result and completion are not yet confirmed by a release or news; NCUA still lists CIFCU as active."
+   }
+  },
+  {
+   "id": "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+   "note": "NCUA approved the merger to go to a Fort Peck member vote (Dec 4, 2026); completion expected in the new year",
+   "sources": [
+    {
+     "label": "Daniels-Sheridan FCU merger FAQs",
+     "url": "https://dsfcu.net/merger-faqs/",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "status": "Approved",
+    "expected_close": "2027",
+    "next_steps": "Fort Peck member vote (special meeting Dec 4, 2026) and remaining regulatory and legal requirements",
+    "notes": "On NCUA's proposed-merger list. Daniels-Sheridan's merger FAQ says NCUA has approved the merger to go to a Fort Peck member vote, with voting from about mid-October and a special meeting on Dec 4, 2026; if approved, completion and integration would begin in the new year. Daniels-Sheridan members don't vote. Both credit unions' branches stay open."
+   }
+  },
+  {
+   "id": "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+   "note": "Regulatory approval received; Healthcare Plus votes Dec 8, 2026; expected official Jan 1, 2027",
+   "sources": [
+    {
+     "label": "Norstar FCU merger page",
+     "url": "https://www.norstarfcu.com/about-us/healthcare-plus-merger",
+     "type": "primary"
+    },
+    {
+     "label": "Healthcare Plus FCU merger updates",
+     "url": "https://www.hcpfcu.coop/merger",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "status": "Approved",
+    "expected_close": "Q1 2027",
+    "next_steps": "Healthcare Plus member vote (special meeting Dec 8, 2026)",
+    "notes": "On NCUA's proposed-merger list. Healthcare Plus says it has regulatory approval to propose the merger; its members vote at a Dec 8, 2026 special meeting in Aberdeen. Norstar's merger page says the merger is expected to become official on Jan 1, 2027, with systems integration targeted for Q3 2027. All Healthcare Plus employees are retained and its Aberdeen branch stays open."
+   }
+  },
+  {
+   "id": "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+   "note": "Found the announcement (Sep 30, 2026 member letter): vote Nov 24; members move to F&A Mar 1, 2027",
+   "sources": [
+    {
+     "label": "OPEFCU proposed merger member information (Sep 30, 2026)",
+     "url": "https://www.opefcu.org/pdfs/2026_10_Proposed-Merger_Important_Member_Information.pdf",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "announced": "2026-09-30",
+    "expected_close": "Q1 2027",
+    "announced_figures": "$3.2 billion credit union serving over 45,000 members, three branches",
+    "next_steps": "OPEFCU member vote (special meeting Nov 24, 2026)",
+    "notes": "OPEFCU announced a signed letter of intent to merge with F&A in a Sep 30, 2026 member letter. Members vote at a Nov 24, 2026 special meeting in Ontario. If approved, OPEFCU members become F&A members on Mar 1, 2027 and accounts convert Mar 29, 2027; the OPEFCU name sunsets. All OPEFCU employees, including its CEO, join F&A, and F&A's board continues."
+   }
+  },
+  {
+   "id": "undated-american-united-federal-credit-union-g-and-r-federal-credit-union",
+   "note": "Legal effective date Oct 1, 2026, from G&R's website (was Q4 2026)",
+   "sources": [
+    {
+     "label": "G&R CU website (American United)",
+     "url": "https://grcreditunion.com/",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "completed": "2026-10-01",
+    "notes": "G&R is Gibbons and Reed Employees FCU. G&R's website (now American United's) says G&R membership continues with American United effective Oct 1, 2026; the former G&R branch in Salt Lake City stays open. NCUA lists G&R as inactive; it filed a Sep 30, 2026 call report. American United FCU rebranded as Haven Credit Union on Nov 17, 2026 (a name change, not a merger)."
+   }
+  },
+  {
+   "id": "undated-home-federal-credit-union-cape-federal-credit-union",
+   "note": "Legal merger date Oct 1, 2026, from Home FCU's CAPE merger FAQ (was Q4 2026)",
+   "sources": [
+    {
+     "label": "Home FCU merger FAQ for CAPE members",
+     "url": "https://www.homefcu.org/pdfs/2026_08_Merger_New.pdf",
+     "type": "primary"
+    }
+   ],
+   "set": {
+    "completed": "2026-10-01",
+    "notes": "Added Nov 22, 2026 (missed at announcement). Home FCU's merger FAQ for CAPE members says the merger date was set for Oct 1, 2026; CAPE's office became a Home FCU drive-thru branch. NCUA lists CAPE as inactive; it filed a Sep 30, 2026 call report. NCUA's proposed-merger list names the continuing CU only as \"Home\"; CAPE's website (capecu.com) now redirects to Home FCU of Clarksburg, WV."
+   }
+  }
+ ],
+ "rechecked": [
+  "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+  "undated-bp-federal-credit-union-southern-star-credit-union",
+  "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+  "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+  "undated-sharefax-credit-union-members-trust-federal-credit-union",
+  "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+  "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+  "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+  "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+  "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+  "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+  "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+  "undated-robins-financial-credit-union-harris-employees-credit-union",
+  "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+  "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+  "2026-11-17-dade-county-federal-credit-union-evermore-bank"
+ ]
+}

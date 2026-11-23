@@ -2675,7 +2675,8 @@
       "short_name": "Lynn Firemen's FCU",
       "kind": "credit_union",
       "charter": "484",
-      "state": "MA"
+      "state": "MA",
+      "website": "https://www.lynnffcu.com"
     },
     "gold-coast-bank": {
       "name": "Gold Coast Bank",
