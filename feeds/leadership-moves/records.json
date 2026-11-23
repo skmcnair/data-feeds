@@ -21,7 +21,7 @@
         "org_assets": 380.7,
         "org_members": 29392,
         "assets_as_of": "Q3 2026",
-        "notes": "Started Nov 16, 2026; earlier Chief Strategy Officer at Abound Credit Union. Predecessor not named in release."
+        "notes": "Earlier Chief Strategy Officer at Abound Credit Union."
       },
       "sources": [
         {
@@ -63,6 +63,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Started Nov 16, 2026; earlier Chief Strategy Officer at Abound Credit Union. Predecessor not named in release.",
+              "new": "Earlier Chief Strategy Officer at Abound Credit Union."
+            }
+          ],
+          "sources": [
+            "https://arsenalcu.com/2026/11/christian-marcussen-named-new-president-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -93,7 +107,7 @@
         "org_assets": 2923.1,
         "org_members": 176789,
         "assets_as_of": "Q3 2026",
-        "notes": "Combined CIO/COO role."
+        "notes": null
       },
       "sources": [
         {
@@ -129,6 +143,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Combined CIO/COO role.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://thecudaily.com/lake-trust-cu-names-duane-wilcoxson-as-cio-coo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -159,7 +187,7 @@
         "org_assets": 4436.3,
         "org_members": 194074,
         "assets_as_of": "Q3 2026",
-        "notes": "Joins from Lake Michigan CU."
+        "notes": null
       },
       "sources": [
         {
@@ -195,6 +223,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Joins from Lake Michigan CU.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://thecudaily.com/united-fcu-names-jim-maskell-as-chief-commercial-officer/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -225,7 +267,7 @@
         "org_assets": 1100.1,
         "org_members": 72182,
         "assets_as_of": "Q3 2026",
-        "notes": "Newly created role; joins from Comerica Bank."
+        "notes": "Newly created role."
       },
       "sources": [
         {
@@ -261,6 +303,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Newly created role; joins from Comerica Bank.",
+              "new": "Newly created role."
+            }
+          ],
+          "sources": [
+            "https://creditunions.com/press_releases/lafcu-names-earvin-pugh-to-newly-created-chief-experience-officer-position/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -291,7 +347,7 @@
         "org_assets": 1820.6,
         "org_members": 107235,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds Gary Moody, CEO for 20 years. Former CFO at Credit Union ONE."
+        "notes": "Earlier CFO at Credit Union ONE. The outgoing CEO led it for 20 years."
       },
       "sources": [
         {
@@ -333,6 +389,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds Gary Moody, CEO for 20 years. Former CFO at Credit Union ONE.",
+              "new": "Earlier CFO at Credit Union ONE. The outgoing CEO led it for 20 years."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/credit-union-one-announces-tina-tracy-as-chief-executive-officer/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -419,7 +489,7 @@
         "level": "CEO",
         "function": "Executive",
         "status": "In effect",
-        "effective": null,
+        "effective": "2026-11-19",
         "previous_title": "Interim CEO",
         "previous_org": null,
         "succeeds": null,
@@ -429,7 +499,7 @@
         "org_assets": 185.5,
         "org_members": 17419,
         "assets_as_of": "Q3 2026",
-        "notes": "Effective immediately; interim CEO since Oct 2025. Earlier COO and VP, Member Experience at Journey, and leadership roles at CASE Credit Union."
+        "notes": "Interim CEO since Oct 2025. Earlier COO and VP, Member Experience at Journey, and leadership roles at CASE Credit Union."
       },
       "sources": [
         {
@@ -458,12 +528,32 @@
         "city": 1,
         "org_assets": 1,
         "org_members": 1,
-        "assets_as_of": 1
+        "assets_as_of": 1,
+        "effective": 0
       },
       "history": [
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks); start date set from the release (effective immediately)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Effective immediately; interim CEO since Oct 2025. Earlier COO and VP, Member Experience at Journey, and leadership roles at CASE Credit Union.",
+              "new": "Interim CEO since Oct 2025. Earlier COO and VP, Member Experience at Journey, and leadership roles at CASE Credit Union."
+            },
+            {
+              "field": "effective",
+              "old": null,
+              "new": "2026-11-19"
+            }
+          ],
+          "sources": [
+            "https://www.mcul.org/newsroom/journey-federal-credit-union-appoints-william-mcsweeney-as-ceo"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -559,7 +649,7 @@
         "org_assets": 4957.5,
         "org_members": 394218,
         "assets_as_of": "Q3 2026",
-        "notes": "Joins from CoastHills CU."
+        "notes": null
       },
       "sources": [
         {
@@ -595,6 +685,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Joins from CoastHills CU.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.globenewswire.com/news-release/2026/11/18/3406068/0/en/tdecu-names-chris-turnley-chief-revenue-officer.html"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -754,7 +858,7 @@
         "org_assets": 391.3,
         "org_members": 21050,
         "assets_as_of": "Q3 2026",
-        "notes": "With TBACU since 2012. Succeeds retiring President/CEO Karen Browne."
+        "notes": "With TBACU since 2012."
       },
       "sources": [
         {
@@ -810,6 +914,20 @@
           "sources": [
             "https://cuinsight.com/?p=169346"
           ]
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "With TBACU since 2012. Succeeds retiring President/CEO Karen Browne.",
+              "new": "With TBACU since 2012."
+            }
+          ],
+          "sources": [
+            "https://www.record-eagle.com/news/business/business-memoranda-11-18-2026/article_48a7e3d6-d17b-4b0c-bb0b-d0fc370c965f.html"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -840,7 +958,7 @@
         "org_assets": 391.3,
         "org_members": 21050,
         "assets_as_of": "Q3 2026",
-        "notes": "CEO since Jan 2008 (interim from Aug 2007); with TBACU since 1991. Successor: Meghan Chenoweth, starting Jan 5, 2027."
+        "notes": "CEO since Jan 2008 (interim from Aug 2007); with TBACU since 1991."
       },
       "sources": [
         {
@@ -875,6 +993,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "CEO since Jan 2008 (interim from Aug 2007); with TBACU since 1991. Successor: Meghan Chenoweth, starting Jan 5, 2027.",
+              "new": "CEO since Jan 2008 (interim from Aug 2007); with TBACU since 1991."
+            }
+          ],
+          "sources": [
+            "https://www.record-eagle.com/news/business/business-memoranda-11-18-2026/article_48a7e3d6-d17b-4b0c-bb0b-d0fc370c965f.html"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -1302,7 +1434,7 @@
         "org_assets": 95.0,
         "org_members": 7036,
         "assets_as_of": "Q3 2026",
-        "notes": "Co-leads with Amy Nelson through 2027; becomes sole CEO when she retires Jan 31, 2028."
+        "notes": "Co-leads through 2027, then becomes sole CEO when the other co-CEO retires on Jan 31, 2028."
       },
       "sources": [
         {
@@ -1339,6 +1471,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Co-leads with Amy Nelson through 2027; becomes sole CEO when she retires Jan 31, 2028.",
+              "new": "Co-leads through 2027, then becomes sole CEO when the other co-CEO retires on Jan 31, 2028."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/?p=219090"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -1369,7 +1515,7 @@
         "org_assets": 95.0,
         "org_members": 7036,
         "assets_as_of": "Q3 2026",
-        "notes": "Becomes Co-CEO Jan 1, 2027. Successor: Steve Pagenstecher."
+        "notes": "Co-CEO from Jan 2027 until retirement."
       },
       "sources": [
         {
@@ -1405,6 +1551,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Becomes Co-CEO Jan 1, 2027. Successor: Steve Pagenstecher.",
+              "new": "Co-CEO from Jan 2027 until retirement."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/?p=219090"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -1499,7 +1659,7 @@
         "org_assets": 2139.5,
         "org_members": 72593,
         "assets_as_of": "Q3 2026",
-        "notes": "CEO since 2007, about 40 years at IUCU (formerly CFO/EVP). Successor: COO Andy Allard, from Jan 1, 2027."
+        "notes": "CEO since 2007 and about 40 years at IUCU; earlier CFO and EVP."
       },
       "sources": [
         {
@@ -1540,6 +1700,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "CEO since 2007, about 40 years at IUCU (formerly CFO/EVP). Successor: COO Andy Allard, from Jan 1, 2027.",
+              "new": "CEO since 2007 and about 40 years at IUCU; earlier CFO and EVP."
+            }
+          ],
+          "sources": [
+            "https://www.idsnews.com/article/2026/11/iu-credit-union-111026"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -1570,7 +1744,7 @@
         "org_assets": 2139.5,
         "org_members": 72593,
         "assets_as_of": "Q3 2026",
-        "notes": "Chosen after a national search; COO since 2007. Succeeds Bryan Price."
+        "notes": "Chosen after a national search; COO since 2007."
       },
       "sources": [
         {
@@ -1612,6 +1786,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Chosen after a national search; COO since 2007. Succeeds Bryan Price.",
+              "new": "Chosen after a national search; COO since 2007."
+            }
+          ],
+          "sources": [
+            "https://www.idsnews.com/article/2026/11/iu-credit-union-111026"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -1973,7 +2161,7 @@
         "org_assets": 2720.6,
         "org_members": 167419,
         "assets_as_of": "Q3 2026",
-        "notes": "28+ years' experience, two decades in HR leadership; prior employer not named."
+        "notes": "28+ years' experience, two decades in HR leadership."
       },
       "sources": [
         {
@@ -2007,6 +2195,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "28+ years' experience, two decades in HR leadership; prior employer not named.",
+              "new": "28+ years' experience, two decades in HR leadership."
+            }
+          ],
+          "sources": [
+            "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2037,7 +2239,7 @@
         "org_assets": 2720.6,
         "org_members": 167419,
         "assets_as_of": "Q3 2026",
-        "notes": "Release doesn't say whether hired or promoted (CEO congratulates her on her new role). Earlier held leadership roles at Rockville Bank."
+        "notes": "Earlier held leadership roles at Rockville Bank."
       },
       "sources": [
         {
@@ -2071,6 +2273,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Release doesn't say whether hired or promoted (CEO congratulates her on her new role). Earlier held leadership roles at Rockville Bank.",
+              "new": "Earlier held leadership roles at Rockville Bank."
+            }
+          ],
+          "sources": [
+            "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2101,7 +2317,7 @@
         "org_assets": 2720.6,
         "org_members": 167419,
         "assets_as_of": "Q3 2026",
-        "notes": "Release doesn't say whether hired or promoted (CEO congratulates her on her new role)."
+        "notes": null
       },
       "sources": [
         {
@@ -2135,6 +2351,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Release doesn't say whether hired or promoted (CEO congratulates her on her new role).",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2300,7 +2530,7 @@
         "org_assets": 2940.0,
         "org_members": 158766,
         "assets_as_of": "Q3 2026",
-        "notes": "Leads Consumers Investment Services; joins from a private bank where she was SVP, regional manager."
+        "notes": "Leads Consumers Investment Services; joins from a private bank."
       },
       "sources": [
         {
@@ -2347,6 +2577,20 @@
             }
           ],
           "sources": []
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Leads Consumers Investment Services; joins from a private bank where she was SVP, regional manager.",
+              "new": "Leads Consumers Investment Services; joins from a private bank."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/consumers-credit-union-adds-investment-services-leader-and-two-mortgage-loan-officers/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2442,7 +2686,7 @@
         "org_assets": 2250.9,
         "org_members": 129221,
         "assets_as_of": "Q3 2026",
-        "notes": "Retiring later in 2027 after 32 years; successor search under way."
+        "notes": "After 32 years; a successor search is under way."
       },
       "sources": [
         {
@@ -2477,6 +2721,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Retiring later in 2027 after 32 years; successor search under way.",
+              "new": "After 32 years; a successor search is under way."
+            }
+          ],
+          "sources": [
+            "https://thecreditunionconnection.com/westconsin-credit-union-ceo-jim-wookey-to-retire-in-2027-after-32-years/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2507,7 +2765,7 @@
         "org_assets": 138.6,
         "org_members": 7406,
         "assets_as_of": "Q3 2026",
-        "notes": "Earlier Chief Lending Officer at a $700M credit union; 20+ years in lending incl. Elevations CU and Bellco CU."
+        "notes": "20+ years in lending, including at Elevations CU and Bellco CU; most recently at a $700M credit union."
       },
       "sources": [
         {
@@ -2542,6 +2800,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Earlier Chief Lending Officer at a $700M credit union; 20+ years in lending incl. Elevations CU and Bellco CU.",
+              "new": "20+ years in lending, including at Elevations CU and Bellco CU; most recently at a $700M credit union."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/aurora-federal-credit-union-announces-kristen-saito-as-vice-president-of-lending/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2637,7 +2909,7 @@
         "org_assets": 938.8,
         "org_members": 47594,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds retiring CEO Jeff Brehmer. With TLC since 2002 (started as a part-time teller); EVP over lending and operations since 2022."
+        "notes": "With TLC since 2002, starting as a part-time teller; has led lending and operations since 2022."
       },
       "sources": [
         {
@@ -2679,6 +2951,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds retiring CEO Jeff Brehmer. With TLC since 2002 (started as a part-time teller); EVP over lending and operations since 2022.",
+              "new": "With TLC since 2002, starting as a part-time teller; has led lending and operations since 2022."
+            }
+          ],
+          "sources": [
+            "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2709,7 +2995,7 @@
         "org_assets": 938.8,
         "org_members": 47594,
         "assets_as_of": "Q3 2026",
-        "notes": "CEO for 8 years. Successor: Alycia Nichols, from Jul 1, 2027."
+        "notes": "CEO for 8 years."
       },
       "sources": [
         {
@@ -2749,6 +3035,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "CEO for 8 years. Successor: Alycia Nichols, from Jul 1, 2027.",
+              "new": "CEO for 8 years."
+            }
+          ],
+          "sources": [
+            "https://thecudaily.com/new-ceos-named-at-cus-in-peach-state-bay-state-and-wolverine-state/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -2844,7 +3144,7 @@
         "org_assets": 4184.4,
         "org_members": 238034,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds Dave Preter, CEO for nearly 18 years (release doesn't say he's retiring). Earlier COO, CRO and general counsel; fifth CEO in 92 years."
+        "notes": "Earlier COO, CRO and general counsel. Fifth CEO in 92 years; the outgoing CEO served nearly 18."
       },
       "sources": [
         {
@@ -2885,6 +3185,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds Dave Preter, CEO for nearly 18 years (release doesn't say he's retiring). Earlier COO, CRO and general counsel; fifth CEO in 92 years.",
+              "new": "Earlier COO, CRO and general counsel. Fifth CEO in 92 years; the outgoing CEO served nearly 18."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/georgias-own-credit-union-names-eric-s-broome-as-next-president-and-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -3051,7 +3365,7 @@
         "org_assets": 886.3,
         "org_members": 36080,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds Barbara Mahoney, retiring Dec 31, 2026 (announced May 2026). 22 years at St. Mary's CU; placed by CU Leadership."
+        "notes": "22 years at St. Mary's CU; placed by CU Leadership."
       },
       "sources": [
         {
@@ -3094,6 +3408,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds Barbara Mahoney, retiring Dec 31, 2026 (announced May 2026). 22 years at St. Mary's CU; placed by CU Leadership.",
+              "new": "22 years at St. Mary's CU; placed by CU Leadership."
+            }
+          ],
+          "sources": [
+            "https://all-onecu.com/all-one-credit-union-announces-new-president-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -3124,7 +3452,7 @@
         "org_assets": 93.5,
         "org_members": 7840,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds longtime CEO Karen Madry, who retired. Community Link CEO since 2009 (started there as a teller in 1999)."
+        "notes": "Led Community Link since 2009, after starting there as a teller in 1999."
       },
       "sources": [
         {
@@ -3167,6 +3495,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds longtime CEO Karen Madry, who retired. Community Link CEO since 2009 (started there as a teller in 1999).",
+              "new": "Led Community Link since 2009, after starting there as a teller in 1999."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/afena-federal-credit-union-announces-hiring-of-misty-harrison-as-new-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -3338,7 +3680,7 @@
         "org_assets": 978.3,
         "org_members": 53009,
         "assets_as_of": "Q3 2026",
-        "notes": "Leads the internal audit program."
+        "notes": null
       },
       "sources": [
         {
@@ -3374,6 +3716,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Leads the internal audit program.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/financial-center-first-credit-union-names-kevin-kelly-vice-president-of-internal-audit/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -3468,7 +3824,7 @@
         "org_assets": 1100.1,
         "org_members": 72182,
         "assets_as_of": "Q3 2026",
-        "notes": "Newly created role focused on employee development and future leaders. Listed under promotions by CU Connection; prior role not stated."
+        "notes": "Newly created role focused on employee development and future leaders."
       },
       "sources": [
         {
@@ -3507,6 +3863,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Newly created role focused on employee development and future leaders. Listed under promotions by CU Connection; prior role not stated.",
+              "new": "Newly created role focused on employee development and future leaders."
+            }
+          ],
+          "sources": [
+            "https://creditunions.com/press_releases/lafcu-names-laura-blanding-director-of-corporate-education/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -4245,7 +4615,7 @@
         "org_assets": 1121.8,
         "org_members": 70984,
         "assets_as_of": "Q3 2026",
-        "notes": "Leaves a CEO post to join TopLine; 30+ years in the industry."
+        "notes": "30+ years in the industry."
       },
       "sources": [
         {
@@ -4281,6 +4651,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Leaves a CEO post to join TopLine; 30+ years in the industry.",
+              "new": "30+ years in the industry."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/mike-schenck-named-new-senior-vice-president-and-chief-lending-officer-at-topline-financial-credit-union/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -4311,7 +4695,7 @@
         "org_assets": 1113.7,
         "org_members": 75966,
         "assets_as_of": "Q3 2026",
-        "notes": "Joins Jan 4, 2027 as CEO-elect; becomes CEO after a transition. Succeeds Marshall Boutwell (CEO 32+ years), who becomes CEO emeritus."
+        "notes": "Joins as CEO-elect and becomes CEO after a transition. The outgoing CEO, in the role 32+ years, becomes CEO emeritus."
       },
       "sources": [
         {
@@ -4354,6 +4738,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Joins Jan 4, 2027 as CEO-elect; becomes CEO after a transition. Succeeds Marshall Boutwell (CEO 32+ years), who becomes CEO emeritus.",
+              "new": "Joins as CEO-elect and becomes CEO after a transition. The outgoing CEO, in the role 32+ years, becomes CEO emeritus."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/peach-state-federal-credit-union-welcomes-mr-walt-martin-as-next-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -4449,7 +4847,7 @@
         "org_assets": 717.0,
         "org_members": 38826,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds Scott Zahnle when he retires Jan 29, 2027."
+        "notes": null
       },
       "sources": [
         {
@@ -4491,6 +4889,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds Scott Zahnle when he retires Jan 29, 2027.",
+              "new": null
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/scott-zahnle-president-and-chief-executive-officer-announces-retirement/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -4521,7 +4933,7 @@
         "org_assets": 717.0,
         "org_members": 38826,
         "assets_as_of": "Q3 2026",
-        "notes": "With Greater Iowa since 2012. Successor: COO Julie Willse."
+        "notes": "With Greater Iowa since 2012."
       },
       "sources": [
         {
@@ -4562,6 +4974,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "With Greater Iowa since 2012. Successor: COO Julie Willse.",
+              "new": "With Greater Iowa since 2012."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/scott-zahnle-president-and-chief-executive-officer-announces-retirement/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -4730,7 +5156,7 @@
         "org_assets": 126.1,
         "org_members": 8751,
         "assets_as_of": "Q2 2026",
-        "notes": "Retiring at the end of 2026 after 27+ years; successor search under way."
+        "notes": "27+ years at the credit union; a successor search is under way."
       },
       "sources": [
         {
@@ -4770,6 +5196,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Retiring at the end of 2026 after 27+ years; successor search under way.",
+              "new": "27+ years at the credit union; a successor search is under way."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/plus-credit-union-announces-retirement-of-longtime-ceo-carol-j-schumacher-after-more-than-27-years-of-service/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -4866,7 +5306,7 @@
         "org_assets": 928.5,
         "org_members": 49096,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds Debbie Cook as CEO; placed by DDJ Myers."
+        "notes": "Placed by DDJ Myers."
       },
       "sources": [
         {
@@ -4909,6 +5349,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds Debbie Cook as CEO; placed by DDJ Myers.",
+              "new": "Placed by DDJ Myers."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/sun-east-federal-credit-union-names-jeff-gehris-as-new-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -4939,7 +5393,7 @@
         "org_assets": 928.5,
         "org_members": 49096,
         "assets_as_of": "Q3 2026",
-        "notes": "Handed the CEO role to Jeff Gehris on Nov 2; stays as President in an advisory role until she retires."
+        "notes": "Handed over the CEO role in November and stays on in an advisory role until retirement."
       },
       "sources": [
         {
@@ -4980,6 +5434,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Handed the CEO role to Jeff Gehris on Nov 2; stays as President in an advisory role until she retires.",
+              "new": "Handed over the CEO role in November and stays on in an advisory role until retirement."
+            }
+          ],
+          "sources": [
+            "https://www.cuinsight.com/press-release/sun-east-federal-credit-union-names-jeff-gehris-as-new-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
@@ -5010,7 +5478,7 @@
         "org_assets": 1474.3,
         "org_members": 81832,
         "assets_as_of": "Q3 2026",
-        "notes": "Succeeds Rick Skaggs, who is leaving after 16 years (not described as a retirement)."
+        "notes": "The outgoing CEO leaves after 16 years."
       },
       "sources": [
         {
@@ -5051,6 +5519,20 @@
         {
           "date": "2026-11-22",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-22",
+          "note": "Notes trimmed to background only (no repeated fields or research remarks)",
+          "changes": [
+            {
+              "field": "notes",
+              "old": "Succeeds Rick Skaggs, who is leaving after 16 years (not described as a retirement).",
+              "new": "The outgoing CEO leaves after 16 years."
+            }
+          ],
+          "sources": [
+            "https://www.businessobserverfl.com/news/2026/oct/20/tampa-credit-union-new-ceo/"
+          ]
         }
       ],
       "added": "2026-11-22",
