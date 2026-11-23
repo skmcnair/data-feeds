@@ -1,9 +1,37 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-23T01:51:24-05:00",
+  "generated": "2026-11-23T02:52:15-05:00",
   "trial": true,
   "lookback_days": 30,
-  "pending_inbox": [],
+  "pending_inbox": [
+    {
+      "id": "0d7fd4219cc5",
+      "title": "BUSINESS BRIEFS November 23, 2026: Business news in the Berkshires and beyond - The Berkshire Edge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHpfa3UzTkRleU9rZnRxZVQ1eHRVb08xdmdrMFpSZUFxVGdPSnB1N2lZczh5VG1OU1BlZm9oa211TGxZUnA3bU1FbFpqdWsxUzQ1Z3dRNkluN2VTSEliRzVGY1NJYUFlNGxUeXhuVXVxcGVMemhSZFdWSV9ZMFZRQXUtX19yZ2RIYmYxWG9xbWFPLWgwalpWVEVxTlZ5cUVfb0hCOWllMmw",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-23T00:01:31-05:00",
+      "found": "2026-11-23T02:52:06-05:00",
+      "summary": "BUSINESS BRIEFS November 23, 2026: Business news in the Berkshires and beyond The Berkshire Edge"
+    },
+    {
+      "id": "3aa3b8cc9b6a",
+      "title": "November 22, 2026 The Honorable Donald J. Trump President of the United States The White House 1600 Pennsylvania Avenue NW Washi - Defense Credit Union Council",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOLWJmTzh5SkJUWURiRGZ1b3BnVHlZS2o5Z0UtUnFBN1FPSHhZWHhMMXY4OWJmeDUzQm52UzBkSzlLakpmRE15Q096eTluMFFvbWI4LVVRTEVHY1NZMW1FWExrekJfeHdtdHV4ZFNna09kbTA5OS1oOHRvY0xVZ3BQZW82b29jVUpkMjBEVmlJcXV1NWNRT0djVGVfZzAtVS1uRVp3cnJYNmVQemRxTkZQcUdnY0phYnlIUDRBQVZhUHBHSkJucndnaENUMkFPMmFtZ1ByNDVSNThTZWphQUl4WWQzTDBaUWFwb0l1VUdwNkNfS2VkVHZaVWdNVzFpa0tLS195SER2ZmxtUGFRUmlPaQ",
+      "source": "Google News - CU Times and CU Today people",
+      "published": "2026-11-22T23:29:16-05:00",
+      "found": "2026-11-23T02:52:06-05:00",
+      "summary": "November 22, 2026 The Honorable Donald J. Trump President of the United States The White House 1600 Pennsylvania Avenue NW Washi Defense Credit Union Council"
+    },
+    {
+      "id": "e1d7ce03210c",
+      "title": "Developers Reveal Name, Affiliation for New Bellefonte Waterfront Hotel - StateCollege.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzY3MkllSFl3UFpDQXZaUi16bUVvdjV3eUhsMnZObGRPdHRIbS1rQWh2YnVJVzRZYmhlcVVSVVk2VXhGTGZDd0Ywd09jTzdoelp6eDFGMnRuUURFMkFSRDRGSWtRY2hrX3lNOHhhZHRfQVlsTkZqUkZHLWxsd05vT2RkNGpGNFBxQ2w4TVFKYlNUbUxKRWszSlNOWmQ5NWpGRXNnU1RaazhBeXM0VThVZUhiajMwdnlub1hsdw",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-16T16:17:21-05:00",
+      "found": "2026-11-23T02:52:06-05:00",
+      "summary": "Developers Reveal Name, Affiliation for New Bellefonte Waterfront Hotel StateCollege.com"
+    }
+  ],
   "recheck": [
     {
       "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
