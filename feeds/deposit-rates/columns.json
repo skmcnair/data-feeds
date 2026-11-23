@@ -1,0 +1,143 @@
+{
+  "title": "Local Deposit Rates",
+  "item": "rate",
+  "columns": [
+    {
+      "name": "institution",
+      "label": "Institution",
+      "kind": "org",
+      "short": "institution_short",
+      "logo": "institution_logo_url",
+      "style": "institution_logo_style"
+    },
+    {
+      "name": "product",
+      "label": "Product",
+      "kind": "choice",
+      "choices": [
+        "Savings",
+        "Money market",
+        "CD"
+      ]
+    },
+    {
+      "name": "offer",
+      "label": "Offer",
+      "kind": "choice",
+      "choices": [
+        "Standard",
+        "Special"
+      ]
+    },
+    {
+      "name": "term",
+      "label": "Term",
+      "kind": "text"
+    },
+    {
+      "name": "status",
+      "label": "Status",
+      "kind": "choice",
+      "choices": [
+        "Current",
+        "Ended"
+      ]
+    },
+    {
+      "name": "product_name",
+      "label": "Product name",
+      "kind": "text"
+    },
+    {
+      "name": "apy_1k",
+      "label": "APY $1K",
+      "kind": "text"
+    },
+    {
+      "name": "apy_10k",
+      "label": "APY $10K",
+      "kind": "text"
+    },
+    {
+      "name": "apy_25k",
+      "label": "APY $25K",
+      "kind": "text"
+    },
+    {
+      "name": "apy_100k",
+      "label": "APY $100K",
+      "kind": "text"
+    },
+    {
+      "name": "min_deposit",
+      "label": "Min to open",
+      "kind": "text"
+    },
+    {
+      "name": "conditions",
+      "label": "Conditions",
+      "kind": "text"
+    },
+    {
+      "name": "ends",
+      "label": "Offer ends",
+      "kind": "datetext",
+      "sort": "ends_iso"
+    },
+    {
+      "name": "rates_as_of",
+      "label": "Rates as of",
+      "kind": "date",
+      "sort": "rates_as_of_iso"
+    },
+    {
+      "name": "inst_type",
+      "label": "Type",
+      "kind": "choice",
+      "choices": [
+        "Bank",
+        "Credit union"
+      ]
+    },
+    {
+      "name": "membership",
+      "label": "Membership",
+      "kind": "choice",
+      "choices": [
+        "Open",
+        "Restricted"
+      ]
+    },
+    {
+      "name": "local_branches",
+      "label": "Local branches",
+      "kind": "int"
+    },
+    {
+      "name": "notes",
+      "label": "Notes",
+      "kind": "text"
+    },
+    {
+      "name": "product_label",
+      "label": "Rate",
+      "kind": "text"
+    },
+    {
+      "name": "confidence",
+      "label": "Confidence",
+      "kind": "percent",
+      "note": "confidence_notes"
+    },
+    {
+      "name": "updates",
+      "label": "Updates",
+      "kind": "text"
+    },
+    {
+      "name": "source_url",
+      "label": "Source",
+      "kind": "url"
+    }
+  ]
+}
