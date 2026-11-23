@@ -1,9 +1,27 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-22T19:30:09-05:00",
+  "generated": "2026-11-22T20:30:30-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "594522445309",
+      "title": "Newsmakers: Park Theatre names new executive director - New Hampshire Union Leader",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3VDY1hkd3FRdVJ3U1JPWnd0ZDdBNnJoX19mczZ5WF9wSVQ0OThGWUp4ZHJPZ1BGTUczUXpyNF8wb2RVQVpGeEppRmttLWdfaF9MNWdCM3BLajZiR2trc0dFbDV1N3hsamRINGNnZHJBWWczVjNpV3Nkak9yVVRXMldNWFo",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-22T17:01:14-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Newsmakers: Park Theatre names new executive director New Hampshire Union Leader"
+    },
+    {
+      "id": "fac425ffc011",
+      "title": "Newsmakers: Park Theatre names new executive director - New Hampshire Union Leader",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0NEaEJqdUNZV2ZySzc3Ni1FYkJVZ050a3FmMjRScmxrVHlVZC12ejUwWUp6d2VrY2hNTzVrMG9ZMVNhX2F2MU5ZeHFoZFBHcEdwSC0wdC0wZXVZVWItY1lSa2I0OGROemx1RU9CMjhrem9raUl5NVlpaFJSMHhVdllyNA",
+      "source": "Google News - credit union retirements",
+      "published": "2026-11-22T17:01:11-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Newsmakers: Park Theatre names new executive director New Hampshire Union Leader"
+    },
     {
       "id": "e948090b3412",
       "title": "Hwasun Credit Union Chief Inspects Loan Collateral in Person - Seoul Economic Daily",
@@ -113,6 +131,15 @@
       "summary": "Greylock FCU Names First Associate Board Member Under New Leadership Program CUToday"
     },
     {
+      "id": "8c9487085e63",
+      "title": "Cloud for Good Appoints Former Salesforce Executive Steve Dobbs to Board of Directors - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0ExSHFqb1VBVmJsUmNUSmhYWTltS2V0WVI1SkZORDdqa05MTmRMelQwamNHSXFhallfbUp3MFZVZG1RLXdwek9kRm5paktWTTgzRnpYQUlGclg0Z0pvQzVxa0tnbVR1ZUtvYXJabnpsZnkyRVFoamtZQjNWR0YyVUprZlVpcGcydnBCX1ctVDlCdUZDZjRzS0pMMGNidHpINXVUOTVRRGl4QWZUallIOHljeTFIeWdybm9aRkFOZTFWQQ",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-20T12:21:22-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Cloud for Good Appoints Former Salesforce Executive Steve Dobbs to Board of Directors citybiz"
+    },
+    {
       "id": "e9262d0bb4b2",
       "title": "Better, NEXA, MBA announce leadership and hiring changes - HousingWire",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkZUZFZ01ib2pzclhSckNieUFXWmg0bEJBb014cUM2VnV1NV9md0hwZWpKanl6MHFSQm5ZTWhtVm5TMkpENkx2TU01YktTeFFHMU40YmVhUlQ2N3pISTIyMkNpVHJGOTVWd25ZM2o2WW95aUNxUmxudEcwUkRzdw",
@@ -131,6 +158,15 @@
       "summary": "SchoolsFirst CEO: Credit Unions Must Be a Lifeline CUTimes"
     },
     {
+      "id": "7369521b881f",
+      "title": "Signal Mountain Fire Department welcomes Travis Williams as their new Fire Chief - WTVC",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmxNZDU3MFY2V2d0ZVZaMzR5eHRRSDB5NlZSNEJwdVFDUkFZTWdJcDYydFM4Z2NjOU03bGdWUXJEOG5qZGUzX2FwYlZBQWVEclZPcGpJTXFpMkY5YmRubFhaeHR0MW1zWnlaR3VWMVFNRWxxQjBxSDV3NzQ1REYxSWdYb09CZThYTk9XVlN2ODlaZUQySFpPSVNEQ0NITmcxMkxLWGdNLWlId3ZBdFZJSmkxc1Y4ZUV1WVcxanlEQ1R2UWE4R3JMU0FDYVg",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-20T09:49:30-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Signal Mountain Fire Department welcomes Travis Williams as their new Fire Chief WTVC"
+    },
+    {
       "id": "95d81fe178ba",
       "title": "Cloud for Good Appoints Former Salesforce Executive Steve Dobbs to Board of Directors - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMmdjZnVBZDBzT05ObHdtQ2dlR0lJUDVtdHBKNlhGd0preHZzUUhlYzhuRFRnc1JTNlFxbDl4bzhlQzFCRmJrcGJpU1c4UDdKWmZpNEJOTTVqS1FSZ2tqak5ta0VTWGV6MGMzcURRN0JIV3JvREQ2MTcwVGRaUXlyMnViRDE2QjZQQ2JZdmZJV0ExMlpZWkR1NV9fdDNiNFZkUzB4QktzNl9LRzltX2Fic1FoMGUzQ2tqRXp6LTVNN3ByZVM2TnBNY0JFT2ZGRFo5WDFsbkJzQkU",
@@ -147,6 +183,15 @@
       "published": "2026-11-20T05:30:00-05:00",
       "found": "2026-11-22T08:12:09-05:00",
       "summary": "A Porsche for your deposits? Welcome to banking in 2026 The Globe and Mail"
+    },
+    {
+      "id": "4b17070b822d",
+      "title": "American United & First Californian Name Change to Haven Credit Union Announced - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2tKNy1ybmFNUUtLWnpaWWhxWGt3aEQtRzVCdHFmQXFJYm1CM2tCd0tkdEVpXzdJaXhuSE50MVQxVE9rbWJVbGFuWklfNExrVFhJWTk0Rnp3dkNVTjdlNnlScDZOM0hWUVc0NDFCQUNXUXhjcDJQdVpQY2JXREdJdDdrdURWQVh3UTVJODI2cEd2QjI4NWk1bTMySjVTc081QVVJZXVpbWE0eFlCN01aY0pMajV2R2hybmRCOGwyTTdHUkpSQmZCMjlPdmRMa2ZZNkJuQzYxenhnZEVzZzVmdFRB",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-20T03:51:00-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "American United & First Californian Name Change to Haven Credit Union Announced FinancialContent"
     },
     {
       "id": "78cc8d6b3284",
@@ -203,6 +248,15 @@
       "summary": "REV appoints Brenda Arndt as Senior Vice President of Marketing CUInsight"
     },
     {
+      "id": "6258eb06478d",
+      "title": "Monson Savings Bank Welcomes Jessica Camp as Commercial Credit Officer - BusinessWest",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONlgyOEN4S20wNnVTRlQ2bVdxMkxtQ21vbVhOZVc3clFXYnU2UWRfMWRlYTZXTUtIeEh0VFhsUUJsSm1ET1NBWlFEVEdDdER0LVhaMzNrOHNnRm5pT21TUkhRSGRMTXBiaVhhNjNyanZKQ21UaUUtTWg4bkJOWFdDbkVGekFQc2o5LVkxUHBmbzJBSWNZU3lYa2VBMzRXWlB3VndR",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-19T16:06:17-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Monson Savings Bank Welcomes Jessica Camp as Commercial Credit Officer BusinessWest"
+    },
+    {
       "id": "60b6eb495612",
       "title": "Arsenal Credit Union Names Christian Marcussen as President and Chief Executive Officer - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2dENXdpSURScXlXNjRENWcyMVFrbVlpektOdXJtbWxvQVp3VVk2VHlQbEl0cHZkYnREY0EtY0Q5ajhEWVp5N3BhcS1mME9FTXB2Z0gxdGJuaEFSR1ZrN1FVai1wQk95enB5Y2l5dXVTZUNEVWFRbjBONV9HYWI5NGV4bGJ6NXFubDRDYUN3WXJ2c2c3aFVVdTNlQXNFTm02Ti1EWERHWGFpbXl6cnJ0ZkdjUGJUOTNlM01aM0xJT2RyWS1Zb00zNzNvNVVSRlU",
@@ -228,6 +282,15 @@
       "published": "2026-11-19T13:53:30-05:00",
       "found": "2026-11-22T08:12:09-05:00",
       "summary": "A credit union's technology is only as good as the person deciding what to build, what to buy, and what [...] The post Lake Trust CU Names Chief Information and Operations Officer appeared first on The Credit Union Connection ."
+    },
+    {
+      "id": "a040aa352b31",
+      "title": "True Media Canada Appoints Kristin Wozniak Successor to President Bruce Neve - LBB - LBB - Little Black Book",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVotOG5MblBPd3JZTFRFZ1ZISW5pMy05M1pYM1VXcDBwS1RKQTdVUTdCZ2twb2oyNFpwWndFLUxqRTU2allTV2pObndISUxfLW1aX1NtdHRZZ2syVTVodl95ZlBOTGxTZlVtOF83Q1VCUkV5TmFaMWU2RWRqcHR1VGRWWGVQdDVYNDdsMlFnai1FeTBOVHd3LUpNQzFDZnR3LXI1RHl3",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-19T12:29:55-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "True Media Canada Appoints Kristin Wozniak Successor to President Bruce Neve - LBB LBB - Little Black Book"
     },
     {
       "id": "bb53791fc2e4",
@@ -293,6 +356,15 @@
       "summary": "GWLN Names First Recipients of Impact Grants; CU Impact Foundation Selects 4 Scholarship Winners Credit Union Daily"
     },
     {
+      "id": "245a2e8ac8bc",
+      "title": "True Media Canada appoints Kristin Wozniak as President; Bruce Neve retires after 10 years - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW9kcm80a0NCVUV2dXRvcmF6S01hOWduN2N0QklFX1BTRHF2bVlEbEIzZ2tQYWlqVTQtNEdjaHlodGx0VHpuRUNmM04xdlZvZXZlWkZZSlM1YWpvb1BIZGRkbDJNVjltTGhBblZ4S2F4NWNyaElNU243YnBqTzZoMDAyaGpleUFucmZzQWNxaDJKUGtDTmhDS083Z1V1ZWdyTXFUUFJUSTFWc0pnYUhqNVpMdTZ5dXhxRUE",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-19T01:26:31-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "True Media Canada appoints Kristin Wozniak as President; Bruce Neve retires after 10 years MediaNews4U"
+    },
+    {
       "id": "39ce44f73a20",
       "title": "Jeanne D'Arc Credit Union names Gina O'Neil SVP, Chief Human Resources Officer - CUInsight",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFlmSjB3R3BFZDBKMlRQRWdmUVRtMW9LbndUUHdobWJHaUVXT3hUdGdsSGVLWklfM3hleHBsel8xRDFUN2IwX3VsUVlWaklEUURtR1Z3cmtQNllraVBhbDB6WkdKNFZFRjUxdzhiTHZVQ0RXRFNxQ2hLVDRxSGdwVnRhWTBrRUEyUE1BNDlmZVJ6NWo4TkJmQzc4bllub1d0WTJCNldBOW5VSDBSMk9iRHpWVDJHVjA",
@@ -309,6 +381,15 @@
       "published": "2026-11-18T21:44:37-05:00",
       "found": "2026-11-22T08:12:09-05:00",
       "summary": "Jeff Brooks named BHFD Chief Beverly Press & Park Labrea News"
+    },
+    {
+      "id": "ebca71f8d586",
+      "title": "Coloma Elementary welcomes new therapy dog - WNDU",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDU3VmlRbDMzZnlNWVNNYUg3eE9yWXVkVVNqdkQxekVPVElGSjZOOXN4Sm9aS3lnc3RfaTFpZHh6bnZxQkNqSkU2c3RKRDEtSVhfZnROM29IcGtNbndWbnRyUmhHcnRYVU1IQmV5R3ExVndFSVVFMlgzMnFvVEhkZUF5cXNOMG0yb1BzenllVVNkOGRtejd3cXFNQmE",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-18T18:54:00-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Coloma Elementary welcomes new therapy dog WNDU"
     },
     {
       "id": "d11ce9b5f406",
@@ -345,6 +426,15 @@
       "published": "2026-11-18T13:50:24-05:00",
       "found": "2026-11-22T08:12:09-05:00",
       "summary": "Palmetto Citizens Foundation selects five nonprofits for inaugural $100,000 Fuel the Change Campaign CUInsight"
+    },
+    {
+      "id": "4c4b0ea29f91",
+      "title": "TDECU Names Chris Turnley Chief Revenue Officer - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlhiUF8ycW5xaGxiVWl3T2RDSjRBMnl0N3FJNHdUMWZFaUFYc1FmQ1E3bzNkYzVEQm5zMjdoRmpZeklxeS1NdFIyZnBWNjJZVDdBLV80dkhzaWJjZE1yRnlHaVVZQkl1NVZleElycDF2NnljZGEtcFN5WkRnUk1jWkRCc0J4cUdJY1BrNkwxMHFzcXJyMzZUS0RVRVk1Wmk4M0hsNEZ4VFBjbVN6a2Z5bGVMQTNUOGl2MFBn",
+      "source": "Google News - press wires",
+      "published": "2026-11-18T12:34:59-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "TDECU Names Chris Turnley Chief Revenue Officer GlobeNewswire"
     },
     {
       "id": "498ac1875b11",
@@ -390,6 +480,15 @@
       "published": "2026-11-18T09:37:42-05:00",
       "found": "2026-11-22T08:12:09-05:00",
       "summary": "Leadership Elevation Congratulations to Heather Bianchini, CCUE-WCMS on their elevation to Vice President of Digital Delivery, Member Experience Administration at Unitus Community Credit Union ! In this expanded role, Heather will help lead"
+    },
+    {
+      "id": "0ccecb54fcc4",
+      "title": "Never put a loan into a business you don't know, credit union CEO says on Onua TV's Awia Bre - 3News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2lsMzZDeVVNY1c1MGdaQmM5TFMzOWpLWEt4Q3VGcVJVTm9iOWd1eHprRngtUm9FZC1tU09kdVJzYVFzR25pakJ1bFF6eUEtd3JQMnBkY2NnUDloRG5ESktCWFRtanlrS3BQLUNsdk5mTGtGQlRrQ09mMUNBWElHTEJrTnpIWmdra0E2bzNnY2ZXUWNNRjFR",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-18T09:30:16-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Never put a loan into a business you don't know, credit union CEO says on Onua TV's Awia Bre 3News"
     },
     {
       "id": "5f5ad6aafc0a",
@@ -545,6 +644,15 @@
       "summary": "Credit Union Impact Foundation announces 2027 recipients of the Kelsie Davis Memorial Leadership Journey Scholarship CUInsight"
     },
     {
+      "id": "b72b86e16c1d",
+      "title": "Tinker Federal Credit Union Selects Ameriprise Financial to Manage its Investment Program - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFBjREVDSmZEZmw3Wk8wVUltajZhTDR2UVZWRGZBcnFlM2hEZk1sdk92S3RnYW1iSHZGQldWRlVnN0lfcEtpbTBuVFdaV2paN0tOeW53cU12dm1XaW9YOXkzLVJpYXBaLURUeWliZGRVUE80clY1M3ZQN2NrZDR2OE54cTNzRjhoTGdudU0zVUJkZWxablZQQmZKSUpsdWhjdEVRYkxXVXlFWFh3cVd0dHJod3JRUWhTcElCVk5GNU5HM2NKYmd0bVdQSVlzNEFJWFJ0MVNQSDdwUTBuZEpV",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-16T14:05:00-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Tinker Federal Credit Union Selects Ameriprise Financial to Manage its Investment Program Business Wire"
+    },
+    {
       "id": "f92e055865b3",
       "title": "ALM First Wraps Up 2026 Governance & Leadership Symposium - Credit Union Daily",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjJRTkFPTnYwTi1oVkN6RG1PNnpzNThmVWRHWFgwWlFpYU5yeWlaZDJCcWtSaE5IdHFnQTM4WVIzbXU0Wkxsa1pTM3B1R1BpOHpMTTUxdWNZaVFCMzZvLW9vaGtndEtWRXpKWGU2RW9YRlM4UVlLdE5nbUIwZHZGTFpZV05PZw",
@@ -552,6 +660,24 @@
       "published": "2026-11-16T03:23:40-05:00",
       "found": "2026-11-22T08:12:09-05:00",
       "summary": "ALM First Wraps Up 2026 Governance & Leadership Symposium Credit Union Daily"
+    },
+    {
+      "id": "b48a9f5e390c",
+      "title": "Banc of California Names New Investor Relations Head - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXNtMldPekxSSjdyR3RKZXBxcEkwOTRxUmQxQmpFLXlUVWM1S0xRN0Z5cUVCX1JKWExLN24zU3NINThPTmhidUUxc3NRU0hiandObnM4dkpkdDFtNEo2bmFLSWhpVGM2Mm9nMmQ1U3JKQWtpYUVONXFEd1lxcHVRMWRtUXBqU1JRVXh5Z1kwa3VuUU5PZFFKV0NuS3UyQzl6cmZoTjh0WGQ",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-16T03:00:00-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "Banc of California Names New Investor Relations Head Wisevoter"
+    },
+    {
+      "id": "74ecc44506d8",
+      "title": "People on the Move: Providence School Board Names Interim Superintendent - Go Local Prov",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajZ4Q1VOT1lIRk5ja3hCYUxXZnhWTWUzSlY5OENiNFZndy15NUhsQVVWaWlBZUVXQXBUNWdmR0xpMjVMNTZwS2FQTmN2b3N1T1VaeWpNaUg3UFZDbGhWRXI2c3FtSEQyR05hYmhZa3EyZlZ3SHU3WEJMV1Bfd1J5eHFlOFNmZGZRcGNWQUhpaER0MFVVX3NFQS0ydUwzSWNMRWprZ09zQQ",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-16T02:29:00-05:00",
+      "found": "2026-11-22T20:30:24-05:00",
+      "summary": "People on the Move: Providence School Board Names Interim Superintendent Go Local Prov"
     },
     {
       "id": "c31bbaf31b5c",
