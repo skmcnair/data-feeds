@@ -1,9 +1,36 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-23T16:34:18-05:00",
+  "generated": "2026-11-23T17:05:24-05:00",
   "trial": true,
   "lookback_days": 30,
   "pending_inbox": [
+    {
+      "id": "e91f651c682a",
+      "title": "Arsenal Credit Union Names Digital Banking Veteran As New President, CEO - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzlsUmhXNGp1Qm1ILUlaQ1U5WHc0Wmd4bkxDV2s2NTkwVXQ1RjFIcUVHZnU3eEVDOVRETE85RFk3ZG5QN3FLazRPS0E1b21kbzFUVkZ4YXVyZjVqdVFqeE0tLVhCSGxkWTZyWk50SGJINGd1NzNQbEpmQ0c3TnZ3alNVbTl2SkVyWEowMFI0VGQyWWhzeFA5SWtqVFV3alljX1JuOGR2RVJfcGxN",
+      "source": "Google News - CU Times and CU Today people",
+      "published": "2026-11-23T16:10:34-05:00",
+      "found": "2026-11-23T17:05:17-05:00",
+      "summary": "Arsenal Credit Union Names Digital Banking Veteran As New President, CEO CUToday"
+    },
+    {
+      "id": "5edc8721b26a",
+      "title": "Judge Enters Order Requiring Former CEO to Forfeit Approximately $69M, Surrender Property in JAFCU Embezzlement Case - Credit Union Daily",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnFYaEJwVTYxal82dEhCSHdROGd3a0hvTDhKQ0N0Sm9YRVh2OVJ3c2xabWVVcUZ6ZzlQemhsYXdLYjRPZGJQaEh2NjRiTFA1b2xDaHF3TGJ3Y3o5bGhjWDNWZVFiN3htWlRvZ3B5RVZmdjEtQU5oQlpfUnJxUFRjSmJlUDlqd2JMYVNNOEtzcmp6YkNNQ19GWjFmRFVqSlJ5ZDRoU1NXdk5xSXJGU1N1eHVPanZWUE1ERUg3SXVTLS1zdkZ6STh1SDVvbHgtUDFFX1RtUw",
+      "source": "Google News - CU Times and CU Today people",
+      "published": "2026-11-23T15:13:54-05:00",
+      "found": "2026-11-23T17:05:17-05:00",
+      "summary": "Judge Enters Order Requiring Former CEO to Forfeit Approximately $69M, Surrender Property in JAFCU Embezzlement Case Credit Union Daily"
+    },
+    {
+      "id": "a2ae23643f6f",
+      "title": "Judge Enters Order Requiring Former CEO to Forfeit Approximately $69M, Surrender Property in JAFCU Embezzlement Case",
+      "url": "https://thecudaily.com/judge-enters-order-requiring-former-ceo-to-forfeit-approximately-69m-surrender-property-in-jafcu-embezzlement-case/",
+      "source": "Credit Union Daily",
+      "published": "2026-11-23T15:10:25-05:00",
+      "found": "2026-11-23T17:05:17-05:00",
+      "summary": "JACKSON, Miss. - In the ongoing case involving one of the largest embezzlements in credit union history, a federal judge entered a preliminary order Friday requiring the former head of [...] The post Judge Enters Order Requiring Former CEO "
+    },
     {
       "id": "a280969e7259",
       "title": "ABNB Named The 2026 Civic 50 Hampton Roads Award Top Company for Medium-Sized Businesses - Credit Union Daily",
@@ -48,6 +75,15 @@
       "published": "2026-11-23T04:44:08-05:00",
       "found": "2026-11-23T05:27:45-05:00",
       "summary": "Hanscom FCU CEO Says Members Should Make Call on Merger, Not Deposit Insurance Company Credit Union Daily"
+    },
+    {
+      "id": "cc4199af24f2",
+      "title": "People on the Move: Morales Names EPI's Nelson-Davies as Providence's COO - Go Local Prov",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFc3MnQ3SFByTG5UTXg4ck0xNDdZa2dKanBiTlZpM0M1czFmYVUtY05mbVpqYjJUQnRiZ3cyVjJnNTBaYzNQc2JlcURVd0xiM2FLWnpGclVsOVRTRG9KcVF0bThBZl9mT2tOSFBwQ2x2LXEzQUFoUTQxelFtWVBPVmFEbkVrV2dWd2RSWm9BNkF6SjRON3Z4ZlVQTE52RG93OHJZRXRn",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-23T02:29:00-05:00",
+      "found": "2026-11-23T17:05:17-05:00",
+      "summary": "People on the Move: Morales Names EPI's Nelson-Davies as Providence's COO Go Local Prov"
     },
     {
       "id": "0d7fd4219cc5",
@@ -102,6 +138,24 @@
       "published": "2026-11-21T00:52:50-05:00",
       "found": "2026-11-23T05:27:45-05:00",
       "summary": "African Union (AU) Staff Association Executive Committee Reviews Governance Framework and Prioritises Staff Welfare at Technical Meeting in Kigali Social News XYZ"
+    },
+    {
+      "id": "1dc2425c659d",
+      "title": "Jeff Adkins Elected 2027 President of Detroit's Public Relations Society of America Chapter - DBusiness Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2NDeFJLTHJndlJ0OE43Y2pvWkMzWHNwOUlHVzBUdzdLRG1SVnZ6LVZlVVJvUXZXZElZM05xSnh0MzU3RHM1TG9iQVgzQnBVUGI5Nkxxakc5NnNRclA1emkxNG5fLW1uSjRPTDZseldpZXBEemxJbFdCR0ptS2ZTNExUTjhxTXVteldPV2lJRDJiR0g0eEwyQWNWUWdhMTBteWRNSHZKS2ZHZVltal9rS0EwaWwzOFk2cDBfRDllN0R6Zw",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-20T14:34:03-05:00",
+      "found": "2026-11-23T17:05:17-05:00",
+      "summary": "Jeff Adkins Elected 2027 President of Detroit's Public Relations Society of America Chapter DBusiness Magazine"
+    },
+    {
+      "id": "fd3542451817",
+      "title": "Signal Mountain Fire Department welcomes Travis Williams as their new Fire Chief - wtvcfox",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFlRUkdtOWl0Ul92RXA1Wi1Hc29WUW5SeDMyeWJETVJIRFpVWm15X1hEWVRJdXA1TmNlWEJ5ZnpsWkZUTTBac2tDSWZ2TTFIV3lWSVNnY251bllmQjc0cDBMaVMybWhEYy1hcFBBRlhCVDNCbnJhSTRzS3ludmpTN2J0bEtKMkNRVlEwQXNRUVVxWUhscmJVWjEtazhrdUs0WFdVR2JKX25uZDVOVG4tMlE0UnRUZHhHUjIxNE54RkRxNGlzV0xpdkV5eGhtd2s",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-20T12:22:19-05:00",
+      "found": "2026-11-23T17:05:17-05:00",
+      "summary": "Signal Mountain Fire Department welcomes Travis Williams as their new Fire Chief wtvcfox"
     },
     {
       "id": "907d5a4dcf80",

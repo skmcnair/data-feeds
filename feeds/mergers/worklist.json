@@ -1,9 +1,36 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-23T16:34:18-05:00",
+  "generated": "2026-11-23T17:05:25-05:00",
   "trial": true,
   "lookback_days": 30,
   "pending_inbox": [
+    {
+      "id": "67f69fd59c61",
+      "title": "Landmark Credit Union Completes Fox Cities Bank Acquisition - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVRkckZfdzNYcFc0Nko4dlNVbFY1ZFlxTHpoamVNQjdtUnpqWW1WTVBFRTF6YUVEZ0hhWkQ4bkxFQjU5eG5rV014bWtHVXUzYXpEaERxNWk1X0llLTFVZDBWaC1zVDQwZlpHcy1wb3VBdlJxX0dCQjYxc2RCUHFsTHhFNExDWHJwaFJ0QUpfY3pzN3NhQXpWTkNXV1FmNHItMHpaU0dFWWc1a1dSM3c",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-23T17:04:40-05:00",
+      "found": "2026-11-23T17:05:20-05:00",
+      "summary": "Landmark Credit Union Completes Fox Cities Bank Acquisition Hoodline"
+    },
+    {
+      "id": "7504fb1cd090",
+      "title": "Evermore Bank in Broward to be acquired by expansion-minded Miami-Dade-based credit union - Sun Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXE0dEt2RG5iemVfOS12NkRmRXU0OGoycWk2ZGNXSTZhS1BINGQ2OC1SRHRjSFU1RkNpZjRST1l3MnppLVc0ckxLT1ppRW5RY0FYdXBFMFB2OU9nU3o4dEFtbTRwSjNTTVhuRTVUZWsxOFNybUY1b2tGZTJWMmdmbWw5bExNWF9FX3AwTzdZWWtGSUZiVVZzTHdLMDFySTZQMWNUTWo0N1pnVVVRNldESWdYTDViaWFyTUFzTlVIZkUxYm1YVHVmQnNR",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-23T15:20:18-05:00",
+      "found": "2026-11-23T17:05:20-05:00",
+      "summary": "Evermore Bank in Broward to be acquired by expansion-minded Miami-Dade-based credit union Sun Sentinel"
+    },
+    {
+      "id": "2017c33db9af",
+      "title": "First Horizon eyes growth while maintaining 'optionality'",
+      "url": "https://www.bankingdive.com/news/first-horizon-bank-optionality-ceo-jordan-charlotte-hiring/875504/",
+      "source": "Banking Dive",
+      "published": "2026-11-23T12:22:33-05:00",
+      "found": "2026-11-23T17:05:20-05:00",
+      "summary": "CEO Bryan Jordan, speaking at the opening of the bank's new space in Charlotte, North Carolina, said operating with a long-term mentality positions First Horizon to be a buyer or seller amid industry consolidation."
+    },
     {
       "id": "94c7665456bf",
       "title": "Madison Dearborn Partners to Acquire Peli BioThermal, a Trusted Cold Chain Solutions Provider, from Pelican Products and Platinum Equity",
