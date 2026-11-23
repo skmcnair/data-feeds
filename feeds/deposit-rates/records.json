@@ -10805,6 +10805,633 @@
       }
     },
     {
+      "id": "2026-11-23-webster-bank-savings-standard-item",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Savings / Premium Savings",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-money-market-standard-item",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Personal Money Market",
+        "apy_1k": "Not eligible",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$2,500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-standard-3-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month CD",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-standard-6-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month CD",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-standard-12-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month CD",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-standard-24-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month CD",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-standard-36-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month CD",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-standard-48-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month CD",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-standard-60-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month CD",
+        "apy_1k": "0.01%",
+        "apy_10k": "0.01%",
+        "apy_25k": "0.01%",
+        "apy_100k": "0.01%",
+        "min_deposit": "$500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-special-11-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "11 mo",
+        "term_months": 11,
+        "status": "Current",
+        "product_name": "Personal 11-Month CD",
+        "apy_1k": "4.00%",
+        "apy_10k": "4.00%",
+        "apy_25k": "4.00%",
+        "apy_100k": "4.00%",
+        "min_deposit": "$500",
+        "conditions": "Promotional; Webster Private clients get 4.25%",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
+      "id": "2026-11-23-webster-bank-cd-special-18-mo",
+      "fields": {
+        "institution": "Webster Bank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "Personal 18-Month CD",
+        "apy_1k": "3.75%",
+        "apy_10k": "3.75%",
+        "apy_25k": "3.75%",
+        "apy_100k": "3.75%",
+        "min_deposit": "$500",
+        "conditions": "Promotional; Webster Private clients get 4.00%",
+        "ends": null,
+        "rates_as_of": "2026-11-23",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 39,
+        "counties": "Hartford, Middlesex, Tolland, New London",
+        "notes": "Webster Bank is a division of Santander Bank, N.A. (branch count = Santander offices acquired from Webster on Aug 20, 2026). Read in a browser from Webster's consumer deposit rate sheet."
+      },
+      "sources": [
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/security/protect-yourself/disclosure-fees/consumer-deposit-rates/",
+          "type": "primary"
+        },
+        {
+          "label": "Webster Bank rates",
+          "url": "https://www.websterbank.com/personal-banking/savings/personal-certificate-of-deposit/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29950",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "org_slugs": {
+        "institution": "webster-bank"
+      }
+    },
+    {
       "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
       "fields": {
         "institution": "Charter Oak Federal Credit Union",
