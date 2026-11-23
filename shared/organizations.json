@@ -16,9 +16,10 @@
         "aspect": 2.153,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       },
       "aliases": [
         "Nutmeg State Federal Credit Union"
@@ -51,7 +52,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "members-plus-cu": {
@@ -71,9 +73,10 @@
         "aspect": 3.3,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "becu": {
@@ -93,9 +96,10 @@
         "aspect": 3.2,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "safe-cu": {
@@ -115,9 +119,10 @@
         "aspect": 3.31,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "tdecu": {
@@ -137,9 +142,10 @@
         "aspect": 2.706,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       },
       "aliases": [
         "TDECU"
@@ -164,7 +170,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "suncoast": {
@@ -188,7 +195,8 @@
         "previous": [
           "suncoast-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "launch-cu": {
@@ -210,7 +218,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "rbfcu": {
@@ -230,9 +239,10 @@
         "aspect": 3.919,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "true-sky": {
@@ -252,11 +262,18 @@
         "aspect": 4.376,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [
           "true-sky-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "006c00300171010304ebc8eb18c544e574f574e564c772cc5e00d482c4000100",
+          "aspect": 5.275,
+          "first_seen": "2026-11-23",
+          "file": "pending/true-sky.png"
+        }
       }
     },
     "fortera": {
@@ -278,7 +295,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "vanderbilt-cu": {
@@ -298,9 +316,10 @@
         "aspect": 5.558,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "team-one": {
@@ -320,9 +339,10 @@
         "aspect": 2.272,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "case-cu": {
@@ -342,9 +362,10 @@
         "aspect": 0.969,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "loc-cu": {
@@ -364,9 +385,10 @@
         "aspect": 4.0,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "advantage-one": {
@@ -386,9 +408,10 @@
         "aspect": 5.263,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cu1": {
@@ -408,9 +431,10 @@
         "aspect": 8.525,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "gulf-coast-fcu": {
@@ -430,9 +454,10 @@
         "aspect": 8.286,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-class-community-cu": {
@@ -452,9 +477,10 @@
         "aspect": 1.436,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "magnolia-fcu": {
@@ -476,7 +502,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "city-fcu": {
@@ -496,9 +523,10 @@
         "aspect": 1.425,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "penair": {
@@ -518,9 +546,10 @@
         "aspect": 3.664,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "fort-mcclellan-cu": {
@@ -540,9 +569,10 @@
         "aspect": 2.491,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "selco": {
@@ -562,9 +592,10 @@
         "aspect": 2.981,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "numerica": {
@@ -586,7 +617,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "sunmark": {
@@ -608,7 +640,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "directors-choice-cu": {
@@ -630,7 +663,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "on-tap": {
@@ -650,9 +684,10 @@
         "aspect": 1.294,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "sky-fcu": {
@@ -672,9 +707,10 @@
         "aspect": 1.806,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "landmark-cu": {
@@ -694,9 +730,10 @@
         "aspect": 3.619,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "anb-fox-cities": {
@@ -715,9 +752,16 @@
         "aspect": 3.75,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "667a625a631be73ae79ab79bd29bd2db9adb3a5a65641d13dd820124e56aa1ca",
+          "aspect": 2.381,
+          "first_seen": "2026-11-23",
+          "file": "pending/anb-fox-cities.png"
+        }
       }
     },
     "dcfcu": {
@@ -737,9 +781,10 @@
         "aspect": 7.811,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "evermore-bank": {
@@ -760,7 +805,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "zeal": {
@@ -780,9 +826,10 @@
         "aspect": 1.986,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "miners-state-bank": {
@@ -802,9 +849,10 @@
         "aspect": 2.696,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "alabama-one": {
@@ -824,9 +872,10 @@
         "aspect": 4.286,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "peoples-independent-bank": {
@@ -846,9 +895,10 @@
         "aspect": 4.653,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "interra": {
@@ -867,9 +917,10 @@
         "aspect": 2.872,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "hicksville-bank": {
@@ -902,7 +953,8 @@
         "previous": [
           "gesa-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "willamette-valley-bank": {
@@ -922,9 +974,16 @@
         "aspect": 3.264,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "008000800080708070a4b0b4709848b0409074a4708c30943088089000800080",
+          "aspect": 5.172,
+          "first_seen": "2026-11-23",
+          "file": "pending/willamette-valley-bank.png"
+        }
       }
     },
     "gulf-winds": {
@@ -944,9 +1003,10 @@
         "aspect": 2.047,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "madison-county-community-bank": {
@@ -968,7 +1028,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "peoples-exchange-bank": {
@@ -988,9 +1049,10 @@
         "aspect": 4.189,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "dfcu-financial": {
@@ -1012,7 +1074,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "gulfside-bank": {
@@ -1034,7 +1097,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "max-cu": {
@@ -1056,7 +1120,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "first-financial-bank": {
@@ -1080,7 +1145,8 @@
         "previous": [
           "first-financial-bank-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "gecu": {
@@ -1100,9 +1166,10 @@
         "aspect": 6.169,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "bank-of-the-southwest": {
@@ -1121,9 +1188,16 @@
         "aspect": 4.189,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "99a354694669662da6b4a69466d466d676565556999620001d682d902db42da4",
+          "aspect": 2.783,
+          "first_seen": "2026-11-23",
+          "file": "pending/bank-of-the-southwest.png"
+        }
       }
     },
     "allegent": {
@@ -1143,9 +1217,10 @@
         "aspect": 5.08,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "penn-hills-municipal-fcu": {
@@ -1173,9 +1248,10 @@
         "aspect": 2.753,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "southern-star-cu": {
@@ -1195,9 +1271,10 @@
         "aspect": 4.478,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "sterling-fcu": {
@@ -1217,9 +1294,10 @@
         "aspect": 3.09,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "fort-morgan-schools-fcu": {
@@ -1247,9 +1325,10 @@
         "aspect": 1.988,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "dow-great-western-cu": {
@@ -1271,7 +1350,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "sharefax": {
@@ -1291,9 +1371,10 @@
         "aspect": 2.904,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "members-trust-fcu": {
@@ -1313,9 +1394,10 @@
         "aspect": 2.608,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "agriculture-fcu": {
@@ -1335,9 +1417,10 @@
         "aspect": 2.143,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "nrcs-fcu": {
@@ -1357,9 +1440,10 @@
         "aspect": 4.066,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "streator-onized-cu": {
@@ -1379,9 +1463,10 @@
         "aspect": 3.686,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "anco-community-cu": {
@@ -1401,9 +1486,10 @@
         "aspect": 2.903,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "healthcare-systems-fcu": {
@@ -1423,9 +1509,10 @@
         "aspect": 3.179,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "summit-hampton-roads-fcu": {
@@ -1445,9 +1532,10 @@
         "aspect": 3.858,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cy-fair-fcu": {
@@ -1467,9 +1555,10 @@
         "aspect": 2.894,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "baker-hughes-fcu": {
@@ -1498,9 +1587,10 @@
         "aspect": 1.779,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "healthcare-plus-fcu": {
@@ -1520,9 +1610,10 @@
         "aspect": 1.994,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "bcu": {
@@ -1542,9 +1633,10 @@
         "aspect": 1.944,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "healthcare-associates-cu": {
@@ -1564,9 +1656,10 @@
         "aspect": 3.029,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "daniels-sheridan-fcu": {
@@ -1586,9 +1679,10 @@
         "aspect": 2.143,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "fort-peck-community-fcu": {
@@ -1608,9 +1702,10 @@
         "aspect": 4.462,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-south-financial": {
@@ -1630,9 +1725,10 @@
         "aspect": 3.831,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "delta-refining-fcu": {
@@ -1660,9 +1756,10 @@
         "aspect": 1.943,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "west-tennessee-cu": {
@@ -1682,9 +1779,10 @@
         "aspect": 2.412,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "f-and-a-fcu": {
@@ -1704,9 +1802,10 @@
         "aspect": 1.858,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ontario-public-employees-fcu": {
@@ -1728,7 +1827,8 @@
         "added": "2026-11-22",
         "checked": "2026-11-22",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "communityamerica": {
@@ -1748,9 +1848,10 @@
         "aspect": 3.053,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "westreet-cu": {
@@ -1770,9 +1871,10 @@
         "aspect": 3.836,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "firefighters-cu": {
@@ -1792,9 +1894,10 @@
         "aspect": 3.078,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "p-and-s-cu": {
@@ -1814,9 +1917,10 @@
         "aspect": 1.244,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ascend": {
@@ -1836,9 +1940,10 @@
         "aspect": 2.239,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "lge": {
@@ -1858,9 +1963,10 @@
         "aspect": 7.011,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "hope-fcu": {
@@ -1880,9 +1986,16 @@
         "aspect": 2.364,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "1900390029220c082ec406d6eec46264388b98cbb4dae9cae961611061006100",
+          "aspect": 4.912,
+          "first_seen": "2026-11-23",
+          "file": "pending/hope-fcu.png"
+        }
       }
     },
     "nrs-community-development-fcu": {
@@ -1902,9 +2015,10 @@
         "aspect": 2.076,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "sjp-fcu": {
@@ -1924,11 +2038,12 @@
         "aspect": 7.641,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [
           "sjp-fcu-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "dunlop-employees-fcu": {
@@ -1956,9 +2071,10 @@
         "aspect": 1.55,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cincinnati-interagency-fcu": {
@@ -1987,9 +2103,10 @@
         "aspect": 2.456,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "great-horizons-fcu": {
@@ -2009,9 +2126,10 @@
         "aspect": 4.833,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "robins-financial": {
@@ -2031,9 +2149,10 @@
         "aspect": 4.061,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "harris-employees-cu": {
@@ -2061,9 +2180,10 @@
         "aspect": 3.272,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "great-neck-school-employees-fcu": {
@@ -2091,9 +2211,10 @@
         "aspect": 4.053,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "plains-fcu": {
@@ -2122,9 +2243,10 @@
         "aspect": 4.619,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "martin-county-co-op-cu": {
@@ -2152,9 +2274,10 @@
         "aspect": 3.569,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "water-s-edge-fcu": {
@@ -2174,9 +2297,10 @@
         "aspect": 1.389,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "truliant": {
@@ -2196,9 +2320,10 @@
         "aspect": 5.43,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "piedmont-advantage-cu": {
@@ -2220,7 +2345,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "garden-savings-fcu": {
@@ -2240,9 +2366,10 @@
         "aspect": 4.821,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "gaf-linden-employees-fcu": {
@@ -2271,9 +2398,10 @@
         "aspect": 1.939,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "my-cu": {
@@ -2293,9 +2421,16 @@
         "aspect": 2.549,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "03780b2803800ac158f218dd88ea8962a90088c648ec42e44af842d4030143cd",
+          "aspect": 3.563,
+          "first_seen": "2026-11-23",
+          "file": "pending/my-cu.png"
+        }
       }
     },
     "ukfcu": {
@@ -2315,9 +2450,10 @@
         "aspect": 3.011,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "bluegrass-community-fcu": {
@@ -2346,11 +2482,12 @@
         "aspect": 3.399,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [
           "american-united-fcu-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       },
       "aliases": [
         "Haven Credit Union"
@@ -2373,9 +2510,10 @@
         "aspect": 1.603,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "park-side": {
@@ -2395,9 +2533,10 @@
         "aspect": 1.82,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "lincoln-county-cu": {
@@ -2417,9 +2556,10 @@
         "aspect": 1.681,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "msufcu": {
@@ -2441,7 +2581,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "ufcu": {
@@ -2463,7 +2604,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "consumers-cu": {
@@ -2483,12 +2625,13 @@
         "aspect": 3.801,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [
           "consumers-cu-v2.png",
           "consumers-cu-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "scott-cu": {
@@ -2510,7 +2653,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "sierra-central": {
@@ -2532,7 +2676,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "first-u-s": {
@@ -2554,7 +2699,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "america-first": {
@@ -2576,7 +2722,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "greater-nevada": {
@@ -2598,7 +2745,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "financial-plus": {
@@ -2620,7 +2768,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "monroe-community-cu": {
@@ -2642,7 +2791,8 @@
         "added": "2026-11-21",
         "checked": "2026-11-21",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "first-responders-cu": {
@@ -2664,9 +2814,10 @@
         "aspect": 1.822,
         "pinned": false,
         "added": "2026-11-21",
-        "checked": "2026-11-21",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "lynn-firemen-s-fcu": {
@@ -2696,7 +2847,8 @@
         "added": "2026-11-22",
         "checked": "2026-11-22",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "illinois-valley-cu": {
@@ -2716,9 +2868,10 @@
         "aspect": 2.593,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "paho-who-fcu": {
@@ -2741,9 +2894,10 @@
         "aspect": 4.022,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "hema-fcu": {
@@ -2772,9 +2926,10 @@
         "aspect": 5.614,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "solutions-first-fcu": {
@@ -2794,9 +2949,16 @@
         "aspect": 1.026,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "8cc58ad49bd49ad49ae69b134d3184008110042000800da81ce9b2d628e40962",
+          "aspect": 3.377,
+          "first_seen": "2026-11-23",
+          "file": "pending/solutions-first-fcu.png"
+        }
       }
     },
     "access-of-louisiana-fcu": {
@@ -2816,9 +2978,10 @@
         "aspect": 0.94,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "gca-fcu": {
@@ -2846,9 +3009,10 @@
         "aspect": 1.77,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cape-fcu": {
@@ -2877,9 +3041,10 @@
         "aspect": 4.744,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "southwest-communities-fcu": {
@@ -2908,9 +3073,10 @@
         "aspect": 3.681,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "lake-trust": {
@@ -2930,9 +3096,10 @@
         "aspect": 5.0,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "united-fcu": {
@@ -2952,9 +3119,10 @@
         "aspect": 2.364,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "lafcu": {
@@ -2974,9 +3142,10 @@
         "aspect": 4.138,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "credit-union-one": {
@@ -2996,9 +3165,10 @@
         "aspect": 1.0,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "rev-fcu": {
@@ -3018,9 +3188,10 @@
         "aspect": 2.5,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "journey-fcu": {
@@ -3040,9 +3211,10 @@
         "aspect": 1.811,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "jeanne-d-arc-cu": {
@@ -3062,9 +3234,10 @@
         "aspect": 2.911,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "usalliance": {
@@ -3087,9 +3260,10 @@
         "aspect": 6.25,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "navy-federal": {
@@ -3111,7 +3285,8 @@
         "added": "2026-11-22",
         "checked": "2026-11-22",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "tba-cu": {
@@ -3131,9 +3306,10 @@
         "aspect": 1.769,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "mid-oregon-cu": {
@@ -3153,9 +3329,10 @@
         "aspect": 2.21,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "redwood-cu": {
@@ -3175,11 +3352,12 @@
         "aspect": 2.646,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [
           "redwood-cu-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "aurora-fcu": {
@@ -3199,9 +3377,10 @@
         "aspect": 2.128,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "point-west-cu": {
@@ -3221,9 +3400,10 @@
         "aspect": 3.039,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "fremont-fcu": {
@@ -3245,7 +3425,8 @@
         "added": "2026-11-22",
         "checked": "2026-11-22",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "iucu": {
@@ -3265,9 +3446,10 @@
         "aspect": 6.716,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "united-heritage-cu": {
@@ -3287,9 +3469,10 @@
         "aspect": 5.172,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "peak-cu": {
@@ -3309,9 +3492,10 @@
         "aspect": 3.204,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "park-view-fcu": {
@@ -3331,9 +3515,10 @@
         "aspect": 4.032,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "chartway": {
@@ -3356,9 +3541,10 @@
         "aspect": 3.911,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "american-eagle": {
@@ -3378,9 +3564,10 @@
         "aspect": 3.008,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "unitus": {
@@ -3402,7 +3589,8 @@
         "added": "2026-11-22",
         "checked": "2026-11-22",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "apgfcu": {
@@ -3425,9 +3613,10 @@
         "aspect": 2.589,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "westconsin-cu": {
@@ -3447,9 +3636,10 @@
         "aspect": 4.747,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "tlc": {
@@ -3469,9 +3659,10 @@
         "aspect": 5.525,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "7-17-cu": {
@@ -3494,9 +3685,10 @@
         "aspect": 2.081,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "georgia-s-own": {
@@ -3516,9 +3708,10 @@
         "aspect": 4.594,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-city-cu": {
@@ -3538,9 +3731,10 @@
         "aspect": 2.815,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "all-one": {
@@ -3560,9 +3754,10 @@
         "aspect": 3.226,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "afena-fcu": {
@@ -3582,9 +3777,10 @@
         "aspect": 2.2,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "financial-center": {
@@ -3604,9 +3800,10 @@
         "aspect": 5.231,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "service-cu": {
@@ -3626,9 +3823,10 @@
         "aspect": 2.036,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "forum-cu": {
@@ -3648,9 +3846,10 @@
         "aspect": 4.718,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "topline": {
@@ -3670,9 +3869,10 @@
         "aspect": 2.35,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "peach-state-fcu": {
@@ -3692,9 +3892,10 @@
         "aspect": 2.19,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "greater-iowa-cu": {
@@ -3714,9 +3915,10 @@
         "aspect": 3.302,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "vystar": {
@@ -3736,9 +3938,10 @@
         "aspect": 3.32,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "altura-cu": {
@@ -3758,9 +3961,10 @@
         "aspect": 2.511,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "plus-cu": {
@@ -3780,9 +3984,10 @@
         "aspect": 2.236,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "gfa-fcu": {
@@ -3802,9 +4007,10 @@
         "aspect": 1.597,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "sun-east-fcu": {
@@ -3824,9 +4030,10 @@
         "aspect": 5.9,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "usf-cu": {
@@ -3849,9 +4056,10 @@
         "aspect": 2.925,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "whitefish-cu": {
@@ -3874,9 +4082,10 @@
         "aspect": 2.446,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "andrews-fcu": {
@@ -3896,9 +4105,10 @@
         "aspect": 2.111,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "consumers-cu-mi": {
@@ -3918,9 +4128,10 @@
         "aspect": 4.959,
         "pinned": false,
         "added": "2026-11-22",
-        "checked": "2026-11-22",
+        "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "great-erie-fcu": {
@@ -3942,7 +4153,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "verve": {
@@ -3964,7 +4176,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "seattle-cu": {
@@ -3989,7 +4202,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "rocky-mountain-cu-mt": {
@@ -4011,7 +4225,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "sf-fire-cu": {
@@ -4033,7 +4248,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "spectra-cu": {
@@ -4058,7 +4274,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ccu-florida": {
@@ -4080,7 +4297,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "apple-fcu": {
@@ -4102,7 +4320,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "champions-first-cu": {
@@ -4124,7 +4343,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "community-first-cu-fl": {
@@ -4149,7 +4369,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "kinetic-cu": {
@@ -4174,7 +4395,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "multipli-cu": {
@@ -4199,7 +4421,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "north-star-ccu": {
@@ -4221,7 +4444,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "great-plains-fcu-mo": {
@@ -4243,7 +4467,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "intrepid-cu": {
@@ -4265,7 +4490,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "fedchoice-fcu": {
@@ -4287,7 +4513,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "valley-first-cu-ca": {
@@ -4312,7 +4539,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "revity-cu": {
@@ -4334,7 +4562,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "enrichment-fcu": {
@@ -4356,7 +4585,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "frontwave-cu": {
@@ -4378,7 +4608,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "capital-cu-wi": {
@@ -4400,7 +4631,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "kh-cu": {
@@ -4422,7 +4654,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "seaboard-fcu": {
@@ -4444,7 +4677,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "pioneer-fcu-id": {
@@ -4466,7 +4700,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-choice-cu-fl": {
@@ -4488,7 +4723,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-source-fcu": {
@@ -4510,7 +4746,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "levo-cu": {
@@ -4535,7 +4772,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "oswego-county-fcu": {
@@ -4557,7 +4795,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "park-community-cu": {
@@ -4582,7 +4821,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "university-cu-ca": {
@@ -4604,7 +4844,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "arapahoe-cu": {
@@ -4626,7 +4867,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "noble-cu": {
@@ -4651,7 +4893,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "truity-fcu": {
@@ -4678,7 +4921,8 @@
         "previous": [
           "truity-fcu-v1.png"
         ],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "golden-circle-cu": {
@@ -4700,7 +4944,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "americhoice-fcu": {
@@ -4722,7 +4967,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "we-florida-financial": {
@@ -4747,7 +4993,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "uecu": {
@@ -4772,7 +5019,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "public-safety-cu-mo": {
@@ -4803,7 +5051,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-heritage-fcu": {
@@ -4825,7 +5074,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "qside-fcu": {
@@ -4847,7 +5097,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "brewery-cu": {
@@ -4869,7 +5120,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "greylock-fcu": {
@@ -4891,7 +5143,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "charter-oak-fcu": {
@@ -4913,7 +5166,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "americu": {
@@ -4935,7 +5189,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ascentra-cu": {
@@ -4957,7 +5212,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "winnebago-community-cu": {
@@ -4979,7 +5235,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "richland-fcu-mt": {
@@ -5001,7 +5258,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "bank-of-america": {
@@ -5050,7 +5308,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "m-and-t-bank": {
@@ -5108,7 +5367,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "td-bank": {
@@ -5139,7 +5399,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "jewett-city-savings": {
@@ -5161,7 +5422,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "chelsea-groton": {
@@ -5219,7 +5481,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "peoplesbank": {
@@ -5250,7 +5513,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "windsor-federal": {
@@ -5272,7 +5536,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "washington-trust": {
@@ -5294,7 +5559,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ascend-bank": {
@@ -5316,7 +5582,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "union-savings-bank": {
@@ -5365,7 +5632,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "chase": {
@@ -5405,7 +5673,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "franklin-trust-fcu": {
@@ -5427,7 +5696,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "comtrust-fcu": {
@@ -5458,7 +5728,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "tobacco-valley-teachers-fcu": {
@@ -5480,7 +5751,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "waypoint-fcu": {
@@ -5505,7 +5777,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "enfield-community-fcu": {
@@ -5553,7 +5826,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ct-firefighters-fcu": {
@@ -5575,7 +5849,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "police-cu-of-ct": {
@@ -5597,7 +5872,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ubi-fcu": {
@@ -5627,7 +5903,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "360-fcu": {
@@ -5658,7 +5935,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "manchester-municipal-fcu": {
@@ -5689,7 +5967,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "abe-fcu": {
@@ -5711,7 +5990,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "asa-fcu": {
@@ -5751,7 +6031,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "self-help-fcu": {
@@ -5791,7 +6072,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "dutch-point-cu": {
@@ -5822,7 +6104,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "kief-cu": {
@@ -5852,7 +6135,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cse-cu": {
@@ -5874,7 +6158,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "mdc-employees-cu": {
@@ -5905,7 +6190,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ocean-state-cu": {
@@ -5927,7 +6213,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "rhode-island-cu": {
@@ -5949,7 +6236,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "westerly-community-cu": {
@@ -5971,7 +6259,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "coastal1-cu": {
@@ -6038,7 +6327,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "schoolsfirst-fcu": {
@@ -6060,7 +6350,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-tech-fcu": {
@@ -6097,7 +6388,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "global-fcu-ak": {
@@ -6119,7 +6411,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "unfcu": {
@@ -6141,7 +6434,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "desert-financial-cu": {
@@ -6163,7 +6457,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "logix-fcu": {
@@ -6194,7 +6489,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "broadview-fcu": {
@@ -6216,7 +6512,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "citadel-fcu": {
@@ -6265,7 +6562,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "keesler-fcu": {
@@ -6287,7 +6585,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "wsecu": {
@@ -6309,7 +6608,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "ornl-fcu": {
@@ -6331,7 +6631,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "tower-fcu": {
@@ -6353,7 +6654,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "liberty-fcu-in": {
@@ -6375,7 +6677,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "credit-human": {
@@ -6397,7 +6700,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cu-socal": {
@@ -6428,7 +6732,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "orange-countys-cu": {
@@ -6450,7 +6755,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "first-community-cu-tx": {
@@ -6472,7 +6778,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cutx": {
@@ -6494,7 +6801,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "austin-telco-fcu": {
@@ -6516,7 +6824,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "allegacy-fcu": {
@@ -6541,7 +6850,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "cu-of-colorado": {
@@ -6563,7 +6873,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "wellby-financial": {
@@ -6588,7 +6899,14 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0,
+        "pending": {
+          "fingerprint": "841600161656961696569a1676167496769d16169a168cb69d36001288120012",
+          "aspect": 4.281,
+          "first_seen": "2026-11-23",
+          "file": "pending/wellby-financial.png"
+        }
       }
     },
     "elements-financial-fcu": {
@@ -6610,7 +6928,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "hanscom-fcu": {
@@ -6632,7 +6951,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "alabama-cu": {
@@ -6654,7 +6974,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "lafayette-fcu": {
@@ -6676,7 +6997,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "orsa-cu": {
@@ -6698,7 +7020,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "pacific-service-cu": {
@@ -6720,7 +7043,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "atlantic-fcu-me": {
@@ -6745,7 +7069,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "blackhawk-ccu": {
@@ -6767,7 +7092,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "members-first-cu-mi": {
@@ -6798,7 +7124,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "heritage-financial-fcu-ny": {
@@ -6820,7 +7147,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "town-and-country-cu-nd": {
@@ -6842,7 +7170,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "meridian-trust-fcu": {
@@ -6864,7 +7193,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "superior-choice-cu": {
@@ -6886,7 +7216,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 1
       }
     },
     "members-choice-cu-tx": {
@@ -6917,7 +7248,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     },
     "southpoint-financial-cu": {
@@ -6939,7 +7271,8 @@
         "added": "2026-11-23",
         "checked": "2026-11-23",
         "previous": [],
-        "ignored": []
+        "ignored": [],
+        "check_errors": 0
       }
     }
   }
