@@ -204,6 +204,12 @@ def cmd_fetch(slugs):
         if site.get("webfetch_pages"):
             print(f"          also WebFetch: {' '.join(site['webfetch_pages'])}  {site.get('note', '')}")
     save(OUT / "pending.json", pending)
+    wf = [u for s in sorted(slugs or sites) for u in (sites.get(s) or {}).get("pages", []) + (sites.get(s) or {}).get("webfetch_pages", [])
+          if (sites.get(s) or {}).get("method") == "webfetch" or u in (sites.get(s) or {}).get("webfetch_pages", [])]
+    if wf:
+        print("WebFetch URLs for this run (use only these, or URLs a WebSearch returns):")
+        for u in wf:
+            print("  " + u)
     print("summary:", ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
 
 

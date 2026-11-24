@@ -54,6 +54,13 @@ instructions: |
   (or the state) can join; Restricted for employer, association, heritage, military or similar
   fields of membership. Correct it when a credit union's own site says otherwise.
 
+  NEVER WAIT FOR PERMISSION. This review runs unattended with automatic approval and must never
+  stop to ask Sean anything, including permission to visit a site. Read sites with the checker
+  (curl, pdf, browser) first. WebFetch only a URL that the checker printed or a WebSearch returned in
+  this run (never type one from memory or edit one by hand). If any call is refused, times out or
+  asks for approval, do not retry it and do not wait: skip that institution, keep its existing rows
+  unchanged, and list it in the message as "could not read today".
+
   DAILY PROCEDURE (in place of the news steps of docs/REVIEW.md section 3, steps 1-3):
   0. pip install --break-system-packages -q playwright (for "browser" sites; Chrome is at
      /usr/bin/google-chrome) and make sure pdftotext/pdftoppm work (apt-get install -y poppler-utils).
