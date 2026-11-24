@@ -1,9 +1,73 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-24T07:46:27-05:00",
+  "generated": "2026-11-24T08:32:36-05:00",
   "trial": true,
   "lookback_days": 3,
-  "pending_inbox": [],
+  "pending_inbox": [
+    {
+      "id": "ffea9cff4c83",
+      "title": "America's Credit Unions Pushes Back Against Heightened Scrutiny Of CU Bank Acquisitions - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbE5kNWFnZk9TRDdoRGJHTUFiajR0RlF3ODJEeHd6UG1NQ2wxcGFtOGNoY2ltc0RQc3NTVXoydmhrTUFoRjJRMFExSU13RDg3QXY4RS12d1RfVEFqek96T1h4azRHNllmdHN1SEpTc0lJVmRmbzJteS1fUWN2d2FCZWxQcUlVVmp1eE5DckRhTEozNkNLRWhtdnNMc0Z3azNlZGtSMV92R3RpdEdpUnhMNEl1djIxbUU3d0JXdkVuanFFQQ",
+      "source": "Google News - credit union merger",
+      "published": "2026-11-24T08:05:34-05:00",
+      "found": "2026-11-24T08:32:28-05:00",
+      "summary": "America's Credit Unions Pushes Back Against Heightened Scrutiny Of CU Bank Acquisitions CUToday"
+    },
+    {
+      "id": "c5fbe3dcca74",
+      "title": "Automation Anywhere Completes Boost.ai Acquisition, Challenges SaaS Giants in the Race for Autonomous Customer Service Operations",
+      "url": "https://www.prnewswire.com/news-releases/automation-anywhere-completes-boostai-acquisition-challenges-saas-giants-in-the-race-for-autonomous-customer-service-operations-302949013.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-24T08:00:00-05:00",
+      "found": "2026-11-24T08:32:28-05:00",
+      "summary": "Combining leading conversational and voice AI with enterprise-grade agentic automation, Automation Anywhere connects conversations to outcomes across enterprise systems SAN JOSE, Calif., Nov. 24, 2026 /PRNewswire/ -- Automation Anywhere, a "
+    },
+    {
+      "id": "fdf0321a1f9b",
+      "title": "Alterra Acquires Pryme's Development Business and Secures New Capital to Accelerate European Expansion",
+      "url": "https://www.prnewswire.com/news-releases/alterra-acquires-prymes-development-business-and-secures-new-capital-to-accelerate-european-expansion-302948714.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-24T08:00:00-05:00",
+      "found": "2026-11-24T08:32:28-05:00",
+      "summary": "Investment from Taranis and existing shareholders supports Amsterdam project development, additional European opportunities and expanded commercial activities HOUSTON, Nov. 24, 2026 /PRNewswire/ -- Alterra today announced the acquisition of"
+    },
+    {
+      "id": "bbfb131c1e4f",
+      "title": "Alterra acquiert les activites de developpement de Pryme et leve de nouveaux capitaux pour accelerer son expansion europeenne",
+      "url": "https://www.prnewswire.com/news-releases/alterra-acquiert-les-activites-de-developpement-de-pryme-et-leve-de-nouveaux-capitaux-pour-accelerer-son-expansion-europeenne-302948782.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-24T08:00:00-05:00",
+      "found": "2026-11-24T08:32:28-05:00",
+      "summary": "L'investissement de Taranis et des actionnaires existants soutient le developpement du projet d'Amsterdam, de nouvelles opportunites europeennes et l'expansion des activites commerciales. HOUSTON, 24 novembre 2026 /PRNewswire/ -- Alterra a "
+    },
+    {
+      "id": "a74a04cc16c1",
+      "title": "Automation Anywhere Completes Boost.ai Acquisition, Challenges SaaS Giants in the Race for Autonomous Customer Service Operations",
+      "url": "https://www.prnewswire.com/news-releases/automation-anywhere-completes-boostai-acquisition-challenges-saas-giants-in-the-race-for-autonomous-customer-service-operations-302949044.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-24T08:00:00-05:00",
+      "found": "2026-11-24T08:32:28-05:00",
+      "summary": "Combining leading conversational and voice AI with enterprise-grade agentic automation, Automation Anywhere connects conversations to outcomes across enterprise systems SAN JOSE, Calif., Nov. 24, 2026 /PRNewswire/ -- Automation Anywhere, a "
+    },
+    {
+      "id": "aa8e175b4ae1",
+      "title": "Alterra Acquires Pryme's Development Business and Secures New Capital to Accelerate European Expansion",
+      "url": "https://www.prnewswire.com/news-releases/alterra-acquires-prymes-development-business-and-secures-new-capital-to-accelerate-european-expansion-302948535.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-24T08:00:00-05:00",
+      "found": "2026-11-24T08:32:28-05:00",
+      "summary": "Investment from Taranis and existing shareholders supports Amsterdam project development, additional European opportunities and expanded commercial activities HOUSTON, Nov. 24, 2026 /PRNewswire/ -- Alterra today announced the acquisition of"
+    },
+    {
+      "id": "875406a3e092",
+      "title": "Fed Regulators Urged by Trade Groups to Revise Proposed Bank Merger Rule - Credit Union Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlpoRDlUaFpHM0FTUjdqcDl5eHV2UE9ySjg2NW9Sa0Z5UWxhMWgzbG14OXdzMzk2cnNOYy1zX2c1SzlzSGFhSHg3M3I2RFRqVTBlYWJWTjNENGY1Y1hWVmpPekgyNWlIRy0tX2M5ZVN1MjFiR1VYTmtldkc1TU1OQm9EQUlIdi1QakJSUmtLQURDQQ",
+      "source": "Google News - credit union merger",
+      "published": "2026-11-24T05:51:04-05:00",
+      "found": "2026-11-24T08:32:28-05:00",
+      "summary": "Fed Regulators Urged by Trade Groups to Revise Proposed Bank Merger Rule Credit Union Daily"
+    }
+  ],
   "recheck": [
     {
       "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
