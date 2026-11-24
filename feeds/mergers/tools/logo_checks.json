@@ -36,6 +36,11 @@
   "result": "reviewed",
   "reviewed": "2026-11-21"
  },
+ "alden-cu": {
+  "checked": "2026-11-24",
+  "file": "alden-cu-v1.png",
+  "result": "current"
+ },
  "allegent": {
   "checked": "2026-11-23",
   "file": "allegent-v1.png",
@@ -384,6 +389,11 @@
  "gulfside-bank": {
   "checked": "2026-11-23",
   "file": "gulfside-bank-v1.png",
+  "result": "current"
+ },
+ "hanscom-fcu": {
+  "checked": "2026-11-24",
+  "file": "hanscom-fcu-v1.png",
   "result": "current"
  },
  "harris-employees-cu": {

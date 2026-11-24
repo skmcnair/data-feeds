@@ -7589,6 +7589,28 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "alden-cu": {
+      "name": "Alden Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Alden CU",
+      "kind": "credit_union",
+      "charter": "67951",
+      "website": "https://www.aldencu.com",
+      "state": "MA",
+      "logo": {
+        "file": "alden-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.aldencu.com/site_content/site_theme/images/alden_cu_logo.svg",
+        "fingerprint": "64002000a690b680f59a251226a0a0c8e890678867286001626a64ee216b2000",
+        "aspect": 3.589,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }

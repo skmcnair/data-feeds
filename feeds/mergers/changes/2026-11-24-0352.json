@@ -1,0 +1,163 @@
+{
+ "feed": "mergers",
+ "run": {
+  "started": "2026-11-24T03:33:00-05:00",
+  "finished": "2026-11-24T03:52:21-05:00",
+  "searches": 58,
+  "errors": []
+ },
+ "reviewed": [
+  "8e75a26939f2",
+  "fc8f33e83770",
+  "7e0058d52d7e",
+  "9e15cda99be4",
+  "8130c30986a1",
+  "bfd99be9ec95",
+  "0b55cd227853",
+  "344113cd6f2c",
+  "67f69fd59c61",
+  "7504fb1cd090",
+  "2017c33db9af",
+  "94c7665456bf",
+  "52b503efb1db",
+  "b39b5471566f",
+  "ae8471b03e6c",
+  "218d99eaed76",
+  "e1cdd35e9bd5",
+  "903a813ce35e",
+  "101f42988156",
+  "dfdb63b5e21d",
+  "2de0ab4a7a54"
+ ],
+ "adds": [
+  {
+   "fields": {
+    "announced": "2026-02-05",
+    "acquirer": "Hanscom Federal Credit Union",
+    "partner": "Alden Credit Union",
+    "deal_type": "CU merger",
+    "status": "Announced",
+    "expected_close": "Q4 2026",
+    "ceo": "Peter Rice",
+    "acquirer_ceo": "Peter Rice",
+    "partner_ceo": "Adam Corcoran",
+    "acquirer_city": "Hanscom AFB",
+    "partner_city": "Chicopee",
+    "acquirer_assets": 2206.2,
+    "acquirer_members": 98440,
+    "acquirer_locations": 15,
+    "partner_assets": 183.2,
+    "partner_members": 12417,
+    "partner_locations": 2,
+    "combined_assets": 2389.4,
+    "combined_members": 110857,
+    "combined_locations": 17,
+    "footprint": "MA, VA",
+    "announced_figures": "Approximately 128,000 members, roughly $2.3 billion in assets and 25 branches across Massachusetts, Maryland and Virginia",
+    "next_steps": "Mass. Division of Banks approval (listed as pending in its Oct 30, 2026 report), an Alden member vote at a special meeting, and resolution of MSIC's challenge",
+    "size_as_of": "Q3 2026",
+    "state": "MA",
+    "partner_state": "MA",
+    "notes": "Added Nov 24, 2026 (missed at announcement). Announced Feb 5, 2026: Alden merges into Hanscom FCU, which keeps its name, federal charter and main office; Hanscom CEO Peter Rice leads the combined CU and Alden CEO Adam Corcoran becomes regional president. The release anticipated completion in Q4 2026, subject to regulatory approval. Alden's members have excess deposit insurance from the Massachusetts Credit Union Share Insurance Corporation (MSIC), which Hanscom doesn't carry. MSIC's board voted Sep 10, 2026 to deny the merger; Division of Banks Commissioner Mary Gallagher called that vote void, and in November MSIC sued the Division in Suffolk Superior Court to confirm its authority over mergers (Banker & Tradesman, Nov 23, 2026). No member vote date has been published."
+   },
+   "sources": [
+    {
+     "label": "Hanscom FCU/Alden CU release (PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/hanscom-federal-credit-union-and-alden-credit-union-announce-plan-to-join-forces-to-expand-financial-wellness-innovation-and-member-impact-302679733.html",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA record, Hanscom FCU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9095",
+     "type": "regulator"
+    },
+    {
+     "label": "NCUA record, Alden CU (Sep 30, 2026 call report)",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67951",
+     "type": "regulator"
+    },
+    {
+     "label": "Banker & Tradesman: Lawsuit Looks to Stop Hanscom FCU Merger",
+     "url": "https://bankerandtradesman.com/lawsuit-looks-to-stop-hanscom-federal-credit-union-merger/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Credit Union Daily",
+     "url": "https://thecudaily.com/hanscom-fcu-ceo-says-members-should-make-call-on-merger-not-deposit-insurance-company/",
+     "type": "trade_press"
+    },
+    {
+     "label": "Alden CU merger notice",
+     "url": "https://www.aldencu.com/alerts/important-notice-proposed-merger-of-alden-credit-union-and-hanscom-federal-credit-union/",
+     "type": "primary"
+    }
+   ],
+   "field_sources": {
+    "acquirer_assets": 1,
+    "acquirer_members": 1,
+    "acquirer_locations": 1,
+    "acquirer_city": 1,
+    "state": 1,
+    "partner_assets": 2,
+    "partner_members": 2,
+    "partner_locations": 2,
+    "partner_city": 2,
+    "partner_state": 2,
+    "combined_assets": 1,
+    "combined_members": 1,
+    "combined_locations": 1,
+    "footprint": 1,
+    "size_as_of": 1,
+    "next_steps": 4
+   }
+  }
+ ],
+ "updates": [
+  {
+   "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+   "note": "Corrected: SAFE's combination page and the joint BECU-SAFE site say final CA DFPI approval is still pending",
+   "set": {
+    "next_steps": "Final approval from the California DFPI; the combination is expected to close Jan 1, 2027",
+    "notes": "NCUA, CA DFPI and WA DFI approved Aug 4, 2026. The member vote closed Oct 27 at a special meeting; SAFE calls the support strong but has not released a tally. In November a group of SAFE members petitioned the CA DFPI to pause and review the merger, alleging inadequate disclosure and self-dealing (Credit Union Daily, Nov 16 and 18). Checked Nov 24, 2026: SAFE's combination page and the joint BECU-SAFE site (Nov 10 update) say SAFE is still awaiting final approval from the CA DFPI; the combination has been expected to close Jan 1, 2027."
+   },
+   "sources": [
+    {
+     "label": "SAFE & BECU combination page",
+     "url": "https://safecu.org/combination",
+     "type": "primary"
+    },
+    {
+     "label": "BECU and SAFE joint site",
+     "url": "https://www.becuandsafe.org/",
+     "type": "primary"
+    }
+   ]
+  }
+ ],
+ "rechecked": [
+  "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
+  "2026-11-10-max-credit-union-first-financial-bank",
+  "2026-10-28-selco-community-credit-union-numerica-credit-union",
+  "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+  "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+  "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+  "undated-communityamerica-credit-union-westreet-credit-union",
+  "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+  "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
+  "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+  "2026-10-01-consumers-credit-union-scott-credit-union",
+  "undated-streator-onized-credit-union-anco-community-credit-union",
+  "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+  "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+  "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+  "2026-07-21-gesa-credit-union-willamette-valley-bank",
+  "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+  "undated-baxter-credit-union-healthcare-associates-credit-union",
+  "2026-05-15-loc-credit-union-advantage-one-credit-union",
+  "2026-05-05-team-one-credit-union-case-credit-union",
+  "undated-ascend-federal-credit-union-lge-community-credit-union",
+  "2026-04-02-metro-credit-union-members-plus-credit-union",
+  "2026-01-08-zeal-credit-union-the-miners-state-bank",
+  "undated-west-aircomm-federal-credit-union-southwest-communities-federal-credit-union"
+ ]
+}
