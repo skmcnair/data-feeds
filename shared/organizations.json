@@ -6523,7 +6523,20 @@
       "kind": "credit_union",
       "charter": "2099",
       "website": "https://www.citadelbanking.com",
-      "state": "PA"
+      "state": "PA",
+      "logo": {
+        "file": "citadel-fcu-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.citadelbanking.com/images/assets/citadel-logo.svg",
+        "fingerprint": "d000c800c800c000c00094002400240024006400240084008000c800c800d000",
+        "aspect": 3.7,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "travis-cu": {
       "name": "Travis Credit Union",
@@ -6711,7 +6724,20 @@
       "kind": "credit_union",
       "charter": "24983",
       "website": "https://www.cusocal.org",
-      "state": "CA"
+      "state": "CA",
+      "logo": {
+        "file": "cu-socal-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.cusocal.org/wp-content/uploads/2022/11/CU-SoCal-Logo.svg",
+        "fingerprint": "6b62eac2ab9aa398a390a406a4b99508d6ced619d31bd0006ab36b926b4a632e",
+        "aspect": 5.08,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "achieva-cu": {
       "name": "Achieva Credit Union",
@@ -7273,6 +7299,295 @@
         "previous": [],
         "ignored": [],
         "check_errors": 0
+      }
+    },
+    "coast-central": {
+      "name": "Coast Central Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Coast Central",
+      "kind": "credit_union",
+      "charter": "62367",
+      "website": "https://www.coastccu.org",
+      "state": "CA",
+      "logo": {
+        "file": "coast-central-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.coastccu.org/wp-content/themes/coastccuorg-theme/images/logo-cccu-horizontal.svg",
+        "fingerprint": "c800c800a021a5a5a79d6691c5b555356150e529362967516650e180cd19ccd9",
+        "aspect": 3.692,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "caltech-employees-fcu": {
+      "name": "Caltech Employees Federal Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Caltech Employees FCU",
+      "kind": "credit_union",
+      "charter": "6681",
+      "website": "https://www.caltechefcu.org",
+      "state": "CA",
+      "logo": {
+        "file": "caltech-employees-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.caltechefcu.org/home/diFiles/skins/default/images/CEFCUlogo.png",
+        "fingerprint": "d100d000d2409000aed2a352235235602299e6d98ca985200121a0908c768d66",
+        "aspect": 3.222,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "border-fcu": {
+      "name": "Border Federal Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Border FCU",
+      "kind": "credit_union",
+      "charter": "24304",
+      "website": "https://www.borderfcu.com",
+      "state": "TX",
+      "logo": {
+        "file": "border-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/5c6c31e365019fc6526b0fd8/1552580755719-PQ8SJ5KWEM5QLLZ3578D/borderFCU-logo.png?format=1500w",
+        "fingerprint": "75abf5abf39beb93f469c4cd8ac5816ac000c020c000a0003200b200b2007200",
+        "aspect": 2.231,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "sandia-area-fcu": {
+      "name": "Sandia Area Federal Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Sandia Area FCU",
+      "kind": "credit_union",
+      "charter": "11316",
+      "website": "https://www.sandia.org",
+      "state": "NM",
+      "logo": {
+        "file": "sandia-area-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.sandia.org/templates/sandia_area_2025/images/logo2.png",
+        "fingerprint": "3084d168ccc0ecc9a90494b2d3ba04402c485575517b696de96d2b6749656d25",
+        "aspect": 2.442,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "midcoast-fcu": {
+      "name": "Midcoast Federal Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Midcoast FCU",
+      "kind": "credit_union",
+      "charter": "10898",
+      "website": "https://www.midcoastfcu.me",
+      "state": "ME",
+      "logo": {
+        "file": "midcoast-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.midcoastfcu.me/wp-content/themes/midcoast-fcu/public/css/app.491df3.css",
+        "fingerprint": "9eaf9ea79179b151315431529d5a9d329ea49ea40000028414c298c796559a6f",
+        "aspect": 5.472,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "metro-medical-cu": {
+      "name": "Metro Medical Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Metro Medical CU",
+      "kind": "credit_union",
+      "charter": "67517",
+      "website": "https://www.mmcu.com",
+      "state": "TX",
+      "logo": {
+        "file": "metro-medical-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/6824a6e8061cc776f13459d8/78bb39c4-896e-46b1-ab5f-483915eea4a0/mmcu+logo.png?format=1500w",
+        "fingerprint": "05480b488b480680b490a9945900d5ea9196ddcb32acc9b32955210c05a205a2",
+        "aspect": 2.798,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "peopleschoice-cu": {
+      "name": "PeoplesChoice Credit Union",
+      "added": "2026-11-24",
+      "short_name": "PeoplesChoice CU",
+      "kind": "credit_union",
+      "charter": "68442",
+      "website": "https://www.peopleschoicecreditunion.com",
+      "state": "ME",
+      "logo": {
+        "file": "peopleschoice-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://peopleschoicecreditunion.com/wp-content/uploads/2021/04/PC-Logo-2C-Gradient-002-scaled.jpg",
+        "fingerprint": "2dc90cc89de7d3279539d629d5a9525a5257502052005000000018009100b100",
+        "aspect": 5.031,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "arkansas-best-fcu": {
+      "name": "Arkansas Best Federal Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Arkansas Best FCU",
+      "kind": "credit_union",
+      "charter": "13737",
+      "website": "https://www.abfcu.org",
+      "state": "AR",
+      "logo": {
+        "file": "arkansas-best-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/62ba335df03b343ca99735e9/5056c78b-a926-4d9b-84d5-34e49ab5b325/logo.png?format=1500w",
+        "fingerprint": "800094189019194dcd2ad8ec124dcaeacaea400048c2cac5d6455a6599aa9000",
+        "aspect": 4.864,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "point-breeze-cu": {
+      "name": "Point Breeze Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Point Breeze CU",
+      "kind": "credit_union",
+      "charter": "66585",
+      "website": "https://www.pbcu.com",
+      "state": "MD",
+      "logo": {
+        "file": "point-breeze-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://content.energage.com/company-images/BT17/SE68092/SE68092_logo_orig.jpg",
+        "fingerprint": "4b71041c4b664b066d33615b714b51715d711a051e811ccb98c3c002c2807000",
+        "aspect": 4.615,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "penfed": {
+      "name": "Pentagon Federal Credit Union",
+      "added": "2026-11-24",
+      "short_name": "PenFed",
+      "kind": "credit_union",
+      "charter": "227",
+      "website": "https://www.penfed.org",
+      "state": "VA",
+      "aliases": [
+        "PenFed Credit Union"
+      ],
+      "logo": {
+        "file": "penfed-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://mma.prnewswire.com/media/593143/PenFed_Credit_Union_Logo.jpg",
+        "fingerprint": "d228c001ca68ca2a8c8a8e8b2a89288b2aca2a4a200084548d568eb28d368b34",
+        "aspect": 3.96,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "bellco": {
+      "name": "Bellco Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Bellco",
+      "kind": "credit_union",
+      "charter": "68437",
+      "website": "https://www.bellco.org",
+      "state": "CO",
+      "logo": {
+        "file": "bellco-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.bellco.org/wp-content/uploads/2022/12/bellco_credit_union-Logo-Blue_Web.svg",
+        "fingerprint": "d25a4d574d550d5552554855cd558d550d5592aaa2aa2ad56a964d3bcd3bce24",
+        "aspect": 3.894,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "heritage-fcu": {
+      "name": "Heritage Federal Credit Union",
+      "added": "2026-11-24",
+      "short_name": "Heritage FCU",
+      "kind": "credit_union",
+      "charter": "16626",
+      "website": "https://www.heritagefederal.org",
+      "state": "IN",
+      "logo": {
+        "file": "heritage-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.heritagefederal.org/templates/heritage_2023/images/logo.png",
+        "fingerprint": "68006900c928c180eb8deaad76945cb658b6529458e94ce500045a2c0e890a59",
+        "aspect": 3.727,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "fairwinds": {
+      "name": "FAIRWINDS Credit Union",
+      "added": "2026-11-24",
+      "short_name": "FAIRWINDS",
+      "kind": "credit_union",
+      "charter": "68417",
+      "website": "https://www.fairwinds.org",
+      "state": "FL",
+      "logo": {
+        "file": "fairwinds-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.fairwinds.org/images/logo_FAIRWINDS_new.webp",
+        "fingerprint": "80009000d000d22dc000d66dd26ccbb292929a939e99952c956a8100a0c82100",
+        "aspect": 3.926,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
       }
     }
   }

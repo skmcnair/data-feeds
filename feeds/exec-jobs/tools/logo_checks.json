@@ -35,6 +35,11 @@
   "file": "arapahoe-cu-v1.png",
   "result": "current"
  },
+ "arkansas-best-fcu": {
+  "checked": "2026-11-24",
+  "file": "arkansas-best-fcu-v1.png",
+  "result": "current"
+ },
  "ascentra-cu": {
   "checked": "2026-11-23",
   "file": "ascentra-cu-v1.png",
@@ -50,9 +55,19 @@
   "file": "austin-telco-fcu-v1.png",
   "result": "current"
  },
+ "bellco": {
+  "checked": "2026-11-24",
+  "file": "bellco-v1.png",
+  "result": "current"
+ },
  "blackhawk-ccu": {
   "checked": "2026-11-23",
   "file": "blackhawk-ccu-v1.png",
+  "result": "current"
+ },
+ "border-fcu": {
+  "checked": "2026-11-24",
+  "file": "border-fcu-v1.png",
   "result": "current"
  },
  "brewery-cu": {
@@ -68,6 +83,11 @@
  "bronco-fcu": {
   "checked": "2026-11-23",
   "file": "bronco-fcu-v1.png",
+  "result": "current"
+ },
+ "caltech-employees-fcu": {
+  "checked": "2026-11-24",
+  "file": "caltech-employees-fcu-v1.png",
   "result": "current"
  },
  "capital-cu-wi": {
@@ -95,6 +115,31 @@
   "file": "chevron-fcu-v1.png",
   "result": "current"
  },
+ "citadel-fcu": {
+  "file": "citadel-fcu-v1.png",
+  "live_sig": [
+   [
+    "355a595a3b6a2a9a629a2d660d421e322bbad250242b26cb1127e178fcc00f01",
+    0.587
+   ],
+   [
+    "8121c58023a0846493e2765078b171a4604cfb00e3d2a2d263927393b1b0e392",
+    1.6
+   ],
+   [
+    "6680eb40a960ab4687b99526b156ab5ec92cb424b6369a55d3c8d720d1403b40",
+    2.297
+   ]
+  ],
+  "note": "Header logo is a CSS background (main.css .l-header__logo -> /images/assets/citadel-logo.svg); white wordmark, saved as white style",
+  "ok": true,
+  "reviewed": "2026-11-24"
+ },
+ "coast-central": {
+  "checked": "2026-11-24",
+  "file": "coast-central-v1.png",
+  "result": "current"
+ },
  "community-first-cu-fl": {
   "checked": "2026-11-23",
   "file": "community-first-cu-fl-v1.png",
@@ -109,6 +154,18 @@
   "checked": "2026-11-23",
   "file": "cu-of-colorado-v1.png",
   "result": "current"
+ },
+ "cu-socal": {
+  "file": "cu-socal-v1.png",
+  "live_sig": [
+   [
+    "0000000000000000000000000000000000000000000000000000000000000000",
+    1.5
+   ]
+  ],
+  "note": "Header logo loads lazily via data-srcset (CU-SoCal-Logo.svg in .mega-nav__logo); same file saved",
+  "ok": true,
+  "reviewed": "2026-11-24"
  },
  "cutx": {
   "checked": "2026-11-23",
@@ -128,6 +185,11 @@
  "enrichment-fcu": {
   "checked": "2026-11-23",
   "file": "enrichment-fcu-v1.png",
+  "result": "current"
+ },
+ "fairwinds": {
+  "checked": "2026-11-24",
+  "file": "fairwinds-v1.png",
   "result": "current"
  },
  "fedchoice-fcu": {
@@ -190,6 +252,11 @@
   "file": "hanscom-fcu-v1.png",
   "result": "current"
  },
+ "heritage-fcu": {
+  "checked": "2026-11-24",
+  "file": "heritage-fcu-v1.png",
+  "result": "current"
+ },
  "heritage-financial-fcu-ny": {
   "checked": "2026-11-23",
   "file": "heritage-financial-fcu-ny-v1.png",
@@ -239,6 +306,23 @@
   "checked": "2026-11-23",
   "file": "meridian-trust-fcu-v1.png",
   "result": "current"
+ },
+ "metro-medical-cu": {
+  "checked": "2026-11-24",
+  "file": "metro-medical-cu-v1.png",
+  "result": "current"
+ },
+ "midcoast-fcu": {
+  "file": "midcoast-fcu-v1.png",
+  "live_sig": [
+   [
+    "35923582273225123d9224d2256235d2f592205f5e4a565a24556a58622971a9",
+    1.728
+   ]
+  ],
+  "note": "Header logo is a CSS data-URI on .header .brand in app.491df3.css (252x47 lockup); same mark saved",
+  "ok": true,
+  "reviewed": "2026-11-24"
  },
  "mountain-america-cu": {
   "checked": "2026-11-23",
@@ -295,10 +379,31 @@
   "file": "park-community-cu-v1.png",
   "result": "current"
  },
+ "penfed": {
+  "checked": "2026-11-24",
+  "confirmed": {
+   "date": "2026-11-24",
+   "source": "https://careers.penfed.org/jobs/vp-deposit-products-mc-lean---virginia---2026-11563-jobs"
+  },
+  "file": "penfed-v1.png",
+  "note": "site refused us on 2026-11-24 (403); not asked again for 30 days; source undated",
+  "result": "confirmed"
+ },
+ "peopleschoice-cu": {
+  "checked": "2026-11-24",
+  "file": "peopleschoice-cu-v1.png",
+  "result": "current"
+ },
  "pioneer-fcu-id": {
   "checked": "2026-11-23",
   "file": "pioneer-fcu-id-v1.png",
   "result": "current"
+ },
+ "point-breeze-cu": {
+  "checked": "2026-11-24",
+  "file": "point-breeze-cu-v1.png",
+  "note": "site refused us on 2026-11-24 (403); not asked again for 30 days; source undated",
+  "result": "BLOCKED"
  },
  "qside-fcu": {
   "checked": "2026-11-23",
@@ -318,6 +423,11 @@
  "rocky-mountain-cu-mt": {
   "checked": "2026-11-23",
   "file": "rocky-mountain-cu-mt-v1.png",
+  "result": "current"
+ },
+ "sandia-area-fcu": {
+  "checked": "2026-11-24",
+  "file": "sandia-area-fcu-v1.png",
   "result": "current"
  },
  "schoolsfirst-fcu": {

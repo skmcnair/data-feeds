@@ -3,6 +3,14 @@
   "code": 403,
   "date": "2026-11-23"
  },
+ "blog.logixbanking.com": {
+  "code": 403,
+  "date": "2026-11-24"
+ },
+ "businesswire.com": {
+  "code": 403,
+  "date": "2026-11-24"
+ },
  "firsttechfed.com": {
   "code": 403,
   "date": "2026-11-23"
@@ -18,5 +26,17 @@
  "logixbanking.com": {
   "code": 403,
   "date": "2026-11-23"
+ },
+ "pbcu.com": {
+  "code": 403,
+  "date": "2026-11-24"
+ },
+ "penfed.org": {
+  "code": 403,
+  "date": "2026-11-24"
+ },
+ "streetinsider.com": {
+  "code": 403,
+  "date": "2026-11-24"
  }
 }

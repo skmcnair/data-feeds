@@ -1,0 +1,896 @@
+{
+ "feed": "exec-jobs",
+ "run": {
+  "started": "2026-11-24T02:42:00-05:00",
+  "finished": "2026-11-24T03:23:00-05:00",
+  "searches": 113,
+  "errors": [
+   "68671 WINGS [ultipro]: HTTP 404",
+   "62745 ONPOINT COMMUNITY [icims]: HTTP 404",
+   "64418 VERIDIAN [careers_page]: bot check (blocked; never get around it)",
+   "66703 WESCOM CENTRAL [workday]: HTTP 422",
+   "61315 ONEAZ [adp]: HTTP 404",
+   "18708 PARTNERS [jazzhr]: HTTP 410",
+   "68315 SEATTLE METROPOLITAN [rippling]: HTTP 404",
+   "68223 QUALSTAR [applicantpro]: HTTP 404",
+   "3850 N C P D [careers_page]: HTTP 404",
+   "67541 LIBERTY BAY [workable]: HTTP 429",
+   "67927 SMART FINANCIAL [workable]: HTTP 429",
+   "24858 MAINSTREET [rippling]: HTTP 404",
+   "65722 FREEDOM NORTHWEST [careers_page]: HTTP 404",
+   "19448 U. T. [applicantpro]: HTTP 404",
+   "CUES job board not read: WebFetch permission request went unanswered (unattended run)"
+  ]
+ },
+ "reviewed": [
+  "e91f651c682a",
+  "5edc8721b26a",
+  "4c85214c6931",
+  "903a813ce35e",
+  "1dbe268f6c9f",
+  "1906e6784e39",
+  "264bdf4bc188",
+  "d11ce9b5f406",
+  "ca689bc33f60",
+  "391eb891382a",
+  "82de81896bc0",
+  "1b6f7e008c38",
+  "1cb2558299c0",
+  "c4799fcd7f4d",
+  "51e3fa388417",
+  "31a94c8389c9"
+ ],
+ "adds": [
+  {
+   "fields": {
+    "organization": "Community First Credit Union of Florida",
+    "city": "Jacksonville",
+    "state": "FL",
+    "org_assets": 3203.7,
+    "org_members": 199182,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$1B-$5B",
+    "posted": "2026-11-23",
+    "title": "VP, Integrated Marketing Strategy",
+    "level": "EVP / SVP / VP",
+    "function": "Marketing",
+    "status": "Open",
+    "job_location": "Jacksonville, FL",
+    "job_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=49bf407c-7b7b-4d5b-820d-049c3c213384&ccId=19000101_000001&jobId=9205261847318_188&lang=en_US"
+   },
+   "sources": [
+    {
+     "label": "Community First careers (ADP)",
+     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=49bf407c-7b7b-4d5b-820d-049c3c213384&ccId=19000101_000001&jobId=9205261847318_188&lang=en_US",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67290",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Coast Central Credit Union",
+    "city": "Eureka",
+    "state": "CA",
+    "org_assets": 2282.6,
+    "org_members": 81224,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$1B-$5B",
+    "title": "SVP, Chief Human Resources Officer",
+    "level": "C-suite",
+    "function": "People",
+    "status": "Open",
+    "pay_range": "$163K-$217K",
+    "job_url": "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer.pdf"
+   },
+   "sources": [
+    {
+     "label": "Coast Central careers page",
+     "url": "https://www.coastccu.org/community/careers/",
+     "type": "primary"
+    },
+    {
+     "label": "Coast Central job description (PDF)",
+     "url": "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer.pdf",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62367",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 2,
+    "org_members": 2,
+    "assets_as_of": 2,
+    "size_band": 2,
+    "city": 2,
+    "state": 2
+   }
+  },
+  {
+   "fields": {
+    "organization": "Caltech Employees Federal Credit Union",
+    "city": "La Canada",
+    "state": "CA",
+    "org_assets": 2074.3,
+    "org_members": 31522,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$1B-$5B",
+    "title": "Vice President Operations",
+    "level": "EVP / SVP / VP",
+    "function": "Operations",
+    "status": "Open",
+    "pay_range": "$193K-$260K",
+    "job_url": "https://www.caltechefcu.org/home/fiFiles/static/documents/Employment_Opportunity_Vice_President_Operations.pdf"
+   },
+   "sources": [
+    {
+     "label": "Caltech Employees FCU employment page",
+     "url": "https://www.caltechefcu.org/home/about/employment-opportunities",
+     "type": "primary"
+    },
+    {
+     "label": "Caltech Employees FCU job description (PDF)",
+     "url": "https://www.caltechefcu.org/home/fiFiles/static/documents/Employment_Opportunity_Vice_President_Operations.pdf",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6681",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 2,
+    "org_members": 2,
+    "assets_as_of": 2,
+    "size_band": 2,
+    "city": 2,
+    "state": 2
+   }
+  },
+  {
+   "fields": {
+    "organization": "Jeanne D'Arc Credit Union",
+    "city": "Lowell",
+    "state": "MA",
+    "org_assets": 2199.4,
+    "org_members": 103174,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$1B-$5B",
+    "posted": "2026-11-20",
+    "title": "Chief Lending Officer",
+    "level": "C-suite",
+    "function": "Lending",
+    "status": "Open",
+    "search_firm": "Smith & Wilkinson",
+    "job_url": "https://smithandwilkinson.com/search-jobs/",
+    "notes": "Opening follows a planned retirement."
+   },
+   "sources": [
+    {
+     "label": "Smith & Wilkinson posting",
+     "url": "https://smithandwilkinson.com/search-jobs/",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67352",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Border Federal Credit Union",
+    "city": "Del Rio",
+    "state": "TX",
+    "org_assets": 271.7,
+    "org_members": 27781,
+    "assets_as_of": "Q3 2026",
+    "size_band": "Under $500M",
+    "posted": "2026-11-18",
+    "title": "President/CEO",
+    "level": "CEO",
+    "function": "Executive",
+    "status": "Open",
+    "job_url": "https://thecreditunionconnection.com/job/president-ceo-border-credit-federal-union-cornerstone/",
+    "notes": "Replacing its retiring President/CEO."
+   },
+   "sources": [
+    {
+     "label": "The Credit Union Connection job board",
+     "url": "https://thecreditunionconnection.com/job/president-ceo-border-credit-federal-union-cornerstone/",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24304",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Sandia Area Federal Credit Union",
+    "city": "Albuquerque",
+    "state": "NM",
+    "org_assets": 1447.1,
+    "org_members": 72160,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$1B-$5B",
+    "posted": "2026-11-11",
+    "title": "Chief Information Officer",
+    "level": "C-suite",
+    "function": "Technology",
+    "status": "Open",
+    "search_firm": "DDJ Myers",
+    "job_location": "Albuquerque, NM",
+    "job_url": "https://www.cutoday.info/Job-Openings/Chief-Information-Officer-Sandia-Area-Federal-Credit-Union-Albuquerque-NM"
+   },
+   "sources": [
+    {
+     "label": "CUToday job openings",
+     "url": "https://www.cutoday.info/Job-Openings/Chief-Information-Officer-Sandia-Area-Federal-Credit-Union-Albuquerque-NM",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11316",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Midcoast Federal Credit Union",
+    "city": "Freeport",
+    "state": "ME",
+    "org_assets": 264.8,
+    "org_members": 16153,
+    "assets_as_of": "Q3 2026",
+    "size_band": "Under $500M",
+    "posted": "2026-10-30",
+    "title": "Vice President, Loan Operations",
+    "level": "EVP / SVP / VP",
+    "function": "Lending",
+    "status": "Open",
+    "work_mode": "Hybrid",
+    "job_location": "Bath, ME",
+    "job_url": "https://mainecul.org/about-credit-unions/job-opportunities/vice-president-loan-operations/"
+   },
+   "sources": [
+    {
+     "label": "Maine Credit Union League job board",
+     "url": "https://mainecul.org/about-credit-unions/job-opportunities/vice-president-loan-operations/",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/10898",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Metro Medical Credit Union",
+    "city": "Dallas",
+    "state": "TX",
+    "org_assets": 82.5,
+    "org_members": 6049,
+    "assets_as_of": "Q3 2026",
+    "size_band": "Under $500M",
+    "posted": "2026-10-29",
+    "title": "President",
+    "level": "CEO",
+    "function": "Executive",
+    "status": "Open",
+    "search_firm": "Cornerstone Resources",
+    "job_url": "https://thecreditunionconnection.com/job/president-metro-medical-credit-union-cornerstone/",
+    "notes": "Replacing its retiring President/CEO."
+   },
+   "sources": [
+    {
+     "label": "The Credit Union Connection job board",
+     "url": "https://thecreditunionconnection.com/job/president-metro-medical-credit-union-cornerstone/",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/67517",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "PeoplesChoice Credit Union",
+    "city": "Saco",
+    "state": "ME",
+    "org_assets": 370.0,
+    "org_members": 20289,
+    "assets_as_of": "Q3 2026",
+    "size_band": "Under $500M",
+    "posted": "2026-10-28",
+    "title": "Chief Financial Officer",
+    "level": "C-suite",
+    "function": "Finance",
+    "status": "Open",
+    "pay_range": "$175K-$225K",
+    "work_mode": "Hybrid",
+    "job_location": "Saco, ME",
+    "job_url": "https://www.cutoday.info/Job-Openings/Chief-Financial-Officer-PeoplesChoice-Credit-Union-Saco",
+    "notes": "First 90 days in the Saco office, then hybrid."
+   },
+   "sources": [
+    {
+     "label": "CUToday job openings",
+     "url": "https://www.cutoday.info/Job-Openings/Chief-Financial-Officer-PeoplesChoice-Credit-Union-Saco",
+     "type": "aggregator"
+    },
+    {
+     "label": "Maine Credit Union League job board",
+     "url": "https://mainecul.org/about-credit-unions/job-opportunities/chief-financial-officer-cfo/",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68442",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 2,
+    "org_members": 2,
+    "assets_as_of": 2,
+    "size_band": 2,
+    "city": 2,
+    "state": 2
+   }
+  },
+  {
+   "fields": {
+    "organization": "Arkansas Best Federal Credit Union",
+    "city": "Fort Smith",
+    "state": "AR",
+    "org_assets": 141.1,
+    "org_members": 11249,
+    "assets_as_of": "Q3 2026",
+    "size_band": "Under $500M",
+    "posted": "2026-10-13",
+    "title": "President/CEO",
+    "level": "CEO",
+    "function": "Executive",
+    "status": "Open",
+    "search_firm": "Cornerstone Resources",
+    "job_url": "https://thecreditunionconnection.com/job/president-ceo-3-cornerstone-arkansas-best-federal-credit-union/",
+    "notes": "Replacing its retiring President/CEO."
+   },
+   "sources": [
+    {
+     "label": "The Credit Union Connection job board",
+     "url": "https://thecreditunionconnection.com/job/president-ceo-3-cornerstone-arkansas-best-federal-credit-union/",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13737",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Point Breeze Credit Union",
+    "city": "Hunt Valley",
+    "state": "MD",
+    "org_assets": 1040.9,
+    "org_members": 73604,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$1B-$5B",
+    "posted": "2026-10-09",
+    "title": "VP Deposit Growth & Member Relationships Officer",
+    "level": "EVP / SVP / VP",
+    "function": "Retail",
+    "status": "Open",
+    "search_firm": "Smith & Wilkinson",
+    "job_url": "https://smithandwilkinson.com/search-jobs/"
+   },
+   "sources": [
+    {
+     "label": "Smith & Wilkinson posting",
+     "url": "https://smithandwilkinson.com/search-jobs/",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66585",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Pentagon Federal Credit Union",
+    "city": "McLean",
+    "state": "VA",
+    "org_assets": 29188.4,
+    "org_members": 2692731,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$5B+",
+    "posted": "2026-11-16",
+    "title": "VP, Deposit Products",
+    "level": "EVP / SVP / VP",
+    "function": "Product",
+    "status": "Open",
+    "pay_range": "$152K-$281K",
+    "work_mode": "On-site",
+    "job_location": "McLean, VA",
+    "job_url": "https://careers.penfed.org/jobs/vp-deposit-products-mc-lean---virginia---2026-11563-jobs"
+   },
+   "sources": [
+    {
+     "label": "PenFed careers",
+     "url": "https://careers.penfed.org/jobs/vp-deposit-products-mc-lean---virginia---2026-11563-jobs",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/227",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "VyStar Credit Union",
+    "city": "Jacksonville",
+    "state": "FL",
+    "org_assets": 14437.0,
+    "org_members": 1033625,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$5B+",
+    "posted": "2026-11-13",
+    "title": "VP, Consumer Lending, Product Innovation & Credit Analytics",
+    "level": "EVP / SVP / VP",
+    "function": "Lending",
+    "status": "Open",
+    "work_mode": "On-site",
+    "job_location": "Jacksonville, FL",
+    "job_url": "https://builtin.com/job/vp-consumer-lending-product-innovation-credit-analytics/11427304",
+    "notes": "VyStar's own careers site blocks automated reading; seen on Built In."
+   },
+   "sources": [
+    {
+     "label": "Built In listing",
+     "url": "https://builtin.com/job/vp-consumer-lending-product-innovation-credit-analytics/11427304",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68490",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "VyStar Credit Union",
+    "city": "Jacksonville",
+    "state": "FL",
+    "org_assets": 14437.0,
+    "org_members": 1033625,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$5B+",
+    "posted": "2026-11-10",
+    "title": "Vice President, Commercial Credit",
+    "level": "EVP / SVP / VP",
+    "function": "Commercial",
+    "status": "Open",
+    "work_mode": "On-site",
+    "job_location": "Jacksonville, FL",
+    "job_url": "https://builtin.com/job/vice-president-commercial-credit/12162797",
+    "notes": "VyStar's own careers site blocks automated reading; seen on Built In."
+   },
+   "sources": [
+    {
+     "label": "Built In listing",
+     "url": "https://builtin.com/job/vice-president-commercial-credit/12162797",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68490",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Redwood Credit Union",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "org_assets": 10328.2,
+    "org_members": 429841,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$5B+",
+    "posted": "2026-11-04",
+    "title": "Vice President, Financial Assistance & Loan Servicing",
+    "level": "EVP / SVP / VP",
+    "function": "Lending",
+    "status": "Open",
+    "pay_range": "$193K-$227K",
+    "work_mode": "On-site",
+    "job_location": "Santa Rosa, CA or Napa, CA",
+    "job_url": "https://jobs.lever.co/redwoodcu/4dccb8d7-f2bb-4fcc-ad8b-a9ee14bf97d7"
+   },
+   "sources": [
+    {
+     "label": "Redwood careers (Lever)",
+     "url": "https://jobs.lever.co/redwoodcu/4dccb8d7-f2bb-4fcc-ad8b-a9ee14bf97d7",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60793",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Redwood Credit Union",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "org_assets": 10328.2,
+    "org_members": 429841,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$5B+",
+    "posted": "2025-04-17",
+    "title": "SVP, Accounting and Finance",
+    "level": "EVP / SVP / VP",
+    "function": "Finance",
+    "status": "Open",
+    "pay_range": "$300K-$335K",
+    "work_mode": "On-site",
+    "job_location": "Napa, CA or Santa Rosa, CA",
+    "job_url": "https://jobs.lever.co/redwoodcu/045e0f06-1df0-4c56-8246-c3413623c39a"
+   },
+   "sources": [
+    {
+     "label": "Redwood careers (Lever)",
+     "url": "https://jobs.lever.co/redwoodcu/045e0f06-1df0-4c56-8246-c3413623c39a",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/60793",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Bellco Credit Union",
+    "city": "Greenwood Village",
+    "state": "CO",
+    "org_assets": 8632.4,
+    "org_members": 371214,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$5B+",
+    "posted": "2026-11-19",
+    "title": "Vice President – Commercial Underwriting, Closing and Portfolio Servicing",
+    "level": "EVP / SVP / VP",
+    "function": "Commercial",
+    "status": "Open",
+    "pay_range": "$202K-$210K",
+    "job_location": "Greenwood Village, CO",
+    "job_url": "https://jobs.dayforcehcm.com/en-US/bellco/CANDIDATEPORTAL/jobs/9473",
+    "notes": "Applications close 5 days after posting (about Nov 24, 2026)."
+   },
+   "sources": [
+    {
+     "label": "Bellco careers (Dayforce)",
+     "url": "https://jobs.dayforcehcm.com/en-US/bellco/CANDIDATEPORTAL/jobs/9473",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68437",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "Heritage Federal Credit Union",
+    "city": "Newburgh",
+    "state": "IN",
+    "org_assets": 1021.9,
+    "org_members": 64082,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$1B-$5B",
+    "posted": "2026-08-21",
+    "title": "Chief Financial Officer",
+    "level": "C-suite",
+    "function": "Finance",
+    "status": "Open",
+    "job_location": "Newburgh, IN",
+    "job_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442327"
+   },
+   "sources": [
+    {
+     "label": "Heritage careers (Paylocity)",
+     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4442327",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/16626",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  },
+  {
+   "fields": {
+    "organization": "FAIRWINDS Credit Union",
+    "city": "Orlando",
+    "state": "FL",
+    "org_assets": 5376.9,
+    "org_members": 265086,
+    "assets_as_of": "Q3 2026",
+    "size_band": "$5B+",
+    "posted": "2026-10-28",
+    "title": "VP Commercial Credit Administration",
+    "level": "EVP / SVP / VP",
+    "function": "Commercial",
+    "status": "Open",
+    "job_location": "Orlando, FL",
+    "job_url": "https://recruiting.ultipro.com/FAI1002FAIRW/JobBoard/e31eb413-5692-4198-b06c-a341a83f59d6/OpportunityDetail?opportunityId=e512698c-96ee-4f25-8c97-2b4ec5a9253d"
+   },
+   "sources": [
+    {
+     "label": "FAIRWINDS careers (UKG)",
+     "url": "https://recruiting.ultipro.com/FAI1002FAIRW/JobBoard/e31eb413-5692-4198-b06c-a341a83f59d6/OpportunityDetail?opportunityId=e512698c-96ee-4f25-8c97-2b4ec5a9253d",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68417",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1,
+    "size_band": 1,
+    "city": 1,
+    "state": 1
+   }
+  }
+ ],
+ "updates": [
+  {
+   "id": "undated-state-employees-credit-union-vp-infrastructure-infosec-regulatory-and-shared-servi",
+   "set": {
+    "status": "Closed",
+    "closed": "2026-11-24"
+   },
+   "note": "Posting taken down from SECU's careers board; no hire announced",
+   "sources": [
+    {
+     "label": "SECU careers (Workday)",
+     "url": "https://ncsecu.wd1.myworkdayjobs.com/SECU",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "undated-georgia-s-own-credit-union-chief-financial-officer",
+   "set": {
+    "status": "Closed",
+    "closed": "2026-11-24"
+   },
+   "note": "D. Hilton removed the posting; no hire announced",
+   "sources": [
+    {
+     "label": "D. Hilton open positions",
+     "url": "https://www.dhilton.com/find-a-career/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13-jsc-federal-credit-union-vp-wealth-management",
+   "set": {
+    "search_firm": "D. Hilton Associates",
+    "job_url": "https://www.dhilton.com/find-a-career/wellby-financial-vice-president-wealth-management"
+   },
+   "note": "D. Hilton Associates is running the search (posted under the Wellby Financial name)",
+   "sources": [
+    {
+     "label": "D. Hilton posting",
+     "url": "https://www.dhilton.com/find-a-career/wellby-financial-vice-president-wealth-management",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-san-diego-county-credit-union-svp-regional-manager",
+   "set": {
+    "pay_range": "$190K-$235K"
+   },
+   "note": "Pay range from the postings; Vista posting added as a source",
+   "sources": [
+    {
+     "label": "San Diego County careers (ADP), Vista",
+     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=60a418a2-e4cc-44a9-b837-cdd877de6dd0&ccId=19000101_000001&jobId=9202528073223_360&lang=en_US",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "undated-global-federal-credit-union-svp-special-credits",
+   "set": {},
+   "note": "Second posting for the same role (iCIMS 9094) added as a source",
+   "sources": [
+    {
+     "label": "Global careers (iCIMS), second posting",
+     "url": "https://careers-globalcu.icims.com/jobs/9094/senior-vice-president-special-credits/job",
+     "type": "primary"
+    }
+   ]
+  }
+ ],
+ "rechecked": [
+  "2026-11-20-rev-federal-credit-union-regional-vp",
+  "2026-11-20-members-first-credit-union-vp-finance-i",
+  "2026-11-19-elements-financial-federal-credit-union-vp-legal-and-risk-management",
+  "2026-11-17-randolph-brooks-federal-credit-union-vp-project-management-office",
+  "2026-11-17-langley-federal-credit-union-vp-performance-marketing",
+  "2026-11-17-keesler-federal-credit-union-vp-head-of-digital",
+  "2026-11-17-orange-county-s-federal-credit-union-vp-money-movement-and-payments",
+  "2026-11-16-navigant-credit-union-vp-internal-audit",
+  "2026-11-13-state-employees-credit-union-vp-identity-access-management",
+  "2026-11-13-allegacy-financial-federal-credit-union-vp-commercial-banking",
+  "2026-11-13-southpoint-financial-credit-union-vp-technology",
+  "2026-11-12-brewery-credit-union-vp-lending",
+  "2026-11-12-tower-federal-credit-union-vp-collections",
+  "2026-11-11-chevron-federal-credit-union-svp-marketing",
+  "2026-11-10-navy-federal-credit-union-vp-member-research-and-analytics",
+  "2026-11-09-georgia-s-own-credit-union-svp-senior-credit-officer",
+  "2026-11-08-charter-oak-federal-credit-union-vp-human-resources-operations",
+  "2026-11-07-blackhawk-community-credit-union-chief-financial-officer",
+  "2026-11-06-westconsin-credit-union-president-and-ceo",
+  "2026-11-04-state-employees-credit-union-associate-evp-cyber-defense",
+  "2026-11-04-ornl-federal-credit-union-svp-culture-and-impact"
+ ]
+}

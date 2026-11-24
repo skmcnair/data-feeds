@@ -129,10 +129,10 @@
    "assets_m": 20006.7,
    "website": "http://www.alliantcreditunion.org",
    "careers_url": "",
-   "platform": "",
-   "board_url": "",
+   "platform": "icims",
+   "board_url": "https://careers-alliantcreditunion.icims.com/jobs/search",
    "status": "blocked",
-   "note": "home 403"
+   "note": "home 403; iCIMS board careers-alliantcreditunion.icims.com/jobs/search answered 404 (2026-11-24)"
   },
   {
    "charter": "8111",
@@ -237,10 +237,10 @@
    "assets_m": 10946.9,
    "website": "https://www.greenstate.org",
    "careers_url": "",
-   "platform": "",
-   "board_url": "",
-   "status": "blocked",
-   "note": "home 403"
+   "platform": "icims",
+   "board_url": "https://careers-greenstate.icims.com/jobs/search",
+   "status": "mapped",
+   "note": ""
   },
   {
    "charter": "24563",
@@ -261,8 +261,8 @@
    "assets_m": 10704.2,
    "website": "http://www.redwoodcu.org",
    "careers_url": "https://www.redwoodcu.org/about/careers/",
-   "platform": "careers_page",
-   "board_url": "https://www.redwoodcu.org/about/careers/",
+   "platform": "lever",
+   "board_url": "https://jobs.lever.co/redwoodcu",
    "status": "mapped",
    "note": ""
   },
@@ -693,10 +693,10 @@
    "assets_m": 6716.1,
    "website": "http://www.uwcu.org",
    "careers_url": "",
-   "platform": "",
-   "board_url": "",
-   "status": "blocked",
-   "note": "home 403"
+   "platform": "icims",
+   "board_url": "https://careers-uwcu.icims.com/jobs/search",
+   "status": "mapped",
+   "note": ""
   },
   {
    "charter": "24921",
@@ -729,8 +729,8 @@
    "assets_m": 6556.4,
    "website": "http://www.genisyscu.org",
    "careers_url": "https://www.genisyscu.org/about-genisys/careers",
-   "platform": "careers_page",
-   "board_url": "https://www.genisyscu.org/about-genisys/careers",
+   "platform": "adp",
+   "board_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1efef5a7-f99b-4130-9596-30dd2b2a3ce5&ccId=19000101_000001&lang=en_US",
    "status": "mapped",
    "note": ""
   },
@@ -837,10 +837,10 @@
    "assets_m": 5797.7,
    "website": "http://www.nasafcu.com",
    "careers_url": "",
-   "platform": "",
-   "board_url": "",
-   "status": "blocked",
-   "note": "home 0"
+   "platform": "lever",
+   "board_url": "https://jobs.lever.co/nasafcu",
+   "status": "mapped",
+   "note": ""
   },
   {
    "charter": "60060",
@@ -969,8 +969,8 @@
    "assets_m": 5341.6,
    "website": "http://www.fairwinds.org",
    "careers_url": "https://www.fairwinds.org/careers",
-   "platform": "careers_page",
-   "board_url": "https://www.fairwinds.org/careers",
+   "platform": "ultipro",
+   "board_url": "https://recruiting.ultipro.com/FAI1002FAIRW/JobBoard/e31eb413-5692-4198-b06c-a341a83f59d6",
    "status": "mapped",
    "note": ""
   },
@@ -5541,8 +5541,8 @@
    "assets_m": 1042.0,
    "website": "http://www.latinoccu.org",
    "careers_url": "https://latinoccu.org/careers-2/",
-   "platform": "careers_page",
-   "board_url": "https://latinoccu.org/careers-2/",
+   "platform": "paylocity",
+   "board_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/367f48de-db23-4ec3-b41c-37cf7ebc7e79/Latino-Credit-Union",
    "status": "mapped",
    "note": ""
   },
@@ -5565,8 +5565,8 @@
    "assets_m": 1038.5,
    "website": "http://www.mirastarfcu.org",
    "careers_url": "https://www.mirastarfcu.org/about/careers/",
-   "platform": "careers_page",
-   "board_url": "https://www.mirastarfcu.org/about/careers/",
+   "platform": "lever",
+   "board_url": "https://jobs.lever.co/mirastarfcu",
    "status": "mapped",
    "note": ""
   },
@@ -5589,8 +5589,8 @@
    "assets_m": 1032.0,
    "website": "http://www.heritagefederal.org",
    "careers_url": "https://www.heritagefederal.org/about-us/careers",
-   "platform": "careers_page",
-   "board_url": "https://www.heritagefederal.org/about-us/careers",
+   "platform": "paylocity",
+   "board_url": "https://recruiting.paylocity.com/recruiting/jobs/All/1b91f88e-2164-4730-ae78-81ce0a91866d/Heritage-Federal-Credit-Union",
    "status": "mapped",
    "note": ""
   },
