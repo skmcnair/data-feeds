@@ -5319,7 +5319,20 @@
       "kind": "bank",
       "website": "https://www.mtb.com",
       "state": "NY",
-      "fdic_cert": "588"
+      "fdic_cert": "588",
+      "logo": {
+        "file": "m-and-t-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.mtb.com/content/dam/mtb-web/images/svg/newnavimg/mtb_logo_green.svg",
+        "fingerprint": "6e9652464a064a0242b452b552ea949a94dab2b2aaa2aaaaaaaaeaaa78d25492",
+        "aspect": 5.514,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "citizens": {
       "name": "Citizens Bank",
@@ -5433,7 +5446,20 @@
       "kind": "bank",
       "website": "https://chelseagroton.com",
       "state": "CT",
-      "fdic_cert": "18238"
+      "fdic_cert": "18238",
+      "logo": {
+        "file": "chelsea-groton-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://chelseagroton.com/wp-content/themes/chelseagroton-2023/public/images/cg-logo.d365fc.svg",
+        "fingerprint": "0b400f20172015208d200d20dd0094c094c2518851b9522a716a496a6c6bb6dd",
+        "aspect": 3.565,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "centreville-bank": {
       "name": "Centreville Bank",
@@ -5460,7 +5486,20 @@
       "kind": "bank",
       "website": "https://www.wellsfargo.com",
       "state": "SD",
-      "fdic_cert": "3511"
+      "fdic_cert": "3511",
+      "logo": {
+        "file": "wells-fargo-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www17.wellsfargomedia.com/assets/images/logos/wellsfargo/logo_974x1050.png",
+        "fingerprint": "000000001092e96816973a97aadb159625eb254b2b96d4482112000000000000",
+        "aspect": 0.925,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "trunorth-bank": {
       "name": "TruNorth Bank",
@@ -5492,7 +5531,20 @@
       "kind": "bank",
       "website": "https://www.bankatpeoples.com",
       "state": "MA",
-      "fdic_cert": "90213"
+      "fdic_cert": "90213",
+      "logo": {
+        "file": "peoplesbank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.bankatpeoples.com/home/diFiles/skins/default/images/logo.png",
+        "fingerprint": "2522053295321532166c1634091699ca956a553a16bb9aaa064086a006801680",
+        "aspect": 5.708,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "torrington-savings": {
       "name": "The Torrington Savings Bank",
@@ -5593,7 +5645,20 @@
       "kind": "bank",
       "website": "https://www.unionsavings.com",
       "state": "CT",
-      "fdic_cert": "18190"
+      "fdic_cert": "18190",
+      "logo": {
+        "file": "union-savings-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.unionsavings.com/wp-content/themes/usb-v2/assets/img/usb-ogo-full-color.png",
+        "fingerprint": "aa6aa82089aa49aa69b569b569b5d9b555ab35ea35193dbb96cac6cdccc90040",
+        "aspect": 3.511,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "thomaston-savings": {
       "name": "Thomaston Savings Bank",
@@ -5602,7 +5667,20 @@
       "kind": "bank",
       "website": "https://www.thomastonsavingsbank.com",
       "state": "CT",
-      "fdic_cert": "18258"
+      "fdic_cert": "18258",
+      "logo": {
+        "file": "thomaston-savings-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.thomastonsavingsbank.com/packages/worx/themes/worx/images/tsb-horizontal-logo.svg",
+        "fingerprint": "c000cc80cc00ccc9a692c79acf61c6c5c513c933ce8eccc9ccddc9c6c840c800",
+        "aspect": 3.511,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "westfield-bank": {
       "name": "Westfield Bank",
@@ -5914,7 +5992,20 @@
       "kind": "credit_union",
       "charter": "7723",
       "website": "https://www.360fcu.org",
-      "state": "CT"
+      "state": "CT",
+      "logo": {
+        "file": "360-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.360fcu.org/wp-content/themes/BankSiteResponsive_2014/img/logo.png",
+        "fingerprint": "c0009000280028005c0030406a9062a463446ba549a24a550bcb0b9c92d4c400",
+        "aspect": 2.714,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "l-m-hospital-employees-fcu": {
       "name": "Lawrence Memorial Hospital Employees Federal Credit Union",
@@ -6001,7 +6092,20 @@
       "kind": "credit_union",
       "charter": "21190",
       "website": "https://asafcu.com",
-      "state": "CT"
+      "state": "CT",
+      "logo": {
+        "file": "asa-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/5efb9fde1d998b3a9440ab7c/1594301262455-S8PSEZVD78PPDOTHNI9V/correctLogo.png?format=1500w",
+        "fingerprint": "e002d466d310c466c44695c6919695d6945696769476b4f4b4b44a48b0b4a009",
+        "aspect": 2.5,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "polam-fcu": {
       "name": "Polam Federal Credit Union",
@@ -6051,7 +6155,20 @@
       "kind": "credit_union",
       "charter": "60048",
       "website": "https://www.cspcu.org",
-      "state": "CT"
+      "state": "CT",
+      "logo": {
+        "file": "ct-state-police-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.cspcu.org/S3Assets/StatePoliceV2/images/logo-site.png?v=2",
+        "fingerprint": "e48ac935d515d58dca72d48ac9f6c974c934d9bed640c800f006c14084009000",
+        "aspect": 1.424,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "community-healthcare-cu": {
       "name": "Community Healthcare Credit Union",
@@ -6288,7 +6405,20 @@
       "kind": "credit_union",
       "charter": "68662",
       "website": "https://www.finexcu.org",
-      "state": "CT"
+      "state": "CT",
+      "logo": {
+        "file": "finex-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.finexcu.org/hubfs/Finex%20Assets/finex-logo.svg",
+        "fingerprint": "c0c4a113acd39aacb2aab38ab2acb2c9801921a43077684400009b4ca24caaee",
+        "aspect": 1.664,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "afn-cu": {
       "name": "America's First Network Credit Union",
@@ -6306,7 +6436,20 @@
       "kind": "bank",
       "website": "https://www.websterbank.com",
       "state": "DE",
-      "fdic_cert": "29950"
+      "fdic_cert": "29950",
+      "logo": {
+        "file": "webster-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.websterbank.com/wp-content/uploads/2021/08/Webster-Bank-lock-up-RBG-3-1.svg",
+        "fingerprint": "900040004a9260006a925a925a929a849b46dd4a5a0a7e5660124a0840009000",
+        "aspect": 4.936,
+        "pinned": false,
+        "added": "2026-11-24",
+        "checked": "2026-11-24",
+        "previous": [],
+        "ignored": []
+      }
     },
     "secu-nc": {
       "name": "State Employees' Credit Union",
