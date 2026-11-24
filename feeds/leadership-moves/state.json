@@ -1,23 +1,10 @@
 {
-  "last_review": "2026-11-23T00:53:00-05:00",
-  "last_review_file": "2026-11-23-0053.json",
+  "last_review": "2026-11-24T00:35:00-05:00",
+  "last_review_file": "2026-11-24-0035.json",
   "last_review_result": "ok",
   "last_review_errors": [],
   "last_review_report": {
-    "added": [
-      {
-        "id": "2026-10-21-robyn-young-great-erie-federal-credit-union-retiring",
-        "summary": "Robyn Young / Great Erie Federal Credit Union / Retiring"
-      },
-      {
-        "id": "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
-        "summary": "Michael Pierino / Great Erie Federal Credit Union / Promoted"
-      },
-      {
-        "id": "2026-11-10-christina-kelly-verve-a-credit-union-hired",
-        "summary": "Christina Kelly / Verve, a Credit Union / Hired"
-      }
-    ],
+    "added": [],
     "updated": [],
     "rechecked": [
       "2026-11-19-tina-tracy-credit-union-one-promoted",
@@ -35,9 +22,10 @@
       "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
       "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
       "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+      "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
       "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
     ],
-    "reviewed": 94,
+    "reviewed": 25,
     "rejected": []
   },
   "last_collect": "2026-11-23T23:16:09-05:00",
