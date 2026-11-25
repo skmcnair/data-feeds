@@ -1,9 +1,27 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-24T19:34:06-05:00",
+  "generated": "2026-11-24T20:34:48-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "cad76f4ac5e0",
+      "title": "Former SAFE Credit Union site near Folsom Auto Mall may have been acquired by auto dealer - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkg3NDNHX0I3WTZUVFdaSER4b0pDMjdQN0h2a0xSeHpnRjEzOWNvSzJ2T1hhN3dKb2FOaU1kYlpoVDlUT1R2cUNGUkMxSi0tcFJRLXBLakpVSC1GcFRYX3ZtOE9KSDF2bUVOLVlxN01aTGZLTzc0R0xOU3d4M0lnQ0xCWk5VTGRzUjFud2Q2OGV4bmh5dlBRMFFUMktYOTRBUk9n",
+      "source": "Google News - credit union merger",
+      "published": "2026-11-24T18:55:00-05:00",
+      "found": "2026-11-24T20:34:43-05:00",
+      "summary": "Former SAFE Credit Union site near Folsom Auto Mall may have been acquired by auto dealer The Business Journals"
+    },
+    {
+      "id": "884ccda5c0dc",
+      "title": "Intermex sues Western Union after Denver financial giant halts $500 million acquisition - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHM5XzBUQmpydXRSTzJBeTRlVGhUV2VKTWRkT05IYkRIY19iWmNFcFdmeXJ2SG5xTHpDNUJ4M09tUGsyVnBFYTJFOGNfNGZSMzNKZFZPcmtzcGZNZDUyYlJsbWc0TU9zSmlhdmo3OXRncl8tc2h0bnR0LXpwWWpwSzhYeGFubms2ejdPVTVsQWlMZHY3U0U3REhWNGVrSlB2YkN0TERDQ2pCUnVM",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-24T18:01:00-05:00",
+      "found": "2026-11-24T20:34:43-05:00",
+      "summary": "Intermex sues Western Union after Denver financial giant halts $500 million acquisition The Business Journals"
+    },
     {
       "id": "ac050dd99001",
       "title": "Family Savings CU to Acquire Alabama Bank; Bankers Blast 'Taxpayer-Subsidized' Deal - Credit Union Daily",
@@ -120,6 +138,24 @@
       "published": "2026-11-23T10:27:46-05:00",
       "found": "2026-11-24T11:26:27-05:00",
       "summary": "DCUC opposes automatic inclusion of credit union shares in FDIC bank merger reviews CUInsight"
+    },
+    {
+      "id": "f8963795c6aa",
+      "title": "Merger and Acquisition Breaking News and Press Releases - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VbXBfUXVXT3U1SElQSjhsck1EWGVRQWk1Y3hxSGhTMk1qRi1leUJEajJRMVdLVEVUb25ZR1VvNXk5Z3NKMDVGSVE4Y3cyZHcwSVhNQnBPajNyalN6WG5sY19OZU15Ym8ya09ObjhIdHpjWHlja3lCckI4UQ",
+      "source": "Google News - Business Wire",
+      "published": "2026-11-19T17:15:00-05:00",
+      "found": "2026-11-24T20:34:43-05:00",
+      "summary": "Merger and Acquisition Breaking News and Press Releases Business Wire"
+    },
+    {
+      "id": "d5bda5c7d62d",
+      "title": "Dade County FCU Acquires Evermore Bank; Expanding North into Two Counties - Credit Union Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzU3SE1lYXVQQV9yY2htMFF5TG9kYmNGcmhiLXV1Q1Q5VzNMMzZNbVQ5ZFpFbm1fOW55eUdzemMwV3VramlUQllvNFVvZlVYR0doNzlOUEJjYWk4OGxsZG5xcTVWRmpUQlQyV0pFOWU3ZlVtVVI0ZklmNktuZlJqWTJLQW1MMk9QMjAyVmd1Nlkyc293S3owMjhIZ0w",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-18T03:06:10-05:00",
+      "found": "2026-11-24T20:34:43-05:00",
+      "summary": "Dade County FCU Acquires Evermore Bank; Expanding North into Two Counties Credit Union Daily"
     },
     {
       "id": "4b51dc707b8e",
