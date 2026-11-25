@@ -252,6 +252,11 @@
   "file": "f-and-a-fcu-v1.png",
   "result": "current"
  },
+ "family-savings": {
+  "checked": "2026-11-25",
+  "file": "family-savings-v1.png",
+  "result": "current"
+ },
  "financial-plus": {
   "checked": "2026-11-23",
   "file": "financial-plus-v1.png",
@@ -494,6 +499,11 @@
  "lge": {
   "checked": "2026-11-23",
   "file": "lge-v1.png",
+  "result": "current"
+ },
+ "liberty-bank-al": {
+  "checked": "2026-11-25",
+  "file": "liberty-bank-al-v1.png",
   "result": "current"
  },
  "lincoln-county-cu": {
