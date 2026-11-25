@@ -1,9 +1,19 @@
 {
   "feed": "exec-jobs",
-  "generated": "2026-11-25T05:13:23-05:00",
+  "generated": "2026-11-25T05:24:11-05:00",
   "trial": true,
   "lookback_days": 3,
-  "pending_inbox": [],
+  "pending_inbox": [
+    {
+      "id": "caba34281e4b",
+      "title": "BofA CEO Says Outages Occurring at Banks are Due to Software Updates to Respond to Cyber-Threats - Credit Union Daily",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamVIMjQ1MjZPME9IN2Q4Z1l1eGdoRm9QSmd6OTNTbHVTRnkzclNwR3NQZnFjcE9WWEhvRDg3dVVSTXZpRkE5dkg1TUYyZ1Y2MDlSSHY5SHp1Sl9wUUxpaFpzWWZmdl9pWmIyRXpfQXZCc2RaVzNDMlZ3LWdrS0ZmUlIwTjJLZHJEQ3BoUXFPWTMtMXZrZ0hJWkY1U1lDZ0hfdFlQU190QjltbWJIN2VPVGVINkpUaW8",
+      "source": "Google News - CU trade press searches",
+      "published": "2026-11-24T17:15:48-05:00",
+      "found": "2026-11-25T05:24:02-05:00",
+      "summary": "BofA CEO Says Outages Occurring at Banks are Due to Software Updates to Respond to Cyber-Threats Credit Union Daily"
+    }
+  ],
   "recheck": [
     {
       "id": "2026-11-16-ascentra-credit-union-chief-technology-and-innovation-officer",
