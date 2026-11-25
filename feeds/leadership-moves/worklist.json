@@ -1,9 +1,18 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-25T13:30:43-05:00",
+  "generated": "2026-11-25T14:10:43-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "a4af104ebb52",
+      "title": "First Harvest Credit Union Lands NJBIZ Finalist Nod, and Its CEO Gets a South Jersey Biz Honor Too",
+      "url": "https://thecreditunionconnection.com/first-harvest-credit-union-lands-njbiz-finalist-nod-and-its-ceo-gets-a-south-jersey-biz-honor-too/",
+      "source": "The Credit Union Connection - People",
+      "published": "2026-11-25T12:49:54-05:00",
+      "found": "2026-11-25T14:10:36-05:00",
+      "summary": "Out of 40 organizations recognized across New Jersey, First Harvest Credit Union is one of just five finalists for Nonprofit [...] The post First Harvest Credit Union Lands NJBIZ Finalist Nod, and Its CEO Gets a South Jersey Biz Honor Too a"
+    },
     {
       "id": "18cf486c88bc",
       "title": "Chad Bridges Fights to Keep His Retirement Savings Out of NCUA's Reach - CUTimes",
