@@ -1,6 +1,6 @@
 {
   "feed": "deposit-rates",
-  "generated": "2026-11-25T05:07:31-05:00",
+  "generated": "2026-11-25T05:13:23-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [],
@@ -3525,19 +3525,9 @@
       "website": "https://www.beaconbank.com"
     },
     {
-      "slug": "centreville-bank",
-      "name": "Centreville Bank",
-      "website": "https://www.centrevillebank.com"
-    },
-    {
       "slug": "coastal1-cu",
       "name": "Coastal1 Credit Union",
       "website": "https://www.coastal1.org"
-    },
-    {
-      "slug": "westfield-bank",
-      "name": "Westfield Bank",
-      "website": "https://www.westfieldbank.com"
     }
   ],
   "logo_reviews": [],

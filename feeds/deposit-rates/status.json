@@ -2,7 +2,7 @@
   "feed": "deposit-rates",
   "title": "Local Deposit Rates",
   "result": "ok",
-  "last_build": "2026-11-25T05:07:31-05:00",
+  "last_build": "2026-11-25T05:13:23-05:00",
   "last_collect": "",
   "last_collect_result": "",
   "collect_errors": [],
@@ -17,7 +17,7 @@
   "open_items": 499,
   "pending_inbox": 0,
   "organizations_needed": 0,
-  "logos_missing": 4,
+  "logos_missing": 2,
   "warnings": [],
   "errors": [],
   "trial": true
