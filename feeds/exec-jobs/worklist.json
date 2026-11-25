@@ -1,9 +1,27 @@
 {
   "feed": "exec-jobs",
-  "generated": "2026-11-25T09:48:18-05:00",
+  "generated": "2026-11-25T11:24:25-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "18cf486c88bc",
+      "title": "Chad Bridges Fights to Keep His Retirement Savings Out of NCUA's Reach - CUTimes",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOXZoZFJQU1BNTS1HS195akc4THJiRkJ3X3dzeVZ1QndvU3gzV0F4R2g0Z2h3ZFVsZ2gzNDZMZHh1cllEZHUzZEItVHZJaUY0cmdJQlRJNU8wYXFwV3NVZ28xa1NweEpubW5Hc1pZdVNYM1g3N1VWbGFVNFJWcGpVUTBmU1V5SWYtWG8xdmRkOTMzMHFGV3BlT25Cd19icUIyX2NB",
+      "source": "Google News - CU CEO retirements",
+      "published": "2026-11-25T11:03:48-05:00",
+      "found": "2026-11-25T11:24:16-05:00",
+      "summary": "Chad Bridges Fights to Keep His Retirement Savings Out of NCUA's Reach CUTimes"
+    },
+    {
+      "id": "906adfe27bce",
+      "title": "Husband of CEO Who Pleaded Guilty in Huge Embezzlement Case Continues Battle With NCUA Over Retirement Savings - Credit Union Daily",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnFiZ01ua1VBWEh2bzBFYkFpUVptWjJZSWdXTGRuQmhkejNRdWdaUlpQS2VuYU5WeHV4M05RSm9QSTROaWJoUHpPenhzZ21vTFZLeElRNGt0alkxcm9iUnRVdURyWHdXRW1oM1A5Tm1VTUFkenFQV0ZTQzBQaFpha1hKVDhDN1hMNUY0OVRXVklKbnVDVFNleGx5NEpSNUFYcWxaZDA2VVZWc3RaX25CeVR1SERsMF9wa1N2RHFORkZvUlAtNWFzVlB5ZlN4WTA",
+      "source": "Google News - CU CEO retirements",
+      "published": "2026-11-25T09:00:44-05:00",
+      "found": "2026-11-25T11:24:16-05:00",
+      "summary": "Husband of CEO Who Pleaded Guilty in Huge Embezzlement Case Continues Battle With NCUA Over Retirement Savings Credit Union Daily"
+    },
     {
       "id": "e5ad9b7d676c",
       "title": "New Fight Erupts Over Frozen Retirement Funds In $95M JAFCU Case - CUToday",
@@ -12,6 +30,15 @@
       "published": "2026-11-25T08:20:36-05:00",
       "found": "2026-11-25T08:38:53-05:00",
       "summary": "New Fight Erupts Over Frozen Retirement Funds In $95M JAFCU Case CUToday"
+    },
+    {
+      "id": "5ae423e0361f",
+      "title": "Q&A with Inova Federal Credit Union CEO Dallas Bergl - Inside INdiana Business",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmg2b04tdFZ3NHlieVhSNUhlZ2J4RTJkSHhHSEVSSWZMU1FuLXp2WDg1cVdTNWdMbjE3eGlHWmNQUmI5U2xnZWJZUVlRc3pNUG9CQkdSOHhxUHRMX0Z1OUxpQ1cxUG1CNTJxdzZIVEYxWTdaazJpZU9ZWkFCNnAtNzNvZEU0aVljWHgzMXl2WHg4MFc5cVBWLUJQd1dlN0k",
+      "source": "Google News - CU CEO retirements",
+      "published": "2026-11-25T08:00:00-05:00",
+      "found": "2026-11-25T11:24:16-05:00",
+      "summary": "Q&A with Inova Federal Credit Union CEO Dallas Bergl Inside INdiana Business"
     },
     {
       "id": "caba34281e4b",
