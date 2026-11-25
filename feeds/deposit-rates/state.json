@@ -1,213 +1,251 @@
 {
-  "last_review": "2026-11-24T05:04:49-05:00",
-  "last_review_file": "2026-11-24-0504.json",
+  "last_review": "2026-11-25T05:07:04-05:00",
+  "last_review_file": "2026-11-25-0507.json",
   "last_review_result": "partial",
   "last_review_errors": [
-    "WebFetch refused (permission request not answered) for first-load pages: Bank of America, KeyBank, Citizens, TD Bank, Chase, Santander, Centreville Bank, Essex Bank, Westfield Bank",
-    "Logo pages blocked (403) for Beacon Bank & Trust and Coastal1 Credit Union"
+    "WebFetch refused (permission request not answered) for Coastal1 Credit Union; its 16 rows were not re-checked",
+    "First loads still waiting (no rate page readable without WebFetch): Bank of America, KeyBank, Citizens, TD Bank, Chase, Santander, Essex Bank",
+    "No logo found for Beacon Bank & Trust or Coastal1 Credit Union (sites return 403; PR Newswire has only the Beacon Financial Corporation holding-company logo)"
   ],
   "last_review_report": {
     "added": [
       {
-        "id": "2026-11-24-the-peoples-credit-union-savings-special-item",
-        "summary": "The Peoples Credit Union / Savings / Special / "
+        "id": "2026-11-25-centreville-bank-savings-standard-item",
+        "summary": "Centreville Bank / Savings / Standard / "
       },
       {
-        "id": "2026-11-23-union-savings-bank-money-market-standard-item",
-        "summary": "Union Savings Bank / Money market / Standard / "
+        "id": "2026-11-25-centreville-bank-savings-special-item",
+        "summary": "Centreville Bank / Savings / Special / "
+      },
+      {
+        "id": "2026-11-25-centreville-bank-money-market-standard-item",
+        "summary": "Centreville Bank / Money market / Standard / "
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-3-mo",
+        "summary": "Centreville Bank / CD / Standard / 3 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-6-mo",
+        "summary": "Centreville Bank / CD / Standard / 6 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-12-mo",
+        "summary": "Centreville Bank / CD / Standard / 12 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-18-mo",
+        "summary": "Centreville Bank / CD / Standard / 18 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-24-mo",
+        "summary": "Centreville Bank / CD / Standard / 24 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-36-mo",
+        "summary": "Centreville Bank / CD / Standard / 36 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-48-mo",
+        "summary": "Centreville Bank / CD / Standard / 48 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-standard-60-mo",
+        "summary": "Centreville Bank / CD / Standard / 60 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-special-7-mo",
+        "summary": "Centreville Bank / CD / Special / 7 mo"
+      },
+      {
+        "id": "2026-11-25-centreville-bank-cd-special-15-mo",
+        "summary": "Centreville Bank / CD / Special / 15 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-savings-standard-item",
+        "summary": "Westfield Bank / Savings / Standard / "
+      },
+      {
+        "id": "2026-10-02-westfield-bank-savings-special-item",
+        "summary": "Westfield Bank / Savings / Special / "
+      },
+      {
+        "id": "2026-10-02-westfield-bank-money-market-standard-item",
+        "summary": "Westfield Bank / Money market / Standard / "
+      },
+      {
+        "id": "2026-10-02-westfield-bank-money-market-special-item",
+        "summary": "Westfield Bank / Money market / Special / "
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-standard-3-mo",
+        "summary": "Westfield Bank / CD / Standard / 3 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-standard-6-mo",
+        "summary": "Westfield Bank / CD / Standard / 6 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-standard-12-mo",
+        "summary": "Westfield Bank / CD / Standard / 12 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-standard-24-mo",
+        "summary": "Westfield Bank / CD / Standard / 24 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-standard-36-mo",
+        "summary": "Westfield Bank / CD / Standard / 36 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-standard-48-mo",
+        "summary": "Westfield Bank / CD / Standard / 48 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-standard-60-mo",
+        "summary": "Westfield Bank / CD / Standard / 60 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-special-9-mo",
+        "summary": "Westfield Bank / CD / Special / 9 mo"
+      },
+      {
+        "id": "2026-10-02-westfield-bank-cd-special-13-mo",
+        "summary": "Westfield Bank / CD / Special / 13 mo"
       }
     ],
     "updated": [
       {
-        "id": "2026-11-23-union-savings-bank-cd-special-5-mo",
-        "note": "apy_10k 3.82% -> 3.87% (all tiers)",
+        "id": "2026-11-18-thomaston-savings-bank-savings-standard-item",
+        "note": "min_deposit blank -> $25 ($25 minimum balance to open printed on the rate page)",
+        "changes": [
+          {
+            "field": "min_deposit",
+            "old": null,
+            "new": "$25"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-11-18-thomaston-savings-bank-savings-special-item",
+        "note": "Relationship Savings needs $15,000 to open: apy_1k and apy_10k 0.10% -> Not eligible; min_deposit -> $15,000",
         "changes": [
           {
             "field": "apy_1k",
-            "old": "3.82%",
-            "new": "3.87%"
+            "old": "0.10%",
+            "new": "Not eligible"
           },
           {
             "field": "apy_10k",
-            "old": "3.82%",
-            "new": "3.87%"
+            "old": "0.10%",
+            "new": "Not eligible"
           },
           {
-            "field": "apy_25k",
-            "old": "3.82%",
-            "new": "3.87%"
-          },
-          {
-            "field": "apy_100k",
-            "old": "3.82%",
-            "new": "3.87%"
-          },
-          {
-            "field": "rates_as_of",
-            "old": "2026-11-23",
-            "new": "2026-11-24"
+            "field": "min_deposit",
+            "old": null,
+            "new": "$15,000"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-23-union-savings-bank-cd-special-8-mo",
-        "note": "apy_10k 3.92% -> 4.02% (all tiers)",
+        "id": "2026-10-14-liberty-bank-cd-standard-3-mo",
+        "note": "min_deposit blank -> $500 (CD minimum to open printed on the rate page)",
         "changes": [
           {
-            "field": "apy_1k",
-            "old": "3.92%",
-            "new": "4.02%"
-          },
-          {
-            "field": "apy_10k",
-            "old": "3.92%",
-            "new": "4.02%"
-          },
-          {
-            "field": "apy_25k",
-            "old": "3.92%",
-            "new": "4.02%"
-          },
-          {
-            "field": "apy_100k",
-            "old": "3.92%",
-            "new": "4.02%"
-          },
-          {
-            "field": "rates_as_of",
-            "old": "2026-11-23",
-            "new": "2026-11-24"
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-23-union-savings-bank-cd-special-13-mo",
-        "note": "apy_10k 4.07% -> 4.18% (all tiers)",
+        "id": "2026-10-14-liberty-bank-cd-standard-6-mo",
+        "note": "min_deposit blank -> $500 (CD minimum to open printed on the rate page)",
         "changes": [
           {
-            "field": "apy_1k",
-            "old": "4.07%",
-            "new": "4.18%"
-          },
-          {
-            "field": "apy_10k",
-            "old": "4.07%",
-            "new": "4.18%"
-          },
-          {
-            "field": "apy_25k",
-            "old": "4.07%",
-            "new": "4.18%"
-          },
-          {
-            "field": "apy_100k",
-            "old": "4.07%",
-            "new": "4.18%"
-          },
-          {
-            "field": "rates_as_of",
-            "old": "2026-11-23",
-            "new": "2026-11-24"
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-23-union-savings-bank-cd-special-25-mo",
-        "note": "apy_10k 3.04% -> 3.29% (all tiers)",
+        "id": "2026-10-14-liberty-bank-cd-standard-12-mo",
+        "note": "min_deposit blank -> $500 (CD minimum to open printed on the rate page)",
         "changes": [
           {
-            "field": "apy_1k",
-            "old": "3.04%",
-            "new": "3.29%"
-          },
-          {
-            "field": "apy_10k",
-            "old": "3.04%",
-            "new": "3.29%"
-          },
-          {
-            "field": "apy_25k",
-            "old": "3.04%",
-            "new": "3.29%"
-          },
-          {
-            "field": "apy_100k",
-            "old": "3.04%",
-            "new": "3.29%"
-          },
-          {
-            "field": "rates_as_of",
-            "old": "2026-11-23",
-            "new": "2026-11-24"
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-23-union-savings-bank-cd-special-54-mo",
-        "note": "apy_10k 2.99% -> 3.14% (all tiers)",
+        "id": "2026-10-14-liberty-bank-cd-standard-24-mo",
+        "note": "min_deposit blank -> $500 (CD minimum to open printed on the rate page)",
         "changes": [
           {
-            "field": "apy_1k",
-            "old": "2.99%",
-            "new": "3.14%"
-          },
-          {
-            "field": "apy_10k",
-            "old": "2.99%",
-            "new": "3.14%"
-          },
-          {
-            "field": "apy_25k",
-            "old": "2.99%",
-            "new": "3.14%"
-          },
-          {
-            "field": "apy_100k",
-            "old": "2.99%",
-            "new": "3.14%"
-          },
-          {
-            "field": "rates_as_of",
-            "old": "2026-11-23",
-            "new": "2026-11-24"
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-23-stafford-savings-bank-savings-standard-item",
-        "note": "rates_as_of 2026-11-23 -> 2026-08-12 (date printed on the savings page); rates unchanged",
+        "id": "2026-10-14-liberty-bank-cd-standard-36-mo",
+        "note": "min_deposit blank -> $500 (CD minimum to open printed on the rate page)",
         "changes": [
           {
-            "field": "rates_as_of",
-            "old": "2026-11-23",
-            "new": "2026-08-12"
-          },
-          {
-            "field": "notes",
-            "old": "3-mo is the 91-day certificate. Savings page has no printed date (date read); CD rates current as of Aug 12, 2026.",
-            "new": "3-mo is the 91-day certificate. Savings and CD rates current as of Aug 12, 2026."
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-23-stafford-savings-bank-money-market-standard-item",
-        "note": "rates_as_of 2026-11-23 -> 2026-08-12 (date printed on the savings page); rates unchanged",
+        "id": "2026-10-14-liberty-bank-cd-standard-48-mo",
+        "note": "min_deposit blank -> $500 (CD minimum to open printed on the rate page)",
         "changes": [
           {
-            "field": "rates_as_of",
-            "old": "2026-11-23",
-            "new": "2026-08-12"
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-10-14-liberty-bank-cd-standard-60-mo",
+        "note": "min_deposit blank -> $500 (CD minimum to open printed on the rate page)",
+        "changes": [
+          {
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-10-14-liberty-bank-cd-special-13-mo",
+        "note": "min_deposit blank -> $500; conditions now name the $250,000 maximum deposit",
+        "changes": [
+          {
+            "field": "min_deposit",
+            "old": null,
+            "new": "$500"
           },
           {
-            "field": "notes",
-            "old": "3-mo is the 91-day certificate. Savings page has no printed date (date read); CD rates current as of Aug 12, 2026.",
-            "new": "3-mo is the 91-day certificate. Savings and CD rates current as of Aug 12, 2026."
+            "field": "conditions",
+            "old": "Consumer only; not IRA or trusts; renews to 1-year CD",
+            "new": "Consumer only; not IRA or trusts; maximum deposit $250,000; renews to 1-year CD"
           }
         ],
         "kept": []
@@ -275,6 +313,7 @@
       "2026-11-23-navy-federal-credit-union-cd-standard-36-mo",
       "2026-11-23-navy-federal-credit-union-cd-standard-60-mo",
       "2026-11-23-navy-federal-credit-union-cd-special-12-mo",
+      "2026-11-24-the-peoples-credit-union-savings-special-item",
       "2026-11-23-the-peoples-credit-union-savings-standard-item",
       "2026-11-23-the-peoples-credit-union-money-market-standard-item",
       "2026-11-23-the-peoples-credit-union-money-market-special-item",
@@ -317,15 +356,6 @@
       "2026-11-23-the-torrington-savings-bank-cd-special-7-mo",
       "2026-11-23-the-torrington-savings-bank-cd-special-11-mo",
       "2026-11-23-the-torrington-savings-bank-cd-special-15-mo",
-      "2026-11-23-union-savings-bank-cd-standard-3-mo",
-      "2026-11-23-union-savings-bank-cd-standard-6-mo",
-      "2026-11-23-union-savings-bank-cd-standard-12-mo",
-      "2026-11-23-union-savings-bank-cd-standard-18-mo",
-      "2026-11-23-union-savings-bank-cd-standard-24-mo",
-      "2026-11-23-union-savings-bank-cd-standard-36-mo",
-      "2026-11-23-union-savings-bank-cd-standard-48-mo",
-      "2026-11-23-union-savings-bank-cd-standard-60-mo",
-      "2026-11-23-union-savings-bank-cd-special-7-mo",
       "2026-11-23-webster-bank-savings-standard-item",
       "2026-11-23-webster-bank-money-market-standard-item",
       "2026-11-23-webster-bank-cd-standard-3-mo",
@@ -365,65 +395,131 @@
       "2026-11-23-windsor-federal-bank-cd-special-5-mo",
       "2026-11-23-windsor-federal-bank-cd-special-11-mo",
       "2026-11-23-windsor-federal-bank-cd-special-28-mo",
-      "2026-11-23-connecticut-firefighters-federal-credit-union-cd-special-18-mo",
-      "2022-12-31-connecticut-firefighters-federal-credit-union-savings-standard-item",
-      "2026-11-23-franklin-trust-federal-credit-union-savings-standard-item",
-      "2026-11-23-franklin-trust-federal-credit-union-money-market-standard-item",
-      "2026-11-23-franklin-trust-federal-credit-union-cd-standard-12-mo",
-      "2026-11-23-franklin-trust-federal-credit-union-cd-standard-18-mo",
-      "2026-11-23-franklin-trust-federal-credit-union-cd-standard-24-mo",
-      "2026-11-23-franklin-trust-federal-credit-union-cd-standard-36-mo",
-      "2026-11-23-franklin-trust-federal-credit-union-cd-standard-48-mo",
-      "2026-11-23-franklin-trust-federal-credit-union-cd-standard-60-mo",
-      "2026-11-23-hartford-federal-credit-union-savings-standard-item",
-      "2026-11-23-hartford-federal-credit-union-money-market-standard-item",
-      "2026-11-23-hartford-federal-credit-union-cd-standard-3-mo",
-      "2026-11-23-hartford-federal-credit-union-cd-standard-6-mo",
-      "2026-11-23-hartford-federal-credit-union-cd-standard-12-mo",
-      "2026-11-23-hartford-federal-credit-union-cd-standard-18-mo",
-      "2026-11-23-hartford-federal-credit-union-cd-standard-24-mo",
-      "2026-11-23-hartford-federal-credit-union-cd-standard-36-mo",
-      "2026-11-23-hartford-federal-credit-union-cd-standard-60-mo",
-      "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-6-mo",
-      "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-12-mo",
-      "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-18-mo",
-      "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-24-mo",
-      "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-36-mo",
-      "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-48-mo",
-      "2026-11-23-lawrence-memorial-hospital-employees-federal-credit-union-cd-standard-60-mo",
-      "2025-03-01-lawrence-memorial-hospital-employees-federal-credit-union-savings-standard-item",
-      "2026-11-23-navigant-credit-union-savings-standard-item",
-      "2026-11-23-navigant-credit-union-money-market-standard-item",
-      "2026-11-23-navigant-credit-union-cd-standard-6-mo",
-      "2026-11-23-navigant-credit-union-cd-standard-12-mo",
-      "2026-11-23-navigant-credit-union-cd-standard-18-mo",
-      "2026-11-23-navigant-credit-union-cd-standard-24-mo",
-      "2026-11-23-navigant-credit-union-cd-standard-36-mo",
-      "2026-11-23-navigant-credit-union-cd-standard-48-mo",
-      "2026-11-23-navigant-credit-union-cd-standard-60-mo",
-      "2026-11-23-navigant-credit-union-cd-special-15-mo",
-      "2026-11-23-navigant-credit-union-cd-special-23-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-3-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-6-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-12-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-18-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-24-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-36-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-48-mo",
-      "2026-08-12-stafford-savings-bank-cd-standard-60-mo",
-      "2026-11-23-trunorth-bank-savings-standard-item",
-      "2026-11-23-trunorth-bank-money-market-standard-item",
-      "2026-11-23-trunorth-bank-cd-standard-3-mo",
-      "2026-11-23-trunorth-bank-cd-standard-6-mo",
-      "2026-11-23-trunorth-bank-cd-standard-12-mo",
-      "2026-11-23-trunorth-bank-cd-standard-18-mo",
-      "2026-11-23-trunorth-bank-cd-standard-24-mo",
-      "2026-11-23-trunorth-bank-cd-standard-36-mo",
-      "2026-11-23-trunorth-bank-cd-standard-48-mo",
-      "2026-11-23-trunorth-bank-cd-standard-60-mo",
-      "2026-11-23-trunorth-bank-cd-special-11-mo",
-      "2026-11-23-trunorth-bank-cd-special-15-mo",
-      "2026-11-23-trunorth-bank-cd-special-19-mo"
+      "2026-11-23-northwest-community-bank-savings-standard-item",
+      "2026-11-23-northwest-community-bank-money-market-standard-item",
+      "2026-11-23-northwest-community-bank-money-market-special-item",
+      "2026-10-06-northwest-community-bank-cd-standard-3-mo",
+      "2026-10-06-northwest-community-bank-cd-standard-6-mo",
+      "2026-10-06-northwest-community-bank-cd-standard-12-mo",
+      "2026-10-06-northwest-community-bank-cd-standard-18-mo",
+      "2026-10-06-northwest-community-bank-cd-standard-24-mo",
+      "2026-10-06-northwest-community-bank-cd-standard-36-mo",
+      "2026-10-06-northwest-community-bank-cd-standard-48-mo",
+      "2026-10-06-northwest-community-bank-cd-standard-60-mo",
+      "2026-10-06-northwest-community-bank-cd-special-5-mo",
+      "2026-10-06-northwest-community-bank-cd-special-7-mo",
+      "2026-10-06-northwest-community-bank-cd-special-11-mo",
+      "2026-10-06-northwest-community-bank-cd-special-15-mo",
+      "2026-10-06-northwest-community-bank-cd-special-21-mo",
+      "2026-11-23-asa-federal-credit-union-savings-standard-item",
+      "2026-11-23-asa-federal-credit-union-cd-standard-6-mo",
+      "2026-11-23-asa-federal-credit-union-cd-standard-12-mo",
+      "2026-11-23-wells-fargo-savings-standard-item",
+      "2026-11-23-wells-fargo-cd-standard-3-mo",
+      "2026-11-23-wells-fargo-cd-standard-6-mo",
+      "2026-11-23-wells-fargo-cd-standard-12-mo",
+      "2026-11-23-wells-fargo-cd-special-4-mo",
+      "2026-11-23-wells-fargo-cd-special-7-mo",
+      "2026-11-23-wells-fargo-cd-special-11-mo",
+      "2026-11-23-wells-fargo-cd-special-15-mo",
+      "2026-11-10-wells-fargo-savings-special-item",
+      "2026-11-23-m-and-t-bank-cd-standard-6-mo",
+      "2026-11-23-m-and-t-bank-cd-special-6-mo",
+      "2026-11-23-m-and-t-bank-cd-special-12-mo",
+      "2026-11-23-m-and-t-bank-cd-special-18-mo",
+      "2026-11-19-rhode-island-credit-union-cd-standard-3-mo",
+      "2026-11-19-rhode-island-credit-union-cd-standard-6-mo",
+      "2026-11-19-rhode-island-credit-union-cd-standard-12-mo",
+      "2026-11-19-rhode-island-credit-union-cd-standard-18-mo",
+      "2026-11-19-rhode-island-credit-union-cd-standard-24-mo",
+      "2026-11-01-rhode-island-credit-union-money-market-standard-item",
+      "2026-09-30-rhode-island-credit-union-savings-standard-item",
+      "2026-11-19-peoplesbank-savings-standard-item",
+      "2026-11-19-peoplesbank-money-market-standard-item",
+      "2026-11-19-peoplesbank-cd-standard-3-mo",
+      "2026-11-19-peoplesbank-cd-standard-6-mo",
+      "2026-11-19-peoplesbank-cd-standard-12-mo",
+      "2026-11-19-peoplesbank-cd-standard-18-mo",
+      "2026-11-19-peoplesbank-cd-standard-24-mo",
+      "2026-11-19-peoplesbank-cd-standard-36-mo",
+      "2026-11-19-peoplesbank-cd-standard-48-mo",
+      "2026-11-19-peoplesbank-cd-standard-60-mo",
+      "2026-11-19-peoplesbank-cd-special-10-mo",
+      "2026-11-19-peoplesbank-cd-special-20-mo",
+      "2026-11-19-peoplesbank-cd-special-30-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-3-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-6-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-12-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-18-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-24-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-36-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-48-mo",
+      "2026-11-18-thomaston-savings-bank-cd-standard-60-mo",
+      "2026-11-05-riverbank-federal-credit-union-savings-standard-item",
+      "2026-11-05-riverbank-federal-credit-union-money-market-standard-item",
+      "2026-11-05-riverbank-federal-credit-union-cd-standard-6-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-standard-12-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-standard-18-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-standard-24-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-standard-36-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-standard-48-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-standard-60-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-special-6-mo",
+      "2026-11-05-riverbank-federal-credit-union-cd-special-9-mo",
+      "2026-11-01-achieve-financial-credit-union-savings-standard-item",
+      "2026-11-01-achieve-financial-credit-union-money-market-standard-item",
+      "2026-11-01-achieve-financial-credit-union-cd-standard-6-mo",
+      "2026-11-01-achieve-financial-credit-union-cd-standard-12-mo",
+      "2026-11-01-achieve-financial-credit-union-cd-standard-18-mo",
+      "2026-11-01-achieve-financial-credit-union-cd-standard-24-mo",
+      "2026-11-01-achieve-financial-credit-union-cd-standard-36-mo",
+      "2026-11-01-achieve-financial-credit-union-cd-standard-48-mo",
+      "2026-11-01-achieve-financial-credit-union-cd-standard-60-mo",
+      "2026-11-01-finex-credit-union-money-market-standard-item",
+      "2026-10-16-finex-credit-union-cd-standard-6-mo",
+      "2026-10-16-finex-credit-union-cd-standard-12-mo",
+      "2026-10-16-finex-credit-union-cd-standard-18-mo",
+      "2026-10-16-finex-credit-union-cd-standard-24-mo",
+      "2026-10-16-finex-credit-union-cd-standard-36-mo",
+      "2026-10-16-finex-credit-union-cd-standard-48-mo",
+      "2026-10-16-finex-credit-union-cd-standard-60-mo",
+      "2026-10-16-finex-credit-union-cd-special-9-mo",
+      "2026-10-16-finex-credit-union-cd-special-18-mo",
+      "2026-09-01-finex-credit-union-savings-special-item",
+      "2026-11-01-360-federal-credit-union-savings-standard-item",
+      "2026-11-01-360-federal-credit-union-money-market-standard-item",
+      "2026-11-01-360-federal-credit-union-cd-standard-3-mo",
+      "2026-11-01-360-federal-credit-union-cd-standard-6-mo",
+      "2026-11-01-360-federal-credit-union-cd-standard-12-mo",
+      "2026-11-01-360-federal-credit-union-cd-standard-18-mo",
+      "2026-11-01-360-federal-credit-union-cd-standard-24-mo",
+      "2026-11-01-360-federal-credit-union-cd-standard-36-mo",
+      "2026-11-01-360-federal-credit-union-cd-standard-48-mo",
+      "2026-11-01-360-federal-credit-union-cd-standard-60-mo",
+      "2026-10-27-the-washington-trust-company-cd-special-12-24-mo",
+      "2026-10-14-the-washington-trust-company-savings-special-item",
+      "2026-07-13-the-washington-trust-company-savings-standard-item",
+      "2026-07-13-the-washington-trust-company-cd-standard-3-mo",
+      "2026-07-13-the-washington-trust-company-cd-standard-6-mo",
+      "2026-07-13-the-washington-trust-company-cd-standard-12-mo",
+      "2026-07-13-the-washington-trust-company-cd-standard-18-mo",
+      "2026-07-13-the-washington-trust-company-cd-standard-24-mo",
+      "2026-07-13-the-washington-trust-company-cd-standard-36-mo",
+      "2026-07-13-the-washington-trust-company-cd-standard-48-mo",
+      "2026-07-13-the-washington-trust-company-cd-standard-60-mo",
+      "2026-04-29-the-washington-trust-company-cd-special-13-mo",
+      "2026-04-01-the-washington-trust-company-cd-special-6-mo",
+      "2026-02-13-the-washington-trust-company-cd-special-9-mo",
+      "2026-10-14-liberty-bank-savings-special-item",
+      "2026-01-05-liberty-bank-money-market-standard-item",
+      "2026-01-05-liberty-bank-money-market-special-item",
+      "2024-05-15-liberty-bank-savings-standard-item",
+      "2026-10-07-connecticut-state-employees-credit-union-savings-standard-item",
+      "2026-10-07-connecticut-state-employees-credit-union-cd-standard-3-mo",
+      "2026-10-07-connecticut-state-employees-credit-union-cd-standard-6-mo",
+      "2026-10-07-connecticut-state-employees-credit-union-cd-standard-12-mo",
+      "2026-10-07-connecticut-state-employees-credit-union-cd-standard-18-mo",
+      "2026-10-07-connecticut-state-employees-credit-union-cd-standard-36-mo"
     ],
     "reviewed": 0,
     "rejected": []
