@@ -5875,7 +5875,20 @@
       "kind": "credit_union",
       "charter": "3544",
       "website": "https://www.ctlaborfcu.com",
-      "state": "CT"
+      "state": "CT",
+      "logo": {
+        "file": "ct-labor-dept-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ctlaborfcu.com/S3Assets/ctlabor/images/Back_Head.gif",
+        "fingerprint": "c00020483000314b3b6b7664b634365474e23645264560004000000020000000",
+        "aspect": 6.26,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
     },
     "ct-postal-fcu": {
       "name": "Connecticut Postal Federal Credit Union",

@@ -82,11 +82,11 @@
     ]
   },
   "centreville-bank": {
-    "method": "webfetch",
+    "method": "curl",
     "name": "Centreville Bank",
-    "note": "Pages time out in the browser (chat widget keeps loading); try WebFetch or a longer wait",
+    "note": "Rate tables have no titles in the page text; headings in order: CDs, IRA CDs, Personal Premium Money Market, High Yield Savings (New Money), Personal Plus Savings, Personal Savings, Personal Premium Checking",
     "pages": [
-      "https://www.centrevillebank.com/rates"
+      "https://centrevillebank.com/About/Rates/Deposit-Rates"
     ]
   },
   "charter-oak-fcu": {
@@ -216,7 +216,7 @@
   "essex-bank": {
     "method": "webfetch",
     "name": "Essex Bank",
-    "note": "Browser render shows no rates on current-rates or product pages (tabs/accordions); try clicking the rate tabs",
+    "note": "Browser render shows no rates on essex.bank or essexsavings.com rate pages (Nov 25, 2026); needs WebFetch",
     "pages": [
       "https://www.essex.bank/learn/current-rates"
     ]
@@ -529,11 +529,12 @@
     ]
   },
   "westfield-bank": {
-    "method": "webfetch",
+    "method": "curl",
     "name": "Westfield Bank",
-    "note": "Browser render shows no rates on /personal/rates or the CD page",
+    "note": "Use the CT CD page for CDs; /rates covers savings and money market (and MA CDs, not used)",
     "pages": [
-      "https://www.westfieldbank.com/personal/deposit-rates"
+      "https://www.westfieldbank.com/rates",
+      "https://westfieldbank.com/personal/cd-rates-ct"
     ]
   },
   "windsor-federal": {
