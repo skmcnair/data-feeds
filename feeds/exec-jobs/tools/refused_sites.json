@@ -3,6 +3,10 @@
   "code": 403,
   "date": "2026-11-23"
  },
+ "bfsfcu.org": {
+  "code": 403,
+  "date": "2026-11-25"
+ },
  "blog.logixbanking.com": {
   "code": 403,
   "date": "2026-11-24"
@@ -10,6 +14,18 @@
  "businesswire.com": {
   "code": 403,
   "date": "2026-11-24"
+ },
+ "careerbuilder.com": {
+  "code": 403,
+  "date": "2026-11-25"
+ },
+ "columbiacu.org": {
+  "code": 429,
+  "date": "2026-11-25"
+ },
+ "everwisecu.com": {
+  "code": 403,
+  "date": "2026-11-25"
  },
  "firsttechfed.com": {
   "code": 403,
@@ -27,6 +43,14 @@
   "code": 403,
   "date": "2026-11-23"
  },
+ "monster.com": {
+  "code": 403,
+  "date": "2026-11-25"
+ },
+ "oregonstatecu.com": {
+  "code": 403,
+  "date": "2026-11-25"
+ },
  "pbcu.com": {
   "code": 403,
   "date": "2026-11-24"
@@ -38,5 +62,13 @@
  "streetinsider.com": {
   "code": 403,
   "date": "2026-11-24"
+ },
+ "wpcu.coop": {
+  "code": 403,
+  "date": "2026-11-25"
+ },
+ "ziprecruiter.com": {
+  "code": 403,
+  "date": "2026-11-25"
  }
 }

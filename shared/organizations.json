@@ -7798,6 +7798,426 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "raiz": {
+      "name": "Raiz Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Raiz",
+      "kind": "credit_union",
+      "charter": "1409",
+      "website": "https://www.raiz.us",
+      "state": "TX",
+      "logo": {
+        "file": "raiz-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "http://raiz.us/wp-content/uploads/2022/08/raiz-logo.png",
+        "fingerprint": "25482548204025302d302c98aada4ad24ad04a944b3149315000d2d08f372636",
+        "aspect": 3.333,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "eglin-fcu": {
+      "name": "Eglin Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Eglin FCU",
+      "kind": "credit_union",
+      "charter": "9788",
+      "website": "https://www.eglinfcu.org",
+      "state": "FL",
+      "logo": {
+        "file": "eglin-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.eglinfcu.org/img/logos_icons/Eglin_Logo_150h_horizontal.png",
+        "fingerprint": "00000000200022d1252412d9b6d395689e6b9432c8048330e322cb30b0003210",
+        "aspect": 3.3,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "maine-savings": {
+      "name": "Maine Savings Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Maine Savings",
+      "kind": "credit_union",
+      "charter": "14565",
+      "website": "https://www.mainesavings.com",
+      "state": "ME",
+      "logo": {
+        "file": "maine-savings-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://mainesavings.com/wp-content/uploads/2023/06/logo-msfcu-full.svg",
+        "fingerprint": "2560552555b4d648f688b788b38dd620d465d53554ba522b560d752622dcb6d4",
+        "aspect": 3.086,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "golden-1": {
+      "name": "The Golden 1 Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Golden 1",
+      "kind": "credit_union",
+      "charter": "61650",
+      "website": "https://www.golden1.com",
+      "state": "CA"
+    },
+    "security-service": {
+      "name": "Security Service Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Security Service",
+      "kind": "credit_union",
+      "charter": "11065",
+      "website": "https://www.ssfcu.org",
+      "state": "TX",
+      "logo": {
+        "file": "security-service-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ssfcu.org/-/media/project/website/ssfcu-logo.svg?h=34&iar=0&mh=50&w=265&hash=8D03D709BFBD84F146D91E07CF883D42",
+        "fingerprint": "d8d3cd9bcd93c64ec318eb31ab34aa3eb832a832293288c688cccacccace0000",
+        "aspect": 8.117,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "wright-patt": {
+      "name": "Wright-Patt Credit Union, Inc.",
+      "added": "2026-11-25",
+      "short_name": "Wright-Patt",
+      "kind": "credit_union",
+      "charter": "66328",
+      "website": "https://www.wpcu.coop",
+      "state": "OH"
+    },
+    "mission-fed": {
+      "name": "Mission Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Mission Fed",
+      "kind": "credit_union",
+      "charter": "14384",
+      "website": "https://www.missionfed.com",
+      "state": "CA",
+      "logo": {
+        "file": "mission-fed-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.missionfed.com",
+        "fingerprint": "be8aae8a294b694b6d69656d6769736133273e961a9e00001162016701650166",
+        "aspect": 6.9,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "bfsfcu": {
+      "name": "Bank-Fund Staff Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "BFSFCU",
+      "kind": "credit_union",
+      "charter": "5582",
+      "website": "https://www.bfsfcu.org",
+      "state": "DC"
+    },
+    "tinker-fcu": {
+      "name": "Tinker Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Tinker FCU",
+      "kind": "credit_union",
+      "charter": "24524",
+      "website": "https://www.tinkerfcu.org",
+      "state": "OK",
+      "logo": {
+        "file": "tinker-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.tinkerfcu.org/wp-content/uploads/TFCU-Website-Logo.png",
+        "fingerprint": "e6d4cb54e974e97449754925db25db68d368d3329132ae4e8c9a33721144d8d8",
+        "aspect": 2.97,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "secu-maryland": {
+      "name": "State Employees Credit Union of Maryland, Inc.",
+      "added": "2026-11-25",
+      "short_name": "SECU Maryland",
+      "kind": "credit_union",
+      "charter": "66330",
+      "website": "https://www.secumd.org",
+      "state": "MD",
+      "aliases": [
+        "SECU Credit Union"
+      ],
+      "logo": {
+        "file": "secu-maryland-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.secumd.org/wp-content/uploads/2021/07/global_footer_secu-logo.svg",
+        "fingerprint": "0a00160014802c805c80d8003100e00082250000336568d9e68d304d68ddf326",
+        "aspect": 2.069,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "everwise": {
+      "name": "Everwise Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Everwise",
+      "kind": "credit_union",
+      "charter": "60060",
+      "website": "https://www.everwisecu.com",
+      "state": "IN"
+    },
+    "canvas": {
+      "name": "Canvas Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Canvas",
+      "kind": "credit_union",
+      "charter": "64778",
+      "website": "https://www.canvas.org",
+      "state": "CO"
+    },
+    "altra": {
+      "name": "Altra Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Altra",
+      "kind": "credit_union",
+      "charter": "24077",
+      "website": "https://www.altra.org",
+      "state": "WI",
+      "logo": {
+        "file": "altra-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.altra.org/wp-content/themes/altracu/assets/images/altra.svg",
+        "fingerprint": "68006c80660066a0e6a0e6a0a6a2f680b6b6b6a2b6a696ac36a432a55d681c6e",
+        "aspect": 1.939,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "sdfcu": {
+      "name": "State Department Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "SDFCU",
+      "kind": "credit_union",
+      "charter": "435",
+      "website": "https://www.sdfcu.org",
+      "state": "VA"
+    },
+    "arrowhead-cu": {
+      "name": "Arrowhead Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Arrowhead CU",
+      "kind": "credit_union",
+      "charter": "24973",
+      "website": "https://www.arrowheadcu.org",
+      "state": "CA",
+      "aliases": [
+        "Arrowhead Credit Union"
+      ],
+      "logo": {
+        "file": "arrowhead-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.arrowheadcu.org/templates/arrowhead_2017/images/ArrowheadLogo_print.png",
+        "fingerprint": "a295a295a2d58081a8d5e9d5e955972a972a9732973297269f2e593549354b55",
+        "aspect": 6.818,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "oregon-state-cu": {
+      "name": "Oregon State Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Oregon State CU",
+      "kind": "credit_union",
+      "charter": "68656",
+      "website": "https://www.oregonstatecu.com",
+      "state": "OR"
+    },
+    "columbia-cu": {
+      "name": "Columbia Community Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Columbia CU",
+      "kind": "credit_union",
+      "charter": "68186",
+      "website": "https://www.columbiacu.org",
+      "state": "WA",
+      "aliases": [
+        "Columbia Credit Union"
+      ]
+    },
+    "texoma-educators-fcu": {
+      "name": "Texoma Educators Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Texoma Educators FCU",
+      "kind": "credit_union",
+      "charter": "11670",
+      "website": "https://www.texomaeducators.com",
+      "state": "TX",
+      "logo": {
+        "file": "texoma-educators-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.texomaeducators.com/images/layout/TEFCU_logo_Inline_FullColor.png",
+        "fingerprint": "80009000900090008a2390c4cb6dca3595359d6c9b49800090849e8ada4c4000",
+        "aspect": 5.044,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "heart-of-louisiana-fcu": {
+      "name": "Heart of Louisiana Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Heart of Louisiana FCU",
+      "kind": "credit_union",
+      "charter": "10164",
+      "website": "https://www.heartcu.org",
+      "state": "LA",
+      "logo": {
+        "file": "heart-of-louisiana-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://heartcu.org/wp-content/uploads/2021/09/heart-of-louisiana-credit-union-logo.svg",
+        "fingerprint": "2d045228ad96ad96a5a4ad648464931a92279a6b844b662a9a938313a04a8a12",
+        "aspect": 2.194,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "mocse": {
+      "name": "Mocse Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Mocse",
+      "kind": "credit_union",
+      "charter": "12805",
+      "website": "https://www.mocse.org",
+      "state": "CA",
+      "logo": {
+        "file": "mocse-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://mocse.org/wp-content/uploads/2023/07/Mocse_rgb.svg",
+        "fingerprint": "6a006a00e800b850105233462346a356a350a311ab95aa95ae95ac70ad6aad6a",
+        "aspect": 4.485,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "two-harbors-fcu": {
+      "name": "Two Harbors Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Two Harbors FCU",
+      "kind": "credit_union",
+      "charter": "5721",
+      "website": "https://www.thfcu.org",
+      "state": "MN",
+      "logo": {
+        "file": "two-harbors-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.thfcu.org/images/2016_09_logo.svg",
+        "fingerprint": "32a932695c9a96a49b359b2b5a19499416006c9018b0b1e4c3e6c0eea4eac800",
+        "aspect": 5.38,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "members-choice-of-central-texas": {
+      "name": "Members Choice of Central Texas Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Members Choice of Central Texas",
+      "kind": "credit_union",
+      "charter": "199",
+      "website": "https://www.choicefcu.com",
+      "state": "TX"
+    },
+    "leading-edge-cu": {
+      "name": "Leading Edge Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Leading Edge CU",
+      "kind": "credit_union",
+      "charter": "66867",
+      "website": "https://www.leadingedgecu.org",
+      "state": "MN",
+      "logo": {
+        "file": "leading-edge-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://leadingedgecu.org/wp-content/uploads/2025/04/favicon.png",
+        "fingerprint": "72c17ac474b47484748af58ac2f2dd96e91ee910eb50c310d111d611d1010010",
+        "aspect": 1.222,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "advantage-one-il": {
+      "name": "Advantage One Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Advantage One",
+      "kind": "credit_union",
+      "charter": "68343",
+      "website": "https://www.adonecu.org",
+      "state": "IL",
+      "logo": {
+        "file": "advantage-one-il-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.adonecu.org/images/svg/logo.svg",
+        "fingerprint": "e00887c40070201839d0352a32f0ab168302f65332ebf8a3e003b0035c1e23f8",
+        "aspect": 2.167,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }
