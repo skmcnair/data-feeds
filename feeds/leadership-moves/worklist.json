@@ -1,9 +1,27 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-25T07:49:22-05:00",
+  "generated": "2026-11-25T08:39:09-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "e5ad9b7d676c",
+      "title": "New Fight Erupts Over Frozen Retirement Funds In $95M JAFCU Case - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGJvWHNfLUZUVzBMQVRGdW5BbnhjUVVncXFfR3hycUIxcGo5dWR6c2Nta0FNaVY1THNDaGlmcHNoa21xN1ZZOG1yRVR5cFFGbUNpb2VkTDlWSVpaY1I3VlFWM1FCaldJWjFrYXdIZHhyZ015bWxmaVBITTlqQkxpbGhId0p3cE9sdmhDelpWaVBrYUp5N0lEWmw0dnR2c0ZOdWc",
+      "source": "Google News - CU Times and CU Today people",
+      "published": "2026-11-25T08:20:36-05:00",
+      "found": "2026-11-25T08:38:56-05:00",
+      "summary": "New Fight Erupts Over Frozen Retirement Funds In $95M JAFCU Case CUToday"
+    },
+    {
+      "id": "30c455c5f8d2",
+      "title": "City National Bank appoints SVP, head of Commercial Real Estate Banking - ATM Marketplace",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUlTR3B3VnlMVURXeS1KLW5wUnd1TTAweFV4T0Npc0NRd2Y4aER6OW1LR1NnN2x6LUpKNWx0YUVIX2dRM1llZnlSc2R3ZTlsNnpqeU5OZXpiVVZOdndBbnhQWW1sWlNGUUx1UWhCbEpKOWEtTGY5Z2h2X2J4TERKczRTZzM4dUZhZENyLUM2MFNjTHVPb0lXOWtCR0tONzhCNkRkaUlYdDU1SU0",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-25T06:00:00-05:00",
+      "found": "2026-11-25T08:38:56-05:00",
+      "summary": "City National Bank appoints SVP, head of Commercial Real Estate Banking ATM Marketplace"
+    },
     {
       "id": "e85d7d0a9141",
       "title": "Lake Trust Credit Union Names Duane Wilcoxson Chief Information and Operations Officer - WHMI",
@@ -48,6 +66,15 @@
       "published": "2026-11-24T08:54:01-05:00",
       "found": "2026-11-24T20:34:41-05:00",
       "summary": "United elevates two proven leaders to support continued growth and member experience CUInsight"
+    },
+    {
+      "id": "fc7bd8bbe6e0",
+      "title": "TruNorth Mortgage Welcomes Michael Kelley to Community Lending Team - BusinessWest",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEY3aG5VWFZLWGlkdGhqR0pvcUx2X0hFTVFGWDZ0SURxT3ZzMktla2JXWmdVcmNwZnNYWnFkWlZTdHBVWE9STFJld1o1ZTFnT3hGLUE0Q2U5blRZdTJ0VHplQTRJTmhVU0drbnM0NWFoYjRhNXg0SkNLRkk4SWY2eXU0OEgwb1JQQk9IaGFEUnlDeThiZzBaTmM3MGExNEk",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-19T11:27:30-05:00",
+      "found": "2026-11-25T08:38:56-05:00",
+      "summary": "TruNorth Mortgage Welcomes Michael Kelley to Community Lending Team BusinessWest"
     }
   ],
   "recheck": [

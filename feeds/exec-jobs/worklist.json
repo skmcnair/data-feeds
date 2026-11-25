@@ -1,9 +1,18 @@
 {
   "feed": "exec-jobs",
-  "generated": "2026-11-25T07:49:22-05:00",
+  "generated": "2026-11-25T08:39:09-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "e5ad9b7d676c",
+      "title": "New Fight Erupts Over Frozen Retirement Funds In $95M JAFCU Case - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGJvWHNfLUZUVzBMQVRGdW5BbnhjUVVncXFfR3hycUIxcGo5dWR6c2Nta0FNaVY1THNDaGlmcHNoa21xN1ZZOG1yRVR5cFFGbUNpb2VkTDlWSVpaY1I3VlFWM1FCaldJWjFrYXdIZHhyZ015bWxmaVBITTlqQkxpbGhId0p3cE9sdmhDelpWaVBrYUp5N0lEWmw0dnR2c0ZOdWc",
+      "source": "Google News - CU CEO retirements",
+      "published": "2026-11-25T08:20:36-05:00",
+      "found": "2026-11-25T08:38:53-05:00",
+      "summary": "New Fight Erupts Over Frozen Retirement Funds In $95M JAFCU Case CUToday"
+    },
     {
       "id": "caba34281e4b",
       "title": "BofA CEO Says Outages Occurring at Banks are Due to Software Updates to Respond to Cyber-Threats - Credit Union Daily",
