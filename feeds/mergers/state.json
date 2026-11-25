@@ -1,61 +1,44 @@
 {
-  "last_review": "2026-11-24T03:52:21-05:00",
-  "last_review_file": "2026-11-24-0352.json",
+  "last_review": "2026-11-25T03:49:38-05:00",
+  "last_review_file": "2026-11-25-0349.json",
   "last_review_result": "ok",
   "last_review_errors": [],
   "last_review_report": {
     "added": [
       {
-        "id": "2026-02-05-hanscom-federal-credit-union-alden-credit-union",
-        "summary": "Hanscom Federal Credit Union / Alden Credit Union"
+        "id": "2026-11-24-family-savings-credit-union-liberty-bank",
+        "summary": "Family Savings Credit Union / Liberty Bank"
       }
     ],
-    "updated": [
-      {
-        "id": "2025-11-18-boeing-employees-credit-union-safe-credit-union",
-        "note": "Corrected: SAFE's combination page and the joint BECU-SAFE site say final CA DFPI approval is still pending",
-        "changes": [
-          {
-            "field": "next_steps",
-            "old": "Legal combination on Jan 1, 2027",
-            "new": "Final approval from the California DFPI; the combination is expected to close Jan 1, 2027"
-          },
-          {
-            "field": "notes",
-            "old": "NCUA, CA DFPI and WA DFI approved Aug 4, 2026. The member vote closed Oct 27 at a special meeting; SAFE calls the support strong but has not released a tally. In November a group of SAFE members petitioned the CA DFPI to pause and review the merger, alleging inadequate disclosure and self-dealing (Credit Union Daily, Nov 16 and 18). As of Nov 22, SAFE's combination page says final approvals, including the CA DFPI's, have been received and that SAFE and BECU legally combine on Jan 1, 2027 (SAFE's vote page still says it awaits DFPI approval).",
-            "new": "NCUA, CA DFPI and WA DFI approved Aug 4, 2026. The member vote closed Oct 27 at a special meeting; SAFE calls the support strong but has not released a tally. In November a group of SAFE members petitioned the CA DFPI to pause and review the merger, alleging inadequate disclosure and self-dealing (Credit Union Daily, Nov 16 and 18). Checked Nov 24, 2026: SAFE's combination page and the joint BECU-SAFE site (Nov 10 update) say SAFE is still awaiting final approval from the CA DFPI; the combination has been expected to close Jan 1, 2027."
-          }
-        ],
-        "kept": []
-      }
-    ],
+    "updated": [],
     "rechecked": [
-      "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
-      "2026-11-10-max-credit-union-first-financial-bank",
-      "2026-10-28-selco-community-credit-union-numerica-credit-union",
-      "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
-      "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
-      "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
-      "undated-communityamerica-credit-union-westreet-credit-union",
-      "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
-      "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
-      "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
-      "2026-10-01-consumers-credit-union-scott-credit-union",
-      "undated-streator-onized-credit-union-anco-community-credit-union",
-      "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
-      "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
-      "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
-      "2026-07-21-gesa-credit-union-willamette-valley-bank",
-      "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
-      "undated-baxter-credit-union-healthcare-associates-credit-union",
-      "2026-05-15-loc-credit-union-advantage-one-credit-union",
-      "2026-05-05-team-one-credit-union-case-credit-union",
-      "undated-ascend-federal-credit-union-lge-community-credit-union",
-      "2026-04-02-metro-credit-union-members-plus-credit-union",
-      "2026-01-08-zeal-credit-union-the-miners-state-bank",
-      "undated-west-aircomm-federal-credit-union-southwest-communities-federal-credit-union"
+      "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+      "undated-firefighters-credit-union-p-and-s-credit-union",
+      "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+      "undated-credit-union-1-gulf-coast-federal-credit-union",
+      "undated-credit-union-1-first-class-community-credit-union",
+      "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+      "undated-bp-federal-credit-union-southern-star-credit-union",
+      "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+      "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+      "undated-sharefax-credit-union-members-trust-federal-credit-union",
+      "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+      "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+      "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+      "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+      "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+      "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+      "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+      "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+      "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+      "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+      "undated-tech-credit-union-great-horizons-federal-credit-union",
+      "undated-robins-financial-credit-union-harris-employees-credit-union",
+      "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+      "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+      "2026-11-10-sunmark-credit-union-directors-choice-credit-union"
     ],
-    "reviewed": 21,
+    "reviewed": 19,
     "rejected": []
   },
   "last_collect": "2026-11-25T02:41:07-05:00",
