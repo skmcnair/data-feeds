@@ -7754,6 +7754,50 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "penn-state-fcu": {
+      "name": "Penn State Federal Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Penn State FCU",
+      "kind": "credit_union",
+      "charter": "12729",
+      "website": "https://www.pennstatefederal.com",
+      "state": "PA",
+      "logo": {
+        "file": "penn-state-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.pennstatefederal.com/assets/img/logo.svg",
+        "fingerprint": "900090009010844a49156b9548ca0acd8dcd8000c8988b408bd2c392d190d000",
+        "aspect": 3.333,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "llcu": {
+      "name": "Land of Lincoln Credit Union",
+      "added": "2026-11-25",
+      "short_name": "LLCU",
+      "kind": "credit_union",
+      "charter": "63716",
+      "website": "https://www.llcu.org",
+      "state": "IL",
+      "logo": {
+        "file": "llcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.llcu.org/themes/Atlas/assets/dist/images/logo-LLCU-black-green.svg",
+        "fingerprint": "02d013910180319b324b32cb336b336b331b331b336b336b18ca58cc9cd4ad65",
+        "aspect": 2.003,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }

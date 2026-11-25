@@ -156,6 +156,22 @@
   "file": "lake-trust-v1.png",
   "result": "current"
  },
+ "llcu": {
+  "file": "llcu-v1.png",
+  "live_sig": [
+   [
+    "01288a64126bcc64cdb4cd34cc94ccd4cce4cce4ccd4cc946635a733632b529a",
+    2.003
+   ],
+   [
+    "6ba962b97539692468a0688462648f301497a52aad28aa8a8d54562508bb28b3",
+    4.014
+   ]
+  ],
+  "note": "Same LLCU apple mark; site header uses the white-text version (logo-LLCU-white-green.svg) for its dark header, stored the site's own black-text version (logo-LLCU-black-green.svg) for light backgrounds",
+  "ok": true,
+  "reviewed": "2026-11-25"
+ },
  "mid-oregon-cu": {
   "checked": "2026-11-23",
   "file": "mid-oregon-cu-v1.png",
@@ -179,6 +195,11 @@
  "peak-cu": {
   "checked": "2026-11-23",
   "file": "peak-cu-v1.png",
+  "result": "current"
+ },
+ "penn-state-fcu": {
+  "checked": "2026-11-25",
+  "file": "penn-state-fcu-v1.png",
   "result": "current"
  },
  "plus-cu": {

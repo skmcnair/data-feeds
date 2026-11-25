@@ -1,0 +1,101 @@
+{
+  "feed": "leadership-moves",
+  "run": {
+    "started": "2026-11-25T00:19:00-05:00",
+    "finished": "2026-11-25T00:34:00-05:00",
+    "searches": 59,
+    "errors": [
+      "CUInsight 'United elevates two proven leaders to support continued growth and member experience' (Nov 24) could not be opened or found by search; left in the waiting list for the next run"
+    ]
+  },
+  "reviewed": [
+    "c47743971981", "12596c440597", "61c44321fa78", "70ed1686bcab", "c793037e28d7",
+    "1be33f5f9ad9", "8b7b54a26254", "255de1a4981a", "e30d34e4e85e", "d51f30867667",
+    "faa05e97684d", "fd66b610ab6b", "cd8664824a1e", "ea84654147a2", "0da2e958d2ce",
+    "f68ec5c4e3bb", "98dc47a12ecc", "9eae7f37a4a0", "5e5e3681323b", "3e6d609d0439",
+    "07ebd74b21d7", "674f90afc098", "ed13493bd0d4", "466dc5a14f54", "a8eef0020fe7",
+    "3ba75fee9dda", "ad5836e4be5d", "6e4d3a12bbae", "9c85fa21cb9e", "1ec48a6d5da3",
+    "e4a9bafb7e75", "70d6323b56f8"
+  ],
+  "adds": [
+    {
+      "fields": {
+        "announced": "2026-11-24",
+        "name": "Ben Austin",
+        "organization": "Land of Lincoln Credit Union",
+        "move": "Promoted",
+        "title": "Senior Vice President/Chief Strategy Officer",
+        "level": "C-suite",
+        "function": "Strategy",
+        "status": "In effect",
+        "previous_title": "SVP/Chief Information Officer",
+        "city": "Decatur",
+        "state": "IL",
+        "org_assets": 563.5,
+        "org_members": 36717,
+        "assets_as_of": "Q3 2026",
+        "notes": "Seven years at LLCU, after 13 years in technology and systems roles at Archer Daniels Midland."
+      },
+      "sources": [
+        {"label": "LLCU release (Effingham County Chamber)", "url": "https://effinghamcountychamber.com/community/llcu-promotes-ben-austin-to-senior-vice-president-chief-strategy-officer/", "type": "primary"},
+        {"label": "NCUA", "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63716", "type": "regulator"}
+      ],
+      "field_sources": {
+        "announced": 0, "name": 0, "organization": 0, "move": 0, "title": 0, "level": 0,
+        "function": 0, "status": 0, "previous_title": 0, "notes": 0,
+        "city": 1, "state": 1, "org_assets": 1, "org_members": 1, "assets_as_of": 1
+      }
+    },
+    {
+      "fields": {
+        "announced": "2026-11-14",
+        "name": "David Restino",
+        "organization": "Penn State Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "In effect",
+        "previous_title": "Vice President and Chief Financial Officer",
+        "previous_org": "First United National Bank",
+        "succeeds": "Rick Tabor",
+        "city": "Bellefonte",
+        "state": "PA",
+        "org_assets": 272.3,
+        "org_members": 14320,
+        "assets_as_of": "Q3 2026",
+        "notes": "CPA with more than 15 years of accounting experience; also sat on First United National Bank's board."
+      },
+      "sources": [
+        {"label": "StateCollege.com", "url": "https://www.statecollege.com/articles/business/penn-state-federal-credit-union-names-david-restino-as-chief-financial-officer/", "type": "trade_press"},
+        {"label": "CU Times", "url": "https://cutimes.com/2026/11/24/two-cfos-one-svp-join-penn-state-fcu-usalliance-fcu-rcu/", "type": "trade_press"},
+        {"label": "NCUA", "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12729", "type": "regulator"}
+      ],
+      "field_sources": {
+        "announced": 0, "name": 0, "organization": 0, "move": 0, "title": 0, "level": 0,
+        "function": 0, "status": 0, "previous_title": 0, "previous_org": 0, "succeeds": 0, "notes": 0,
+        "city": 2, "state": 2, "org_assets": 2, "org_members": 2, "assets_as_of": 2
+      }
+    }
+  ],
+  "updates": [],
+  "rechecked": [
+    "2026-11-19-tina-tracy-credit-union-one-promoted",
+    "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+    "2026-11-18-karen-browne-tba-credit-union-retiring",
+    "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+    "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+    "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+    "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+    "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+    "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+    "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+    "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+    "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+    "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+    "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+    "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+    "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+    "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
+  ]
+}
