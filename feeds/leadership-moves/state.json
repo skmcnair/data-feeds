@@ -1,10 +1,21 @@
 {
-  "last_review": "2026-11-24T00:35:00-05:00",
-  "last_review_file": "2026-11-24-0035.json",
-  "last_review_result": "ok",
-  "last_review_errors": [],
+  "last_review": "2026-11-25T00:34:00-05:00",
+  "last_review_file": "2026-11-25-0034.json",
+  "last_review_result": "partial",
+  "last_review_errors": [
+    "CUInsight 'United elevates two proven leaders to support continued growth and member experience' (Nov 24) could not be opened or found by search; left in the waiting list for the next run"
+  ],
   "last_review_report": {
-    "added": [],
+    "added": [
+      {
+        "id": "2026-11-24-ben-austin-land-of-lincoln-credit-union-promoted",
+        "summary": "Ben Austin / Land of Lincoln Credit Union / Promoted"
+      },
+      {
+        "id": "2026-11-14-david-restino-penn-state-federal-credit-union-hired",
+        "summary": "David Restino / Penn State Federal Credit Union / Hired"
+      }
+    ],
     "updated": [],
     "rechecked": [
       "2026-11-19-tina-tracy-credit-union-one-promoted",
@@ -25,7 +36,7 @@
       "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
       "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
     ],
-    "reviewed": 25,
+    "reviewed": 32,
     "rejected": []
   },
   "last_collect": "2026-11-24T23:25:00-05:00",

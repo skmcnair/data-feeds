@@ -1,6 +1,71 @@
 {
   "records": [
     {
+      "id": "2026-11-24-ben-austin-land-of-lincoln-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-24",
+        "name": "Ben Austin",
+        "organization": "Land of Lincoln Credit Union",
+        "move": "Promoted",
+        "title": "SVP, Chief Strategy Officer",
+        "level": "C-suite",
+        "function": "Strategy",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "SVP, Chief Information Officer",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Decatur",
+        "state": "IL",
+        "org_assets": 563.5,
+        "org_members": 36717,
+        "assets_as_of": "Q3 2026",
+        "notes": "Seven years at LLCU, after 13 years in technology and systems roles at Archer Daniels Midland."
+      },
+      "sources": [
+        {
+          "label": "LLCU release (Effingham County Chamber)",
+          "url": "https://effinghamcountychamber.com/community/llcu-promotes-ben-austin-to-senior-vice-president-chief-strategy-officer/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/63716",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_title": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-25",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "org_slugs": {
+        "organization": "llcu"
+      }
+    },
+    {
       "id": "2026-11-19-christian-marcussen-arsenal-credit-union-hired",
       "fields": {
         "announced": "2026-11-19",
@@ -407,7 +472,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "credit-union-one"
       }
@@ -932,7 +997,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1011,7 +1076,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1414,6 +1479,78 @@
       }
     },
     {
+      "id": "2026-11-14-david-restino-penn-state-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-14",
+        "name": "David Restino",
+        "organization": "Penn State Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "VP, Chief Financial Officer",
+        "previous_org": "First United National Bank",
+        "succeeds": "Rick Tabor",
+        "successor": null,
+        "city": "Bellefonte",
+        "state": "PA",
+        "org_assets": 272.3,
+        "org_members": 14320,
+        "assets_as_of": "Q3 2026",
+        "notes": "CPA with more than 15 years of accounting experience; also sat on First United National Bank's board."
+      },
+      "sources": [
+        {
+          "label": "StateCollege.com",
+          "url": "https://www.statecollege.com/articles/business/penn-state-federal-credit-union-names-david-restino-as-chief-financial-officer/",
+          "type": "trade_press"
+        },
+        {
+          "label": "CU Times",
+          "url": "https://cutimes.com/2026/11/24/two-cfos-one-svp-join-penn-state-fcu-usalliance-fcu-rcu/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/12729",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "succeeds": 0,
+        "notes": 0,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-25",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "org_slugs": {
+        "organization": "penn-state-fcu"
+      }
+    },
+    {
       "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
       "fields": {
         "announced": "2026-11-12",
@@ -1489,7 +1626,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -1569,7 +1706,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -1718,7 +1855,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -1804,7 +1941,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -2808,7 +2945,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "westconsin-cu"
       }
@@ -3038,7 +3175,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3122,7 +3259,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3495,7 +3632,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "all-one"
       }
@@ -4825,7 +4962,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "peach-state-fcu"
       }
@@ -4976,7 +5113,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5061,7 +5198,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5283,7 +5420,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "plus-cu"
       }
@@ -5414,7 +5551,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "great-erie-fcu"
       }
@@ -5652,7 +5789,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-25",
       "org_slugs": {
         "organization": "sun-east-fcu"
       }
