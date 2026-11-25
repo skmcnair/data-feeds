@@ -8218,6 +8218,50 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "family-savings": {
+      "name": "Family Savings Credit Union",
+      "added": "2026-11-25",
+      "short_name": "Family Savings",
+      "kind": "credit_union",
+      "charter": "68628",
+      "website": "https://www.familysavingscu.com",
+      "state": "AL",
+      "logo": {
+        "file": "family-savings-v1.png",
+        "version": 1,
+        "style": "white",
+        "source_url": "https://www.familysavingscu.com/assets/img/family_savings_credit_union_logo.svg",
+        "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+        "aspect": 2.775,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "liberty-bank-al": {
+      "name": "Liberty Bank",
+      "added": "2026-11-25",
+      "short_name": "Liberty Bank",
+      "kind": "bank",
+      "website": "https://www.libertybankal.com",
+      "state": "AL",
+      "fdic_cert": "20429",
+      "logo": {
+        "file": "liberty-bank-al-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://libertybankal.com/hs-fs/hubfs/liberty%20bank%20logo%20-%20cropped.png?width=348&height=118&name=liberty%20bank%20logo%20-%20cropped.png",
+        "fingerprint": "c000a0004d54cd92a5973490e560e000e5e0ede4a5a4256465246520c0004420",
+        "aspect": 2.907,
+        "pinned": false,
+        "added": "2026-11-25",
+        "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }

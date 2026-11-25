@@ -1,0 +1,150 @@
+{
+  "feed": "mergers",
+  "run": {
+    "started": "2026-11-25T03:34:36-05:00",
+    "finished": "2026-11-25T03:49:38-05:00",
+    "searches": 68,
+    "errors": []
+  },
+  "reviewed": [
+    "c8164a93f98d",
+    "cad76f4ac5e0",
+    "884ccda5c0dc",
+    "ac050dd99001",
+    "71b630df2395",
+    "89950c95c164",
+    "42a22400697f",
+    "ffea9cff4c83",
+    "c5fbe3dcca74",
+    "fdf0321a1f9b",
+    "bbfb131c1e4f",
+    "a74a04cc16c1",
+    "aa8e175b4ae1",
+    "875406a3e092",
+    "9d3bf4a76108",
+    "04c09ba8bf34",
+    "f8963795c6aa",
+    "d5bda5c7d62d",
+    "4b51dc707b8e"
+  ],
+  "adds": [
+    {
+      "fields": {
+        "announced": "2026-11-24",
+        "acquirer": "Family Savings Credit Union",
+        "partner": "Liberty Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "Q3 2027",
+        "ceo": "Danny Varnon",
+        "acquirer_ceo": "Danny Varnon",
+        "partner_ceo": "Chris Bailey",
+        "acquirer_city": "Rainbow City",
+        "partner_city": "Geraldine",
+        "acquirer_assets": 1186.3,
+        "acquirer_members": 79101,
+        "acquirer_locations": 17,
+        "partner_assets": 264.7,
+        "partner_locations": 7,
+        "combined_assets": 1451.0,
+        "combined_locations": 24,
+        "footprint": "AL, GA",
+        "announced_figures": "A combined credit union with approximately $1.5 billion in assets, serving its markets throughout Alabama and Georgia",
+        "next_steps": "Regulatory approvals and approval by the shareholders of First Bancorporation of Geraldine Inc.",
+        "size_as_of": "Q3 2026",
+        "state": "AL",
+        "partner_state": "AL",
+        "notes": "Purchase and assumption: Family Savings assumes substantially all of Liberty Bank's assets and liabilities; Liberty Bank's parent is First Bancorporation of Geraldine Inc. Price not disclosed. Liberty Bank (founded 1971) has seven offices in northeast Alabama, including Albertville, Collinsville, Crossville, Guntersville, Sardis City and Altoona. Advisers: Olden Lane and Honigman (Family Savings); Olsen Palmer and Jones Walker (Liberty Bank). Earlier in November Family Savings also agreed to buy two Citizens Bank & Trust branches (a branch-only deal, not tracked). ICBA publicly criticized the deal."
+      },
+      "sources": [
+        {
+          "label": "Olsen Palmer (Liberty Bank's adviser): transaction announcement",
+          "url": "https://www.olsenpalmer.com/news-archive/liberty-bank-has-agreed-to-be-acquired",
+          "type": "trade_press"
+        },
+        {
+          "label": "Credit Union Daily",
+          "url": "https://thecudaily.com/family-savings-cu-to-acquire-alabama-bank-bankers-blast-taxpayer-subsidized-deal/",
+          "type": "trade_press"
+        },
+        {
+          "label": "CU Times",
+          "url": "https://cutimes.com/2026/11/24/family-savings-announces-industrys-10th-CU-bank-acquisition-of-2026/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA record, Family Savings CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68628",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Liberty Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:20429",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind locations, Liberty Bank",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:20429",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 0,
+        "announced_figures": 0,
+        "next_steps": 0,
+        "ceo": 1,
+        "acquirer_ceo": 1,
+        "partner_ceo": 1,
+        "acquirer_city": 3,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "state": 3,
+        "size_as_of": 3,
+        "combined_assets": 3,
+        "partner_city": 4,
+        "partner_assets": 4,
+        "partner_state": 4,
+        "partner_locations": 5,
+        "combined_locations": 5,
+        "footprint": 5
+      },
+      "org_slugs": {
+        "partner": "liberty-bank-al"
+      }
+    }
+  ],
+  "updates": [],
+  "rechecked": [
+    "2026-11-17-dade-county-federal-credit-union-evermore-bank",
+    "undated-firefighters-credit-union-p-and-s-credit-union",
+    "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
+    "undated-credit-union-1-gulf-coast-federal-credit-union",
+    "undated-credit-union-1-first-class-community-credit-union",
+    "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
+    "undated-bp-federal-credit-union-southern-star-credit-union",
+    "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
+    "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
+    "undated-sharefax-credit-union-members-trust-federal-credit-union",
+    "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
+    "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
+    "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
+    "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
+    "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
+    "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
+    "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
+    "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
+    "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
+    "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
+    "undated-tech-credit-union-great-horizons-federal-credit-union",
+    "undated-robins-financial-credit-union-harris-employees-credit-union",
+    "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
+    "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+    "2026-11-10-sunmark-credit-union-directors-choice-credit-union"
+  ]
+}
