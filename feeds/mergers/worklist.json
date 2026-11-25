@@ -1,9 +1,27 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-25T16:41:44-05:00",
+  "generated": "2026-11-25T17:12:12-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "53fc8faedadd",
+      "title": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
+      "url": "https://www.prnewswire.com/news-releases/ls-power-completes-acquisition-of-4-4-gw-natural-gas-generation-assets-from-constellation-302950859.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-25T16:38:00-05:00",
+      "found": "2026-11-25T17:12:08-05:00",
+      "summary": "LS Power adds 4.4 GW of largely combined-cycle operating generation to its portfolio in PJM, a market experiencing unprecedented growth in electricity demand. NEW YORK, Nov. 25, 2026 /PRNewswire/ -- LS Power, a leading development, investme"
+    },
+    {
+      "id": "705e10e5d69f",
+      "title": "WaFd-Everbank merger secures early approvals - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFFBSGcxUEI2MGxGbndLQ3JPblFRZXpUb1JkLVVVRXppM3IyWVJRR0gyUXFTU0lYVllXckxxU0lfRS1GbkpoSzBuZjRlWjdkeWdnYXA5S1lGZ01FZmM1SFFTR1M3X2FVbEgtZ3RVejlSY3ZEQ0M1R1JoSW83cjBNcERjeklMNW8",
+      "source": "Google News - American Banker",
+      "published": "2026-11-25T15:00:00-05:00",
+      "found": "2026-11-25T17:12:08-05:00",
+      "summary": "WaFd-Everbank merger secures early approvals American Banker"
+    },
     {
       "id": "db63dac415f0",
       "title": "WESTWOOD FINANCIAL ANNOUNCES THIRD QUARTER 2026 RESULTS",
