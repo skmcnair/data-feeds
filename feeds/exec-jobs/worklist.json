@@ -1,6 +1,6 @@
 {
   "feed": "exec-jobs",
-  "generated": "2026-11-25T19:35:35-05:00",
+  "generated": "2026-11-25T20:34:51-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
@@ -66,6 +66,15 @@
       "published": "2026-11-24T17:15:48-05:00",
       "found": "2026-11-25T05:24:02-05:00",
       "summary": "BofA CEO Says Outages Occurring at Banks are Due to Software Updates to Respond to Cyber-Threats Credit Union Daily"
+    },
+    {
+      "id": "a2cfed31b547",
+      "title": "York Hospital CEO who led MaineHealth transition to retire - Mainebiz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdTExTVNLUVp3TnN4dDd1Uy10Zm5TWXN5SmxPTHFLM0RXeVZwNmZmdENJN2U0UVFXMldINjljRm1WUXVWQVpRZzYwUXJFXzVyNzNaU2dla0ptdEUxSHY5S0JMdzlQQnJVY252S2hNVUp1aS1sRng2MVVxTHhjMGNSNDhObVJqOHhLSnpXMHMzYWo2dw",
+      "source": "Google News - CU CEO retirements",
+      "published": "2026-11-24T10:00:28-05:00",
+      "found": "2026-11-25T20:34:41-05:00",
+      "summary": "York Hospital CEO who led MaineHealth transition to retire Mainebiz"
     }
   ],
   "recheck": [
