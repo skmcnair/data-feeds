@@ -45,6 +45,16 @@
   "file": "arapahoe-cu-v1.png",
   "result": "current"
  },
+ "ardent-cu": {
+  "checked": "2026-11-26",
+  "file": "ardent-cu-v1.png",
+  "result": "current"
+ },
+ "arise-financial": {
+  "checked": "2026-11-26",
+  "file": "arise-financial-v1.png",
+  "result": "current"
+ },
  "arkansas-best-fcu": {
   "checked": "2026-11-24",
   "file": "arkansas-best-fcu-v1.png",
@@ -212,6 +222,11 @@
   "file": "fairwinds-v1.png",
   "result": "current"
  },
+ "family-trust": {
+  "checked": "2026-11-26",
+  "file": "family-trust-v1.png",
+  "result": "current"
+ },
  "fedchoice-fcu": {
   "checked": "2026-11-23",
   "file": "fedchoice-fcu-v1.png",
@@ -317,6 +332,46 @@
   "file": "lafayette-fcu-v1.png",
   "result": "current"
  },
+ "langley-fcu": {
+  "file": "langley-fcu-v1.png",
+  "live_sig": [
+   [
+    "0f045804b0d2b9e207e25e12b862b0e2b9d2b0d1b0219c33ec703b828f0d40f9",
+    0.972
+   ],
+   [
+    "006410c4458e399178f0c000b060a00900098009a000a004d002e8147000b8f1",
+    0.811
+   ],
+   [
+    "9db959315312d99271d261d29d929992cb12ab52a964eb629363e662c4631992",
+    1.711
+   ],
+   [
+    "000000000c80b374364d16cc266a124b9ad88eb389a399a3664319b800000000",
+    1.0
+   ],
+   [
+    "000000000060019001000248024814c02da4996496a426c098488490e2207840",
+    1.872
+   ],
+   [
+    "e4ccd4da92d29ad216d0069a9a9e9bb39332c318e71c4ae5aa94d552916a2826",
+    1.714
+   ],
+   [
+    "80008c10c546d946c964ca89ca896acd6adbcadaca9ac934d924dd24c400c000",
+    8.6
+   ],
+   [
+    "0b200b200a000b2007100c8818e41bb45ab40ca4068896903a523ab5429ceba4",
+    1.677
+   ]
+  ],
+  "note": "Homepage header logo is a CSS icon the checker can't read (it picks up partner logos); saved logo is the header of Langley's own live UltiPro careers board",
+  "ok": true,
+  "reviewed": "2026-11-26"
+ },
  "leading-edge-cu": {
   "checked": "2026-11-25",
   "file": "leading-edge-cu-v1.png",
@@ -336,6 +391,18 @@
   "checked": "2026-11-25",
   "file": "maine-savings-v1.png",
   "result": "current"
+ },
+ "members-first-cu-mi": {
+  "file": "members-first-cu-mi-v1.png",
+  "live_sig": [
+   [
+    "22ba49ed850e8a261223f328cd3cc5dc2f1b8f0e861e53b54ccd5575464d30fa",
+    1.953
+   ]
+  ],
+  "note": "Site header shows the 90th-anniversary version of this badge; saved the plain badge from MFCU's own UltiPro careers board (anniversary marks not used)",
+  "ok": true,
+  "reviewed": "2026-11-26"
  },
  "meridian-trust-fcu": {
   "checked": "2026-11-23",
@@ -460,6 +527,11 @@
   "file": "raiz-v1.png",
   "result": "current"
  },
+ "reliant-cu": {
+  "checked": "2026-11-26",
+  "file": "reliant-cu-v1.png",
+  "result": "current"
+ },
  "revity-cu": {
   "checked": "2026-11-23",
   "file": "revity-cu-v1.png",
@@ -473,6 +545,11 @@
  "rocky-mountain-cu-mt": {
   "checked": "2026-11-23",
   "file": "rocky-mountain-cu-mt-v1.png",
+  "result": "current"
+ },
+ "salal-cu": {
+  "checked": "2026-11-26",
+  "file": "salal-cu-v1.png",
   "result": "current"
  },
  "sandia-area-fcu": {
@@ -489,6 +566,12 @@
   "checked": "2026-11-23",
   "file": "sdccu-v1.png",
   "result": "current"
+ },
+ "sdfcu": {
+  "checked": "2026-11-26",
+  "file": "sdfcu-v1.png",
+  "note": "site error <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] ce; source undated",
+  "result": "NO-SITE"
  },
  "seaboard-fcu": {
   "checked": "2026-11-23",

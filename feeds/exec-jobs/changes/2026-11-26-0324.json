@@ -1,0 +1,543 @@
+{
+  "feed": "exec-jobs",
+  "run": {
+    "started": "2026-11-26T02:42:00-05:00",
+    "finished": "2026-11-26T03:24:00-05:00",
+    "searches": 114,
+    "errors": [
+      "68671 WINGS [ultipro]: HTTP 404",
+      "68490 VYSTAR [careers_page]: HTTP 400",
+      "62745 ONPOINT COMMUNITY [icims]: HTTP 404",
+      "64418 VERIDIAN [careers_page]: bot check (blocked; never get around it)",
+      "66703 WESCOM CENTRAL [workday]: HTTP 422",
+      "61315 ONEAZ [adp]: HTTP 404",
+      "18708 PARTNERS [jazzhr]: HTTP 410",
+      "68315 SEATTLE METROPOLITAN [rippling]: HTTP 404",
+      "68223 QUALSTAR [applicantpro]: HTTP 404",
+      "3850 N C P D [careers_page]: HTTP 404",
+      "24858 MAINSTREET [rippling]: HTTP 404",
+      "65722 FREEDOM NORTHWEST [careers_page]: HTTP 404",
+      "19448 U. T. [applicantpro]: HTTP 404",
+      "CUES job board not read: WebFetch permission request went unanswered (unattended run)",
+      "Job-site lookups: Teal, Monster, CareerBuilder, ZipRecruiter, Ladders, career.com, Indeed and Jobright blocked automated reads; leads on them could not be confirmed current and were not added",
+      "add_repo tool not available in this session; cloned with git directly"
+    ]
+  },
+  "reviewed": [
+    "ab197357d911",
+    "387290698dca",
+    "18cf486c88bc",
+    "906adfe27bce",
+    "e5ad9b7d676c",
+    "5ae423e0361f",
+    "caba34281e4b",
+    "a2cfed31b547",
+    "5fdd09f75d69",
+    "4bba5efbc800"
+  ],
+  "adds": [
+    {
+      "fields": {
+        "organization": "Langley Federal Credit Union",
+        "title": "VP, Accounting & Corporate Controller",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "posted": "2026-08-26",
+        "pay_range": "$190K-$250K",
+        "job_location": "Newport News, VA",
+        "job_url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=94130841-9640-4add-a818-3bf07af91572",
+        "size_band": "$5B+",
+        "city": "Newport News",
+        "state": "VA",
+        "org_assets": 5654.5,
+        "org_members": 409897,
+        "assets_as_of": "Q3 2026"
+      },
+      "sources": [
+        {
+          "label": "Langley careers (UKG)",
+          "url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=94130841-9640-4add-a818-3bf07af91572",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1261",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      }
+    },
+    {
+      "fields": {
+        "organization": "Family Trust Federal Credit Union",
+        "title": "VP, Business Services",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "posted": "2026-11-25",
+        "job_location": "Rock Hill, SC",
+        "job_url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=8442f51c-1879-4131-bdee-fe701ce1c280",
+        "size_band": "$500M-$1B",
+        "city": "Rock Hill",
+        "state": "SC",
+        "org_assets": 815.6,
+        "org_members": 60807,
+        "assets_as_of": "Q3 2026"
+      },
+      "sources": [
+        {
+          "label": "Family Trust careers (UKG)",
+          "url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=8442f51c-1879-4131-bdee-fe701ce1c280",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11554",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      }
+    },
+    {
+      "fields": {
+        "organization": "Family Trust Federal Credit Union",
+        "title": "Chief People Officer",
+        "level": "C-suite",
+        "function": "People",
+        "status": "Open",
+        "posted": "2026-11-24",
+        "job_location": "Rock Hill, SC",
+        "job_url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=6106437c-26e9-4f0d-8fdc-bb860a2ccb84",
+        "size_band": "$500M-$1B",
+        "city": "Rock Hill",
+        "state": "SC",
+        "org_assets": 815.6,
+        "org_members": 60807,
+        "assets_as_of": "Q3 2026"
+      },
+      "sources": [
+        {
+          "label": "Family Trust careers (UKG)",
+          "url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=6106437c-26e9-4f0d-8fdc-bb860a2ccb84",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11554",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      }
+    },
+    {
+      "fields": {
+        "organization": "Hanscom Federal Credit Union",
+        "title": "Chief Banking Officer, Maryland Market",
+        "level": "C-suite",
+        "function": "Retail",
+        "status": "Open",
+        "posted": "2026-11-23",
+        "search_firm": "Smith & Wilkinson",
+        "job_location": "Maryland",
+        "job_url": "https://smithandwilkinson.com/search-jobs/",
+        "size_band": "$1B-$5B",
+        "city": "Hanscom AFB",
+        "state": "MA",
+        "org_assets": 2206.2,
+        "org_members": 98440,
+        "assets_as_of": "Q3 2026",
+        "notes": "First market leader for Peoples Powered by Hanscom, the Maryland bank Hanscom acquired in 2025."
+      },
+      "sources": [
+        {
+          "label": "Smith & Wilkinson posting",
+          "url": "https://smithandwilkinson.com/search-jobs/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9095",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      }
+    },
+    {
+      "fields": {
+        "organization": "Rockland Federal Credit Union",
+        "title": "VP, Residential Loan Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "posted": "2026-09-30",
+        "search_firm": "Smith & Wilkinson",
+        "job_url": "https://smithandwilkinson.com/search-jobs/",
+        "size_band": "$1B-$5B",
+        "city": "Rockland",
+        "state": "MA",
+        "org_assets": 3953.2,
+        "org_members": 229000,
+        "assets_as_of": "Q3 2026"
+      },
+      "sources": [
+        {
+          "label": "Smith & Wilkinson posting",
+          "url": "https://smithandwilkinson.com/search-jobs/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24224",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      }
+    },
+    {
+      "fields": {
+        "organization": "Salal Credit Union",
+        "title": "SVP, Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "posted": "2026-08-07",
+        "search_firm": "Smith & Wilkinson",
+        "job_url": "https://smithandwilkinson.com/search-jobs/",
+        "size_band": "$1B-$5B",
+        "city": "Seattle",
+        "state": "WA",
+        "org_assets": 1144.4,
+        "org_members": 64011,
+        "assets_as_of": "Q3 2026",
+        "notes": "The current CFO plans to retire."
+      },
+      "sources": [
+        {
+          "label": "Smith & Wilkinson posting",
+          "url": "https://smithandwilkinson.com/search-jobs/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66349",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      }
+    },
+    {
+      "fields": {
+        "organization": "Reliant Community Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "posted": "2026-09-09",
+        "job_url": "https://thecreditunionconnection.com/after-34-years-and-one-incredible-run-reliant-credit-unions-ceo-pamela-heald-is-passing-the-torch/",
+        "size_band": "$500M-$1B",
+        "city": "Sodus",
+        "state": "NY",
+        "org_assets": 784.0,
+        "org_members": 50007,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO Pamela Heald retires in January 2027; the board expects to pick a successor in late 2026."
+      },
+      "sources": [
+        {
+          "label": "The Credit Union Connection",
+          "url": "https://thecreditunionconnection.com/after-34-years-and-one-incredible-run-reliant-credit-unions-ceo-pamela-heald-is-passing-the-torch/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/20258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      }
+    },
+    {
+      "fields": {
+        "organization": "Ardent Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "posted": "2026-08-12",
+        "search_firm": "JSpire Recruiting",
+        "job_url": "https://www.ardentcu.org/resources/blog/august-2026/ardent-credit-union-president-and-ceo-rob-werner-announces-plans-to-retire-in-2027",
+        "size_band": "$500M-$1B",
+        "city": "Philadelphia",
+        "state": "PA",
+        "org_assets": 869.0,
+        "org_members": 34757,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO Rob Werner retires at the end of Q1 2027; a successor is expected early in 2027."
+      },
+      "sources": [
+        {
+          "label": "Ardent CU release",
+          "url": "https://www.ardentcu.org/resources/blog/august-2026/ardent-credit-union-president-and-ceo-rob-werner-announces-plans-to-retire-in-2027",
+          "type": "primary"
+        },
+        {
+          "label": "Tyfone news",
+          "url": "https://tyfone.com/news/breaking-news/ardent-ceo-rob-werner-to-retire/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/22637",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "size_band": 2,
+        "city": 2,
+        "state": 2
+      }
+    }
+  ],
+  "updates": [
+    {
+      "id": "2026-10-09-great-plains-federal-credit-union-vp-lending",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "DDJ Myers took the posting down; no hire announced",
+      "sources": [
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-fedchoice-federal-credit-union-vp-lending",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "DDJ Myers took the posting down; no hire announced",
+      "sources": [
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-valley-first-federal-credit-union-vp-consumer-lending-and-member-solutions",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "DDJ Myers took the posting down; no hire announced",
+      "sources": [
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-11-revity-credit-union-chief-lending-officer",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "DDJ Myers took the posting down; no hire announced",
+      "sources": [
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-capital-credit-union-svp-operations",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "DDJ Myers took the posting down; no hire announced",
+      "sources": [
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-15-san-diego-county-credit-union-vp-card-operations-and-services",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "Posting taken down from the credit union's careers board; no hire announced",
+      "sources": [
+        {
+          "label": "SDCCU careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=60a418a2-e4cc-44a9-b837-cdd877de6dd0&ccId=19000101_000001&lang=en_US",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "undated-communityamerica-credit-union-vp-infrastructure-and-support",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "Posting taken down from the credit union's careers board; no hire announced",
+      "sources": [
+        {
+          "label": "CommunityAmerica careers (iCIMS)",
+          "url": "https://careers-cacu.icims.com/jobs",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "undated-security-service-federal-credit-union-svp-enterprise-technology-solutions",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "Dice posting no longer available; no current copy found and no hire announced",
+      "sources": [
+        {
+          "label": "Dice",
+          "url": "https://www.dice.com/job-detail/b77100d6-d308-4eb8-82d7-038c476f61f7",
+          "type": "aggregator"
+        }
+      ]
+    },
+    {
+      "id": "undated-first-technology-federal-credit-union-vp-digital-product-online-mobile-banking",
+      "set": {
+        "status": "Closed",
+        "closed": "2026-11-26"
+      },
+      "note": "First Tech's own Jobvite posting is gone and job-site copies have expired; no hire announced",
+      "sources": [
+        {
+          "label": "First Tech careers (Jobvite)",
+          "url": "https://jobs.jobvite.com/firsttechfed/job/oB7YzfwZ",
+          "type": "primary"
+        },
+        {
+          "label": "DiversityJobs",
+          "url": "https://diversityjobs.com/career/16640072/Vp-Digital-Product-Online-Mobile-Banking-Oregon-Hillsboro",
+          "type": "aggregator"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-american-eagle-financial-credit-union-svp-chief-people-and-culture-officer",
+      "set": {
+        "status": "Filled",
+        "closed": "2026-11-09",
+        "filled_by": "Dele Shell"
+      },
+      "note": "American Eagle named Dele Shell SVP, Chief People & Culture Officer (Nov 9 release)",
+      "sources": [
+        {
+          "label": "American Eagle release (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+          "type": "primary"
+        }
+      ]
+    }
+  ],
+  "rechecked": [
+    "2026-10-15-bronco-federal-credit-union-chief-financial-officer",
+    "2026-10-13-hope-federal-credit-union-svp-regional-manager",
+    "2026-10-13-superior-choice-credit-union-vp-commercial-lending",
+    "2026-10-09-great-plains-federal-credit-union-chief-financial-officer",
+    "2026-10-08-lafayette-federal-credit-union-svp-servicing-administration",
+    "2026-10-06-spectra-federal-credit-union-chief-member-experience-officer",
+    "2026-10-06-credit-union-of-southern-california-vp-digital-banking",
+    "2026-10-05-capital-credit-union-vp-facilities",
+    "2026-10-05-gulf-winds-credit-union-svp-chief-people-officer",
+    "2026-10-02-uncle-credit-union-vp-retail-growth",
+    "2026-09-30-apple-federal-credit-union-svp-people-development",
+    "2026-09-30-kinetic-federal-credit-union-vp-chief-strategy-and-marketing-officer",
+    "2026-09-30-intrepid-credit-union-vp-member-growth-and-retail-services",
+    "2026-09-30-orsa-credit-union-vp-storytelling",
+    "2026-09-29-san-francisco-fire-credit-union-chief-people-officer",
+    "2026-09-29-community-credit-union-of-florida-chief-information-officer",
+    "2026-09-29-north-star-community-credit-union-chief-operating-officer",
+    "2026-09-29-seaboard-federal-credit-union-president-and-ceo",
+    "2026-10-22-americu-credit-union-chief-people-officer",
+    "undated-global-federal-credit-union-svp-special-credits",
+    "undated-coast-central-credit-union-svp-chief-human-resources-officer",
+    "undated-caltech-employees-federal-credit-union-vp-operations",
+    "2026-11-20-jeanne-d-arc-credit-union-chief-lending-officer",
+    "undated-jeanne-d-arc-credit-union-vp-commercial-lending-and-business-banking",
+    "2026-11-19-bellco-credit-union-vp-commercial-underwriting-closing-and-portfolio-servicing",
+    "2026-11-13-vystar-credit-union-vp-consumer-lending-product-innovation-and-credit-analytics",
+    "2026-11-10-vystar-credit-union-vp-commercial-credit",
+    "2026-11-16-pentagon-federal-credit-union-vp-deposit-products",
+    "undated-state-employees-credit-union-of-maryland-inc-vp-corporate-counsel"
+  ]
+}

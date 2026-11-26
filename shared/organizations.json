@@ -6736,7 +6736,20 @@
       "kind": "credit_union",
       "charter": "1261",
       "website": "https://www.langleyfcu.org",
-      "state": "VA"
+      "state": "VA",
+      "logo": {
+        "file": "langley-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/Styles/GetLargeHeaderLogo?brandId=3bad7bf4-d00b-4788-b6e2-c3f4cae7e9dd&m=637049324592330000",
+        "fingerprint": "28002820d648d620d63066d466d4d420c24dc2ddc4a6cce6f443184136803680",
+        "aspect": 4.286,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
     },
     "chevron-fcu": {
       "name": "Chevron Federal Credit Union",
@@ -7311,7 +7324,20 @@
       "kind": "credit_union",
       "charter": "62076",
       "website": "https://www.mfcu.net",
-      "state": "MI"
+      "state": "MI",
+      "logo": {
+        "file": "members-first-cu-mi-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://recruiting2.ultipro.com/MEM1004MEFI/JobBoard/fd8b0053-1855-4e4d-a1c7-1cec08c4cee6/Styles/GetLargeHeaderLogo?brandId=f97ff034-1a5b-4265-83f2-da1e3a1e6abc&m=638373788423180000",
+        "fingerprint": "7cc0c13c33036451a49cd4d2c7d2339c33255ac557a5122136419686c69c3861",
+        "aspect": 1.538,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
     },
     "service-1st-fcu": {
       "name": "Service 1st Federal Credit Union",
@@ -8069,7 +8095,20 @@
       "kind": "credit_union",
       "charter": "435",
       "website": "https://www.sdfcu.org",
-      "state": "VA"
+      "state": "VA",
+      "logo": {
+        "file": "sdfcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://mma.prnewswire.com/media/2317782/SDFCU_Logo.jpg",
+        "fingerprint": "47103988f064ce320718d9cc5ce32470543c569353b5da644d724290234dcb4d",
+        "aspect": 1.815,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
     },
     "arrowhead-cu": {
       "name": "Arrowhead Federal Credit Union",
@@ -8298,6 +8337,125 @@
         "pinned": false,
         "added": "2026-11-25",
         "checked": "2026-11-25",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "family-trust": {
+      "name": "Family Trust Federal Credit Union",
+      "added": "2026-11-26",
+      "short_name": "Family Trust",
+      "kind": "credit_union",
+      "charter": "11554",
+      "website": "https://www.familytrust.org",
+      "state": "SC",
+      "logo": {
+        "file": "family-trust-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.familytrust.org/custom/4057/image/logo-2x.png",
+        "fingerprint": "73366b36c9c649a6813683d653e69bc6000e104c048c126c12e459b419b419b4",
+        "aspect": 6.907,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "salal-cu": {
+      "name": "Salal Credit Union",
+      "added": "2026-11-26",
+      "short_name": "Salal CU",
+      "kind": "credit_union",
+      "charter": "66349",
+      "website": "https://www.salalcu.org",
+      "state": "WA",
+      "logo": {
+        "file": "salal-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.salalcu.org/wp-content/uploads/2023/11/salal-logo-300x91.png",
+        "fingerprint": "a5a6a5a665ac25ada5aea5a6414c1c749e7320870000b2c84aeee4e6c8a22a98",
+        "aspect": 3.297,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "arise-financial": {
+      "name": "Rockland Federal Credit Union",
+      "added": "2026-11-26",
+      "short_name": "Arise Financial",
+      "kind": "credit_union",
+      "charter": "24224",
+      "website": "https://www.arisefi.org",
+      "state": "MA",
+      "aliases": [
+        "Arise Financial"
+      ],
+      "logo": {
+        "file": "arise-financial-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.arisefi.org/hubfs/raw_assets/public/New%20Theme%20-%20Arise/images/arise/logo-icon.svg",
+        "fingerprint": "0ad222c92ad239961d36176d96759656d6595c5d48762856504128cb00eb0077",
+        "aspect": 2.75,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "reliant-cu": {
+      "name": "Reliant Community Federal Credit Union",
+      "added": "2026-11-26",
+      "short_name": "Reliant CU",
+      "kind": "credit_union",
+      "charter": "20258",
+      "website": "https://www.reliantcu.com",
+      "state": "NY",
+      "aliases": [
+        "Reliant Credit Union"
+      ],
+      "logo": {
+        "file": "reliant-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.reliantcu.com/wp-content/themes/reliatncu-theme/images/reliantccu_logo_with_text.svg",
+        "fingerprint": "5a0b5aa71a0d29a466a463ad5ba469a42926d6c8d0cc70aa011c213816ac160c",
+        "aspect": 2.228,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "ardent-cu": {
+      "name": "Ardent Federal Credit Union",
+      "added": "2026-11-26",
+      "short_name": "Ardent CU",
+      "kind": "credit_union",
+      "charter": "22637",
+      "website": "https://www.ardentcu.org",
+      "state": "PA",
+      "aliases": [
+        "Ardent Credit Union"
+      ],
+      "logo": {
+        "file": "ardent-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ardentcu.org/getmedia/3e9fa495-aaf4-427c-b38a-d036fc71582f/logo-ardent.png?width=430&height=128&ext=.png",
+        "fingerprint": "b48c8b6c8968a924a994b1108978eb786a0a6c8a9134288205442d542e9a2d34",
+        "aspect": 3.359,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
         "previous": [],
         "ignored": []
       }
