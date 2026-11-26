@@ -1,9 +1,28 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-26T13:36:10-05:00",
+  "generated": "2026-11-26T14:17:14-05:00",
   "trial": true,
   "lookback_days": 3,
-  "pending_inbox": [],
+  "pending_inbox": [
+    {
+      "id": "ae5c58ec50b5",
+      "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
+      "url": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951331.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-26T13:46:00-05:00",
+      "found": "2026-11-26T14:17:09-05:00",
+      "summary": "Investment moves Julius Meinl into the top five HoReCa coffee players in Italy and signals further acquisition appetite VIENNA, Nov. 26, 2026 /PRNewswire/ -- Julius Meinl has completed the acquisition of the businesses of Daroma and Neronob"
+    },
+    {
+      "id": "493e7ecc4a59",
+      "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
+      "url": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951333.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-26T12:16:00-05:00",
+      "found": "2026-11-26T14:17:09-05:00",
+      "summary": "Investment moves Julius Meinl into the top five HoReCa coffee players in Italy and signals further acquisition appetite VIENNA, Nov. 26, 2026 /PRNewswire/ -- Julius Meinl has completed the acquisition of the businesses of Daroma and Neronob"
+    }
+  ],
   "recheck": [
     {
       "id": "2026-11-24-family-savings-credit-union-liberty-bank",
