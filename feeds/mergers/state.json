@@ -1,44 +1,76 @@
 {
-  "last_review": "2026-11-25T03:49:38-05:00",
-  "last_review_file": "2026-11-25-0349.json",
-  "last_review_result": "ok",
-  "last_review_errors": [],
+  "last_review": "2026-11-26T04:12:58-05:00",
+  "last_review_file": "2026-11-26-0412.json",
+  "last_review_result": "partial",
+  "last_review_errors": [
+    "WebSearch budget (200 per run) used up before the full review.searches sweep finished",
+    "Hartford Business Journal 'Expanding East Hartford credit union seeks 10th merger' (Nov 25) could not be opened (4xx); merging credit union not identified"
+  ],
   "last_review_report": {
     "added": [
       {
-        "id": "2026-11-24-family-savings-credit-union-liberty-bank",
-        "summary": "Family Savings Credit Union / Liberty Bank"
+        "id": "2026-10-05-unity-financial-credit-union-gha-federal-credit-union",
+        "summary": "Unity Financial Credit Union / GHA Federal Credit Union"
       }
     ],
-    "updated": [],
-    "rechecked": [
-      "2026-11-17-dade-county-federal-credit-union-evermore-bank",
-      "undated-firefighters-credit-union-p-and-s-credit-union",
-      "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
-      "undated-credit-union-1-gulf-coast-federal-credit-union",
-      "undated-credit-union-1-first-class-community-credit-union",
-      "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
-      "undated-bp-federal-credit-union-southern-star-credit-union",
-      "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
-      "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
-      "undated-sharefax-credit-union-members-trust-federal-credit-union",
-      "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
-      "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
-      "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
-      "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
-      "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
-      "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
-      "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
-      "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
-      "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
-      "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
-      "undated-tech-credit-union-great-horizons-federal-credit-union",
-      "undated-robins-financial-credit-union-harris-employees-credit-union",
-      "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un",
-      "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
-      "2026-11-10-sunmark-credit-union-directors-choice-credit-union"
+    "updated": [
+      {
+        "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+        "note": "Business Observer (Oct 27) reports the deal, pending regulatory approval, could close by the second half of 2027",
+        "changes": [
+          {
+            "field": "expected_close",
+            "old": "Not Disclosed",
+            "new": "H2 2027"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+        "note": "Effective date Oct 1, 2026 (BankRegReports merger list)",
+        "changes": [
+          {
+            "field": "completed",
+            "old": "Q4 2026",
+            "new": "2026-10-01"
+          },
+          {
+            "field": "notes",
+            "old": "NCUA lists Lincoln County CU as inactive; it filed a Sep 30, 2026 call report, so the merger took effect in Oct or Nov 2026.",
+            "new": "NCUA lists Lincoln County CU as inactive; it filed a Sep 30, 2026 call report. BankRegReports' 2026 merger list dates the merger Oct 1, 2026 (no primary source for the day yet). Lincoln County's merger page paid a pre-merger special dividend on Sep 30, 2026, deposited Oct 1-16. Park Side's full name is Park Side Financial Credit Union."
+          }
+        ],
+        "kept": []
+      }
     ],
-    "reviewed": 19,
+    "rechecked": [
+      "2026-11-10-max-credit-union-first-financial-bank",
+      "2026-10-28-selco-community-credit-union-numerica-credit-union",
+      "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+      "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+      "undated-communityamerica-credit-union-westreet-credit-union",
+      "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+      "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
+      "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+      "2026-10-01-consumers-credit-union-scott-credit-union",
+      "undated-streator-onized-credit-union-anco-community-credit-union",
+      "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+      "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+      "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+      "2026-07-21-gesa-credit-union-willamette-valley-bank",
+      "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+      "undated-baxter-credit-union-healthcare-associates-credit-union",
+      "2026-05-15-loc-credit-union-advantage-one-credit-union",
+      "2026-05-05-team-one-credit-union-case-credit-union",
+      "undated-ascend-federal-credit-union-lge-community-credit-union",
+      "2026-04-02-metro-credit-union-members-plus-credit-union",
+      "2026-02-05-hanscom-federal-credit-union-alden-credit-union",
+      "2026-01-08-zeal-credit-union-the-miners-state-bank",
+      "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+      "undated-west-aircomm-federal-credit-union-southwest-communities-federal-credit-union"
+    ],
+    "reviewed": 10,
     "rejected": []
   },
   "last_collect": "2026-11-26T02:39:55-05:00",
