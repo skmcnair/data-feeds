@@ -1,6 +1,329 @@
 {
   "records": [
     {
+      "id": "2026-11-25-antinea-middleton-usalliance-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-25",
+        "name": "Antinea Middleton",
+        "organization": "USAlliance Federal Credit Union",
+        "move": "Hired",
+        "title": "VP, Retail Banking, Community Engagement & Operations",
+        "level": "VP",
+        "function": "Retail",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "Affinity Federal Credit Union",
+        "succeeds": null,
+        "successor": null,
+        "city": "Rye",
+        "state": "NY",
+        "org_assets": 3329.2,
+        "org_members": 197730,
+        "assets_as_of": "Q3 2026",
+        "notes": "Leads the branch network."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/usalliance-fcu-names-3-new-vps/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/17587",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "announced": 0,
+        "move": 0,
+        "level": 0,
+        "status": 0,
+        "name": 0,
+        "title": 0,
+        "function": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "usalliance"
+      }
+    },
+    {
+      "id": "2026-11-25-andrew-libonati-usalliance-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-25",
+        "name": "Andrew Libonati",
+        "organization": "USAlliance Federal Credit Union",
+        "move": "Hired",
+        "title": "VP, Consumer Lending",
+        "level": "VP",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "Citizens Bank",
+        "succeeds": null,
+        "successor": null,
+        "city": "Rye",
+        "state": "NY",
+        "org_assets": 3329.2,
+        "org_members": 197730,
+        "assets_as_of": "Q3 2026",
+        "notes": "Background in consumer lending product and portfolio management."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/usalliance-fcu-names-3-new-vps/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/17587",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "announced": 0,
+        "move": 0,
+        "level": 0,
+        "status": 0,
+        "name": 0,
+        "title": 0,
+        "function": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "usalliance"
+      }
+    },
+    {
+      "id": "2026-11-25-anna-hudes-usalliance-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-11-25",
+        "name": "Anna Hudes",
+        "organization": "USAlliance Federal Credit Union",
+        "move": "Hired",
+        "title": "VP, Growth Marketing & Member Experience",
+        "level": "VP",
+        "function": "Marketing",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": "Prudential",
+        "succeeds": null,
+        "successor": null,
+        "city": "Rye",
+        "state": "NY",
+        "org_assets": 3329.2,
+        "org_members": 197730,
+        "assets_as_of": "Q3 2026",
+        "notes": "Earlier led marketing strategy, operations and MarTech."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/usalliance-fcu-names-3-new-vps/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/17587",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "announced": 0,
+        "move": 0,
+        "level": 0,
+        "status": 0,
+        "name": 0,
+        "title": 0,
+        "function": 0,
+        "previous_org": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "usalliance"
+      }
+    },
+    {
+      "id": "2026-11-25-tina-vaught-united-federal-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-25",
+        "name": "Tina Vaught",
+        "organization": "United Federal Credit Union",
+        "move": "Promoted",
+        "title": "Regional VP, Michigan & Indiana",
+        "level": "VP",
+        "function": "Retail",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Saint Joseph",
+        "state": "MI",
+        "org_assets": 4436.3,
+        "org_members": 194074,
+        "assets_as_of": "Q3 2026",
+        "notes": "With United since 2021; leads market growth, business development and branch leadership in both states."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/united-fcu-promotes-tina-vaught-darian-phillips/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6288",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "announced": 0,
+        "move": 0,
+        "level": 0,
+        "status": 0,
+        "name": 0,
+        "title": 0,
+        "function": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "united-fcu"
+      }
+    },
+    {
+      "id": "2026-11-25-darian-phillips-united-federal-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-25",
+        "name": "Darian Phillips",
+        "organization": "United Federal Credit Union",
+        "move": "Promoted",
+        "title": "VP, Consumer Production Support",
+        "level": "VP",
+        "function": "Lending",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": null,
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "Saint Joseph",
+        "state": "MI",
+        "org_assets": 4436.3,
+        "org_members": 194074,
+        "assets_as_of": "Q3 2026",
+        "notes": "Leads nationally centralized consumer and home equity lending delivery and operations; more than a decade in financial services."
+      },
+      "sources": [
+        {
+          "label": "CU Daily",
+          "url": "https://thecudaily.com/united-fcu-promotes-tina-vaught-darian-phillips/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6288",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "organization": 0,
+        "announced": 0,
+        "move": 0,
+        "level": 0,
+        "status": 0,
+        "name": 0,
+        "title": 0,
+        "function": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "united-fcu"
+      }
+    },
+    {
       "id": "2026-11-24-ben-austin-land-of-lincoln-credit-union-promoted",
       "fields": {
         "announced": "2026-11-24",
@@ -472,7 +795,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "credit-union-one"
       }
@@ -997,7 +1320,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1076,7 +1399,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1626,7 +1949,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -1706,7 +2029,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -1855,7 +2178,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -1941,7 +2264,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -2945,7 +3268,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "westconsin-cu"
       }
@@ -3175,7 +3498,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3259,7 +3582,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3632,7 +3955,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "all-one"
       }
@@ -4962,7 +5285,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "peach-state-fcu"
       }
@@ -5113,7 +5436,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5198,7 +5521,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5420,7 +5743,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "plus-cu"
       }
@@ -5551,7 +5874,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "great-erie-fcu"
       }
@@ -5789,7 +6112,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "sun-east-fcu"
       }
