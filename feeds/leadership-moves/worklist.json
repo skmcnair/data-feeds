@@ -1,9 +1,18 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-26T07:47:36-05:00",
+  "generated": "2026-11-26T08:38:14-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "bb70d5abd779",
+      "title": "Glenwood Hot Springs resort hires Tiffany Mackey as human resources director - ColoradoBiz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnJWRUxjZ0lXVG1lNWxQb2s3akR0bmpSa2U1VFZaYjVYRWFfbEFRV2QySlByZlEydlc3RmZZNTA1RGFfVGhFeVNPVnRrRFQ1c191VU9xSWx5ZGJJbmRTT3ljcHplMkluc2hVZzVHRVVYSzctWEs2cWlOd3ZJN1l5VVJNRTA2UDVQaEJFaGd3",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-26T04:56:15-05:00",
+      "found": "2026-11-26T08:38:02-05:00",
+      "summary": "Glenwood Hot Springs resort hires Tiffany Mackey as human resources director ColoradoBiz"
+    },
     {
       "id": "5cfc6465ec60",
       "title": "Century Bank Names Anne Kain Its New President - Los Alamos Daily Post",
@@ -12,6 +21,15 @@
       "published": "2026-11-24T09:56:00-05:00",
       "found": "2026-11-26T05:25:51-05:00",
       "summary": "Century Bank Names Anne Kain Its New President Los Alamos Daily Post"
+    },
+    {
+      "id": "570a7460c469",
+      "title": "Mercy Fitzgerald Hospital in Darby Names Mona Miliner President - DELCO.Today",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTZBdjRnT0tFVm80Q2dSUUo3SFlNTVFOQkpqcTNnbGpyUndFcU1NTWRSYktxZ1EzR2xnMmo0Yk1OTURyeUZ3bkkwNkV6MXo5Z1hWb2RKVVZ5QUdaUUhTQTRKU1RWRGtROEpTRnUzTGhMSW9KaVI0eEpoSjhxUWcybzh6OA",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-24T05:30:00-05:00",
+      "found": "2026-11-26T08:38:02-05:00",
+      "summary": "Mercy Fitzgerald Hospital in Darby Names Mona Miliner President DELCO.Today"
     },
     {
       "id": "c774462b64ac",
