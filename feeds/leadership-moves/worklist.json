@@ -1,9 +1,28 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-26T01:43:03-05:00",
+  "generated": "2026-11-26T02:40:02-05:00",
   "trial": true,
   "lookback_days": 3,
-  "pending_inbox": [],
+  "pending_inbox": [
+    {
+      "id": "a1a8fde4b309",
+      "title": "Caroline Shields named chief curator of Clark Art Institute - Berkshire Eagle",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVVodXpiOVdIYnZ6YnY3cFB2dk5JY3hKVWtqQklQeks0R1pPNXMwS0JqNHBDNFFLdERyUDBoLUY4VVpCS1N5RS15Y2NtcnpZTE5LLWVXY2s2NXFFRTd0TnpDaGh5cVNfOGhiWHhXbEpHTks4V1A5TWgtNjBKSE03TnVmYWk4dVJocGNqMUVJQ1l5R1BMS1F5emVSYkFpbGxXbFVNUnk3NnpWT28",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-21T00:01:00-05:00",
+      "found": "2026-11-26T02:39:53-05:00",
+      "summary": "Caroline Shields named chief curator of Clark Art Institute Berkshire Eagle"
+    },
+    {
+      "id": "33e3a9d8ebbd",
+      "title": "Lake Trust Credit Union welcomes Duane Wilcoxson as Chief Information and Operations Officer - CUInsight",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTk5sZ01fOTI1Uno4T0tjYXB6R3ZPTGJWRHgwSU1vYWlVZmRHZlRodm44NlV0NEp1TWpObE5qMDJXUTUyRzBNa0o0WXpsTUs1cW43SGVwV1dMUzU5SlBCTmU5SlM2YUtMUFJBU0pkejc0Y3h2ZFhxMzI3WS1CLTN3Z3pMal96U2h1RWM2V2dtd2NiZ2ZVUkwycEdib0NaODNRbEdmakNGZG5hN19mT0hFZmhTUVFkSHhlYWxIazNZRVBhMl9SendacUVlMjZTUQ",
+      "source": "Google News - CUInsight people",
+      "published": "2026-11-19T11:11:47-05:00",
+      "found": "2026-11-26T02:39:53-05:00",
+      "summary": "Lake Trust Credit Union welcomes Duane Wilcoxson as Chief Information and Operations Officer CUInsight"
+    }
+  ],
   "recheck": [
     {
       "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
