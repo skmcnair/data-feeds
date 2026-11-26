@@ -8459,6 +8459,50 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "unity-financial-cu": {
+      "name": "Unity Financial Credit Union",
+      "added": "2026-11-26",
+      "short_name": "Unity Financial CU",
+      "kind": "credit_union",
+      "charter": "68745",
+      "website": "https://www.unityfincu.org",
+      "state": "CT",
+      "logo": {
+        "file": "unity-financial-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.unityfincu.org/S3Assets/HCFFCU/images/logo-site-v3.png",
+        "fingerprint": "1000f0006d004400d400d680d40034405305c2b5f6d3b4ab34ad348038d502e7",
+        "aspect": 2.62,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "gha-fcu": {
+      "name": "GHA Federal Credit Union",
+      "added": "2026-11-26",
+      "short_name": "GHA FCU",
+      "kind": "credit_union",
+      "charter": "21774",
+      "website": "https://www.ghafcu.org",
+      "state": "CT",
+      "logo": {
+        "file": "gha-fcu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.ghafcu.org/S3Assets/GHAFCU/images/logo-site-2.png",
+        "fingerprint": "ad22b0d2a262883e960ea55a8cdac4daa54eb5a28a4e8e4eb1b2801efc407f00",
+        "aspect": 1.533,
+        "pinned": false,
+        "added": "2026-11-26",
+        "checked": "2026-11-26",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }

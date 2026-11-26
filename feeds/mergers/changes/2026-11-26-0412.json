@@ -1,0 +1,167 @@
+{
+  "feed": "mergers",
+  "run": {
+    "started": "2026-11-26T03:34:37-05:00",
+    "finished": "2026-11-26T04:12:58-05:00",
+    "searches": 200,
+    "errors": [
+      "WebSearch budget (200 per run) used up before the full review.searches sweep finished",
+      "Hartford Business Journal 'Expanding East Hartford credit union seeks 10th merger' (Nov 25) could not be opened (4xx); merging credit union not identified"
+    ]
+  },
+  "reviewed": [
+    "53fc8faedadd",
+    "705e10e5d69f",
+    "db63dac415f0",
+    "9bdf1be5907e",
+    "897c5a1c9da9",
+    "a1c1a16c19d7",
+    "6de5445d89bc",
+    "7d522a0443b1",
+    "106e76f4f65b",
+    "36023cc3b9b3"
+  ],
+  "adds": [
+    {
+      "fields": {
+        "announced": "2026-10-05",
+        "acquirer": "Unity Financial Credit Union",
+        "partner": "GHA Federal Credit Union",
+        "deal_type": "CU merger",
+        "status": "Announced",
+        "expected_close": "Q2 2027",
+        "ceo": "Josephine Savino",
+        "acquirer_ceo": "Josephine Savino",
+        "partner_ceo": "Diane Saperstein",
+        "acquirer_city": "New Haven",
+        "partner_city": "Greenwich",
+        "acquirer_assets": 62.5,
+        "acquirer_members": 8106,
+        "acquirer_locations": 4,
+        "partner_assets": 28.9,
+        "partner_members": 2348,
+        "partner_locations": 1,
+        "combined_assets": 91.4,
+        "combined_members": 10454,
+        "combined_locations": 5,
+        "footprint": "CT",
+        "next_steps": "Connecticut Department of Banking approval of the merger application (filed Oct 5, 2026)",
+        "size_as_of": "Q3 2026",
+        "state": "CT",
+        "partner_state": "CT",
+        "notes": "Added 2026-11-26 (missed at announcement). First public record is the CT Department of Banking's Bulletin 3269 (week ending Oct 16, 2026): Unity Financial CU and GHA FCU filed an application on Oct 5, 2026 under Sec. 36a-468a for the merger of GHA FCU with and into Unity Financial CU, with a proposed target date of Apr 30, 2027. No announcement from either credit union found yet, and GHA's member vote is not yet on NCUA's proposed-merger list. Unity Financial (formerly Health Care Financial FCU, hcffcu.org) is in New Haven; GHA FCU is in Greenwich."
+      },
+      "sources": [
+        {
+          "label": "CT Department of Banking, Bulletin 3269 (week ending Oct 16, 2026)",
+          "url": "https://portal.ct.gov/dob/bulletin/2026/bulletin-3269-october-16-2026",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, Unity Financial CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68745",
+          "type": "regulator"
+        },
+        {
+          "label": "NCUA record, GHA FCU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/21774",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "acquirer_ceo": 1,
+        "ceo": 1,
+        "acquirer_city": 1,
+        "acquirer_assets": 1,
+        "acquirer_members": 1,
+        "acquirer_locations": 1,
+        "state": 1,
+        "size_as_of": 1,
+        "combined_assets": 1,
+        "combined_members": 1,
+        "combined_locations": 1,
+        "footprint": 1,
+        "partner_ceo": 2,
+        "partner_city": 2,
+        "partner_assets": 2,
+        "partner_members": 2,
+        "partner_locations": 2,
+        "partner_state": 2
+      },
+      "org_slugs": {
+        "acquirer": "unity-financial-cu",
+        "partner": "gha-fcu"
+      }
+    }
+  ],
+  "updates": [
+    {
+      "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
+      "set": {
+        "expected_close": "H2 2027"
+      },
+      "note": "Business Observer (Oct 27) reports the deal, pending regulatory approval, could close by the second half of 2027",
+      "sources": [
+        {
+          "label": "Business Observer (Oct 27, 2026)",
+          "url": "https://www.businessobserverfl.com/news/2026/oct/27/sarasota-bank-purchase/",
+          "type": "trade_press"
+        }
+      ]
+    },
+    {
+      "id": "undated-park-side-credit-union-lincoln-county-credit-union",
+      "set": {
+        "completed": "2026-10-01",
+        "notes": "NCUA lists Lincoln County CU as inactive; it filed a Sep 30, 2026 call report. BankRegReports' 2026 merger list dates the merger Oct 1, 2026 (no primary source for the day yet). Lincoln County's merger page paid a pre-merger special dividend on Sep 30, 2026, deposited Oct 1-16. Park Side's full name is Park Side Financial Credit Union."
+      },
+      "note": "Effective date Oct 1, 2026 (BankRegReports merger list)",
+      "sources": [
+        {
+          "label": "BankRegReports: 2026 credit union mergers",
+          "url": "https://www.bankregreports.com/events/mergers/2026/",
+          "type": "aggregator"
+        },
+        {
+          "label": "Lincoln County CU merger page",
+          "url": "https://www.lincolncountycu.com/merger",
+          "type": "primary"
+        },
+        {
+          "label": "The Montanian (Jan 8, 2026)",
+          "url": "https://montanian.com/local-news/2026/01/08/lincoln-county-credit-union-and-park-side-financial-credit-union-announce-application-for-merger/",
+          "type": "trade_press"
+        }
+      ],
+      "field_sources": {
+        "completed": 0
+      }
+    }
+  ],
+  "rechecked": [
+    "2026-11-10-max-credit-union-first-financial-bank",
+    "2026-10-28-selco-community-credit-union-numerica-credit-union",
+    "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+    "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+    "undated-communityamerica-credit-union-westreet-credit-union",
+    "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+    "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
+    "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+    "2026-10-01-consumers-credit-union-scott-credit-union",
+    "undated-streator-onized-credit-union-anco-community-credit-union",
+    "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
+    "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+    "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
+    "2026-07-21-gesa-credit-union-willamette-valley-bank",
+    "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+    "undated-baxter-credit-union-healthcare-associates-credit-union",
+    "2026-05-15-loc-credit-union-advantage-one-credit-union",
+    "2026-05-05-team-one-credit-union-case-credit-union",
+    "undated-ascend-federal-credit-union-lge-community-credit-union",
+    "2026-04-02-metro-credit-union-members-plus-credit-union",
+    "2026-02-05-hanscom-federal-credit-union-alden-credit-union",
+    "2026-01-08-zeal-credit-union-the-miners-state-bank",
+    "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+    "undated-west-aircomm-federal-credit-union-southwest-communities-federal-credit-union"
+  ]
+}
