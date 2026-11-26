@@ -352,6 +352,11 @@
   "file": "gesa-v2.png",
   "result": "pinned"
  },
+ "gha-fcu": {
+  "checked": "2026-11-26",
+  "file": "gha-fcu-v1.png",
+  "result": "current"
+ },
  "gold-coast-bank": {
   "checked": "2026-11-23",
   "confirmed": {
@@ -948,6 +953,11 @@
  "ukfcu": {
   "checked": "2026-11-23",
   "file": "ukfcu-v1.png",
+  "result": "current"
+ },
+ "unity-financial-cu": {
+  "checked": "2026-11-26",
+  "file": "unity-financial-cu-v1.png",
   "result": "current"
  },
  "vanderbilt-cu": {
