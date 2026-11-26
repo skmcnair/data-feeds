@@ -1,0 +1,492 @@
+{
+  "feed": "deposit-rates",
+  "run": {
+    "started": "2026-11-26T04:49:30-05:00",
+    "finished": "2026-11-26T05:06:41-05:00",
+    "searches": 3,
+    "errors": [
+      "WebFetch refused (permission request not answered) for every URL tried: American Eagle Financial CU, Beacon Bank & Trust and Coastal1 CU were not re-checked (31 rows left unchanged)",
+      "First loads blocked the same way (WebFetch not approved): Bank of America, Citizens, TD Bank, Santander, Chase, KeyBank, Essex Bank; 22 institutions still have no rows",
+      "No logo for Beacon Bank & Trust or Coastal1 Credit Union (both homepages return 403; no press-release logo found)"
+    ]
+  },
+  "reviewed": [],
+  "adds": [
+    {
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "Savings",
+        "offer": "Standard",
+        "status": "Current",
+        "product_name": "Essential Savings / Access Savings",
+        "apy_1k": "0.03%",
+        "apy_10k": "0.03%",
+        "apy_25k": "0.03%",
+        "apy_100k": "0.15%",
+        "min_deposit": "$25",
+        "conditions": "Essential Savings pays 0.03% on all balances ($25 to open; $3 monthly fee unless $300 daily balance); $100K tier is Access Savings ($300 to open; $5 monthly fee unless $500 daily balance), which pays 0.40% at $250K+ and 0.75% at $750K+",
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser (Essential Savings rates show only after its table heading is clicked). Rates 'Updated November 25, 2026'."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank savings rates",
+          "url": "https://www.unionsavings.com/savings-account-ct/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "counties": 1
+      }
+    }
+  ],
+  "updates": [
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak savings rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-money-market-standard-item",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak money market rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-money-market-special-item",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak money market rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-3-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-6-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-12-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-18-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-24-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-36-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-48-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-60-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-8-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-30-mo",
+      "set": {
+        "rates_as_of": "2026-11-25"
+      },
+      "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+      "sources": [
+        {
+          "label": "Charter Oak share certificate rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        }
+      ]
+    }
+  ],
+  "rechecked": [
+    "2026-11-24-the-peoples-credit-union-savings-special-item",
+    "2026-11-23-union-savings-bank-cd-special-5-mo",
+    "2026-11-23-union-savings-bank-cd-special-8-mo",
+    "2026-11-23-union-savings-bank-cd-special-13-mo",
+    "2026-11-23-union-savings-bank-cd-special-25-mo",
+    "2026-11-23-union-savings-bank-cd-special-54-mo",
+    "2026-11-23-union-savings-bank-money-market-standard-item",
+    "2026-11-23-ascend-bank-savings-standard-item",
+    "2026-11-23-ascend-bank-money-market-standard-item",
+    "2026-11-23-ascend-bank-money-market-special-item",
+    "2026-11-23-ascend-bank-cd-standard-3-mo",
+    "2026-11-23-ascend-bank-cd-standard-6-mo",
+    "2026-11-23-ascend-bank-cd-standard-12-mo",
+    "2026-11-23-ascend-bank-cd-standard-18-mo",
+    "2026-11-23-ascend-bank-cd-standard-24-mo",
+    "2026-11-23-ascend-bank-cd-standard-36-mo",
+    "2026-11-23-ascend-bank-cd-standard-48-mo",
+    "2026-11-23-ascend-bank-cd-standard-60-mo",
+    "2026-11-23-ascend-bank-cd-special-19-mo",
+    "2026-11-23-ascend-bank-cd-special-12-mo",
+    "2026-11-23-ascend-bank-cd-special-17-mo",
+    "2026-11-23-ascend-bank-cd-special-9-mo",
+    "2026-11-23-ascend-bank-cd-special-5-mo",
+    "2026-11-23-navy-federal-credit-union-savings-standard-item",
+    "2026-11-23-navy-federal-credit-union-money-market-standard-item",
+    "2026-11-23-navy-federal-credit-union-cd-standard-3-mo",
+    "2026-11-23-navy-federal-credit-union-cd-standard-12-mo",
+    "2026-11-23-navy-federal-credit-union-cd-standard-18-mo",
+    "2026-11-23-navy-federal-credit-union-cd-standard-24-mo",
+    "2026-11-23-navy-federal-credit-union-cd-standard-36-mo",
+    "2026-11-23-navy-federal-credit-union-cd-standard-60-mo",
+    "2026-11-23-navy-federal-credit-union-cd-special-12-mo",
+    "2026-11-23-windsor-federal-bank-savings-standard-item",
+    "2026-11-23-windsor-federal-bank-money-market-standard-item",
+    "2026-11-23-windsor-federal-bank-money-market-special-item",
+    "2026-11-23-windsor-federal-bank-cd-standard-3-mo",
+    "2026-11-23-windsor-federal-bank-cd-standard-6-mo",
+    "2026-11-23-windsor-federal-bank-cd-standard-12-mo",
+    "2026-11-23-windsor-federal-bank-cd-standard-18-mo",
+    "2026-11-23-windsor-federal-bank-cd-standard-24-mo",
+    "2026-11-23-windsor-federal-bank-cd-standard-36-mo",
+    "2026-11-23-windsor-federal-bank-cd-standard-48-mo",
+    "2026-11-23-windsor-federal-bank-cd-standard-60-mo",
+    "2026-11-23-windsor-federal-bank-cd-special-5-mo",
+    "2026-11-23-windsor-federal-bank-cd-special-11-mo",
+    "2026-11-23-windsor-federal-bank-cd-special-28-mo",
+    "2026-11-23-connecticut-firefighters-federal-credit-union-cd-special-18-mo",
+    "2026-11-23-franklin-trust-federal-credit-union-savings-standard-item",
+    "2026-11-23-franklin-trust-federal-credit-union-money-market-standard-item",
+    "2026-11-23-franklin-trust-federal-credit-union-cd-standard-12-mo",
+    "2026-11-23-franklin-trust-federal-credit-union-cd-standard-18-mo",
+    "2026-11-23-franklin-trust-federal-credit-union-cd-standard-24-mo",
+    "2026-11-23-franklin-trust-federal-credit-union-cd-standard-36-mo",
+    "2026-11-23-franklin-trust-federal-credit-union-cd-standard-48-mo",
+    "2026-11-23-franklin-trust-federal-credit-union-cd-standard-60-mo",
+    "2026-11-23-the-peoples-credit-union-savings-standard-item",
+    "2026-11-23-the-peoples-credit-union-money-market-standard-item",
+    "2026-11-23-the-peoples-credit-union-money-market-special-item",
+    "2026-11-23-the-peoples-credit-union-cd-standard-3-mo",
+    "2026-11-23-the-peoples-credit-union-cd-standard-6-mo",
+    "2026-11-23-the-peoples-credit-union-cd-standard-12-mo",
+    "2026-11-23-the-peoples-credit-union-cd-standard-18-mo",
+    "2026-11-23-the-peoples-credit-union-cd-standard-24-mo",
+    "2026-11-23-the-peoples-credit-union-cd-standard-36-mo",
+    "2026-11-23-the-peoples-credit-union-cd-standard-48-mo",
+    "2026-11-23-the-peoples-credit-union-cd-standard-60-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-savings-standard-item",
+    "2026-11-23-polish-and-slavic-federal-credit-union-money-market-standard-item",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-3-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-6-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-12-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-18-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-24-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-36-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-48-mo",
+    "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-60-mo",
+    "2026-11-23-the-torrington-savings-bank-savings-standard-item",
+    "2026-11-23-the-torrington-savings-bank-money-market-standard-item",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-3-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-6-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-12-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-18-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-24-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-36-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-48-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-standard-60-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-special-7-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-special-11-mo",
+    "2026-11-23-the-torrington-savings-bank-cd-special-15-mo",
+    "2026-11-23-ion-bank-savings-standard-item",
+    "2026-11-23-ion-bank-savings-special-item",
+    "2026-11-23-ion-bank-money-market-standard-item",
+    "2026-11-23-ion-bank-cd-standard-3-mo",
+    "2026-11-23-ion-bank-cd-standard-6-mo",
+    "2026-11-23-ion-bank-cd-standard-12-mo",
+    "2026-11-23-ion-bank-cd-standard-18-mo",
+    "2026-11-23-ion-bank-cd-standard-24-mo",
+    "2026-11-23-ion-bank-cd-standard-36-mo",
+    "2026-11-23-ion-bank-cd-standard-48-mo",
+    "2026-11-23-ion-bank-cd-standard-60-mo",
+    "2026-11-23-ion-bank-cd-special-10-mo",
+    "2026-11-23-ion-bank-cd-special-25-mo",
+    "2026-11-23-westerly-community-credit-union-savings-standard-item",
+    "2026-11-23-westerly-community-credit-union-money-market-special-item",
+    "2026-11-23-westerly-community-credit-union-cd-standard-3-mo",
+    "2026-11-23-westerly-community-credit-union-cd-standard-6-mo",
+    "2026-11-23-westerly-community-credit-union-cd-standard-12-mo",
+    "2026-11-23-westerly-community-credit-union-cd-standard-18-mo",
+    "2026-11-23-westerly-community-credit-union-cd-standard-24-mo",
+    "2026-11-23-westerly-community-credit-union-cd-standard-36-mo",
+    "2026-11-23-westerly-community-credit-union-cd-standard-48-mo",
+    "2026-11-23-westerly-community-credit-union-cd-standard-60-mo",
+    "2026-11-23-westerly-community-credit-union-cd-special-3-mo",
+    "2026-11-23-westerly-community-credit-union-cd-special-8-mo",
+    "2026-11-23-westerly-community-credit-union-cd-special-11-mo",
+    "2026-11-23-westerly-community-credit-union-cd-special-14-mo",
+    "2026-11-23-selfreliance-federal-credit-union-savings-standard-item",
+    "2026-11-23-selfreliance-federal-credit-union-money-market-standard-item",
+    "2026-11-23-selfreliance-federal-credit-union-cd-standard-6-mo",
+    "2026-11-23-selfreliance-federal-credit-union-cd-standard-12-mo",
+    "2026-11-23-selfreliance-federal-credit-union-cd-standard-24-mo",
+    "2026-11-23-selfreliance-federal-credit-union-cd-standard-36-mo",
+    "2026-11-23-selfreliance-federal-credit-union-cd-special-5-mo",
+    "2026-11-23-selfreliance-federal-credit-union-cd-special-13-mo",
+    "2026-11-23-union-savings-bank-cd-standard-3-mo",
+    "2026-11-23-union-savings-bank-cd-standard-6-mo",
+    "2026-11-23-union-savings-bank-cd-standard-12-mo",
+    "2026-11-23-union-savings-bank-cd-standard-18-mo",
+    "2026-11-23-union-savings-bank-cd-standard-24-mo",
+    "2026-11-23-union-savings-bank-cd-standard-36-mo",
+    "2026-11-23-union-savings-bank-cd-standard-48-mo",
+    "2026-11-23-union-savings-bank-cd-standard-60-mo",
+    "2026-11-23-union-savings-bank-cd-special-7-mo",
+    "2026-11-23-webster-bank-savings-standard-item",
+    "2026-11-23-webster-bank-money-market-standard-item",
+    "2026-11-23-webster-bank-cd-standard-3-mo",
+    "2026-11-23-webster-bank-cd-standard-6-mo",
+    "2026-11-23-webster-bank-cd-standard-12-mo",
+    "2026-11-23-webster-bank-cd-standard-24-mo",
+    "2026-11-23-webster-bank-cd-standard-36-mo",
+    "2026-11-23-webster-bank-cd-standard-48-mo",
+    "2026-11-23-webster-bank-cd-standard-60-mo",
+    "2026-11-23-webster-bank-cd-special-11-mo",
+    "2026-11-23-webster-bank-cd-special-18-mo",
+    "2026-11-20-banknewport-savings-standard-item",
+    "2026-11-20-banknewport-money-market-standard-item",
+    "2026-11-20-banknewport-money-market-special-item",
+    "2026-11-20-banknewport-cd-standard-6-mo",
+    "2026-11-20-banknewport-cd-standard-18-mo",
+    "2026-11-20-banknewport-cd-standard-24-mo",
+    "2026-11-20-banknewport-cd-special-12-mo",
+    "2026-11-20-banknewport-cd-special-18-mo",
+    "2026-11-20-banknewport-cd-special-24-mo",
+    "2026-11-20-banknewport-cd-special-7-mo",
+    "2026-11-18-thomaston-savings-bank-savings-standard-item",
+    "2026-11-18-thomaston-savings-bank-savings-special-item",
+    "2026-11-18-thomaston-savings-bank-cd-standard-3-mo",
+    "2026-11-18-thomaston-savings-bank-cd-standard-6-mo",
+    "2026-11-18-thomaston-savings-bank-cd-standard-12-mo",
+    "2026-11-18-thomaston-savings-bank-cd-standard-18-mo",
+    "2026-11-18-thomaston-savings-bank-cd-standard-24-mo",
+    "2026-11-18-thomaston-savings-bank-cd-standard-36-mo",
+    "2026-11-18-thomaston-savings-bank-cd-standard-48-mo",
+    "2026-11-18-thomaston-savings-bank-cd-standard-60-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-3-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-6-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-12-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-18-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-24-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-36-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-48-mo",
+    "2026-10-06-ellafi-federal-credit-union-cd-standard-60-mo",
+    "2026-10-05-waypoint-federal-credit-union-money-market-standard-item",
+    "2026-10-05-waypoint-federal-credit-union-cd-standard-3-mo",
+    "2026-10-05-waypoint-federal-credit-union-cd-standard-6-mo",
+    "2026-10-05-waypoint-federal-credit-union-cd-standard-12-mo",
+    "2026-10-05-waypoint-federal-credit-union-cd-standard-24-mo",
+    "2026-10-05-waypoint-federal-credit-union-cd-standard-36-mo",
+    "2026-10-05-waypoint-federal-credit-union-cd-standard-48-mo",
+    "2026-10-05-waypoint-federal-credit-union-cd-standard-60-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-3-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-6-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-12-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-18-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-24-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-36-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-48-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-standard-60-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-special-7-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-special-11-mo",
+    "2026-10-05-jewett-city-savings-bank-cd-special-18-mo",
+    "2026-10-05-jewett-city-savings-bank-savings-standard-item",
+    "2026-10-05-jewett-city-savings-bank-money-market-standard-item",
+    "2026-10-01-waypoint-federal-credit-union-savings-standard-item",
+    "2026-10-01-waypoint-federal-credit-union-savings-special-item",
+    "2026-10-01-police-credit-union-of-connecticut-cd-standard-6-mo",
+    "2026-10-01-police-credit-union-of-connecticut-cd-standard-12-mo",
+    "2026-10-01-police-credit-union-of-connecticut-cd-standard-24-mo",
+    "2026-10-01-police-credit-union-of-connecticut-cd-standard-36-mo",
+    "2026-10-01-police-credit-union-of-connecticut-cd-standard-48-mo",
+    "2026-10-01-police-credit-union-of-connecticut-cd-standard-60-mo",
+    "2026-10-01-community-healthcare-credit-union-savings-standard-item",
+    "2026-10-01-community-healthcare-credit-union-cd-standard-6-mo",
+    "2026-10-01-community-healthcare-credit-union-cd-standard-12-mo",
+    "2026-10-01-connecticut-labor-department-federal-credit-union-savings-standard-item",
+    "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-6-mo",
+    "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-12-mo",
+    "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-24-mo",
+    "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-36-mo",
+    "2026-10-01-connecticut-labor-department-federal-credit-union-cd-standard-48-mo",
+    "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-3-mo",
+    "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-6-mo",
+    "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-12-mo",
+    "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-24-mo",
+    "2026-09-23-american-broadcast-employees-federal-credit-union-cd-standard-60-mo",
+    "2026-09-21-connecticut-state-police-credit-union-savings-standard-item",
+    "2026-09-21-connecticut-state-police-credit-union-money-market-standard-item",
+    "2026-09-21-connecticut-state-police-credit-union-cd-standard-6-mo",
+    "2026-09-21-connecticut-state-police-credit-union-cd-standard-12-mo",
+    "2026-09-21-connecticut-state-police-credit-union-cd-standard-24-mo",
+    "2026-09-21-connecticut-state-police-credit-union-cd-standard-36-mo",
+    "2026-09-21-connecticut-state-police-credit-union-cd-standard-48-mo",
+    "2026-09-21-connecticut-state-police-credit-union-cd-standard-60-mo",
+    "2026-09-14-american-broadcast-employees-federal-credit-union-savings-standard-item",
+    "2026-09-14-american-broadcast-employees-federal-credit-union-money-market-standard-item",
+    "2026-09-01-tobacco-valley-teachers-federal-credit-union-savings-standard-item",
+    "2026-09-01-tobacco-valley-teachers-federal-credit-union-money-market-standard-item",
+    "2026-09-01-tobacco-valley-teachers-federal-credit-union-cd-standard-12-mo",
+    "2026-09-01-tobacco-valley-teachers-federal-credit-union-cd-standard-24-mo",
+    "2026-09-01-tobacco-valley-teachers-federal-credit-union-cd-standard-36-mo",
+    "2026-08-25-chelsea-groton-bank-savings-standard-item",
+    "2026-08-25-chelsea-groton-bank-money-market-standard-item",
+    "2026-08-25-chelsea-groton-bank-cd-standard-3-mo",
+    "2026-08-25-chelsea-groton-bank-cd-standard-6-mo",
+    "2026-08-25-chelsea-groton-bank-cd-standard-12-mo",
+    "2026-08-25-chelsea-groton-bank-cd-standard-18-mo",
+    "2026-08-25-chelsea-groton-bank-cd-standard-24-mo",
+    "2026-08-25-chelsea-groton-bank-cd-standard-36-mo",
+    "2026-08-25-chelsea-groton-bank-cd-standard-48-mo",
+    "2026-08-25-chelsea-groton-bank-cd-standard-60-mo",
+    "2026-05-01-ellafi-federal-credit-union-savings-standard-item",
+    "2026-05-01-ellafi-federal-credit-union-money-market-standard-item",
+    "2026-01-01-ocean-state-credit-union-savings-standard-item",
+    "2026-01-01-ocean-state-credit-union-money-market-standard-item",
+    "2026-01-01-ocean-state-credit-union-cd-standard-12-mo",
+    "2026-01-01-ocean-state-credit-union-cd-standard-18-mo",
+    "2026-01-01-ocean-state-credit-union-cd-standard-24-mo",
+    "2026-01-01-ocean-state-credit-union-cd-standard-36-mo",
+    "2026-01-01-ocean-state-credit-union-cd-standard-48-mo",
+    "2026-01-01-ocean-state-credit-union-cd-standard-60-mo",
+    "2025-12-18-police-credit-union-of-connecticut-savings-standard-item",
+    "2025-12-18-police-credit-union-of-connecticut-money-market-standard-item",
+    "2022-12-31-connecticut-firefighters-federal-credit-union-savings-standard-item"
+  ]
+}

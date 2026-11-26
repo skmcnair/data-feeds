@@ -484,7 +484,7 @@
   "union-savings-bank": {
     "method": "browser",
     "name": "Union Savings Bank",
-    "note": "Savings/money market tables render without clear product labels; CDs are clear",
+    "note": "CDs are clear; Access Savings and money market tables render; Essential Savings rates show only after clicking its 'ESSENTIAL SAVINGS' heading (read that way Nov 26, 2026)",
     "pages": [
       "https://www.unionsavings.com/personal-banking/personal-certificate-of-deposit/",
       "https://www.unionsavings.com/savings-account-ct/",
