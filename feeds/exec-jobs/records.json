@@ -1,6 +1,120 @@
 {
   "records": [
     {
+      "id": "2026-11-25-family-trust-federal-credit-union-vp-business-services",
+      "fields": {
+        "posted": "2026-11-25",
+        "organization": "Family Trust Federal Credit Union",
+        "title": "VP, Business Services",
+        "level": "EVP / SVP / VP",
+        "function": "Commercial",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Rock Hill, SC",
+        "job_url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=8442f51c-1879-4131-bdee-fe701ce1c280",
+        "size_band": "$500M-$1B",
+        "city": "Rock Hill",
+        "state": "SC",
+        "org_assets": 815.6,
+        "org_members": 60807,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Family Trust careers (UKG)",
+          "url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=8442f51c-1879-4131-bdee-fe701ce1c280",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11554",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "family-trust"
+      }
+    },
+    {
+      "id": "2026-11-24-family-trust-federal-credit-union-chief-people-officer",
+      "fields": {
+        "posted": "2026-11-24",
+        "organization": "Family Trust Federal Credit Union",
+        "title": "Chief People Officer",
+        "level": "C-suite",
+        "function": "People",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Rock Hill, SC",
+        "job_url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=6106437c-26e9-4f0d-8fdc-bb860a2ccb84",
+        "size_band": "$500M-$1B",
+        "city": "Rock Hill",
+        "state": "SC",
+        "org_assets": 815.6,
+        "org_members": 60807,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Family Trust careers (UKG)",
+          "url": "https://recruiting.ultipro.com/FAM1008FTCU/JobBoard/d21e36c0-b891-4754-ba58-ed71e30bdaad/OpportunityDetail?opportunityId=6106437c-26e9-4f0d-8fdc-bb860a2ccb84",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/11554",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "family-trust"
+      }
+    },
+    {
       "id": "2026-11-24-raiz-federal-credit-union-chief-financial-officer",
       "fields": {
         "posted": "2026-11-24",
@@ -412,9 +526,9 @@
         "title": "SVP, Chief People & Culture Officer",
         "level": "C-suite",
         "function": "People",
-        "status": "Open",
-        "closed": null,
-        "filled_by": null,
+        "status": "Filled",
+        "closed": "2026-11-09",
+        "filled_by": "Dele Shell",
         "search_firm": null,
         "pay_range": null,
         "work_mode": null,
@@ -438,6 +552,95 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68659",
           "type": "regulator"
+        },
+        {
+          "label": "American Eagle release (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html",
+          "type": "primary"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1,
+        "status": 2,
+        "closed": 2,
+        "filled_by": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-25",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "American Eagle named Dele Shell SVP, Chief People & Culture Officer (Nov 9 release)",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Filled"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-09"
+            },
+            {
+              "field": "filled_by",
+              "old": null,
+              "new": "Dele Shell"
+            }
+          ],
+          "sources": [
+            "https://www.prnewswire.com/news-releases/american-eagle-financial-credit-union-expands-leadership-team-to-enhance-innovation-growth-and-member-experience-initiatives-302933483.html"
+          ]
+        }
+      ],
+      "added": "2026-11-25",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "american-eagle"
+      }
+    },
+    {
+      "id": "2026-11-23-hanscom-federal-credit-union-chief-banking-officer-maryland-market",
+      "fields": {
+        "posted": "2026-11-23",
+        "organization": "Hanscom Federal Credit Union",
+        "title": "Chief Banking Officer, Maryland Market",
+        "level": "C-suite",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Smith & Wilkinson",
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Maryland",
+        "job_url": "https://smithandwilkinson.com/search-jobs/",
+        "size_band": "$1B-$5B",
+        "city": "Hanscom AFB",
+        "state": "MA",
+        "org_assets": 2206.2,
+        "org_members": 98440,
+        "assets_as_of": "Q3 2026",
+        "notes": "First market leader for Peoples Powered by Hanscom, the Maryland bank Hanscom acquired in 2025."
+      },
+      "sources": [
+        {
+          "label": "Smith & Wilkinson posting",
+          "url": "https://smithandwilkinson.com/search-jobs/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/9095",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -450,15 +653,15 @@
       },
       "history": [
         {
-          "date": "2026-11-25",
+          "date": "2026-11-26",
           "note": "Added"
         }
       ],
-      "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
-        "organization": "american-eagle"
+        "organization": "hanscom-fcu"
       }
     },
     {
@@ -912,7 +1115,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "jeanne-d-arc-cu"
       }
@@ -1156,7 +1359,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "bellco"
       }
@@ -1737,7 +1940,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "penfed"
       }
@@ -1997,7 +2200,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "vystar"
       }
@@ -2679,7 +2882,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "vystar"
       }
@@ -4924,7 +5127,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "americu"
       }
@@ -5527,7 +5730,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "bronco-fcu"
       }
@@ -5649,7 +5852,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "hope-fcu"
       }
@@ -5714,7 +5917,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "superior-choice-cu"
       }
@@ -5784,8 +5987,8 @@
         "title": "VP, Lending",
         "level": "EVP / SVP / VP",
         "function": "Lending",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": "DDJ Myers",
         "pay_range": null,
@@ -5814,6 +6017,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/6853",
           "type": "regulator"
+        },
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -5821,7 +6029,7 @@
         "title": 0,
         "level": 0,
         "function": 0,
-        "status": 0,
+        "status": 3,
         "job_url": 0,
         "size_band": 2,
         "city": 2,
@@ -5831,17 +6039,37 @@
         "assets_as_of": 2,
         "search_firm": 0,
         "posted": 0,
-        "work_mode": 0
+        "work_mode": 0,
+        "closed": 3
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "DDJ Myers took the posting down; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://ddjmyers.com/open-positions"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "great-plains-fcu-mo"
       }
@@ -5911,7 +6139,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "great-plains-fcu-mo"
       }
@@ -5975,7 +6203,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "lafayette-fcu"
       }
@@ -6044,7 +6272,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "spectra-cu"
       }
@@ -6109,7 +6337,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "cu-socal"
       }
@@ -6174,7 +6402,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "capital-cu-wi"
       }
@@ -6239,7 +6467,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "gulf-winds"
       }
@@ -6304,9 +6532,66 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "uncle-cu"
+      }
+    },
+    {
+      "id": "2026-09-30-rockland-federal-credit-union-vp-residential-loan-operations",
+      "fields": {
+        "posted": "2026-09-30",
+        "organization": "Rockland Federal Credit Union",
+        "title": "VP, Residential Loan Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Lending",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Smith & Wilkinson",
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://smithandwilkinson.com/search-jobs/",
+        "size_band": "$1B-$5B",
+        "city": "Rockland",
+        "state": "MA",
+        "org_assets": 3953.2,
+        "org_members": 229000,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Smith & Wilkinson posting",
+          "url": "https://smithandwilkinson.com/search-jobs/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24224",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "arise-financial"
       }
     },
     {
@@ -6373,7 +6658,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "apple-fcu"
       }
@@ -6442,7 +6727,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "kinetic-cu"
       }
@@ -6511,7 +6796,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "intrepid-cu"
       }
@@ -6576,7 +6861,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "orsa-cu"
       }
@@ -6645,7 +6930,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "sf-fire-cu"
       }
@@ -6714,7 +6999,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "ccu-florida"
       }
@@ -6784,7 +7069,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "north-star-ccu"
       }
@@ -6849,7 +7134,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "seaboard-fcu"
       }
@@ -6919,8 +7204,8 @@
         "title": "VP, Lending",
         "level": "EVP / SVP / VP",
         "function": "Lending",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": "DDJ Myers",
         "pay_range": null,
@@ -6949,6 +7234,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/150",
           "type": "regulator"
+        },
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -6956,7 +7246,7 @@
         "title": 0,
         "level": 0,
         "function": 0,
-        "status": 0,
+        "status": 3,
         "job_url": 0,
         "size_band": 2,
         "city": 2,
@@ -6966,17 +7256,37 @@
         "assets_as_of": 2,
         "search_firm": 0,
         "posted": 0,
-        "work_mode": 0
+        "work_mode": 0,
+        "closed": 3
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "DDJ Myers took the posting down; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://ddjmyers.com/open-positions"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "fedchoice-fcu"
       }
@@ -7562,8 +7872,8 @@
         "title": "VP, Consumer Lending & Member Solutions",
         "level": "EVP / SVP / VP",
         "function": "Lending",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": "DDJ Myers",
         "pay_range": null,
@@ -7592,6 +7902,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24986",
           "type": "regulator"
+        },
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -7599,7 +7914,7 @@
         "title": 0,
         "level": 0,
         "function": 0,
-        "status": 0,
+        "status": 3,
         "job_url": 0,
         "size_band": 2,
         "city": 2,
@@ -7608,17 +7923,37 @@
         "org_members": 2,
         "assets_as_of": 2,
         "search_firm": 0,
-        "posted": 0
+        "posted": 0,
+        "closed": 3
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "DDJ Myers took the posting down; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://ddjmyers.com/open-positions"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "valley-first-cu-ca"
       }
@@ -7631,8 +7966,8 @@
         "title": "Chief Lending Officer",
         "level": "C-suite",
         "function": "Lending",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": "DDJ Myers",
         "pay_range": null,
@@ -7656,6 +7991,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68623",
           "type": "regulator"
+        },
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -7663,7 +8003,7 @@
         "title": 0,
         "level": 0,
         "function": 0,
-        "status": 0,
+        "status": 2,
         "job_url": 0,
         "size_band": 1,
         "city": 1,
@@ -7672,17 +8012,37 @@
         "org_members": 1,
         "assets_as_of": 1,
         "search_firm": 0,
-        "posted": 0
+        "posted": 0,
+        "closed": 2
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "DDJ Myers took the posting down; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://ddjmyers.com/open-positions"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "revity-cu"
       }
@@ -7820,6 +8180,63 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "tower-fcu"
+      }
+    },
+    {
+      "id": "2026-09-09-reliant-community-federal-credit-union-president-and-ceo",
+      "fields": {
+        "posted": "2026-09-09",
+        "organization": "Reliant Community Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://thecreditunionconnection.com/after-34-years-and-one-incredible-run-reliant-credit-unions-ceo-pamela-heald-is-passing-the-torch/",
+        "size_band": "$500M-$1B",
+        "city": "Sodus",
+        "state": "NY",
+        "org_assets": 784.0,
+        "org_members": 50007,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO Pamela Heald retires in January 2027; the board expects to pick a successor in late 2026."
+      },
+      "sources": [
+        {
+          "label": "The Credit Union Connection",
+          "url": "https://thecreditunionconnection.com/after-34-years-and-one-incredible-run-reliant-credit-unions-ceo-pamela-heald-is-passing-the-torch/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/20258",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "reliant-cu"
       }
     },
     {
@@ -8388,6 +8805,63 @@
       }
     },
     {
+      "id": "2026-08-26-langley-federal-credit-union-vp-accounting-and-corporate-controller",
+      "fields": {
+        "posted": "2026-08-26",
+        "organization": "Langley Federal Credit Union",
+        "title": "VP, Accounting & Corporate Controller",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$190K-$250K",
+        "work_mode": null,
+        "job_location": "Newport News, VA",
+        "job_url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=94130841-9640-4add-a818-3bf07af91572",
+        "size_band": "$5B+",
+        "city": "Newport News",
+        "state": "VA",
+        "org_assets": 5654.5,
+        "org_members": 409897,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Langley careers (UKG)",
+          "url": "https://recruiting.ultipro.com/LAN1016LNG/JobBoard/12f70bc9-bbe9-4f42-a296-04a65ee6be60/OpportunityDetail?opportunityId=94130841-9640-4add-a818-3bf07af91572",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/1261",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "langley-fcu"
+      }
+    },
+    {
       "id": "2026-08-21-heritage-federal-credit-union-chief-financial-officer",
       "fields": {
         "posted": "2026-08-21",
@@ -8507,6 +8981,68 @@
       "last_checked": "2026-11-23",
       "org_slugs": {
         "organization": "desert-financial-cu"
+      }
+    },
+    {
+      "id": "2026-08-12-ardent-federal-credit-union-president-and-ceo",
+      "fields": {
+        "posted": "2026-08-12",
+        "organization": "Ardent Federal Credit Union",
+        "title": "President & CEO",
+        "level": "CEO",
+        "function": "Executive",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "JSpire Recruiting",
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://www.ardentcu.org/resources/blog/august-2026/ardent-credit-union-president-and-ceo-rob-werner-announces-plans-to-retire-in-2027",
+        "size_band": "$500M-$1B",
+        "city": "Philadelphia",
+        "state": "PA",
+        "org_assets": 869.0,
+        "org_members": 34757,
+        "assets_as_of": "Q3 2026",
+        "notes": "CEO Rob Werner retires at the end of Q1 2027; a successor is expected early in 2027."
+      },
+      "sources": [
+        {
+          "label": "Ardent CU release",
+          "url": "https://www.ardentcu.org/resources/blog/august-2026/ardent-credit-union-president-and-ceo-rob-werner-announces-plans-to-retire-in-2027",
+          "type": "primary"
+        },
+        {
+          "label": "Tyfone news",
+          "url": "https://tyfone.com/news/breaking-news/ardent-ceo-rob-werner-to-retire/",
+          "type": "trade_press"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/22637",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2,
+        "size_band": 2,
+        "city": 2,
+        "state": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "ardent-cu"
       }
     },
     {
@@ -8631,6 +9167,63 @@
       }
     },
     {
+      "id": "2026-08-07-salal-credit-union-svp-chief-financial-officer",
+      "fields": {
+        "posted": "2026-08-07",
+        "organization": "Salal Credit Union",
+        "title": "SVP, Chief Financial Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Smith & Wilkinson",
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": null,
+        "job_url": "https://smithandwilkinson.com/search-jobs/",
+        "size_band": "$1B-$5B",
+        "city": "Seattle",
+        "state": "WA",
+        "org_assets": 1144.4,
+        "org_members": 64011,
+        "assets_as_of": "Q3 2026",
+        "notes": "The current CFO plans to retire."
+      },
+      "sources": [
+        {
+          "label": "Smith & Wilkinson posting",
+          "url": "https://smithandwilkinson.com/search-jobs/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66349",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "organization": "salal-cu"
+      }
+    },
+    {
       "id": "2026-08-07-frontwave-credit-union-vp-consumer-lending",
       "fields": {
         "posted": "2026-08-07",
@@ -8707,8 +9300,8 @@
         "title": "SVP, Operations",
         "level": "EVP / SVP / VP",
         "function": "Operations",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": "DDJ Myers",
         "pay_range": null,
@@ -8732,6 +9325,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66865",
           "type": "regulator"
+        },
+        {
+          "label": "DDJ Myers open positions",
+          "url": "https://ddjmyers.com/open-positions",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -8739,7 +9337,7 @@
         "title": 0,
         "level": 0,
         "function": 0,
-        "status": 0,
+        "status": 2,
         "job_url": 0,
         "size_band": 1,
         "city": 1,
@@ -8748,17 +9346,37 @@
         "org_members": 1,
         "assets_as_of": 1,
         "search_firm": 0,
-        "posted": 0
+        "posted": 0,
+        "closed": 2
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "DDJ Myers took the posting down; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://ddjmyers.com/open-positions"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "capital-cu-wi"
       }
@@ -9212,8 +9830,8 @@
         "title": "VP, Card Operations & Services",
         "level": "EVP / SVP / VP",
         "function": "Operations",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": null,
         "pay_range": "$166K-$214K",
@@ -9238,6 +9856,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61004",
           "type": "regulator"
+        },
+        {
+          "label": "SDCCU careers (ADP)",
+          "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=60a418a2-e4cc-44a9-b837-cdd877de6dd0&ccId=19000101_000001&lang=en_US",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -9246,17 +9869,38 @@
         "assets_as_of": 1,
         "size_band": 1,
         "city": 1,
-        "state": 1
+        "state": 1,
+        "status": 2,
+        "closed": 2
       },
       "history": [
         {
           "date": "2026-11-25",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "Posting taken down from the credit union's careers board; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=60a418a2-e4cc-44a9-b837-cdd877de6dd0&ccId=19000101_000001&lang=en_US"
+          ]
         }
       ],
       "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "sdccu"
       }
@@ -10026,8 +10670,8 @@
         "title": "SVP, Enterprise Technology Solutions",
         "level": "EVP / SVP / VP",
         "function": "Technology",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": null,
         "pay_range": null,
@@ -10060,17 +10704,38 @@
         "assets_as_of": 1,
         "size_band": 1,
         "city": 1,
-        "state": 1
+        "state": 1,
+        "status": 0,
+        "closed": 0
       },
       "history": [
         {
           "date": "2026-11-25",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "Dice posting no longer available; no current copy found and no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://www.dice.com/job-detail/b77100d6-d308-4eb8-82d7-038c476f61f7"
+          ]
         }
       ],
       "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "security-service"
       }
@@ -10241,7 +10906,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "secu-maryland"
       }
@@ -10479,7 +11144,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "coast-central"
       }
@@ -10541,7 +11206,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "caltech-employees-fcu"
       }
@@ -11575,7 +12240,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "jeanne-d-arc-cu"
       }
@@ -12170,7 +12835,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "global-fcu-ak"
       }
@@ -12566,8 +13231,8 @@
         "title": "VP, Infrastructure & Support",
         "level": "EVP / SVP / VP",
         "function": "Technology",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": null,
         "pay_range": null,
@@ -12592,6 +13257,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/15732",
           "type": "regulator"
+        },
+        {
+          "label": "CommunityAmerica careers (iCIMS)",
+          "url": "https://careers-cacu.icims.com/jobs",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -12599,24 +13269,44 @@
         "title": 0,
         "level": 0,
         "function": 0,
-        "status": 0,
+        "status": 2,
         "job_url": 0,
         "size_band": 1,
         "city": 1,
         "state": 1,
         "org_assets": 1,
         "org_members": 1,
-        "assets_as_of": 1
+        "assets_as_of": 1,
+        "closed": 2
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "Posting taken down from the credit union's careers board; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://careers-cacu.icims.com/jobs"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "communityamerica"
       }
@@ -13272,8 +13962,8 @@
         "title": "VP, Digital Product, Online/Mobile Banking",
         "level": "EVP / SVP / VP",
         "function": "Product",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-26",
         "filled_by": null,
         "search_firm": null,
         "pay_range": "$220K-$260K",
@@ -13298,6 +13988,16 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/23521",
           "type": "regulator"
+        },
+        {
+          "label": "First Tech careers (Jobvite)",
+          "url": "https://jobs.jobvite.com/firsttechfed/job/oB7YzfwZ",
+          "type": "primary"
+        },
+        {
+          "label": "DiversityJobs",
+          "url": "https://diversityjobs.com/career/16640072/Vp-Digital-Product-Online-Mobile-Banking-Oregon-Hillsboro",
+          "type": "aggregator"
         }
       ],
       "field_sources": {
@@ -13305,7 +14005,7 @@
         "title": 0,
         "level": 0,
         "function": 0,
-        "status": 0,
+        "status": 2,
         "job_url": 0,
         "size_band": 1,
         "city": 1,
@@ -13315,17 +14015,38 @@
         "assets_as_of": 1,
         "pay_range": 0,
         "job_location": 0,
-        "notes": 0
+        "notes": 0,
+        "closed": 2
       },
       "history": [
         {
           "date": "2026-11-23",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "First Tech's own Jobvite posting is gone and job-site copies have expired; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-26"
+            }
+          ],
+          "sources": [
+            "https://jobs.jobvite.com/firsttechfed/job/oB7YzfwZ",
+            "https://diversityjobs.com/career/16640072/Vp-Digital-Product-Online-Mobile-Banking-Oregon-Hillsboro"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "first-tech-fcu"
       }

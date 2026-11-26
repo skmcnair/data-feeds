@@ -1,6 +1,6 @@
 {
-  "last_review": "2026-11-25T03:18:00-05:00",
-  "last_review_file": "2026-11-25-0318.json",
+  "last_review": "2026-11-26T03:24:00-05:00",
+  "last_review_file": "2026-11-26-0324.json",
   "last_review_result": "partial",
   "last_review_errors": [
     "68671 WINGS [ultipro]: HTTP 404",
@@ -16,182 +16,49 @@
     "24858 MAINSTREET [rippling]: HTTP 404",
     "65722 FREEDOM NORTHWEST [careers_page]: HTTP 404",
     "19448 U. T. [applicantpro]: HTTP 404",
-    "66424 PCM [careers_page]: HTTP 000 curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received",
     "CUES job board not read: WebFetch permission request went unanswered (unattended run)",
-    "WebFetch refused (permission unanswered): the-league.coop job PDFs (Jax Fire CU CEO, RiverFall CU CFO), dhilton.com, theapplicantmanager.com, smithandwilkinson.com",
+    "Job-site lookups: Teal, Monster, CareerBuilder, ZipRecruiter, Ladders, career.com, Indeed and Jobright blocked automated reads; leads on them could not be confirmed current and were not added",
     "add_repo tool not available in this session; cloned with git directly"
   ],
   "last_review_report": {
     "added": [
       {
-        "id": "2026-11-24-raiz-federal-credit-union-chief-financial-officer",
-        "summary": "Raiz Federal Credit Union / Chief Financial Officer"
+        "id": "2026-08-26-langley-federal-credit-union-vp-accounting-and-corporate-controller",
+        "summary": "Langley Federal Credit Union / VP, Accounting & Corporate Controller"
       },
       {
-        "id": "2026-11-24-eglin-federal-credit-union-vp-risk-management",
-        "summary": "Eglin Federal Credit Union / VP, Risk Management"
+        "id": "2026-11-25-family-trust-federal-credit-union-vp-business-services",
+        "summary": "Family Trust Federal Credit Union / VP, Business Services"
       },
       {
-        "id": "2026-06-15-san-diego-county-credit-union-vp-card-operations-and-services",
-        "summary": "San Diego County Credit Union / VP, Card Operations & Services"
+        "id": "2026-11-24-family-trust-federal-credit-union-chief-people-officer",
+        "summary": "Family Trust Federal Credit Union / Chief People Officer"
       },
       {
-        "id": "2026-11-24-maine-savings-federal-credit-union-vp-digital-banking-architect",
-        "summary": "Maine Savings Federal Credit Union / VP, Digital Banking Architect"
+        "id": "2026-11-23-hanscom-federal-credit-union-chief-banking-officer-maryland-market",
+        "summary": "Hanscom Federal Credit Union / Chief Banking Officer, Maryland Market"
       },
       {
-        "id": "2026-09-23-advantage-one-credit-union-president-and-ceo",
-        "summary": "Advantage One Credit Union / President & CEO"
+        "id": "2026-09-30-rockland-federal-credit-union-vp-residential-loan-operations",
+        "summary": "Rockland Federal Credit Union / VP, Residential Loan Operations"
       },
       {
-        "id": "2026-09-08-texoma-educators-federal-credit-union-president-and-ceo",
-        "summary": "Texoma Educators Federal Credit Union / President & CEO"
+        "id": "2026-08-07-salal-credit-union-svp-chief-financial-officer",
+        "summary": "Salal Credit Union / SVP, Chief Financial Officer"
       },
       {
-        "id": "2026-07-17-two-harbors-federal-credit-union-president-and-ceo",
-        "summary": "Two Harbors Federal Credit Union / President & CEO"
+        "id": "2026-09-09-reliant-community-federal-credit-union-president-and-ceo",
+        "summary": "Reliant Community Federal Credit Union / President & CEO"
       },
       {
-        "id": "2026-09-08-heart-of-louisiana-federal-credit-union-vp-business-lending",
-        "summary": "Heart of Louisiana Federal Credit Union / VP, Business Lending"
-      },
-      {
-        "id": "2026-08-10-mocse-federal-credit-union-vp-it-and-business-transformation",
-        "summary": "Mocse Federal Credit Union / VP, IT & Business Transformation"
-      },
-      {
-        "id": "2026-06-22-members-choice-of-central-texas-federal-credit-union-vp-lending",
-        "summary": "Members Choice of Central Texas Federal Credit Union / VP, Lending"
-      },
-      {
-        "id": "2026-01-20-leading-edge-credit-union-vp-lending",
-        "summary": "Leading Edge Credit Union / VP, Lending"
-      },
-      {
-        "id": "2026-10-31-pentagon-federal-credit-union-vp-consumer-lending-product-strategy",
-        "summary": "Pentagon Federal Credit Union / VP, Consumer Lending Product Strategy"
-      },
-      {
-        "id": "2026-11-19-pentagon-federal-credit-union-svp-chief-marketing-officer",
-        "summary": "Pentagon Federal Credit Union / SVP, Chief Marketing Officer"
-      },
-      {
-        "id": "2026-11-21-first-technology-federal-credit-union-vp-analytics-coe-and-lob-enablement",
-        "summary": "First Technology Federal Credit Union / VP, Analytics CoE & LoB Enablement"
-      },
-      {
-        "id": "2026-11-20-first-technology-federal-credit-union-vp-consumer-lending-indirect-auto-lending",
-        "summary": "First Technology Federal Credit Union / VP, Consumer Lending (Indirect Auto Lending)"
-      },
-      {
-        "id": "2026-11-03-the-golden-1-credit-union-svp-chief-credit-officer",
-        "summary": "The Golden 1 Credit Union / SVP, Chief Credit Officer"
-      },
-      {
-        "id": "2026-11-04-the-golden-1-credit-union-vp-enterprise-fraud",
-        "summary": "The Golden 1 Credit Union / VP, Enterprise Fraud"
-      },
-      {
-        "id": "2026-11-24-the-golden-1-credit-union-vp-enterprise-risk-officer",
-        "summary": "The Golden 1 Credit Union / VP, Enterprise Risk Officer"
-      },
-      {
-        "id": "undated-the-golden-1-credit-union-vp-deposits-and-loan-services",
-        "summary": "The Golden 1 Credit Union / VP, Deposits & Loan Services"
-      },
-      {
-        "id": "2026-11-24-security-service-federal-credit-union-svp-enterprise-project-management-office",
-        "summary": "Security Service Federal Credit Union / SVP, Enterprise Project Management Office"
-      },
-      {
-        "id": "undated-security-service-federal-credit-union-svp-enterprise-technology-solutions",
-        "summary": "Security Service Federal Credit Union / SVP, Enterprise Technology Solutions"
-      },
-      {
-        "id": "2026-11-11-vystar-credit-union-vp-social-and-creative-innovation",
-        "summary": "VyStar Credit Union / VP, Social & Creative Innovation"
-      },
-      {
-        "id": "2026-11-07-vystar-credit-union-vp-it-network-and-communications",
-        "summary": "VyStar Credit Union / VP, IT Network & Communications"
-      },
-      {
-        "id": "2026-11-21-wright-patt-credit-union-inc-vp-internal-audit",
-        "summary": "Wright-Patt Credit Union, Inc. / VP, Internal Audit"
-      },
-      {
-        "id": "2026-10-28-wright-patt-credit-union-inc-vp-treasury-and-asset-liability-management",
-        "summary": "Wright-Patt Credit Union, Inc. / VP, Treasury & Asset-Liability Management"
-      },
-      {
-        "id": "undated-michigan-state-university-federal-credit-union-vp-finance-and-capital-markets",
-        "summary": "Michigan State University Federal Credit Union / VP, Finance & Capital Markets"
-      },
-      {
-        "id": "2026-10-29-mission-federal-credit-union-1st-vp-member-business-lending",
-        "summary": "Mission Federal Credit Union / 1st VP, Member Business Lending"
-      },
-      {
-        "id": "undated-bank-fund-staff-federal-credit-union-vp-emerging-technologies",
-        "summary": "Bank-Fund Staff Federal Credit Union / VP, Emerging Technologies"
-      },
-      {
-        "id": "2026-10-28-tinker-federal-credit-union-svp-mortgage-lending",
-        "summary": "Tinker Federal Credit Union / SVP, Mortgage Lending"
-      },
-      {
-        "id": "undated-state-employees-credit-union-of-maryland-inc-vp-corporate-counsel",
-        "summary": "State Employees Credit Union of Maryland, Inc. / VP, Corporate Counsel"
-      },
-      {
-        "id": "undated-everwise-credit-union-vp-performance-operations",
-        "summary": "Everwise Credit Union / VP, Performance + Operations"
-      },
-      {
-        "id": "2026-11-05-everwise-credit-union-vp-information-security",
-        "summary": "Everwise Credit Union / VP, Information Security"
-      },
-      {
-        "id": "2026-11-23-everwise-credit-union-vp-accounting",
-        "summary": "Everwise Credit Union / VP, Accounting"
-      },
-      {
-        "id": "2026-11-24-canvas-credit-union-vp-mortgage-operations-and-capital-markets",
-        "summary": "Canvas Credit Union / VP, Mortgage Operations & Capital Markets"
-      },
-      {
-        "id": "2026-11-21-usalliance-federal-credit-union-vp-retail-network-and-membership-growth",
-        "summary": "USAlliance Federal Credit Union / VP, Retail Network & Membership Growth"
-      },
-      {
-        "id": "2026-11-24-altra-federal-credit-union-vp-internal-audit",
-        "summary": "Altra Federal Credit Union / VP, Internal Audit"
-      },
-      {
-        "id": "2026-11-21-state-department-federal-credit-union-vp-human-resources",
-        "summary": "State Department Federal Credit Union / VP, Human Resources"
-      },
-      {
-        "id": "undated-arrowhead-federal-credit-union-vp-associate-general-counsel",
-        "summary": "Arrowhead Federal Credit Union / VP, Associate General Counsel"
-      },
-      {
-        "id": "undated-oregon-state-credit-union-vp-corporate-finance",
-        "summary": "Oregon State Credit Union / VP, Corporate Finance"
-      },
-      {
-        "id": "2026-11-24-american-eagle-financial-credit-union-svp-chief-people-and-culture-officer",
-        "summary": "American Eagle Financial Credit Union / SVP, Chief People & Culture Officer"
-      },
-      {
-        "id": "2026-11-16-columbia-community-credit-union-vp-treasurer",
-        "summary": "Columbia Community Credit Union / VP, Treasurer"
+        "id": "2026-08-12-ardent-federal-credit-union-president-and-ceo",
+        "summary": "Ardent Federal Credit Union / President & CEO"
       }
     ],
     "updated": [
       {
-        "id": "2026-11-13-southpoint-financial-credit-union-vp-technology",
-        "note": "Posting taken down from the credit union's careers board; no hire announced",
+        "id": "2026-10-09-great-plains-federal-credit-union-vp-lending",
+        "note": "DDJ Myers took the posting down; no hire announced",
         "changes": [
           {
             "field": "status",
@@ -201,14 +68,14 @@
           {
             "field": "closed",
             "old": null,
-            "new": "2026-11-25"
+            "new": "2026-11-26"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-04-ornl-federal-credit-union-svp-culture-and-impact",
-        "note": "Posting taken down from the credit union's careers board; no hire announced",
+        "id": "2026-09-22-fedchoice-federal-credit-union-vp-lending",
+        "note": "DDJ Myers took the posting down; no hire announced",
         "changes": [
           {
             "field": "status",
@@ -218,14 +85,14 @@
           {
             "field": "closed",
             "old": null,
-            "new": "2026-11-25"
+            "new": "2026-11-26"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-11-04-austin-telco-federal-credit-union-vp-legal",
-        "note": "Posting taken down from the credit union's careers board; no hire announced",
+        "id": "2026-09-11-valley-first-federal-credit-union-vp-consumer-lending-and-member-solutions",
+        "note": "DDJ Myers took the posting down; no hire announced",
         "changes": [
           {
             "field": "status",
@@ -235,13 +102,47 @@
           {
             "field": "closed",
             "old": null,
-            "new": "2026-11-25"
+            "new": "2026-11-26"
           }
         ],
         "kept": []
       },
       {
-        "id": "2026-09-17-hanscom-federal-credit-union-vp-comm-impact-officer",
+        "id": "2026-09-11-revity-credit-union-chief-lending-officer",
+        "note": "DDJ Myers took the posting down; no hire announced",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Open",
+            "new": "Closed"
+          },
+          {
+            "field": "closed",
+            "old": null,
+            "new": "2026-11-26"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-08-07-capital-credit-union-svp-operations",
+        "note": "DDJ Myers took the posting down; no hire announced",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Open",
+            "new": "Closed"
+          },
+          {
+            "field": "closed",
+            "old": null,
+            "new": "2026-11-26"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-06-15-san-diego-county-credit-union-vp-card-operations-and-services",
         "note": "Posting taken down from the credit union's careers board; no hire announced",
         "changes": [
           {
@@ -252,34 +153,117 @@
           {
             "field": "closed",
             "old": null,
-            "new": "2026-11-25"
+            "new": "2026-11-26"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-communityamerica-credit-union-vp-infrastructure-and-support",
+        "note": "Posting taken down from the credit union's careers board; no hire announced",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Open",
+            "new": "Closed"
+          },
+          {
+            "field": "closed",
+            "old": null,
+            "new": "2026-11-26"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-security-service-federal-credit-union-svp-enterprise-technology-solutions",
+        "note": "Dice posting no longer available; no current copy found and no hire announced",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Open",
+            "new": "Closed"
+          },
+          {
+            "field": "closed",
+            "old": null,
+            "new": "2026-11-26"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "undated-first-technology-federal-credit-union-vp-digital-product-online-mobile-banking",
+        "note": "First Tech's own Jobvite posting is gone and job-site copies have expired; no hire announced",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Open",
+            "new": "Closed"
+          },
+          {
+            "field": "closed",
+            "old": null,
+            "new": "2026-11-26"
+          }
+        ],
+        "kept": []
+      },
+      {
+        "id": "2026-11-24-american-eagle-financial-credit-union-svp-chief-people-and-culture-officer",
+        "note": "American Eagle named Dele Shell SVP, Chief People & Culture Officer (Nov 9 release)",
+        "changes": [
+          {
+            "field": "status",
+            "old": "Open",
+            "new": "Filled"
+          },
+          {
+            "field": "closed",
+            "old": null,
+            "new": "2026-11-09"
+          },
+          {
+            "field": "filled_by",
+            "old": null,
+            "new": "Dele Shell"
           }
         ],
         "kept": []
       }
     ],
     "rechecked": [
-      "2026-11-04-georgia-s-own-credit-union-vp-digital",
-      "2026-11-03-citadel-federal-credit-union-vp-product",
-      "2026-11-03-citadel-federal-credit-union-vp-infrastructure-and-cloud",
-      "2026-11-03-citadel-federal-credit-union-vp-technology-strategy-and-engineering",
-      "2026-11-03-charter-oak-federal-credit-union-vp-loan-sales",
-      "2026-10-30-pacific-service-credit-union-vp-commercial-services",
-      "2026-10-28-langley-federal-credit-union-vp-technology-strategy-and-architecture",
-      "2026-10-27-georgia-s-own-credit-union-vp-accounting",
-      "2026-10-27-allegacy-financial-federal-credit-union-vp-digital-operations",
-      "2026-10-27-gulf-winds-credit-union-vp-enterprise-technology",
-      "2026-10-27-members-choice-credit-union-vp-mortgage-lending",
-      "2026-10-26-kh-credit-union-inc-president-and-ceo",
-      "2026-10-21-chevron-federal-credit-union-chief-experience-officer",
-      "2026-10-20-liberty-federal-credit-union-vp-consumer-lending",
-      "2026-10-19-champions-first-credit-union-vp-retail-operations",
-      "2026-10-19-penair-credit-union-vp-consumer-lending",
-      "2026-10-19-atlantic-regional-federal-credit-union-vp-residential-lending",
-      "2026-10-16-gecu-federal-credit-union-chief-financial-officer",
-      "2026-10-15-public-safety-credit-union-chief-financial-officer"
+      "2026-10-15-bronco-federal-credit-union-chief-financial-officer",
+      "2026-10-13-hope-federal-credit-union-svp-regional-manager",
+      "2026-10-13-superior-choice-credit-union-vp-commercial-lending",
+      "2026-10-09-great-plains-federal-credit-union-chief-financial-officer",
+      "2026-10-08-lafayette-federal-credit-union-svp-servicing-administration",
+      "2026-10-06-spectra-federal-credit-union-chief-member-experience-officer",
+      "2026-10-06-credit-union-of-southern-california-vp-digital-banking",
+      "2026-10-05-capital-credit-union-vp-facilities",
+      "2026-10-05-gulf-winds-credit-union-svp-chief-people-officer",
+      "2026-10-02-uncle-credit-union-vp-retail-growth",
+      "2026-09-30-apple-federal-credit-union-svp-people-development",
+      "2026-09-30-kinetic-federal-credit-union-vp-chief-strategy-and-marketing-officer",
+      "2026-09-30-intrepid-credit-union-vp-member-growth-and-retail-services",
+      "2026-09-30-orsa-credit-union-vp-storytelling",
+      "2026-09-29-san-francisco-fire-credit-union-chief-people-officer",
+      "2026-09-29-community-credit-union-of-florida-chief-information-officer",
+      "2026-09-29-north-star-community-credit-union-chief-operating-officer",
+      "2026-09-29-seaboard-federal-credit-union-president-and-ceo",
+      "2026-10-22-americu-credit-union-chief-people-officer",
+      "undated-global-federal-credit-union-svp-special-credits",
+      "undated-coast-central-credit-union-svp-chief-human-resources-officer",
+      "undated-caltech-employees-federal-credit-union-vp-operations",
+      "2026-11-20-jeanne-d-arc-credit-union-chief-lending-officer",
+      "undated-jeanne-d-arc-credit-union-vp-commercial-lending-and-business-banking",
+      "2026-11-19-bellco-credit-union-vp-commercial-underwriting-closing-and-portfolio-servicing",
+      "2026-11-13-vystar-credit-union-vp-consumer-lending-product-innovation-and-credit-analytics",
+      "2026-11-10-vystar-credit-union-vp-commercial-credit",
+      "2026-11-16-pentagon-federal-credit-union-vp-deposit-products",
+      "undated-state-employees-credit-union-of-maryland-inc-vp-corporate-counsel"
     ],
-    "reviewed": 4,
+    "reviewed": 10,
     "rejected": []
   },
   "last_collect": "2026-11-26T02:39:51-05:00",
