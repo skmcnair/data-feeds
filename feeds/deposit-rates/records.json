@@ -1,6 +1,59 @@
 {
   "records": [
     {
+      "id": "2026-11-25-union-savings-bank-savings-standard-item",
+      "fields": {
+        "institution": "Union Savings Bank",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Essential Savings / Access Savings",
+        "apy_1k": "0.03%",
+        "apy_10k": "0.03%",
+        "apy_25k": "0.03%",
+        "apy_100k": "0.15%",
+        "min_deposit": "$25",
+        "conditions": "Essential Savings pays 0.03% on all balances ($25 to open; $3 monthly fee unless $300 daily balance); $100K tier is Access Savings ($300 to open; $5 monthly fee unless $500 daily balance), which pays 0.40% at $250K+ and 0.75% at $750K+",
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 1,
+        "counties": "Hartford",
+        "notes": "Rates load by script; read with a browser (Essential Savings rates show only after its table heading is clicked). Rates 'Updated November 25, 2026'."
+      },
+      "sources": [
+        {
+          "label": "Union Savings Bank savings rates",
+          "url": "https://www.unionsavings.com/savings-account-ct/",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18190",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "counties": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "union-savings-bank"
+      }
+    },
+    {
       "id": "2026-11-25-centreville-bank-savings-standard-item",
       "fields": {
         "institution": "Centreville Bank",
@@ -690,6 +743,1007 @@
       }
     },
     {
+      "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Regular Share",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-money-market-standard-item",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Money Market",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.30%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/money-markets/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-money-market-special-item",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "Money market",
+        "offer": "Special",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Accumulator Money Market",
+        "apy_1k": "2.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": null,
+        "conditions": "Split-rate tiers; GO, SUN or EB Checking required (0.05% if conditions not met)",
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/money-markets/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-3-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month Share Certificate",
+        "apy_1k": "0.15%",
+        "apy_10k": "0.15%",
+        "apy_25k": "0.15%",
+        "apy_100k": "0.15%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-6-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month Share Certificate",
+        "apy_1k": "0.30%",
+        "apy_10k": "0.30%",
+        "apy_25k": "0.30%",
+        "apy_100k": "0.30%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-12-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month Share Certificate",
+        "apy_1k": "0.40%",
+        "apy_10k": "0.40%",
+        "apy_25k": "0.40%",
+        "apy_100k": "0.40%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-18-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month Share Certificate",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-24-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month Share Certificate",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-36-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month Share Certificate",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-48-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month Share Certificate",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-60-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month Share Certificate",
+        "apy_1k": "0.50%",
+        "apy_10k": "0.50%",
+        "apy_25k": "0.50%",
+        "apy_100k": "0.50%",
+        "min_deposit": null,
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-8-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Special",
+        "term": "8 mo",
+        "term_months": 8,
+        "status": "Current",
+        "product_name": "8 Month Share Certificate Special",
+        "apy_1k": "3.75%",
+        "apy_10k": "3.75%",
+        "apy_25k": "3.75%",
+        "apy_100k": "3.75%",
+        "min_deposit": "$1,000",
+        "conditions": "New money only (page heading); not IRA",
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-30-mo",
+      "fields": {
+        "institution": "Charter Oak Federal Credit Union",
+        "product": "CD",
+        "offer": "Special",
+        "term": "30 mo",
+        "term_months": 30,
+        "status": "Current",
+        "product_name": "30 Month Share Certificate Special",
+        "apy_1k": "3.50%",
+        "apy_10k": "3.50%",
+        "apy_25k": "3.50%",
+        "apy_100k": "3.50%",
+        "min_deposit": "$1,000",
+        "conditions": "IRA eligible",
+        "ends": null,
+        "rates_as_of": "2026-11-25",
+        "inst_type": "Credit union",
+        "membership": "Open",
+        "local_branches": 15,
+        "counties": "New London, Windham",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/money-markets/",
+          "type": "primary"
+        },
+        {
+          "label": "Charter Oak rates",
+          "url": "https://charteroak.org/personal-banking/savings-accounts/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA branch file (Q2 2026)",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 3,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-26",
+          "note": "rates_as_of 2026-11-22 -> 2026-11-25 (page now prints 'Rates Effective November 25th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-22",
+              "new": "2026-11-25"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "org_slugs": {
+        "institution": "charter-oak-fcu"
+      }
+    },
+    {
       "id": "2026-11-24-the-peoples-credit-union-savings-special-item",
       "fields": {
         "institution": "The Peoples Credit Union",
@@ -736,7 +1790,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -827,7 +1881,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -918,7 +1972,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -1009,7 +2063,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -1100,7 +2154,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -1191,7 +2245,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -1243,7 +2297,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -1295,7 +2349,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1347,7 +2401,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1399,7 +2453,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1451,7 +2505,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1503,7 +2557,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1555,7 +2609,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1607,7 +2661,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1659,7 +2713,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1711,7 +2765,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1763,7 +2817,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1815,7 +2869,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1867,7 +2921,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1919,7 +2973,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -1971,7 +3025,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -2023,7 +3077,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -2075,7 +3129,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -2127,7 +3181,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2179,7 +3233,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2231,7 +3285,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2283,7 +3337,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2335,7 +3389,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2387,7 +3441,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2439,7 +3493,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2491,7 +3545,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2543,7 +3597,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -2595,7 +3649,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -2647,7 +3701,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -2699,7 +3753,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -2751,7 +3805,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -2803,7 +3857,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -2855,7 +3909,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -2907,7 +3961,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -2959,7 +4013,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -3011,7 +4065,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -3063,7 +4117,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -3115,7 +4169,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -3167,7 +4221,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -3219,7 +4273,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -3271,7 +4325,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -3323,7 +4377,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-firefighters-fcu"
       }
@@ -3375,7 +4429,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -3427,7 +4481,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -3479,7 +4533,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -3531,7 +4585,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -3583,7 +4637,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -3635,7 +4689,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -3687,7 +4741,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -3739,7 +4793,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "franklin-trust-fcu"
       }
@@ -5195,7 +6249,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5247,7 +6301,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5299,7 +6353,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5351,7 +6405,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5403,7 +6457,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5455,7 +6509,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5507,7 +6561,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5559,7 +6613,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5611,7 +6665,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5663,7 +6717,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5715,7 +6769,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -5767,7 +6821,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -5819,7 +6873,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -5871,7 +6925,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -5923,7 +6977,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -5975,7 +7029,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -6027,7 +7081,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -6079,7 +7133,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -6131,7 +7185,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -6183,7 +7237,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -6235,7 +7289,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -6287,7 +7341,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6339,7 +7393,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6391,7 +7445,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6443,7 +7497,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6495,7 +7549,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6547,7 +7601,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6599,7 +7653,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6651,7 +7705,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6703,7 +7757,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6755,7 +7809,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6807,7 +7861,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6859,7 +7913,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -6911,7 +7965,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -7639,7 +8693,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -7691,7 +8745,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -7743,7 +8797,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -7795,7 +8849,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -7847,7 +8901,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -7899,7 +8953,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -7951,7 +9005,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -8003,7 +9057,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -8055,7 +9109,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -8107,7 +9161,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -8159,7 +9213,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -8211,7 +9265,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -8263,7 +9317,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -8501,7 +9555,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8553,7 +9607,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8605,7 +9659,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8657,7 +9711,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8709,7 +9763,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8761,7 +9815,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8813,7 +9867,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8865,7 +9919,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8917,7 +9971,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -8969,7 +10023,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -9021,7 +10075,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -9073,7 +10127,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -9125,7 +10179,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -9177,7 +10231,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -9385,7 +10439,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9437,7 +10491,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9489,7 +10543,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9541,7 +10595,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9593,7 +10647,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9645,7 +10699,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9697,7 +10751,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9749,7 +10803,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -9801,7 +10855,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -9853,7 +10907,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -9905,7 +10959,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -9957,7 +11011,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -10009,7 +11063,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -10061,7 +11115,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -10113,7 +11167,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -10165,7 +11219,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -10217,7 +11271,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "union-savings-bank"
       }
@@ -11730,7 +12784,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -11787,7 +12841,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -11844,7 +12898,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -11901,7 +12955,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -11958,7 +13012,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -12015,7 +13069,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -12072,7 +13126,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -12129,7 +13183,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -12186,7 +13240,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -12243,7 +13297,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -12300,815 +13354,9 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "webster-bank"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "Savings",
-        "offer": "Standard",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Regular Share",
-        "apy_1k": "0.05%",
-        "apy_10k": "0.05%",
-        "apy_25k": "0.05%",
-        "apy_100k": "0.05%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-money-market-standard-item",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "Money market",
-        "offer": "Standard",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Money Market",
-        "apy_1k": "0.05%",
-        "apy_10k": "0.10%",
-        "apy_25k": "0.10%",
-        "apy_100k": "0.30%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-money-market-special-item",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "Money market",
-        "offer": "Special",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Accumulator Money Market",
-        "apy_1k": "2.50%",
-        "apy_10k": "0.50%",
-        "apy_25k": "0.05%",
-        "apy_100k": "0.05%",
-        "min_deposit": null,
-        "conditions": "Split-rate tiers; GO, SUN or EB Checking required (0.05% if conditions not met)",
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-3-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "3 mo",
-        "term_months": 3,
-        "status": "Current",
-        "product_name": "3 Month Share Certificate",
-        "apy_1k": "0.15%",
-        "apy_10k": "0.15%",
-        "apy_25k": "0.15%",
-        "apy_100k": "0.15%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-6-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "6 mo",
-        "term_months": 6,
-        "status": "Current",
-        "product_name": "6 Month Share Certificate",
-        "apy_1k": "0.30%",
-        "apy_10k": "0.30%",
-        "apy_25k": "0.30%",
-        "apy_100k": "0.30%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-12-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "12 mo",
-        "term_months": 12,
-        "status": "Current",
-        "product_name": "12 Month Share Certificate",
-        "apy_1k": "0.40%",
-        "apy_10k": "0.40%",
-        "apy_25k": "0.40%",
-        "apy_100k": "0.40%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-18-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "18 mo",
-        "term_months": 18,
-        "status": "Current",
-        "product_name": "18 Month Share Certificate",
-        "apy_1k": "0.50%",
-        "apy_10k": "0.50%",
-        "apy_25k": "0.50%",
-        "apy_100k": "0.50%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-24-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "24 mo",
-        "term_months": 24,
-        "status": "Current",
-        "product_name": "24 Month Share Certificate",
-        "apy_1k": "0.50%",
-        "apy_10k": "0.50%",
-        "apy_25k": "0.50%",
-        "apy_100k": "0.50%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-36-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "36 mo",
-        "term_months": 36,
-        "status": "Current",
-        "product_name": "36 Month Share Certificate",
-        "apy_1k": "0.50%",
-        "apy_10k": "0.50%",
-        "apy_25k": "0.50%",
-        "apy_100k": "0.50%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-48-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "48 mo",
-        "term_months": 48,
-        "status": "Current",
-        "product_name": "48 Month Share Certificate",
-        "apy_1k": "0.50%",
-        "apy_10k": "0.50%",
-        "apy_25k": "0.50%",
-        "apy_100k": "0.50%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-60-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "60 mo",
-        "term_months": 60,
-        "status": "Current",
-        "product_name": "60 Month Share Certificate",
-        "apy_1k": "0.50%",
-        "apy_10k": "0.50%",
-        "apy_25k": "0.50%",
-        "apy_100k": "0.50%",
-        "min_deposit": null,
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-8-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Special",
-        "term": "8 mo",
-        "term_months": 8,
-        "status": "Current",
-        "product_name": "8 Month Share Certificate Special",
-        "apy_1k": "3.75%",
-        "apy_10k": "3.75%",
-        "apy_25k": "3.75%",
-        "apy_100k": "3.75%",
-        "min_deposit": "$1,000",
-        "conditions": "New money only (page heading); not IRA",
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
-      }
-    },
-    {
-      "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-30-mo",
-      "fields": {
-        "institution": "Charter Oak Federal Credit Union",
-        "product": "CD",
-        "offer": "Special",
-        "term": "30 mo",
-        "term_months": 30,
-        "status": "Current",
-        "product_name": "30 Month Share Certificate Special",
-        "apy_1k": "3.50%",
-        "apy_10k": "3.50%",
-        "apy_25k": "3.50%",
-        "apy_100k": "3.50%",
-        "min_deposit": "$1,000",
-        "conditions": "IRA eligible",
-        "ends": null,
-        "rates_as_of": "2026-11-22",
-        "inst_type": "Credit union",
-        "membership": "Open",
-        "local_branches": 15,
-        "counties": "New London, Windham",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/money-markets/",
-          "type": "primary"
-        },
-        {
-          "label": "Charter Oak rates",
-          "url": "https://charteroak.org/personal-banking/savings-accounts/",
-          "type": "primary"
-        },
-        {
-          "label": "NCUA branch file (Q2 2026)",
-          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 3
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "charter-oak-fcu"
       }
     },
     {
@@ -13158,7 +13406,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13210,7 +13458,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13262,7 +13510,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13314,7 +13562,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13366,7 +13614,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13418,7 +13666,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13470,7 +13718,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13522,7 +13770,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13574,7 +13822,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -13626,7 +13874,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "banknewport"
       }
@@ -14629,7 +14877,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -14708,7 +14956,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -14760,7 +15008,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -14812,7 +15060,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -14864,7 +15112,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -14916,7 +15164,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -14968,7 +15216,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -15020,7 +15268,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -15072,7 +15320,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -15124,7 +15372,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "thomaston-savings"
       }
@@ -19181,7 +19429,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19238,7 +19486,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19295,7 +19543,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19352,7 +19600,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19409,7 +19657,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19466,7 +19714,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19523,7 +19771,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19580,7 +19828,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -19632,7 +19880,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -19684,7 +19932,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -19736,7 +19984,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -19788,7 +20036,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -19840,7 +20088,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -19892,7 +20140,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -19944,7 +20192,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -19996,7 +20244,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -20063,7 +20311,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20130,7 +20378,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20197,7 +20445,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20264,7 +20512,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20331,7 +20579,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20398,7 +20646,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20465,7 +20713,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20532,7 +20780,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20599,7 +20847,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20666,7 +20914,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20733,7 +20981,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20785,7 +21033,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -20837,7 +21085,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "jewett-city-savings"
       }
@@ -21578,7 +21826,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -21630,7 +21878,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "waypoint-fcu"
       }
@@ -21682,7 +21930,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -21734,7 +21982,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -21786,7 +22034,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -21838,7 +22086,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -21890,7 +22138,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -21942,7 +22190,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -21994,7 +22242,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "community-healthcare-cu"
       }
@@ -22046,7 +22294,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "community-healthcare-cu"
       }
@@ -22098,7 +22346,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "community-healthcare-cu"
       }
@@ -22150,7 +22398,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-labor-dept-fcu"
       }
@@ -22202,7 +22450,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-labor-dept-fcu"
       }
@@ -22254,7 +22502,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-labor-dept-fcu"
       }
@@ -22306,7 +22554,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-labor-dept-fcu"
       }
@@ -22358,7 +22606,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-labor-dept-fcu"
       }
@@ -22410,7 +22658,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-labor-dept-fcu"
       }
@@ -22514,7 +22762,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "abe-fcu"
       }
@@ -22566,7 +22814,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "abe-fcu"
       }
@@ -22618,7 +22866,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "abe-fcu"
       }
@@ -22670,7 +22918,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "abe-fcu"
       }
@@ -22722,7 +22970,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "abe-fcu"
       }
@@ -22779,7 +23027,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -22836,7 +23084,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -22893,7 +23141,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -22950,7 +23198,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -23007,7 +23255,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -23064,7 +23312,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -23121,7 +23369,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -23178,7 +23426,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-state-police-cu"
       }
@@ -23230,7 +23478,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "abe-fcu"
       }
@@ -23282,7 +23530,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "abe-fcu"
       }
@@ -23386,7 +23634,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "tobacco-valley-teachers-fcu"
       }
@@ -23438,7 +23686,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "tobacco-valley-teachers-fcu"
       }
@@ -23490,7 +23738,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "tobacco-valley-teachers-fcu"
       }
@@ -23542,7 +23790,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "tobacco-valley-teachers-fcu"
       }
@@ -23594,7 +23842,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "tobacco-valley-teachers-fcu"
       }
@@ -23646,7 +23894,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -23698,7 +23946,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -23750,7 +23998,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -23802,7 +24050,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -23854,7 +24102,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -23906,7 +24154,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -23958,7 +24206,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -24010,7 +24258,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -24062,7 +24310,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -24114,7 +24362,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "chelsea-groton"
       }
@@ -25823,7 +26071,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -25880,7 +26128,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ellafi-fcu"
       }
@@ -26400,7 +26648,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26452,7 +26700,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26504,7 +26752,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26556,7 +26804,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26608,7 +26856,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26660,7 +26908,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26712,7 +26960,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26764,7 +27012,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ocean-state-cu"
       }
@@ -26816,7 +27064,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -26868,7 +27116,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "police-cu-of-ct"
       }
@@ -27024,7 +27272,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-26",
       "org_slugs": {
         "institution": "ct-firefighters-fcu"
       }
