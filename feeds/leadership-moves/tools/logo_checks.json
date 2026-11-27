@@ -49,6 +49,11 @@
   "file": "aurora-fcu-v1.png",
   "result": "current"
  },
+ "charter-oak-fcu": {
+  "checked": "2026-11-27",
+  "file": "charter-oak-fcu-v1.png",
+  "result": "current"
+ },
  "chartway": {
   "checked": "2026-11-23",
   "file": "chartway-v1.png",

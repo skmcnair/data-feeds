@@ -1,0 +1,104 @@
+{
+ "feed": "leadership-moves",
+ "run": {
+  "started": "2026-11-27T00:18:00-05:00",
+  "finished": "2026-11-27T00:39:00-05:00",
+  "searches": 66,
+  "errors": [
+   "Missed earlier: Charter Oak FCU's Oct 20 release naming Sean McNair Chief Experience Officer was not in the first load; added today",
+   "Skipped as announced before Oct 20: CU Circle reposts of Kevin Brower (SCU CU, CLO, Aug 17) and Angie Kenneke (UnitedOne CU, CLO, Aug 14); America First's Missy Key/Thayne Shaffer CEO succession (Oct 13); AmeriCU VP/AVP/Director hires (Sept 30); Charter Oak's Kristin Zummo (COO) and Holly DePerry (CLO) chamber repost is undated and appears to predate Oct 20",
+   "Still unidentified: Law360 'Conn. Credit Union Names First GC From State Banking Dept.' (paywalled; no other source found)",
+   "CUInsight press-release pages and archive mostly refuse automated reading; numeric ?p= links work"
+  ]
+ },
+ "reviewed": [
+  "cdfb1cdde9ec",
+  "bb70d5abd779",
+  "fb5fbb839d32",
+  "903cdfcd9fbf",
+  "8732f5b821b0",
+  "5cfc6465ec60",
+  "570a7460c469",
+  "c774462b64ac",
+  "247940174502",
+  "a1a8fde4b309",
+  "e96ac35bc4c2",
+  "b5efb2a21312",
+  "33e3a9d8ebbd",
+  "0f2b2315cce3"
+ ],
+ "adds": [
+  {
+   "fields": {
+    "announced": "2026-10-20",
+    "name": "Sean McNair",
+    "organization": "Charter Oak Federal Credit Union",
+    "move": "Hired",
+    "title": "Chief Experience Officer",
+    "level": "C-suite",
+    "function": "Member Experience",
+    "status": "In effect",
+    "previous_title": "Executive Vice President, Chief Growth and Innovation Officer",
+    "previous_org": "Lighthouse Credit Union",
+    "succeeds": "Sundae Franklin",
+    "city": "Waterford",
+    "state": "CT",
+    "org_assets": 1688.8,
+    "org_members": 79126,
+    "assets_as_of": "Q3 2026",
+    "notes": "Earlier VP of Marketing & Experience at Digital Federal Credit Union."
+   },
+   "sources": [
+    {
+     "label": "Charter Oak release",
+     "url": "https://charteroak.org/news/charter-oak-announces-new-chief-officer/",
+     "type": "primary"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3413",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "name": 0,
+    "organization": 0,
+    "move": 0,
+    "title": 0,
+    "level": 0,
+    "function": 0,
+    "status": 0,
+    "previous_title": 0,
+    "previous_org": 0,
+    "succeeds": 0,
+    "notes": 0,
+    "city": 1,
+    "state": 1,
+    "org_assets": 1,
+    "org_members": 1,
+    "assets_as_of": 1
+   }
+  }
+ ],
+ "updates": [],
+ "rechecked": [
+  "2026-11-19-tina-tracy-credit-union-one-promoted",
+  "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+  "2026-11-18-karen-browne-tba-credit-union-retiring",
+  "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+  "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+  "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+  "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+  "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+  "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+  "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+  "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+  "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+  "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+  "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+  "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+  "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+  "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
+ ]
+}
