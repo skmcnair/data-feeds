@@ -13,9 +13,9 @@
     {
       "name": "exec-jobs",
       "title": "Credit Union Executive Openings",
-      "items": 216,
+      "items": 220,
       "result": "ok",
-      "last_review": "2026-11-26T03:24:00-05:00",
+      "last_review": "2026-11-27T03:09:00-05:00",
       "feed_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/exec-jobs/feed.json",
       "csv_url": "https://raw.githubusercontent.com/skmcnair/data-feeds/main/feeds/exec-jobs/feed.csv",
       "tracker_url": "https://skmcnair.github.io/data-feeds/tracker/?feed=exec-jobs"

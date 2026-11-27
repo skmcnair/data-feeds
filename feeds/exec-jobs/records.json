@@ -1,6 +1,63 @@
 {
   "records": [
     {
+      "id": "2026-11-26-pentagon-federal-credit-union-svp-chief-accounting-officer",
+      "fields": {
+        "posted": "2026-11-26",
+        "organization": "Pentagon Federal Credit Union",
+        "title": "SVP, Chief Accounting Officer",
+        "level": "C-suite",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$238K-$439K",
+        "work_mode": "Hybrid",
+        "job_location": "McLean, VA",
+        "job_url": "https://careers.penfed.org/jobs/senior-vice-president-chief-accounting-officer-mc-lean---virginia---2026-11727-jobs",
+        "size_band": "$5B+",
+        "city": "McLean",
+        "state": "VA",
+        "org_assets": 29188.4,
+        "org_members": 2692731,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PenFed careers",
+          "url": "https://careers.penfed.org/jobs/senior-vice-president-chief-accounting-officer-mc-lean---virginia---2026-11727-jobs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/227",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-27",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-27",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "org_slugs": {
+        "organization": "penfed"
+      }
+    },
+    {
       "id": "2026-11-25-family-trust-federal-credit-union-vp-business-services",
       "fields": {
         "posted": "2026-11-25",
@@ -1258,8 +1315,8 @@
         "title": "SVP, Chief Marketing Officer",
         "level": "C-suite",
         "function": "Marketing",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-27",
         "filled_by": null,
         "search_firm": null,
         "pay_range": null,
@@ -1284,6 +1341,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/227",
           "type": "regulator"
+        },
+        {
+          "label": "PenFed careers",
+          "url": "https://careers.penfed.org/jobs",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -1292,17 +1354,38 @@
         "assets_as_of": 1,
         "size_band": 1,
         "city": 1,
-        "state": 1
+        "state": 1,
+        "status": 2,
+        "closed": 2
       },
       "history": [
         {
           "date": "2026-11-25",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-27",
+          "note": "PenFed's own careers site (now read directly) no longer lists it and its posting page is gone; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://careers.penfed.org/jobs"
+          ]
         }
       ],
       "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "penfed"
       }
@@ -1832,6 +1915,63 @@
       }
     },
     {
+      "id": "2026-11-16-pentagon-federal-credit-union-vp-intelligent-banking-platform",
+      "fields": {
+        "posted": "2026-11-16",
+        "organization": "Pentagon Federal Credit Union",
+        "title": "VP, Intelligent Banking Platform",
+        "level": "EVP / SVP / VP",
+        "function": "Product",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$152K-$310K",
+        "work_mode": "Hybrid",
+        "job_location": "McLean, VA",
+        "job_url": "https://careers.penfed.org/jobs/vp-intelligent-banking-platform-mc-lean---virginia---2026-11655-jobs",
+        "size_band": "$5B+",
+        "city": "McLean",
+        "state": "VA",
+        "org_assets": 29188.4,
+        "org_members": 2692731,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PenFed careers",
+          "url": "https://careers.penfed.org/jobs/vp-intelligent-banking-platform-mc-lean---virginia---2026-11655-jobs",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/227",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-27",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-27",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "org_slugs": {
+        "organization": "penfed"
+      }
+    },
+    {
       "id": "2026-11-16-columbia-community-credit-union-vp-treasurer",
       "fields": {
         "posted": "2026-11-16",
@@ -1940,7 +2080,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "penfed"
       }
@@ -2010,7 +2150,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "ascentra-cu"
       }
@@ -2143,7 +2283,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "first-tech-fcu"
       }
@@ -3750,6 +3890,63 @@
       }
     },
     {
+      "id": "2026-11-03-san-francisco-fire-credit-union-vp-sales-and-marketing",
+      "fields": {
+        "posted": "2026-11-03",
+        "organization": "San Francisco Fire Credit Union",
+        "title": "VP, Sales & Marketing",
+        "level": "EVP / SVP / VP",
+        "function": "Retail",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$225K-$338K",
+        "work_mode": null,
+        "job_location": "San Francisco, CA",
+        "job_url": "https://sffirecu.applytojob.com/apply/OBhVZuLamo/Vice-President-Sales-Marketing",
+        "size_band": "$1B-$5B",
+        "city": "San Francisco",
+        "state": "CA",
+        "org_assets": 1617.7,
+        "org_members": 72752,
+        "assets_as_of": "Q2 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "SF Fire careers (JazzHR)",
+          "url": "https://sffirecu.applytojob.com/apply/OBhVZuLamo/Vice-President-Sales-Marketing",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA call report",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-27",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-27",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "org_slugs": {
+        "organization": "sf-fire-cu"
+      }
+    },
+    {
       "id": "2026-11-03-the-golden-1-credit-union-svp-chief-credit-officer",
       "fields": {
         "posted": "2026-11-03",
@@ -4074,8 +4271,8 @@
         "title": "VP, Consumer Lending Product Strategy",
         "level": "EVP / SVP / VP",
         "function": "Lending",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-27",
         "filled_by": null,
         "search_firm": null,
         "pay_range": null,
@@ -4105,6 +4302,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/227",
           "type": "regulator"
+        },
+        {
+          "label": "PenFed careers",
+          "url": "https://careers.penfed.org/jobs",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -4113,17 +4315,38 @@
         "assets_as_of": 2,
         "size_band": 2,
         "city": 2,
-        "state": 2
+        "state": 2,
+        "status": 3,
+        "closed": 3
       },
       "history": [
         {
           "date": "2026-11-25",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Not listed on PenFed's own careers site, now read directly; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://careers.penfed.org/jobs"
+          ]
         }
       ],
       "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "penfed"
       }
@@ -4249,7 +4472,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "charter-oak-fcu"
       }
@@ -5194,7 +5417,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "first-tech-fcu"
       }
@@ -6206,6 +6429,63 @@
       "last_checked": "2026-11-26",
       "org_slugs": {
         "organization": "lafayette-fcu"
+      }
+    },
+    {
+      "id": "2026-10-06-san-francisco-fire-credit-union-vp-operations",
+      "fields": {
+        "posted": "2026-10-06",
+        "organization": "San Francisco Fire Credit Union",
+        "title": "VP, Operations",
+        "level": "EVP / SVP / VP",
+        "function": "Operations",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": null,
+        "pay_range": "$156K-$236K",
+        "work_mode": null,
+        "job_location": "San Francisco, CA",
+        "job_url": "https://sffirecu.applytojob.com/apply/gvcdRkaDoM/Vice-President-Operations",
+        "size_band": "$1B-$5B",
+        "city": "San Francisco",
+        "state": "CA",
+        "org_assets": 1617.7,
+        "org_members": 72752,
+        "assets_as_of": "Q2 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "SF Fire careers (JazzHR)",
+          "url": "https://sffirecu.applytojob.com/apply/gvcdRkaDoM/Vice-President-Operations",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA call report",
+          "url": "https://ncua.gov/files/publications/analysis/call-report-data-2026-06.zip",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-27",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-27",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "org_slugs": {
+        "organization": "sf-fire-cu"
       }
     },
     {
@@ -7351,7 +7631,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "keesler-fcu"
       }
@@ -7416,7 +7696,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "first-community-cu-tx"
       }
@@ -7480,7 +7760,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "winnebago-community-cu"
       }
@@ -7544,7 +7824,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "cu-of-colorado"
       }
@@ -7698,7 +7978,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "pioneer-fcu-id"
       }
@@ -7763,7 +8043,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "zeal"
       }
@@ -7859,7 +8139,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "greylock-fcu"
       }
@@ -8112,7 +8392,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "enrichment-fcu"
       }
@@ -8177,7 +8457,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "tower-fcu"
       }
@@ -8298,7 +8578,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "first-choice-cu-fl"
       }
@@ -8477,7 +8757,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "first-source-fcu"
       }
@@ -8541,7 +8821,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "chevron-fcu"
       }
@@ -8606,7 +8886,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "town-and-country-cu-nd"
       }
@@ -8671,7 +8951,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "cu-socal"
       }
@@ -8735,7 +9015,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "lafayette-fcu"
       }
@@ -8799,7 +9079,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "selfreliance-fcu"
       }
@@ -8978,7 +9258,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "desert-financial-cu"
       }
@@ -9104,7 +9384,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "levo-cu"
       }
@@ -9287,7 +9567,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "frontwave-cu"
       }
@@ -9440,7 +9720,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "lafayette-fcu"
       }
@@ -9505,7 +9785,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "credit-human"
       }
@@ -11102,7 +11382,7 @@
         "pay_range": "$163K-$217K",
         "work_mode": null,
         "job_location": null,
-        "job_url": "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer.pdf",
+        "job_url": "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer-Full-Job-Description.pdf",
         "size_band": "$1B-$5B",
         "city": "Eureka",
         "state": "CA",
@@ -11126,6 +11406,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62367",
           "type": "regulator"
+        },
+        {
+          "label": "Coast Central job description (PDF)",
+          "url": "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer-Full-Job-Description.pdf",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -11134,17 +11419,33 @@
         "assets_as_of": 2,
         "size_band": 2,
         "city": 2,
-        "state": 2
+        "state": 2,
+        "job_url": 3
       },
       "history": [
         {
           "date": "2026-11-24",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Careers page now links a revised job description (dated Nov 5, 2026); still listed as a current opening",
+          "changes": [
+            {
+              "field": "job_url",
+              "old": "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer.pdf",
+              "new": "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer-Full-Job-Description.pdf"
+            }
+          ],
+          "sources": [
+            "http://www.coastccu.org/wp-content/uploads/2026/11/SVP-Chief-Human-Resources-Officer-Full-Job-Description.pdf",
+            "https://www.coastccu.org/community/careers/"
+          ]
         }
       ],
       "added": "2026-11-24",
-      "updated": "2026-11-24",
-      "last_checked": "2026-11-26",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "coast-central"
       }
@@ -12835,7 +13136,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "global-fcu-ak"
       }
