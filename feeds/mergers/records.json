@@ -100,7 +100,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "family-savings",
         "partner": "liberty-bank-al"
@@ -122,11 +122,11 @@
         "acquirer_assets": 1553.2,
         "acquirer_members": 112662,
         "acquirer_locations": 11,
-        "partner_assets": 316.9,
+        "partner_assets": 332.7,
         "partner_members": null,
         "partner_locations": 2,
-        "combined_assets": 1870.1,
-        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "combined_assets": 1885.9,
+        "size_as_of": "Q3 2026",
         "state": "FL",
         "partner_state": "FL",
         "notes": "10th CU purchase of a bank announced in 2026. Gives DCFCU its first Palm Beach County location.",
@@ -168,6 +168,11 @@
           "label": "DCFCU/Evermore release",
           "url": "https://communitynewspapers.com/community-press-releases/dade-county-federal-credit-union-and-evermore-bank-announce-acquisition-agreement-expanding-dcfcus-presence",
           "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind financials, Evermore Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/financials?filters=CERT:59306%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -182,9 +187,9 @@
         "acquirer_assets": 1,
         "acquirer_members": 1,
         "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
+        "partner_assets": 6,
+        "combined_assets": 6,
+        "size_as_of": 6,
         "state": 1,
         "partner_state": 2,
         "acquirer_city": 1,
@@ -256,11 +261,36 @@
           "sources": [
             "https://communitynewspapers.com/community-press-releases/dade-county-federal-credit-union-and-evermore-bank-announce-acquisition-agreement-expanding-dcfcus-presence"
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Sizes refreshed to Q3 2026: Evermore Bank assets $332.7M at Sep 30, 2026 (FDIC; was $316.9M at Jun 30); combined $1.89B",
+          "changes": [
+            {
+              "field": "partner_assets",
+              "old": 316.9,
+              "new": 332.7
+            },
+            {
+              "field": "combined_assets",
+              "old": 1870.1,
+              "new": 1885.9
+            },
+            {
+              "field": "size_as_of",
+              "old": "CU Q3 2026; bank Q2 2026",
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://api.fdic.gov/banks/financials?filters=CERT:59306%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/24508"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "dcfcu",
         "partner": "evermore-bank"
@@ -454,7 +484,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "sunmark",
         "partner": "directors-choice-cu"
@@ -476,11 +506,11 @@
         "acquirer_assets": 2369.7,
         "acquirer_members": 133913,
         "acquirer_locations": 16,
-        "partner_assets": 248.1,
+        "partner_assets": 246.1,
         "partner_members": null,
         "partner_locations": 8,
-        "combined_assets": 2617.8,
-        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "combined_assets": 2615.8,
+        "size_as_of": "Q3 2026",
         "state": "AL",
         "partner_state": "AL",
         "notes": "First Financial Bank is in Bessemer, AL. Ninth CU purchase of a bank announced in 2026; MAX plans to keep all eight branches.",
@@ -523,6 +553,11 @@
           "label": "Credit Union Daily",
           "url": "https://thecudaily.com/in-ninth-such-deal-of-2026-max-credit-union-to-acquire-first-financial-bank-of-bessemer/",
           "type": "trade_press"
+        },
+        {
+          "label": "FDIC BankFind financials, First Financial Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/financials?filters=CERT:19440%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -537,9 +572,9 @@
         "acquirer_assets": 1,
         "acquirer_members": 1,
         "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
+        "partner_assets": 6,
+        "combined_assets": 6,
+        "size_as_of": 6,
         "state": 1,
         "partner_state": 2,
         "acquirer_city": 1,
@@ -636,11 +671,36 @@
           "sources": [
             "https://thecudaily.com/in-ninth-such-deal-of-2026-max-credit-union-to-acquire-first-financial-bank-of-bessemer/"
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Sizes refreshed to Q3 2026: First Financial Bank assets $246.1M at Sep 30, 2026 (FDIC; was $248.1M at Jun 30); combined $2.62B",
+          "changes": [
+            {
+              "field": "partner_assets",
+              "old": 248.1,
+              "new": 246.1
+            },
+            {
+              "field": "combined_assets",
+              "old": 2617.8,
+              "new": 2615.8
+            },
+            {
+              "field": "size_as_of",
+              "old": "CU Q3 2026; bank Q2 2026",
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://api.fdic.gov/banks/financials?filters=CERT:19440%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68575"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-26",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "max-cu",
         "partner": "first-financial-bank"
@@ -1182,11 +1242,11 @@
         "acquirer_assets": 7969.0,
         "acquirer_members": 242890,
         "acquirer_locations": 39,
-        "partner_assets": 344.6,
+        "partner_assets": 359.1,
         "partner_members": null,
         "partner_locations": 2,
-        "combined_assets": 8313.6,
-        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "combined_assets": 8328.1,
+        "size_as_of": "Q3 2026",
         "state": "MI",
         "partner_state": "FL",
         "notes": "Gulfside branches to be rebranded DFCU, with integration in the second half of 2027.",
@@ -1228,6 +1288,11 @@
           "label": "Business Observer (Oct 27, 2026)",
           "url": "https://www.businessobserverfl.com/news/2026/oct/27/sarasota-bank-purchase/",
           "type": "trade_press"
+        },
+        {
+          "label": "FDIC BankFind financials, Gulfside Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/financials?filters=CERT:59140%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -1242,9 +1307,9 @@
         "acquirer_assets": 1,
         "acquirer_members": 1,
         "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
+        "partner_assets": 6,
+        "combined_assets": 6,
+        "size_as_of": 6,
         "state": 1,
         "partner_state": 2,
         "acquirer_city": 1,
@@ -1329,11 +1394,36 @@
           "sources": [
             "https://www.businessobserverfl.com/news/2026/oct/27/sarasota-bank-purchase/"
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Sizes refreshed to Q3 2026: Gulfside Bank assets $359.1M at Sep 30, 2026 (FDIC; was $344.6M at Jun 30); combined $8.33B",
+          "changes": [
+            {
+              "field": "partner_assets",
+              "old": 344.6,
+              "new": 359.1
+            },
+            {
+              "field": "combined_assets",
+              "old": 8313.6,
+              "new": 8328.1
+            },
+            {
+              "field": "size_as_of",
+              "old": "CU Q3 2026; bank Q2 2026",
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://api.fdic.gov/banks/financials?filters=CERT:59140%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/61844"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-26",
-      "last_checked": "2026-11-26",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "dfcu-financial",
         "partner": "gulfside-bank"
@@ -2574,7 +2664,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "firefighters-cu",
         "partner": "p-and-s-cu"
@@ -2773,7 +2863,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "f-and-a-fcu",
         "partner": "ontario-public-employees-fcu"
@@ -3029,11 +3119,11 @@
         "acquirer_assets": 1374.8,
         "acquirer_members": 75037,
         "acquirer_locations": 12,
-        "partner_assets": 98.6,
+        "partner_assets": 94.4,
         "partner_members": null,
         "partner_locations": 1,
-        "combined_assets": 1473.4,
-        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "combined_assets": 1469.2,
+        "size_as_of": "Q3 2026",
         "state": "FL",
         "partner_state": "AL",
         "notes": "Announced in a Friday release (Banking Dive, Sep 29). Regulatory approval expected mid-2027; integration by 2028. One of two Gulf Winds bank purchases.",
@@ -3081,6 +3171,11 @@
           "label": "Gulf Winds release, Sep 25, 2026",
           "url": "https://www.gogulfwinds.com/news/stronger-together/",
           "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind financials, Peoples Exchange Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/financials?filters=CERT:70%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -3096,9 +3191,9 @@
         "acquirer_assets": 1,
         "acquirer_members": 1,
         "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
+        "partner_assets": 7,
+        "combined_assets": 7,
+        "size_as_of": 7,
         "state": 1,
         "partner_state": 2,
         "acquirer_city": 1,
@@ -3190,11 +3285,36 @@
           "sources": [
             "https://www.gogulfwinds.com/news/stronger-together/"
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Sizes refreshed to Q3 2026: Peoples Exchange Bank assets $94.4M at Sep 30, 2026 (FDIC; was $98.6M at Jun 30); combined $1.47B",
+          "changes": [
+            {
+              "field": "partner_assets",
+              "old": 98.6,
+              "new": 94.4
+            },
+            {
+              "field": "combined_assets",
+              "old": 1473.4,
+              "new": 1469.2
+            },
+            {
+              "field": "size_as_of",
+              "old": "CU Q3 2026; bank Q2 2026",
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://api.fdic.gov/banks/financials?filters=CERT:70%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "gulf-winds",
         "partner": "peoples-exchange-bank"
@@ -3334,11 +3454,11 @@
         "acquirer_assets": 1374.8,
         "acquirer_members": 75037,
         "acquirer_locations": 12,
-        "partner_assets": 211.7,
+        "partner_assets": 214.3,
         "partner_members": null,
         "partner_locations": 2,
-        "combined_assets": 1586.5,
-        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "combined_assets": 1589.1,
+        "size_as_of": "Q3 2026",
         "state": "FL",
         "partner_state": "FL",
         "notes": "Gulf Winds renames itself TruWorth CU in spring 2027. Regulatory approval expected mid-2027; integration by 2028. One of two Gulf Winds bank purchases.",
@@ -3381,6 +3501,11 @@
           "label": "Gulf Winds release, Aug 25, 2026",
           "url": "https://www.gogulfwinds.com/news/growing-for-good-truworth/",
           "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind financials, Madison County Community Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/financials?filters=CERT:35056%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -3396,9 +3521,9 @@
         "acquirer_assets": 1,
         "acquirer_members": 1,
         "acquirer_locations": 1,
-        "partner_assets": 2,
-        "combined_assets": 1,
-        "size_as_of": 1,
+        "partner_assets": 6,
+        "combined_assets": 6,
+        "size_as_of": 6,
         "state": 1,
         "partner_state": 2,
         "acquirer_city": 1,
@@ -3487,11 +3612,36 @@
           "sources": [
             "https://www.gogulfwinds.com/news/growing-for-good-truworth/"
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Sizes refreshed to Q3 2026: Madison County Community Bank assets $214.3M at Sep 30, 2026 (FDIC; was $211.7M at Jun 30); combined $1.59B",
+          "changes": [
+            {
+              "field": "partner_assets",
+              "old": 211.7,
+              "new": 214.3
+            },
+            {
+              "field": "combined_assets",
+              "old": 1586.5,
+              "new": 1589.1
+            },
+            {
+              "field": "size_as_of",
+              "old": "CU Q3 2026; bank Q2 2026",
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://api.fdic.gov/banks/financials?filters=CERT:35056%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68694"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "gulf-winds",
         "partner": "madison-county-community-bank"
@@ -3645,11 +3795,11 @@
         "acquirer_assets": 6834.3,
         "acquirer_members": 327834,
         "acquirer_locations": 46,
-        "partner_assets": 465.4,
+        "partner_assets": 465.8,
         "partner_members": null,
         "partner_locations": 4,
-        "combined_assets": 7299.7,
-        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "combined_assets": 7300.1,
+        "size_as_of": "Q3 2026",
         "state": "WA",
         "partner_state": "OR",
         "notes": "Gives Gesa its first Oregon branches. Oregon Bancorp shareholders approved the sale (announced Nov 19, 2026).",
@@ -3701,6 +3851,11 @@
           "label": "Oregon Bancorp release via Business Wire: shareholder approval of sale to Gesa, Nov 19, 2026 (StockTitan repost)",
           "url": "https://www.stocktitan.net/news/ORBN/willamette-valley-bank-announces-shareholder-approval-of-sale-to-rmstaa26ogv9.html",
           "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind financials, Willamette Valley Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/financials?filters=CERT:57033%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -3715,9 +3870,9 @@
         "acquirer_assets": 2,
         "acquirer_members": 2,
         "acquirer_locations": 2,
-        "partner_assets": 3,
-        "combined_assets": 2,
-        "size_as_of": 2,
+        "partner_assets": 8,
+        "combined_assets": 8,
+        "size_as_of": 8,
         "state": 2,
         "partner_state": 3,
         "acquirer_city": 2,
@@ -3801,11 +3956,36 @@
           "sources": [
             "https://www.stocktitan.net/news/ORBN/willamette-valley-bank-announces-shareholder-approval-of-sale-to-rmstaa26ogv9.html"
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Sizes refreshed to Q3 2026: Willamette Valley Bank assets $465.8M at Sep 30, 2026 (FDIC; was $465.4M at Jun 30); combined $7.30B",
+          "changes": [
+            {
+              "field": "partner_assets",
+              "old": 465.4,
+              "new": 465.8
+            },
+            {
+              "field": "combined_assets",
+              "old": 7299.7,
+              "new": 7300.1
+            },
+            {
+              "field": "size_as_of",
+              "old": "CU Q3 2026; bank Q2 2026",
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://api.fdic.gov/banks/financials?filters=CERT:57033%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68278"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "gesa",
         "partner": "willamette-valley-bank"
@@ -6785,11 +6965,11 @@
         "acquirer_assets": 1047.1,
         "acquirer_members": 68036,
         "acquirer_locations": 18,
-        "partner_assets": 134.8,
+        "partner_assets": 140.4,
         "partner_members": null,
         "partner_locations": 6,
-        "combined_assets": 1181.9,
-        "size_as_of": "CU Q3 2026; bank Q2 2026",
+        "combined_assets": 1187.5,
+        "size_as_of": "Q3 2026",
         "state": "MI",
         "partner_state": "MI",
         "notes": "First CU purchase of a bank announced in 2026. Adds five Upper Peninsula branches.",
@@ -6842,6 +7022,11 @@
           "label": "Pulse 2.0",
           "url": "https://pulse2.com/zeal-credit-union-to-acquire-the-miners-state-bank-in-all-cash-transaction",
           "type": "trade_press"
+        },
+        {
+          "label": "FDIC BankFind financials, The Miners State Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/financials?filters=CERT:10928%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+          "type": "regulator"
         }
       ],
       "field_sources": {
@@ -6856,9 +7041,9 @@
         "acquirer_assets": 2,
         "acquirer_members": 2,
         "acquirer_locations": 2,
-        "partner_assets": 3,
-        "combined_assets": 2,
-        "size_as_of": 2,
+        "partner_assets": 8,
+        "combined_assets": 8,
+        "size_as_of": 8,
         "state": 2,
         "partner_state": 3,
         "acquirer_city": 2,
@@ -6928,11 +7113,36 @@
             "https://www.bankingdive.com/news/michigan-zeal-credit-union-to-acquire-miners-state-bank-upper-peninsula-icba/809233/",
             "https://pulse2.com/zeal-credit-union-to-acquire-the-miners-state-bank-in-all-cash-transaction"
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Sizes refreshed to Q3 2026: The Miners State Bank assets $140.4M at Sep 30, 2026 (FDIC; was $134.8M at Jun 30); combined $1.19B",
+          "changes": [
+            {
+              "field": "partner_assets",
+              "old": 134.8,
+              "new": 140.4
+            },
+            {
+              "field": "combined_assets",
+              "old": 1181.9,
+              "new": 1187.5
+            },
+            {
+              "field": "size_as_of",
+              "old": "CU Q3 2026; bank Q2 2026",
+              "new": "Q3 2026"
+            }
+          ],
+          "sources": [
+            "https://api.fdic.gov/banks/financials?filters=CERT:10928%20AND%20REPDTE:20260930&fields=CERT,REPDTE,ASSET",
+            "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/62426"
+          ]
         }
       ],
       "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "last_checked": "2026-11-26",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "zeal",
         "partner": "miners-state-bank"
@@ -8569,7 +8779,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "cu1",
         "partner": "gulf-coast-fcu"
@@ -8775,7 +8985,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "cu1",
         "partner": "first-class-community-cu"
@@ -9154,7 +9364,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "allegent",
         "partner": "penn-hills-municipal-fcu"
@@ -9308,7 +9518,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "bp-fcu",
         "partner": "southern-star-cu"
@@ -9460,7 +9670,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "sterling-fcu",
         "partner": "fort-morgan-schools-fcu"
@@ -9639,7 +9849,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "nuvision",
         "partner": "dow-great-western-cu"
@@ -9793,7 +10003,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "sharefax",
         "partner": "members-trust-fcu"
@@ -9947,7 +10157,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "agriculture-fcu",
         "partner": "nrcs-fcu"
@@ -10101,7 +10311,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "healthcare-systems-fcu",
         "partner": "summit-hampton-roads-fcu"
@@ -10261,7 +10471,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "cy-fair-fcu",
         "partner": "baker-hughes-fcu"
@@ -10464,7 +10674,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "norstar",
         "partner": "healthcare-plus-fcu"
@@ -10655,7 +10865,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "daniels-sheridan-fcu",
         "partner": "fort-peck-community-fcu"
@@ -10820,7 +11030,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "first-south-financial",
         "partner": "delta-refining-fcu"
@@ -10985,7 +11195,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "kimberly-clark-cu",
         "partner": "west-tennessee-cu"
@@ -11155,7 +11365,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "hope-fcu",
         "partner": "nrs-community-development-fcu"
@@ -11314,7 +11524,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "sjp-fcu",
         "partner": "dunlop-employees-fcu"
@@ -11523,7 +11733,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "kemba",
         "partner": "cincinnati-interagency-fcu"
@@ -11707,7 +11917,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "tech-cu",
         "partner": "great-horizons-fcu"
@@ -11866,7 +12076,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "robins-financial",
         "partner": "harris-employees-cu"
@@ -12017,7 +12227,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "acquirer": "port-washington-fcu",
         "partner": "great-neck-school-employees-fcu"
