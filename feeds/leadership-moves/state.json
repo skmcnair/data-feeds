@@ -1,32 +1,18 @@
 {
-  "last_review": "2026-11-26T00:30:00-05:00",
-  "last_review_file": "2026-11-26-0030.json",
+  "last_review": "2026-11-27T00:39:00-05:00",
+  "last_review_file": "2026-11-27-0039.json",
   "last_review_result": "partial",
   "last_review_errors": [
-    "CUInsight 'United elevates two proven leaders' (Nov 24) and 'The measure of leadership' (Nov 25) could not be opened (Google News links too long, CUInsight refuses); the United FCU rows are dated from CU Daily's Nov 25 story",
-    "Not opened: Mainebiz Bucksport CU retirement story (matched by search to Seaboard FCU's Kyle Casburn, a pre-Oct 20 announcement), Law360/MLex 'Conn. Credit Union Names First GC' (paywalled)"
+    "Missed earlier: Charter Oak FCU's Oct 20 release naming Sean McNair Chief Experience Officer was not in the first load; added today",
+    "Skipped as announced before Oct 20: CU Circle reposts of Kevin Brower (SCU CU, CLO, Aug 17) and Angie Kenneke (UnitedOne CU, CLO, Aug 14); America First's Missy Key/Thayne Shaffer CEO succession (Oct 13); AmeriCU VP/AVP/Director hires (Sept 30); Charter Oak's Kristin Zummo (COO) and Holly DePerry (CLO) chamber repost is undated and appears to predate Oct 20",
+    "Still unidentified: Law360 'Conn. Credit Union Names First GC From State Banking Dept.' (paywalled; no other source found)",
+    "CUInsight press-release pages and archive mostly refuse automated reading; numeric ?p= links work"
   ],
   "last_review_report": {
     "added": [
       {
-        "id": "2026-11-25-antinea-middleton-usalliance-federal-credit-union-hired",
-        "summary": "Antinea Middleton / USAlliance Federal Credit Union / Hired"
-      },
-      {
-        "id": "2026-11-25-andrew-libonati-usalliance-federal-credit-union-hired",
-        "summary": "Andrew Libonati / USAlliance Federal Credit Union / Hired"
-      },
-      {
-        "id": "2026-11-25-anna-hudes-usalliance-federal-credit-union-hired",
-        "summary": "Anna Hudes / USAlliance Federal Credit Union / Hired"
-      },
-      {
-        "id": "2026-11-25-tina-vaught-united-federal-credit-union-promoted",
-        "summary": "Tina Vaught / United Federal Credit Union / Promoted"
-      },
-      {
-        "id": "2026-11-25-darian-phillips-united-federal-credit-union-promoted",
-        "summary": "Darian Phillips / United Federal Credit Union / Promoted"
+        "id": "2026-10-20-sean-mcnair-charter-oak-federal-credit-union-hired",
+        "summary": "Sean McNair / Charter Oak Federal Credit Union / Hired"
       }
     ],
     "updated": [],
@@ -49,7 +35,7 @@
       "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
       "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
     ],
-    "reviewed": 30,
+    "reviewed": 14,
     "rejected": []
   },
   "last_collect": "2026-11-26T23:23:52-05:00",

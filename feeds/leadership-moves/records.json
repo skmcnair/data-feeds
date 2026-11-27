@@ -795,7 +795,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "credit-union-one"
       }
@@ -1320,7 +1320,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1399,7 +1399,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1949,7 +1949,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -2029,7 +2029,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -2178,7 +2178,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -2264,7 +2264,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -3268,7 +3268,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "westconsin-cu"
       }
@@ -3498,7 +3498,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3582,7 +3582,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3955,7 +3955,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "all-one"
       }
@@ -5285,7 +5285,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "peach-state-fcu"
       }
@@ -5436,7 +5436,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5521,7 +5521,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5743,7 +5743,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "plus-cu"
       }
@@ -5874,7 +5874,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "great-erie-fcu"
       }
@@ -5943,6 +5943,73 @@
       "last_checked": "2026-11-22",
       "org_slugs": {
         "organization": "gfa-fcu"
+      }
+    },
+    {
+      "id": "2026-10-20-sean-mcnair-charter-oak-federal-credit-union-hired",
+      "fields": {
+        "announced": "2026-10-20",
+        "name": "Sean McNair",
+        "organization": "Charter Oak Federal Credit Union",
+        "move": "Hired",
+        "title": "Chief Experience Officer",
+        "level": "C-suite",
+        "function": "Member Experience",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "EVP, Chief Growth & Innovation Officer",
+        "previous_org": "Lighthouse Credit Union",
+        "succeeds": "Sundae Franklin",
+        "successor": null,
+        "city": "Waterford",
+        "state": "CT",
+        "org_assets": 1688.8,
+        "org_members": 79126,
+        "assets_as_of": "Q3 2026",
+        "notes": "Earlier VP of Marketing & Experience at Digital Federal Credit Union."
+      },
+      "sources": [
+        {
+          "label": "Charter Oak release",
+          "url": "https://charteroak.org/news/charter-oak-announces-new-chief-officer/",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/3413",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 0,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_title": 0,
+        "previous_org": 0,
+        "succeeds": 0,
+        "notes": 0,
+        "city": 1,
+        "state": 1,
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-27",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-27",
+      "updated": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "org_slugs": {
+        "organization": "charter-oak-fcu"
       }
     },
     {
@@ -6112,7 +6179,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "sun-east-fcu"
       }
