@@ -115,6 +115,16 @@
   "file": "caltech-employees-fcu-v1.png",
   "result": "current"
  },
+ "canvas": {
+  "checked": "2026-11-27",
+  "confirmed": {
+   "date": "2026-08-18",
+   "source": "https://fortune.com/press-releases/canvas-credit-union-growth-community-partnerships-2026-08-18/"
+  },
+  "file": "canvas-v1.png",
+  "note": "no logo found on the live site; source undated",
+  "result": "confirmed"
+ },
  "capital-cu-wi": {
   "checked": "2026-11-23",
   "file": "capital-cu-wi-v1.png",
@@ -267,6 +277,16 @@
   "file": "global-fcu-ak-v1.png",
   "result": "current"
  },
+ "golden-1": {
+  "checked": "2026-11-27",
+  "confirmed": {
+   "date": "2026-07-30",
+   "source": "https://www.prnewswire.com/news-releases/golden-1-credit-union-recognized-for-leadership-and-workplace-excellence-302839113.html"
+  },
+  "file": "golden-1-v1.png",
+  "note": "site error The read operation timed out; source undated",
+  "result": "confirmed"
+ },
  "golden-circle-cu": {
   "checked": "2026-11-23",
   "file": "golden-circle-cu-v1.png",
@@ -391,6 +411,16 @@
   "checked": "2026-11-25",
   "file": "maine-savings-v1.png",
   "result": "current"
+ },
+ "members-choice-of-central-texas": {
+  "checked": "2026-11-27",
+  "confirmed": {
+   "date": "2026-11-27",
+   "source": "https://www.choicefcu.com"
+  },
+  "file": "members-choice-of-central-texas-v1.png",
+  "note": "no logo found on the live site; source dated 2025-01-01; confirm against a source from the last 12 months",
+  "result": "confirmed"
  },
  "members-first-cu-mi": {
   "file": "members-first-cu-mi-v1.png",

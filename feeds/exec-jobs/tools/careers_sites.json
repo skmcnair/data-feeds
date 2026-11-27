@@ -57,10 +57,10 @@
    "assets_m": 29196.1,
    "website": "http://www.penfed.org",
    "careers_url": "",
-   "platform": "icims",
-   "board_url": "https://careers-penfed.icims.com/jobs/search",
-   "status": "unsupported",
-   "note": "careers.penfed.org (custom site; iCIMS board returns no list)"
+   "platform": "careers_page",
+   "board_url": "https://careers.penfed.org/jobs",
+   "status": "mapped",
+   "note": "careers.penfed.org/jobs lists every job on one page (Webflow)"
   },
   {
    "charter": "23521",
@@ -3705,9 +3705,9 @@
    "assets_m": 1617.7,
    "website": "",
    "careers_url": "",
-   "platform": "",
-   "board_url": "",
-   "status": "unmapped",
+   "platform": "jazzhr",
+   "board_url": "https://sffirecu.applytojob.com/apply",
+   "status": "mapped",
    "note": ""
   },
   {

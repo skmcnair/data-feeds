@@ -7937,7 +7937,20 @@
       "kind": "credit_union",
       "charter": "61650",
       "website": "https://www.golden1.com",
-      "state": "CA"
+      "state": "CA",
+      "logo": {
+        "file": "golden-1-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://mma.prnewswire.com/media/2858654/Golden_1_Credit_Union_logo_Logo.jpg?p=twitter",
+        "fingerprint": "080bc5a68db4cd06d95acaa2934a9332d36a28e5aab5d12a0650d6da171a1692",
+        "aspect": 2.836,
+        "pinned": false,
+        "added": "2026-11-27",
+        "checked": "2026-11-27",
+        "previous": [],
+        "ignored": []
+      }
     },
     "security-service": {
       "name": "Security Service Federal Credit Union",
@@ -8064,7 +8077,20 @@
       "kind": "credit_union",
       "charter": "64778",
       "website": "https://www.canvas.org",
-      "state": "CO"
+      "state": "CO",
+      "logo": {
+        "file": "canvas-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://press-release-generator-production.s3.us-west-1.amazonaws.com/sq481hgbj3ma76504ycmxfs4l9yt?format=webp&w=1440&quality=75",
+        "fingerprint": "02ac03ac05ad039302b42535401aa526ad64721866a452b6aaa4000055e805cc",
+        "aspect": 2.178,
+        "pinned": false,
+        "added": "2026-11-27",
+        "checked": "2026-11-27",
+        "previous": [],
+        "ignored": []
+      }
     },
     "altra": {
       "name": "Altra Federal Credit Union",
@@ -8251,7 +8277,20 @@
       "kind": "credit_union",
       "charter": "199",
       "website": "https://www.choicefcu.com",
-      "state": "TX"
+      "state": "TX",
+      "logo": {
+        "file": "members-choice-of-central-texas-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://choicefcu.com/wp-content/uploads/2025/01/mccu-logo.svg",
+        "fingerprint": "81088000911a811aca594d8d9d948600cc80cdc8a5409400996099b259b29370",
+        "aspect": 2.969,
+        "pinned": false,
+        "added": "2026-11-27",
+        "checked": "2026-11-27",
+        "previous": [],
+        "ignored": []
+      }
     },
     "leading-edge-cu": {
       "name": "Leading Edge Credit Union",
