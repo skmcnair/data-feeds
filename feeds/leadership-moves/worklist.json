@@ -1,9 +1,27 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-27T16:39:10-05:00",
+  "generated": "2026-11-27T17:11:18-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "725f4673b512",
+      "title": "Why A Later Divorce Deal Didn't Erase A $35,000 Retirement Transfer -",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWFOa1lNWGFzbTVaa3UtWmpndEhRcjh5bXlEYjNoV2RQMm1yQ0NuYWJMMXcxZ0U0R3ZEdi11eWxIMTl1d3VlZ29SR1R2V1JQd1Z3Z2Q0ZUl3eTF6SjdCakYyMDJ6bG1RUmY2Tlc1d3BiSDNYdDREYlRqcDM5S2o4LXhJWlRfYlAwZFE",
+      "source": "Google News - credit union retirements",
+      "published": "2026-11-27T12:56:45-05:00",
+      "found": "2026-11-27T17:11:12-05:00",
+      "summary": "Why A Later Divorce Deal Didn't Erase A $35,000 Retirement Transfer"
+    },
+    {
+      "id": "d9a90ee4dec1",
+      "title": "Barry Lyons, CPA, Joins Boyer & Ritter's Construction and Manufacturing Practices - Pennsylvania Business Central",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU4zRzAxa1k1RlE2M0ZzTVNiTW1FWFZIOC12ZTdLblJqdVBHVGFtV3lMeTdLZHFyY01PaWYzalQzSFNyaGJrLU9NM0RPOUFlaThXelN2Yk1qbmhTZkd5dF9NakR1YTNxOURNdlN0SnZOSEJiM2laQ0J3UDlsa2tsQlpFd0U1dnUtcVBDM0pORFR5ZE94b2h4SjVyWUd4Skl0WWd3alR6MFJ0OXBkQ0FzNHZYalB5Q3NpdGxrcUtwaw",
+      "source": "Google News - credit union appointments",
+      "published": "2026-11-27T11:36:22-05:00",
+      "found": "2026-11-27T17:11:12-05:00",
+      "summary": "Barry Lyons, CPA, Joins Boyer & Ritter's Construction and Manufacturing Practices Pennsylvania Business Central"
+    },
     {
       "id": "ca319cc46d94",
       "title": "Penn State Federal Credit Union Names David Restino as Chief Financial Officer - Pennsylvania Business Central",
