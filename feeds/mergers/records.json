@@ -1,6 +1,111 @@
 {
   "records": [
     {
+      "id": "2026-11-27-peak-credit-union-southwest-heritage-bank",
+      "fields": {
+        "announced": "2026-11-27",
+        "acquirer": "Peak Credit Union",
+        "partner": "Southwest Heritage Bank",
+        "deal_type": "Bank purchase",
+        "status": "Announced",
+        "expected_close": "H2 2027",
+        "member_vote": null,
+        "completed": null,
+        "new_name": null,
+        "ceo": "David Tuyo",
+        "acquirer_ceo": "David Tuyo",
+        "partner_ceo": "Ciaran McMullan",
+        "acquirer_city": "Lacey",
+        "partner_city": "Scottsdale",
+        "acquirer_assets": 4323.1,
+        "acquirer_members": 267179,
+        "acquirer_locations": 35,
+        "partner_assets": 879.0,
+        "partner_members": null,
+        "partner_locations": 9,
+        "combined_assets": 5202.1,
+        "combined_members": null,
+        "combined_locations": 44,
+        "footprint": "WA, OR, AZ, NM, TX",
+        "announced_figures": null,
+        "next_steps": "Customary regulatory approvals and approval by Bancorp 34, Inc. stockholders",
+        "size_as_of": "Q3 2026",
+        "state": "WA",
+        "partner_state": "AZ",
+        "notes": "All-cash purchase: Peak acquires substantially all of Southwest Heritage Bank's assets and assumes substantially all of its liabilities. The bank's parent, Bancorp 34, Inc. (OTC: BCTF), puts the value at an estimated $20.67 to $22.18 per share ($159M to $171M in aggregate); the bank and Bancorp 34 dissolve after closing and distribute the remaining assets to stockholders. Boards of all three approved unanimously. Takes Peak (formed from the TwinStar and Northwest Community merger) into Arizona and New Mexico. Southwest Heritage President Paul Tees will lead commercial banking for the combined organization, and Peak plans to keep all bank employees. The bank's release counts seven full-service branches (Maricopa and Pima counties, AZ; Otero and Dona Ana counties, NM); FDIC lists nine offices, including one in Texas. Advisers: McQueen Financial Advisors and Luse Gorman (Peak); D.A. Davidson and Otteson Shapiro (Bancorp 34)."
+      },
+      "sources": [
+        {
+          "label": "Peak CU release (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/peak-credit-union-announces-agreement-to-acquire-southwest-heritage-bank-302951825.html",
+          "type": "primary"
+        },
+        {
+          "label": "Bancorp 34 / Southwest Heritage Bank release (ACCESS Newswire, via Stock Titan)",
+          "url": "https://www.stocktitan.net/news/BCTF/southwest-heritage-bank-announces-acquisition-agreement-with-peak-v53tkgt14z63.html",
+          "type": "primary"
+        },
+        {
+          "label": "Bancorp 34 executive transition release (Jun 1, 2026)",
+          "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/bancorp-34-inc.-announces-executive-transition-1172661",
+          "type": "primary"
+        },
+        {
+          "label": "NCUA record, Peak CU (Sep 30, 2026 call report)",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/68271",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind, Southwest Heritage Bank (Sep 30, 2026)",
+          "url": "https://api.fdic.gov/banks/institutions?filters=CERT:29087",
+          "type": "regulator"
+        },
+        {
+          "label": "FDIC BankFind locations, Southwest Heritage Bank",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:29087",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "acquirer": 0,
+        "partner": 0,
+        "deal_type": 0,
+        "status": 0,
+        "expected_close": 1,
+        "next_steps": 1,
+        "ceo": 0,
+        "acquirer_ceo": 0,
+        "partner_ceo": 2,
+        "acquirer_city": 3,
+        "acquirer_assets": 3,
+        "acquirer_members": 3,
+        "acquirer_locations": 3,
+        "state": 3,
+        "size_as_of": 3,
+        "combined_assets": 3,
+        "partner_city": 4,
+        "partner_assets": 4,
+        "partner_state": 4,
+        "partner_locations": 5,
+        "combined_locations": 5,
+        "footprint": 5
+      },
+      "history": [
+        {
+          "date": "2026-11-28",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-28",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "acquirer": "peak-cu",
+        "partner": "southwest-heritage-bank"
+      }
+    },
+    {
       "id": "2026-11-24-family-savings-credit-union-liberty-bank",
       "fields": {
         "announced": "2026-11-24",
@@ -100,7 +205,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "family-savings",
         "partner": "liberty-bank-al"
@@ -290,7 +395,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "dcfcu",
         "partner": "evermore-bank"
@@ -484,7 +589,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "sunmark",
         "partner": "directors-choice-cu"
@@ -700,7 +805,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "max-cu",
         "partner": "first-financial-bank"
@@ -897,7 +1002,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "selco",
         "partner": "numerica"
@@ -1039,7 +1144,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "financial-plus",
         "partner": "monroe-community-cu"
@@ -1220,7 +1325,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "penair",
         "partner": "fort-mcclellan-cu"
@@ -1663,7 +1768,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "communityamerica",
         "partner": "westreet-cu"
@@ -1802,7 +1907,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "msufcu",
         "partner": "ufcu"
@@ -1965,7 +2070,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "first-responders-cu",
         "partner": "lynn-firemen-s-fcu"
@@ -2050,7 +2155,7 @@
       ],
       "added": "2026-11-26",
       "updated": "2026-11-26",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "unity-financial-cu",
         "partner": "gha-fcu"
@@ -2286,7 +2391,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "on-tap",
         "partner": "sky-fcu"
@@ -2456,7 +2561,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "partner": "scott-cu",
         "acquirer": "consumers-cu"
@@ -3097,7 +3202,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "streator-onized-cu",
         "partner": "anco-community-cu"
@@ -3432,7 +3537,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "sierra-central",
         "partner": "first-u-s"
@@ -4226,7 +4331,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "nutmeg",
         "partner": "new-haven-teachers-fcu"
@@ -4492,7 +4597,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "bcu",
         "partner": "healthcare-associates-cu"
@@ -4873,7 +4978,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "loc-cu",
         "partner": "advantage-one"
@@ -5198,7 +5303,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "team-one",
         "partner": "case-cu"
@@ -5624,7 +5729,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "ascend",
         "partner": "lge"
@@ -6062,7 +6167,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "metro-cu",
         "partner": "members-plus-cu"
@@ -6744,7 +6849,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "hanscom-fcu",
         "partner": "alden-cu"
@@ -7403,7 +7508,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "becu",
         "partner": "safe-cu"
@@ -8568,7 +8673,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-26",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "west-aircomm-fcu",
         "partner": "southwest-communities-fcu"
@@ -12656,7 +12761,7 @@
       ],
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "acquirer": "hoosier-hills",
         "partner": "martin-county-co-op-cu"

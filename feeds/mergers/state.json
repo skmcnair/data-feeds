@@ -1,197 +1,48 @@
 {
-  "last_review": "2026-11-27T03:52:00-05:00",
-  "last_review_file": "2026-11-27-0352.json",
+  "last_review": "2026-11-28T03:50:00-05:00",
+  "last_review_file": "2026-11-28-0350.json",
   "last_review_result": "partial",
   "last_review_errors": [
-    "Hartford Business Journal 'Expanding East Hartford credit union seeks 10th merger' (Nov 25) still can't be opened (4xx); the East Hartford CU is America's First Network CU, but its merger partner isn't public yet (not in CT DOB bulletins through Nov 13; the Nov 20 bulletin isn't posted; not on NCUA's list)",
-    "Trade-press listing pages (CU Today, Credit Union Daily, CUInsight, Banking Dive, CreditUnions.com) could not be opened by WebFetch; the sweep relied on WebSearch",
-    "NY DFS weekly bulletins refused the request (403)"
+    "Hartford Business Journal 'Expanding East Hartford credit union seeks 10th merger' (Nov 25) still can't be opened (client error); America's First Network CU's new partner still isn't public (not on NCUA's list, CT DOB merger page shows no proposed activity, the Nov 20 DOB bulletin isn't in search results)",
+    "WebFetch only opened pages that came back as search results; trade-press listing pages (Banking Dive's credit-union page is a stale 2024 copy) weren't usable, so the sweep relied on WebSearch",
+    "Logos still missing for 19 small or merged organizations: their sites now redirect to the acquirer (UKCU, Home FCU, KEMBA, Garden Savings, Bienestar, Interra, West-Aircomm), show no logo (Lynn Firemen's, Plains FCU), sit behind Cloudflare (Baker Hughes FCU) or don't exist; the Internet Archive isn't reachable from here"
   ],
   "last_review_report": {
-    "added": [],
-    "updated": [
+    "added": [
       {
-        "id": "2026-11-17-dade-county-federal-credit-union-evermore-bank",
-        "note": "Sizes refreshed to Q3 2026: Evermore Bank assets $332.7M at Sep 30, 2026 (FDIC; was $316.9M at Jun 30); combined $1.89B",
-        "changes": [
-          {
-            "field": "partner_assets",
-            "old": 316.9,
-            "new": 332.7
-          },
-          {
-            "field": "combined_assets",
-            "old": 1870.1,
-            "new": 1885.9
-          },
-          {
-            "field": "size_as_of",
-            "old": "CU Q3 2026; bank Q2 2026",
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-11-10-max-credit-union-first-financial-bank",
-        "note": "Sizes refreshed to Q3 2026: First Financial Bank assets $246.1M at Sep 30, 2026 (FDIC; was $248.1M at Jun 30); combined $2.62B",
-        "changes": [
-          {
-            "field": "partner_assets",
-            "old": 248.1,
-            "new": 246.1
-          },
-          {
-            "field": "combined_assets",
-            "old": 2617.8,
-            "new": 2615.8
-          },
-          {
-            "field": "size_as_of",
-            "old": "CU Q3 2026; bank Q2 2026",
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-10-19-dfcu-financial-credit-union-gulfside-bank",
-        "note": "Sizes refreshed to Q3 2026: Gulfside Bank assets $359.1M at Sep 30, 2026 (FDIC; was $344.6M at Jun 30); combined $8.33B",
-        "changes": [
-          {
-            "field": "partner_assets",
-            "old": 344.6,
-            "new": 359.1
-          },
-          {
-            "field": "combined_assets",
-            "old": 8313.6,
-            "new": 8328.1
-          },
-          {
-            "field": "size_as_of",
-            "old": "CU Q3 2026; bank Q2 2026",
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-09-25-gulf-winds-credit-union-peoples-exchange-bank",
-        "note": "Sizes refreshed to Q3 2026: Peoples Exchange Bank assets $94.4M at Sep 30, 2026 (FDIC; was $98.6M at Jun 30); combined $1.47B",
-        "changes": [
-          {
-            "field": "partner_assets",
-            "old": 98.6,
-            "new": 94.4
-          },
-          {
-            "field": "combined_assets",
-            "old": 1473.4,
-            "new": 1469.2
-          },
-          {
-            "field": "size_as_of",
-            "old": "CU Q3 2026; bank Q2 2026",
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-08-25-gulf-winds-credit-union-madison-county-community-bank",
-        "note": "Sizes refreshed to Q3 2026: Madison County Community Bank assets $214.3M at Sep 30, 2026 (FDIC; was $211.7M at Jun 30); combined $1.59B",
-        "changes": [
-          {
-            "field": "partner_assets",
-            "old": 211.7,
-            "new": 214.3
-          },
-          {
-            "field": "combined_assets",
-            "old": 1586.5,
-            "new": 1589.1
-          },
-          {
-            "field": "size_as_of",
-            "old": "CU Q3 2026; bank Q2 2026",
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-07-21-gesa-credit-union-willamette-valley-bank",
-        "note": "Sizes refreshed to Q3 2026: Willamette Valley Bank assets $465.8M at Sep 30, 2026 (FDIC; was $465.4M at Jun 30); combined $7.30B",
-        "changes": [
-          {
-            "field": "partner_assets",
-            "old": 465.4,
-            "new": 465.8
-          },
-          {
-            "field": "combined_assets",
-            "old": 7299.7,
-            "new": 7300.1
-          },
-          {
-            "field": "size_as_of",
-            "old": "CU Q3 2026; bank Q2 2026",
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
-      },
-      {
-        "id": "2026-01-08-zeal-credit-union-the-miners-state-bank",
-        "note": "Sizes refreshed to Q3 2026: The Miners State Bank assets $140.4M at Sep 30, 2026 (FDIC; was $134.8M at Jun 30); combined $1.19B",
-        "changes": [
-          {
-            "field": "partner_assets",
-            "old": 134.8,
-            "new": 140.4
-          },
-          {
-            "field": "combined_assets",
-            "old": 1181.9,
-            "new": 1187.5
-          },
-          {
-            "field": "size_as_of",
-            "old": "CU Q3 2026; bank Q2 2026",
-            "new": "Q3 2026"
-          }
-        ],
-        "kept": []
+        "id": "2026-11-27-peak-credit-union-southwest-heritage-bank",
+        "summary": "Peak Credit Union / Southwest Heritage Bank"
       }
     ],
+    "updated": [],
     "rechecked": [
+      "undated-hoosier-hills-credit-union-martin-county-co-op-credit-union",
+      "2026-10-28-selco-community-credit-union-numerica-credit-union",
+      "2026-10-27-financial-plus-credit-union-monroe-community-credit-union",
+      "2026-10-21-penair-credit-union-fort-mcclellan-credit-union",
+      "undated-communityamerica-credit-union-westreet-credit-union",
+      "2026-10-13-michigan-state-university-federal-credit-union-university-federal-credit-union",
+      "2026-10-08-first-responders-credit-union-lynn-firemen-s-federal-credit-union",
+      "2026-10-05-unity-financial-credit-union-gha-federal-credit-union",
+      "2026-10-05-on-tap-credit-union-sky-federal-credit-union",
+      "2026-10-01-consumers-credit-union-scott-credit-union",
+      "undated-streator-onized-credit-union-anco-community-credit-union",
+      "2026-09-03-sierra-central-credit-union-first-u-s-community-credit-union",
+      "2026-06-15-nutmeg-state-financial-credit-union-new-haven-teachers-federal-credit-union",
+      "undated-baxter-credit-union-healthcare-associates-credit-union",
+      "2026-05-15-loc-credit-union-advantage-one-credit-union",
+      "2026-05-05-team-one-credit-union-case-credit-union",
+      "undated-ascend-federal-credit-union-lge-community-credit-union",
+      "2026-04-02-metro-credit-union-members-plus-credit-union",
+      "2026-02-05-hanscom-federal-credit-union-alden-credit-union",
+      "2025-11-18-boeing-employees-credit-union-safe-credit-union",
+      "undated-west-aircomm-federal-credit-union-southwest-communities-federal-credit-union",
       "2026-11-24-family-savings-credit-union-liberty-bank",
+      "2026-11-17-dade-county-federal-credit-union-evermore-bank",
       "2026-11-10-sunmark-credit-union-directors-choice-credit-union",
-      "undated-firefighters-credit-union-p-and-s-credit-union",
-      "undated-f-and-a-federal-credit-union-ontario-public-employees-federal-credit-union",
-      "undated-credit-union-1-gulf-coast-federal-credit-union",
-      "undated-credit-union-1-first-class-community-credit-union",
-      "undated-allegent-community-federal-credit-union-penn-hills-municipal-federal-credit-union",
-      "undated-bp-federal-credit-union-southern-star-credit-union",
-      "undated-sterling-federal-credit-union-fort-morgan-schools-federal-credit-union",
-      "undated-nuvision-federal-credit-union-dow-great-western-credit-union",
-      "undated-sharefax-credit-union-members-trust-federal-credit-union",
-      "undated-agriculture-federal-credit-union-natural-resource-conservation-service-federal-cre",
-      "undated-healthcare-systems-federal-credit-union-summit-hampton-roads-federal-credit-union",
-      "undated-cy-fair-federal-credit-union-baker-hughes-federal-credit-union",
-      "undated-norstar-federal-credit-union-healthcare-plus-federal-credit-union",
-      "undated-daniels-sheridan-federal-credit-union-fort-peck-community-federal-credit-union",
-      "undated-first-south-financial-federal-credit-union-delta-refining-co-emp-federal-credit-un",
-      "undated-kimberly-clark-credit-union-the-west-tennessee-credit-union",
-      "undated-hope-federal-credit-union-nrs-community-development-federal-credit-union",
-      "undated-sjp-federal-credit-union-dunlop-employees-federal-credit-union",
-      "undated-kemba-credit-union-cincinnati-interagency-federal-credit-union",
-      "undated-tech-credit-union-great-horizons-federal-credit-union",
-      "undated-robins-financial-credit-union-harris-employees-credit-union",
-      "undated-port-washington-federal-credit-union-great-neck-school-employees-federal-credit-un"
+      "2026-11-10-max-credit-union-first-financial-bank"
     ],
-    "reviewed": 3,
+    "reviewed": 12,
     "rejected": []
   },
   "last_collect": "2026-11-28T02:31:38-05:00",
