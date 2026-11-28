@@ -900,8 +900,8 @@
         "title": "VP, Internal Audit",
         "level": "EVP / SVP / VP",
         "function": "Risk & Compliance",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-28",
         "filled_by": null,
         "search_firm": null,
         "pay_range": null,
@@ -926,6 +926,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66328",
           "type": "regulator"
+        },
+        {
+          "label": "Wright-Patt careers (SilkRoad)",
+          "url": "https://jobs.silkroad.com/WPCU/Careers/jobs",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -934,17 +939,38 @@
         "assets_as_of": 1,
         "size_band": 1,
         "city": 1,
-        "state": 1
+        "state": 1,
+        "status": 2,
+        "closed": 2
       },
       "history": [
         {
           "date": "2026-11-25",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "Wright-Patt's own careers board (SilkRoad), now read directly, doesn't list it; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-28"
+            }
+          ],
+          "sources": [
+            "https://jobs.silkroad.com/WPCU/Careers/jobs"
+          ]
         }
       ],
       "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "wright-patt"
       }
@@ -4664,8 +4690,8 @@
         "title": "VP, Treasury & Asset-Liability Management",
         "level": "EVP / SVP / VP",
         "function": "Finance",
-        "status": "Open",
-        "closed": null,
+        "status": "Closed",
+        "closed": "2026-11-28",
         "filled_by": null,
         "search_firm": null,
         "pay_range": null,
@@ -4695,6 +4721,11 @@
           "label": "NCUA",
           "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66328",
           "type": "regulator"
+        },
+        {
+          "label": "Wright-Patt careers (SilkRoad)",
+          "url": "https://jobs.silkroad.com/WPCU/Careers/jobs",
+          "type": "primary"
         }
       ],
       "field_sources": {
@@ -4703,17 +4734,38 @@
         "assets_as_of": 2,
         "size_band": 2,
         "city": 2,
-        "state": 2
+        "state": 2,
+        "status": 3,
+        "closed": 3
       },
       "history": [
         {
           "date": "2026-11-25",
           "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "Wright-Patt's own careers board (SilkRoad), now read directly, doesn't list it; no hire announced",
+          "changes": [
+            {
+              "field": "status",
+              "old": "Open",
+              "new": "Closed"
+            },
+            {
+              "field": "closed",
+              "old": null,
+              "new": "2026-11-28"
+            }
+          ],
+          "sources": [
+            "https://jobs.silkroad.com/WPCU/Careers/jobs"
+          ]
         }
       ],
       "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "wright-patt"
       }
@@ -8584,6 +8636,63 @@
       }
     },
     {
+      "id": "2026-09-08-allsouth-federal-credit-union-vp-accounting",
+      "fields": {
+        "posted": "2026-09-08",
+        "organization": "AllSouth Federal Credit Union",
+        "title": "VP, Accounting",
+        "level": "EVP / SVP / VP",
+        "function": "Finance",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Cornerstone Resources",
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Columbia, SC",
+        "job_url": "https://thecreditunionconnection.com/job/vice-president-of-accounting/",
+        "size_band": "$1B-$5B",
+        "city": "Columbia",
+        "state": "SC",
+        "org_assets": 1527.5,
+        "org_members": 119880,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "The Credit Union Connection (Cornerstone Resources)",
+          "url": "https://thecreditunionconnection.com/job/vice-president-of-accounting/",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/13828",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-28",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-28",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "organization": "allsouth"
+      }
+    },
+    {
       "id": "2026-09-08-texoma-educators-federal-credit-union-president-and-ceo",
       "fields": {
         "posted": "2026-09-08",
@@ -9261,6 +9370,63 @@
       "last_checked": "2026-11-27",
       "org_slugs": {
         "organization": "desert-financial-cu"
+      }
+    },
+    {
+      "id": "2026-08-12-rize-federal-credit-union-chief-member-experience-officer",
+      "fields": {
+        "posted": "2026-08-12",
+        "organization": "Rize Federal Credit Union",
+        "title": "Chief Member Experience Officer",
+        "level": "C-suite",
+        "function": "Member Experience",
+        "status": "Open",
+        "closed": null,
+        "filled_by": null,
+        "search_firm": "Mitchell Stankovic & Associates",
+        "pay_range": null,
+        "work_mode": null,
+        "job_location": "Irwindale, CA",
+        "job_url": "https://thecreditunionconnection.com/job/chief-member-experience-officer-cmxo/",
+        "size_band": "$1B-$5B",
+        "city": "Irwindale",
+        "state": "CA",
+        "org_assets": 1324.7,
+        "org_members": 91014,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "The Credit Union Connection (Mitchell Stankovic & Associates)",
+          "url": "https://thecreditunionconnection.com/job/chief-member-experience-officer-cmxo/",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/7835",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "org_assets": 1,
+        "org_members": 1,
+        "assets_as_of": 1,
+        "size_band": 1,
+        "city": 1,
+        "state": 1
+      },
+      "history": [
+        {
+          "date": "2026-11-28",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-28",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "organization": "rize-cu"
       }
     },
     {
@@ -9971,7 +10137,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "heritage-financial-fcu-ny"
       }
@@ -10040,7 +10206,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "valley-first-cu-ca"
       }
@@ -10245,7 +10411,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "oswego-county-fcu"
       }
@@ -10309,7 +10475,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "alabama-cu"
       }
@@ -10441,7 +10607,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "arapahoe-cu"
       }
@@ -10506,7 +10672,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "noble-cu"
       }
@@ -10571,7 +10737,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "noble-cu"
       }
@@ -10636,7 +10802,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "cutx"
       }
@@ -10701,7 +10867,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "chevron-fcu"
       }
@@ -10823,7 +10989,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "town-and-country-cu-nd"
       }
@@ -11571,7 +11737,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "seattle-cu"
       }
@@ -11634,7 +11800,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "rocky-mountain-cu-mt"
       }
@@ -11698,7 +11864,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "cu1"
       }
@@ -11761,7 +11927,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "community-first-cu-fl"
       }
@@ -11824,7 +11990,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "community-first-cu-fl"
       }
@@ -11975,7 +12141,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "multipli-cu"
       }
@@ -12038,7 +12204,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "truity-fcu"
       }
@@ -12101,7 +12267,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "golden-circle-cu"
       }
@@ -12164,7 +12330,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "americhoice-fcu"
       }
@@ -12227,7 +12393,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "golden-circle-cu"
       }
@@ -12290,7 +12456,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "we-florida-financial"
       }
@@ -12353,7 +12519,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "uecu"
       }
@@ -12416,7 +12582,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "first-heritage-fcu"
       }
@@ -12479,7 +12645,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "qside-fcu"
       }
@@ -12605,7 +12771,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "richland-fcu-mt"
       }
