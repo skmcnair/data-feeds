@@ -1,9 +1,72 @@
 {
   "feed": "mergers",
-  "generated": "2026-11-27T19:36:18-05:00",
+  "generated": "2026-11-27T20:32:05-05:00",
   "trial": true,
   "lookback_days": 3,
   "pending_inbox": [
+    {
+      "id": "b083f71e2965",
+      "title": "First Citizens Bank Enters into Whole Bank Purchase of United Fidelity Bank, fsb",
+      "url": "https://www.prnewswire.com/news-releases/first-citizens-bank-enters-into-whole-bank-purchase-of-united-fidelity-bank-fsb-302951956.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-27T19:40:00-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "Acquisition strengthens First Citizens' competitive position and supports sustainable value creation for stakeholders RALEIGH, N.C., Nov. 27, 2026 /PRNewswire/ -- First-Citizens Bank & Trust Company (\"First Citizens Bank\"), the wholly owned"
+    },
+    {
+      "id": "5fe18857d48e",
+      "title": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union - The Batesville Daily Guard",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPREFweDdHcWpBN2gzZ0NkX1Z1WG1YeUVmUjhIRjFCN0lINkRMQlhIaXdNaHg5OGl4YW5GbW5qQlZHLUd4S3JJRlNla3Y3U2lUc28tWTlSREZLNEJsV292S2U5bDZGb1cyY1M0NDZ0WTdvbXdTUXEzRkhzSWlmRU8tWWVSYjJ2d05TYTZMM3g5UHBIdkJ0d3p1YUY5RXFLODMwcFByYWYxZURLcmd5dk1KU3dKbEFMeWhhRE45d1A3MWxWZHFuQTNvMVFCMWRsV3lGVDBQWWJJZHh5ajBBMUwxMHpBWnE1SVRnNnFOdzJIY2xOc29kVU1iazJfSG9OVE0",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-27T17:46:35-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union The Batesville Daily Guard"
+    },
+    {
+      "id": "02ad2daf41be",
+      "title": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union - lincolnjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNjZXU01YNk1GUXhrZC1QX1g4dU5xQXFLeWloVC03R1ZNNU1rWDhKbnN3RlhtMW5WbWxtWHd1MEpOUlUzRFU5dGdsTHAxc2ZtTzctZkpWVlpKQmJZOG9ERjR0WF9WWWVIaXRNYk9NY2dZWUk5V2ZEYW9qMDZLUHRzWFZXM1FrOElTQmtqbVB1RFVCRzY3NW1jSDJEUTVheE13SnBFUm0tajFHS1Jjb0hRZFBxZndMbGlkWG5VMjZyQzNFaXF3X3RuSzdxZ09QRlo1eU9ib3BKMFFkRjlpcFp6VmZmVkZrY25nN0MxaWRob1FUbGc4c3FtRFdWdFY2aEdGV08zbDIwbFQybEduMzlVMi00bTM0NEptY2c",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-27T17:45:00-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union lincolnjournal.com"
+    },
+    {
+      "id": "9aad2cb9a7d9",
+      "title": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUlzMDA4QUdVWGtHeVZQX1VHbXFTdTRQdElnREluNUdqb3M1cFlNWFdJdFFTMEh6VXdja1QzY3JIMkdyV2VDT3h3bFBXLWdxdWN4QTIwMWN5SG1qOEJ3c1RiVFA5N2R5Q1hpUGM1VkVJbmpnc0xGNVQxdmpKaFlZck92MGVNanhYVDhFdmxwWG4tN2JTN1dRektSWWZvajY0am10Y0xmVDAybU5iaElYczFLYWdoel9ESXE1RQ",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-27T17:45:00-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union Stock Titan"
+    },
+    {
+      "id": "d5cbefb5de5e",
+      "title": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank",
+      "url": "https://www.prnewswire.com/news-releases/peak-credit-union-announces-agreement-to-acquire-southwest-heritage-bank-302951825.html",
+      "source": "PR Newswire banking",
+      "published": "2026-11-27T17:30:00-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "The proposed acquisition would deepen business banking expertise and expand Peak's reach into Arizona and New Mexico EUGENE, Ore. and LACEY, Wash. and SCOTTSDALE, Ariz., Nov. 27, 2026 /PRNewswire/ -- Peak Credit Union announced today that i"
+    },
+    {
+      "id": "2c88f8bd4869",
+      "title": "Peak Credit Union Agrees to Acquire Southwest Heritage Bank - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYU9reGJKT2pWRklMVTNUMktPR3Z3TUxva0FMQ0l0dGFSRHNmYmZTeDREazJOZXRnQklXZTlXT3k5aHZ3WlBWN05neHdqSjVIZUV0Y2xMVU1kY2gwS0lUOUJRcTBmaVUzZHZQdmw2N3I0dXJLNjB4Qldld0hZX2N2UkVPMkplRnQwbFVXZUFCcE5wR0pHM2VqSUhucEhlX25FMmhRN3hfTFpsMGpJdEpBTlQxd2tHRnVMYVI3Yld3",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-27T17:30:00-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "Peak Credit Union Agrees to Acquire Southwest Heritage Bank TradingView"
+    },
+    {
+      "id": "afb6103800db",
+      "title": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdlg1Q3UzZWEwblN1UUNWZFRfLTBuX2FyZGFUTUJvRmRjNXFxSzhOaGxfaUpLZ3VNMldnTXdsbXRnOW96X3lFV29xc29XRTN2OUlpeU41aWZ4aml4VlpzVVEzalYzNTF2N252SVUzb3RCYjZMNV9YSHdVRXp2TkNia1RhV3FZaV9xWHd6cmpibFBaR2UzeG51N1NPOUswTXlhQ1RWZG43Slc5RzFhaXowaTQyUElld3pNb1B1a2s1ZWdOU0t1bjZn",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-27T17:30:00-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank PR Newswire"
+    },
     {
       "id": "5116e52e0686",
       "title": "Credit union for Revelstoke, Summerland, Osoyoos to merge with Vancouver cooperative - Keremeos Review",
@@ -12,6 +75,24 @@
       "published": "2026-11-27T07:25:04-05:00",
       "found": "2026-11-27T08:33:26-05:00",
       "summary": "Credit union for Revelstoke, Summerland, Osoyoos to merge with Vancouver cooperative Keremeos Review"
+    },
+    {
+      "id": "6d58033be878",
+      "title": "BYD is set to become the first Chinese automaker to acquire an existing plant in Europe - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVHdMZzB2Wi1taVlCVWFBaE1uRnVSOVUtdU5neUdyOFVwejVKaU16UTFjWGY1MXhhVWdsNmNlZjA3WnNNcHdWSU8yUi1QX0FWMUx4OXNJYUp4c3JWbEZxaTZvdWhiVzhvcmIzcnpDNkp4M2NzVi1BcFhxek03MzVwNkZvdmlqMEd4ZFV1VjdxUW1VWno0QlN4MGdERzRHbksteDQyekwxNTVKWHd2S2paUGcxQkl2UDJvS2xNdXJENU5KaTFONF9RTjBER09FaTZ1VmZDMWRxNHlKbHFUM3pzdUE1OG8",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-24T10:52:58-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "BYD is set to become the first Chinese automaker to acquire an existing plant in Europe TradingView"
+    },
+    {
+      "id": "247b4781d009",
+      "title": "BlackSky acquires geospatial data science firm EpochGeo - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTVBGNFJJYTF4Q1FCQnN5WklHWjBMODB6OEJ5cEJzajUxaEc3bllxZ3EtSTIxU1NqLVdRZU1pRjhGV2IzdGltUkd0QTdaNjdoMldIUnk2TnJxQ0wxd1RRc3JhYXVyXzhFWVZLTVBxVlNrZ3Uzb1NHRnlhTGoyb25hNWpoOXlHYTdVWDJiZ1JXd19XTHp6M0p4RU10Y3VSQUVEbUNTUWVEd0NUQzEtVklaVU9MdGZ3bWh6SUE",
+      "source": "Google News - CU buys bank",
+      "published": "2026-11-24T08:42:55-05:00",
+      "found": "2026-11-27T20:32:02-05:00",
+      "summary": "BlackSky acquires geospatial data science firm EpochGeo TradingView"
     }
   ],
   "recheck": [
