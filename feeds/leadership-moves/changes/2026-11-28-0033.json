@@ -1,0 +1,117 @@
+{
+ "feed": "leadership-moves",
+ "run": {
+  "started": "2026-11-28T00:17:00-05:00",
+  "finished": "2026-11-28T00:33:00-05:00",
+  "searches": 48,
+  "errors": [
+   "Becky Potts (Marine CU) added from HR Today's headline only: the article (a Google News link) wouldn't open and no Marine CU release or post turned up; previous title from The Org",
+   "Skipped as announced before Oct 20: St. Mary's CU (Petkewich retirement, Brenda Diepold CEO; Sept 30 release reposted by CUInsight Nov 25); Hudson Valley CU's nine SVP promotions (Sept 29; Westfair repost Oct 26); Workers CU (MA) executive appointments (undated CCUA copy; its COO already appears in its 2025 annual report)",
+   "Out of scope: Cardwell naming Dickens Aubourg CEO (CUSO)",
+   "Re-checks: no changes. Plus CU's NCUA data is still Q2 2026; Great Erie FCU's NCUA record still lists Robyn Young as CEO",
+   "CUInsight press-release slugs, hrtoday.in and The Credit Union Connection's people page refused automated reading"
+  ]
+ },
+ "reviewed": [
+  "fc223fff30e3",
+  "11d9e12d33d6",
+  "725f4673b512",
+  "d9a90ee4dec1",
+  "ca319cc46d94",
+  "61999921e30e",
+  "a74a721910a5",
+  "0a7f11a34f46",
+  "80e6318310a2",
+  "996e90d58305",
+  "d72a43c7c914",
+  "8bf0f2725eb1",
+  "ad4552cf228b",
+  "7ce224f3a832",
+  "659e7516c162",
+  "fc46699add92",
+  "ccbc26833aef",
+  "53f3a35e6d5f",
+  "3916f07bf156",
+  "f4b1f626363f",
+  "1666af4131ed",
+  "8dda4602cd01",
+  "8d6fe5fdc7af",
+  "2beb8bf8bdb3",
+  "8528492acb78",
+  "7bd13d735882",
+  "881d374ebadf"
+ ],
+ "adds": [
+  {
+   "fields": {
+    "announced": "2026-11-24",
+    "name": "Becky Potts",
+    "organization": "Marine Credit Union",
+    "move": "Promoted",
+    "title": "Vice President of Human Resources",
+    "level": "VP",
+    "function": "People",
+    "status": "In effect",
+    "previous_title": "Director of Human Capital, Payroll and Benefits",
+    "city": "La Crosse",
+    "state": "WI",
+    "org_assets": 1140.6,
+    "org_members": 75907,
+    "assets_as_of": "Q3 2026"
+   },
+   "sources": [
+    {
+     "label": "HR Today",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPejZqbW04dWdsdkVZS2pCM0VNVElHQ3dkWXhISi02cGdRUHFveGprRUNYenBnYmxiSi0zcHlUenVRQUNkWHI2eG5GcnRTaW1Nc09ldlJCS09nUDFyZGxLTU1Wc0dtalZNU1g4WjlHcFRheG51T1ZKeC01RE41V09oazNsVzJ3a2JfQURpb3JVaS1fbm5BNEZlakVFZzhjTE0",
+     "type": "trade_press"
+    },
+    {
+     "label": "The Org (Marine CU)",
+     "url": "https://theorg.com/org/marine-credit-union/org-chart/msml-becky-potts-phr-cbp",
+     "type": "aggregator"
+    },
+    {
+     "label": "NCUA",
+     "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66752",
+     "type": "regulator"
+    }
+   ],
+   "field_sources": {
+    "announced": 0,
+    "name": 0,
+    "organization": 0,
+    "move": 1,
+    "title": 0,
+    "level": 0,
+    "function": 0,
+    "status": 0,
+    "previous_title": 1,
+    "city": 2,
+    "state": 2,
+    "org_assets": 2,
+    "org_members": 2,
+    "assets_as_of": 2
+   }
+  }
+ ],
+ "updates": [],
+ "rechecked": [
+  "2026-11-19-tina-tracy-credit-union-one-promoted",
+  "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
+  "2026-11-18-karen-browne-tba-credit-union-retiring",
+  "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
+  "2026-11-12-amy-nelson-point-west-credit-union-retiring",
+  "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
+  "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
+  "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
+  "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
+  "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
+  "2026-10-29-christine-monteiro-all-one-credit-union-hired",
+  "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
+  "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
+  "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
+  "2026-10-22-carol-schumacher-plus-credit-union-retiring",
+  "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
+  "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
+ ]
+}

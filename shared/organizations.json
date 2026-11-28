@@ -8542,6 +8542,28 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "marine-cu": {
+      "name": "Marine Credit Union",
+      "added": "2026-11-28",
+      "short_name": "Marine CU",
+      "kind": "credit_union",
+      "charter": "66752",
+      "website": "https://www.marinecu.com",
+      "state": "WI",
+      "logo": {
+        "file": "marine-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.marinecu.com/wp-content/themes/marinecu-theme/images/marinecu-logo.svg",
+        "fingerprint": "b000326b72eb76ac76adaead8eacaeafbf4bb15322ae268ac759269aa3929000",
+        "aspect": 4.656,
+        "pinned": false,
+        "added": "2026-11-28",
+        "checked": "2026-11-28",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }
