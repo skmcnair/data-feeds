@@ -393,10 +393,10 @@
    "assets_m": 9548.7,
    "website": "https://www.wpcu.coop",
    "careers_url": "",
-   "platform": "",
-   "board_url": "",
-   "status": "blocked",
-   "note": "home 403"
+   "platform": "careers_page",
+   "board_url": "https://jobs.silkroad.com/WPCU/Careers/jobs",
+   "status": "unmapped",
+   "note": "SilkRoad board https://jobs.silkroad.com/WPCU/Careers/jobs is readable but the generic reader finds no jobs on it; wpcu.coop home answers 403"
   },
   {
    "charter": "61004",
@@ -4221,10 +4221,10 @@
    "assets_m": 1440.6,
    "website": "http://www.launchcu.com",
    "careers_url": "",
-   "platform": "",
-   "board_url": "",
+   "platform": "icims",
+   "board_url": "https://careers-launchcu.icims.com/jobs/search?pr=0",
    "status": "unmapped",
-   "note": ""
+   "note": "careers-launchcu.icims.com (from search results) answers HTTP 404 to the iCIMS job search; not readable"
   },
   {
    "charter": "8554",

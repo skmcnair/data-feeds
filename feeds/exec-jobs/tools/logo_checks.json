@@ -19,6 +19,11 @@
   "file": "allegacy-fcu-v1.png",
   "result": "current"
  },
+ "allsouth": {
+  "checked": "2026-11-28",
+  "file": "allsouth-v1.png",
+  "result": "current"
+ },
  "altra": {
   "checked": "2026-11-25",
   "file": "altra-v1.png",
@@ -570,6 +575,11 @@
  "richland-fcu-mt": {
   "checked": "2026-11-23",
   "file": "richland-fcu-mt-v1.png",
+  "result": "current"
+ },
+ "rize-cu": {
+  "checked": "2026-11-28",
+  "file": "rize-cu-v1.png",
   "result": "current"
  },
  "rocky-mountain-cu-mt": {

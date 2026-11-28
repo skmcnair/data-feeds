@@ -8564,6 +8564,53 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "allsouth": {
+      "name": "AllSouth Federal Credit Union",
+      "added": "2026-11-28",
+      "short_name": "AllSouth",
+      "kind": "credit_union",
+      "charter": "13828",
+      "website": "https://www.allsouth.org",
+      "state": "SC",
+      "logo": {
+        "file": "allsouth-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.allsouth.org/wp-content/themes/allsouthfcu/assets/images/allsouthfcu-logo.svg",
+        "fingerprint": "80008040900098d0d8c04894a0d6b153dd634d53661b64dc76336a3669246800",
+        "aspect": 3.386,
+        "pinned": false,
+        "added": "2026-11-28",
+        "checked": "2026-11-28",
+        "previous": [],
+        "ignored": []
+      }
+    },
+    "rize-cu": {
+      "name": "Rize Federal Credit Union",
+      "added": "2026-11-28",
+      "short_name": "Rize CU",
+      "kind": "credit_union",
+      "charter": "7835",
+      "website": "https://www.rizecu.com",
+      "state": "CA",
+      "aliases": [
+        "Rize Credit Union"
+      ],
+      "logo": {
+        "file": "rize-cu-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://rizecu.com/media/481be905573a-RIZE-logo-4c-h.svg",
+        "fingerprint": "b200b2083012d6c8d658969231b233223324332032363696364834294d763924",
+        "aspect": 1.647,
+        "pinned": false,
+        "added": "2026-11-28",
+        "checked": "2026-11-28",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }
