@@ -1,258 +1,14 @@
 {
   "feed": "leadership-moves",
-  "generated": "2026-11-27T23:43:40-05:00",
+  "generated": "2026-11-28T00:33:42-05:00",
   "trial": true,
   "lookback_days": 3,
-  "pending_inbox": [
-    {
-      "id": "fc223fff30e3",
-      "title": "A finance executive with over 25 years' experience becomes Allied Critical Metals' new finance chief - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDMxNmpzTWg2emk1dGxkbFVvUjJob3loT01naWFaZG5JZHFZNWZkbmVHZ29FOFdDa3ktdkdHLXpYeDFGQVdFTWwxVU9HMk1fU0hjLXlpRURrR1I0OVZSc2E3dUlkZno1T1NqaDhNWEpKSWRLbjdDYklaWUd0NnRTd254UDVQcW5yNDlaQWM0bmMxUTdOZkdzcGFybExQWHlsNGZEVEt4NnVWSTdYTFByanhSYUpuMTdiZnBkU0E0cWQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-27T18:35:00-05:00",
-      "found": "2026-11-27T23:12:45-05:00",
-      "summary": "A finance executive with over 25 years' experience becomes Allied Critical Metals' new finance chief Stock Titan"
-    },
-    {
-      "id": "11d9e12d33d6",
-      "title": "Sun Bowl Parade Names 2026 Top Float Winners - Wisevoter",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOFRaT2xXRkZSLWhQNHR1SE1id1JwNmdNMl80eWpoUjVYS2FVMjluZVNzRnRUUVJZeWRkdnlta0ZobXZOYnllVFBvZE80Vmh2WEJXbllJcXJJcldpMzdzazhfclV4WUoyVE9CV1pEWnNtOXAwZ0VZUjhHLWtPRF84YWltbHhWWjRHUUVnSWRZVnEwTWpxUHc",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-27T17:07:35-05:00",
-      "found": "2026-11-27T23:12:45-05:00",
-      "summary": "Sun Bowl Parade Names 2026 Top Float Winners Wisevoter"
-    },
-    {
-      "id": "725f4673b512",
-      "title": "Why A Later Divorce Deal Didn't Erase A $35,000 Retirement Transfer -",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWFOa1lNWGFzbTVaa3UtWmpndEhRcjh5bXlEYjNoV2RQMm1yQ0NuYWJMMXcxZ0U0R3ZEdi11eWxIMTl1d3VlZ29SR1R2V1JQd1Z3Z2Q0ZUl3eTF6SjdCakYyMDJ6bG1RUmY2Tlc1d3BiSDNYdDREYlRqcDM5S2o4LXhJWlRfYlAwZFE",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-27T12:56:45-05:00",
-      "found": "2026-11-27T17:11:12-05:00",
-      "summary": "Why A Later Divorce Deal Didn't Erase A $35,000 Retirement Transfer"
-    },
-    {
-      "id": "d9a90ee4dec1",
-      "title": "Barry Lyons, CPA, Joins Boyer & Ritter's Construction and Manufacturing Practices - Pennsylvania Business Central",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU4zRzAxa1k1RlE2M0ZzTVNiTW1FWFZIOC12ZTdLblJqdVBHVGFtV3lMeTdLZHFyY01PaWYzalQzSFNyaGJrLU9NM0RPOUFlaThXelN2Yk1qbmhTZkd5dF9NakR1YTNxOURNdlN0SnZOSEJiM2laQ0J3UDlsa2tsQlpFd0U1dnUtcVBDM0pORFR5ZE94b2h4SjVyWUd4Skl0WWd3alR6MFJ0OXBkQ0FzNHZYalB5Q3NpdGxrcUtwaw",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-27T11:36:22-05:00",
-      "found": "2026-11-27T17:11:12-05:00",
-      "summary": "Barry Lyons, CPA, Joins Boyer & Ritter's Construction and Manufacturing Practices Pennsylvania Business Central"
-    },
-    {
-      "id": "ca319cc46d94",
-      "title": "Penn State Federal Credit Union Names David Restino as Chief Financial Officer - Pennsylvania Business Central",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3otc2RrNDRTUlpDUVNRUHd2NnJOTVAtXzE5WHN2c21NM2lVV2c4cF9PNmc3UmhNYVBpVGZuR1pySkpsVWFsWV9kSDdVV0N1eUFOSkp1ODREbTVSYnRtMl9rSVd3VjAxWUo3eUNPeE9oZ294WFN1WTNwbmIxVDFHVzVzVTZXUWVPNVltT2hSXzRLbDlKVF9RMThMa1luTXFuYzQta1h0TWxXb3ZIc2FRRHBvZGxaa0dVYldJRTMtcw",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-27T09:10:40-05:00",
-      "found": "2026-11-27T11:20:17-05:00",
-      "summary": "Penn State Federal Credit Union Names David Restino as Chief Financial Officer Pennsylvania Business Central"
-    },
-    {
-      "id": "61999921e30e",
-      "title": "Patrick Cannonie Named Chief Financial Officer at Foxdale Village - Pennsylvania Business Central",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNBbnNzUV9XYi1RUi1Qbmk2Tkg5c2tZVGhjekNQWF9KSHVpcm1ET3RXd0ZCa2NEb2k1Ni0tN0xteHExdV8xb0NoX1cwcnhsSlRLeTUxdUlseDlFcHR2OU9HeGZCQlpabjRONWtJd2dDTnNNcHdRVTBjMmJCLW5lZi1nc21MZldncFM4U2FrdGlma3NoUzlSTWo0ei1EMmRaZ2RoeWpMWHZGdUxsT0E",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-27T09:10:40-05:00",
-      "found": "2026-11-27T11:20:17-05:00",
-      "summary": "Patrick Cannonie Named Chief Financial Officer at Foxdale Village Pennsylvania Business Central"
-    },
-    {
-      "id": "a74a721910a5",
-      "title": "90th annual Sun Bowl Parade names its top floats - KTSM 9 News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXhGME1vTllHTDRsMXFJVmtYQndscGhqdWoxR2JKNHk0NW1Jbm1ZTldqNmxYYjNTaVV4dUJWeGRJbk50RGhldk50QzhQaWMySENWbVlDMmJ6dXlVZnQ2SElEdjF0VVR3RzZnWTd2blNzQXhfRGFkLTRvNHVZZ1lLazZVUV9kZ9IBhgFBVV95cUxOOXhGME1vTllHTDRsMXFJVmtYQndscGhqdWoxR2JKNHk0NW1Jbm1ZTldqNmxYYjNTaVV4dUJWeGRJbk50RGhldk50QzhQaWMySENWbVlDMmJ6dXlVZnQ2SElEdjF0VVR3RzZnWTd2blNzQXhfRGFkLTRvNHVZZ1lLazZVUV9kZw",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-27T08:26:05-05:00",
-      "found": "2026-11-27T23:12:45-05:00",
-      "summary": "90th annual Sun Bowl Parade names its top floats KTSM 9 News"
-    },
-    {
-      "id": "0a7f11a34f46",
-      "title": "With Card Pressure from All Fronts, Affirm CEO Expects AI Agents to Drive a Change in Payment Behavior - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWh2WWtoaUJRZVp6T3NEd2ZtNUNXQmR6RWtxM0lIeS1HY1N6YjVabFg0UWdIWks1cl9WSUxUa2ZON3FONnNaQmx6aGgycUxuekVpZGplRk13eDF0U29Qcng2VV9MeDZKWG1hYVdmMEx3ZUVsXzl0MjJtODhjam5FcXJUZm9YSXBOM1NqaUt4QU12MWROV2xtUDJaZmIxb21sQkdZcE1wRl93Q05DVWlmYm1SUzZUcWJZTS1ZRVU3dGRsdEU",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-27T04:51:26-05:00",
-      "found": "2026-11-27T05:21:58-05:00",
-      "summary": "With Card Pressure from All Fronts, Affirm CEO Expects AI Agents to Drive a Change in Payment Behavior Credit Union Daily"
-    },
-    {
-      "id": "80e6318310a2",
-      "title": "Cardwell Converts to CUSO, Gets Investment from UCCU and OWF; Names New CEO - Credit Union Daily",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHkyenBpbFNXa1AxTzNESXBmZTNiemhrdUNRMXp1dThuWmo3WV93SW9FRVlHd0k3V255eTl1N2tfcW1uQUxFNnRlQ1NyQTJuOHh1ZEhZSmpEdkdmbXYtS2Y2YkFYMXZNbkw5V3Y0bWRZSU9vNThJVEpDZEswRkgyT0gxNXkzRENxZ2tzc0FZclNPSWJQWTNqRVZfQ2x6dw",
-      "source": "Google News - CU Times and CU Today people",
-      "published": "2026-11-27T04:51:22-05:00",
-      "found": "2026-11-27T05:21:58-05:00",
-      "summary": "Cardwell Converts to CUSO, Gets Investment from UCCU and OWF; Names New CEO Credit Union Daily"
-    },
-    {
-      "id": "996e90d58305",
-      "title": "St. Rose of Lima Welcomes New Student Council - Wave of Long Island",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXBuZGc3SFV4dXBteldoMUl4cFdYbTdIc0k2SXpOSGZjaEVoNTJ3VzBLczBFZF9sQWdSQTloaDZwUjZHbHI2dlRrRF9hVkF3RzZKNUxUZnQ0LWpIeHpHT2hTUU9HdEV0YnlTY2d2b0hfajhFdDFjeVU3TUZ4WnNSQkNCYnJNQWM",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-27T03:10:33-05:00",
-      "found": "2026-11-27T08:33:24-05:00",
-      "summary": "St. Rose of Lima Welcomes New Student Council Wave of Long Island"
-    },
-    {
-      "id": "d72a43c7c914",
-      "title": "CU Trade Groups Join With Others in Urging FCC to Shorten Deadline to Honor Requests to Stop Calls, Texts",
-      "url": "https://thecudaily.com/cu-trade-groups-join-with-others-in-urging-fcc-to-shorten-deadline-to-honor-requests-to-stop-calls-texts/",
-      "source": "Credit Union Daily",
-      "published": "2026-11-26T20:11:20-05:00",
-      "found": "2026-11-27T05:21:58-05:00",
-      "summary": "WASHINGTON - America's Credit Unions and the Defense Credit Union Council have joined with eight other trade associations in a letter urging the Federal Communications Commission to shorten the deadline for honoring consumers' requests [..."
-    },
-    {
-      "id": "8bf0f2725eb1",
-      "title": "With CUs Facing Card Pressure from All Fronts, Affirm CEO Expects AI Agents to Drive a Change in Payment Behavior",
-      "url": "https://thecudaily.com/with-card-pressure-from-all-fronts-affirm-ceo-expects-ai-agents-to-drive-a-change-in-payment-behavior/",
-      "source": "Credit Union Daily",
-      "published": "2026-11-26T20:10:17-05:00",
-      "found": "2026-11-27T05:21:58-05:00",
-      "summary": "SAN FRANCISCO -With credit unions already facing threats to their credit card portfolios from all fronts, Affirm CEO Max Levchin expects artificial intelligence shopping agents to drive more consumers toward interest-free installment [...] "
-    },
-    {
-      "id": "ad4552cf228b",
-      "title": "Cardwell Converts to CUSO, Gets Investment from UCCU and OWF; Names New CEO",
-      "url": "https://thecudaily.com/cardwell-converts-to-cuso-gets-investment-from-uccu-and-owf-names-new-ceo/",
-      "source": "Credit Union Daily",
-      "published": "2026-11-26T20:01:53-05:00",
-      "found": "2026-11-27T05:21:58-05:00",
-      "summary": "TAMPA, Fla. - Cardwell, a leadership development and strategy firm that works with credit unions, said it has converted to a credit union service organization and named Dickens Aubourg president and [...] The post Cardwell Converts to CUSO,"
-    },
-    {
-      "id": "7ce224f3a832",
-      "title": "Euler Foundation Appoints Euler Technologies to Drive Institutional DeFi Adoption - FF News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjR6azBVSmpyZktKX1JzeTg5YTk4d2JqQTkyRG5zNlJIemNVV0tIRmZhWnVkWTY0NHVhSU1DaWxlYmpKRThwZURYYkM4OVBhc2xFMzdXM3BVYlpmUkdRWTBSdEpnZ0h2R0htRHNlNW1kQjh5dWtBOEt5VFRGM1dfemMtQ3o4czBHOW5WQmpVRzFyMTg5dHU4QVZsR19VbVo0cDBDWjF3OWJ6UFNzS2ZzTmdxZw",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-26T14:48:16-05:00",
-      "found": "2026-11-27T02:39:13-05:00",
-      "summary": "Euler Foundation Appoints Euler Technologies to Drive Institutional DeFi Adoption FF News"
-    },
-    {
-      "id": "659e7516c162",
-      "title": "Venezuela Commercial Claimholders Committee Welcomes the Republic's Recovery Plan - The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcmZwSUZ3S3l5bzMwOTlmYVZMbGhrOHVsSklFdERFaXFiOG1Jc2h5NThyaWNSQWczZ2ZnQ3A2dFV5UXVUYTI2Y0NXVlZYWXNfdlhsNExRdFozU1otRTBtTFNFamlIcXFjMUpFN2JEZ0IzY3JkNWVyX18zY2VQWEh6bVpONWU1bDlYSl81N2M1R1A2MTlFS3dFZzAzR3lSVlVhZXA2TjU4dW9SZzEzT0cxOFU1cjdOZy1Bc3pLLWZMLTREQ0JsYm53ZllTSEo4VG1iRFlqMkVpWXFPUQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-25T14:01:27-05:00",
-      "found": "2026-11-27T08:33:24-05:00",
-      "summary": "Venezuela Commercial Claimholders Committee Welcomes the Republic's Recovery Plan The Des Moines Register"
-    },
-    {
-      "id": "fc46699add92",
-      "title": "St. Mary's Credit Union announces leadership transition as Jim Petkewich prepares for planned retirement - CUInsight",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVlc5LThPOVlPcWFad0F2S0xTQUtNcV80elNZNHh4eW1OeC00b2JnUFNqSURyQVJGeWlKdjJZNzhsb0djTEJPTUN2Z0JjaUxBOGhfanFhMTNTUmZhRHp3Q09VT05uVjhFSm5ENVRDQXkzMTZka1ZPSWZvMl81Uzg1SGdOY0ZHdEFYa0FYQnlWZVhUeV9LVWhHVDkzUTNfVWNXRVJhc0k4enowYVdoNzhrTVJFOUFzZmRrQ3dudWxGNW10Vjl4TzdWMUpMSGtreE9GQUdtaGZVX1VTdTQ",
-      "source": "Google News - CUInsight people",
-      "published": "2026-11-25T03:00:00-05:00",
-      "found": "2026-11-27T08:33:24-05:00",
-      "summary": "St. Mary's Credit Union announces leadership transition as Jim Petkewich prepares for planned retirement CUInsight"
-    },
-    {
-      "id": "ccbc26833aef",
-      "title": "Pittsfield: Berkshire Pride launches holiday donation campaign - Berkshire Eagle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjU2TXFNdFhWTkYyb1ZvSTdDRXlBUHFacjMwbjVYN3ctOEFoWnFkX0tmNE9GdVJpNzJVcTJQWG1xQzZ2ZHFlLWhsMHVfdlpCN2VNMXU5MnFJVVk5aXo3Yjc0Q1hHaXRsYmtSQzJyR25WRmpNV3gwdHhFTVNCb3Zrd0lYTC1MZUxYWWFhdzZIYjJicEN6ZjJHd2lzY3dzbmxneGY1MElmLTA2ZWRmdTdLbWZWckp4UQ",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-24T22:30:11-05:00",
-      "found": "2026-11-27T23:12:45-05:00",
-      "summary": "Pittsfield: Berkshire Pride launches holiday donation campaign Berkshire Eagle"
-    },
-    {
-      "id": "53f3a35e6d5f",
-      "title": "Mary Wheat, founder of Pittsfield Community Food Pantry, dies at 93 - Berkshire Eagle",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzduSE9nMkJwTjVkMEh4S0JLcU16Yk9Jblczdk51UVNpRXFuZ2dFSHBrbDduTm10UE5jOHVDNmRKM1BnZWk0WU9TWDFUOWhqUHJWeXhucm5sa2JtbUJ1VkdEOTlaZ2xkbGUyVEc5bzJLcGp5ekswbWlBVEZiNWprVW5YZXdZSzJ5QW5mVXl4RUFRR0tTUnlwOVQ0R3VmQmJick9lR3ptaDZtMEJTdVBqUzA1Y2F3N2pjYzNn",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-24T17:58:03-05:00",
-      "found": "2026-11-27T02:39:13-05:00",
-      "summary": "Mary Wheat, founder of Pittsfield Community Food Pantry, dies at 93 Berkshire Eagle"
-    },
-    {
-      "id": "3916f07bf156",
-      "title": "North Adams: Musician to showcase 'Mall of Found' archive - Berkshire Eagle",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3ktQXdJZnp5REx0VjVucUZubFBpcEM2QTROUGpOZm5zSVBDQmFsTWhYTkZCa2lMNXlXMUJGUzVzOGJ1SHhLaUZaRVFFX09jZzhFeWpobFdTc01KcUhua3NJRVgzeHkyTWx2MFdSZU1nVmpnaE54OGJtcHRfQmRfSGZYSjJlclkwcHg3RllRdUxlUVQ1anRZbnBPejRQczFDVjNIUHgwZHJZakxB",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-24T14:49:00-05:00",
-      "found": "2026-11-27T23:12:45-05:00",
-      "summary": "North Adams: Musician to showcase 'Mall of Found' archive Berkshire Eagle"
-    },
-    {
-      "id": "f4b1f626363f",
-      "title": "Becky Potts Appointed Vice President of Human Resources at Marine Credit Union - https://hrtoday.in/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPejZqbW04dWdsdkVZS2pCM0VNVElHQ3dkWXhISi02cGdRUHFveGprRUNYenBnYmxiSi0zcHlUenVRQUNkWHI2eG5GcnRTaW1Nc09ldlJCS09nUDFyZGxLTU1Wc0dtalZNU1g4WjlHcFRheG51T1ZKeC01RE41V09oazNsVzJ3a2JfQURpb3JVaS1fbm5BNEZlakVFZzhjTE0",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-24T12:52:14-05:00",
-      "found": "2026-11-27T14:14:02-05:00",
-      "summary": "Becky Potts Appointed Vice President of Human Resources at Marine Credit Union https://hrtoday.in/"
-    },
-    {
-      "id": "1666af4131ed",
-      "title": "Mad Macs moves to new space in Pittsfield plaza - Berkshire Eagle",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUm43T1IzQUxNODI0RUlsc0haOVcyLVRiZ2NQdjY1WmxnWUVTcU5RYTFqSEgxdVd2aDNtNjJ1bjNDWXlVbVBkRFlnUDJrSXNjdWlXVnkyUk40OGViU0ZZb3daLXpLODlzLWxnS2pXS2ZZZFV1Vmdyb0VSUHFySGY1RXRYZWM3MVhsekprNV9ZcW5JdVJyQmlNWEs2MzlGTWVP",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-24T00:01:00-05:00",
-      "found": "2026-11-27T08:33:24-05:00",
-      "summary": "Mad Macs moves to new space in Pittsfield plaza Berkshire Eagle"
-    },
-    {
-      "id": "8dda4602cd01",
-      "title": "Florida State hires Georgia's Glenn Schumann as head football coach - WCTV",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3RoSzQ5V3RES3RyTDVucTNQcFVZUU9wbHBZaHIycVpKOWx4LXVrbG1yZjllR2JhVDY5aG9kclNIbHJaM0xocUJ1SG5rdjRHUnZvd2xNUm1pcmtuZWpBc1FsT0RIWU9rRmk1dHNUSVE1WHh3ekptM2NYSnpfRVJDRmJKQkJJSGVXdlduVHliY3ZjeDExTXAwQWpic9IBrwFBVV95cUxPbzhmeVNXd0VuMHRja3F2Q1BfeDBHSm1HbWJpMXNyWUtOQ1VPVU5Gbi1MS2JqTkRNNkZQYmRBYlFPc1JkaHZvVzdJcDlqZHNEWWlicmFBdm9JOXpPVldHT0NUaVVPaHlTRWo1TktrakxvdlU5cEVkdDdwT2Eya3lBVXdWamp6ak5GckhKM2ExRkl5SzlsSXZKYmxGcXVIdkNrdk1FalFKVlg1WE1naDNF",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-23T18:24:00-05:00",
-      "found": "2026-11-27T02:39:13-05:00",
-      "summary": "Florida State hires Georgia's Glenn Schumann as head football coach WCTV"
-    },
-    {
-      "id": "8d6fe5fdc7af",
-      "title": "Youth Leadership Program Now Accepting Applications for Class of 2028 - BusinessWest",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE5oVmdrMmQxQjYtM2xtVWp4ZDA0ejY2VVc4WlQyTVZYcjNweVlzWDJfQWE1WjBCZkxwSVcxS1FEcEpRWXM0cnBhM2dGdUNoN1h6WmRSaUNTWEFvcHF2TElKbHFPQy1Qa2t0VWhTcTNiS3V4RmRaaVdnQThERDVvYmlHMVJBSWRxYVJJRlVaV2JuRUtHZ3JqLVB5QVJwX1ZCeFE",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-23T16:12:33-05:00",
-      "found": "2026-11-27T02:39:13-05:00",
-      "summary": "Youth Leadership Program Now Accepting Applications for Class of 2028 BusinessWest"
-    },
-    {
-      "id": "2beb8bf8bdb3",
-      "title": "Bard seeks new operator for Kilpatrick Athletic Center - Berkshire Eagle",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPREwwS2t5SHhDUlFQNEVOWjV5Y2dScW5HMktJZkt0R0R3bGdJQWs5WHU0OFFiNlBzSnQwRl9rQXFyYVpNWVJzYm4tazA0cm93ak1HNV9OZ0doeVFoZWZrX2ZENUJXTEZ5dk1FVXA0dzdUTTM2ZjJ5ZDN2WHUtc090UnJRUmx3SEhxTXBDWWMtMVp6ZTdja1l3QzNxZTZ3SGRtTDNVMnp6WXhFZlN1ZlRPTi1ZdFJtY2M3UFE2aVFsYjZCal9pRlZuZWZPSjllMUxKVGFfd3VKVXdYTkdWQU1hOUYwZVdnZw",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-23T15:57:54-05:00",
-      "found": "2026-11-27T08:33:24-05:00",
-      "summary": "Bard seeks new operator for Kilpatrick Athletic Center Berkshire Eagle"
-    },
-    {
-      "id": "8528492acb78",
-      "title": "Cheyenne Police Department Chief Francisco plans to retire - wyomingnewsnow.tv",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbGg1XzNpbHI0dUw4WE91Sm1Qb1RCZTBYVjBNTlZZZm9DRDd1aTdjTVRadEQzZVpydEFpV0gyMWlhSTFqQUJYcHpRY3hFR2lGc204UVNSbjcweEhDOUtVSzVjcXdmX21QVE9Ud3dXZ1ktSTZ0ei1qY0F6UDlWQ2ZKYVlFdTZpT3MyN1Z5czdVZmwxdlExY3JpVnBpaDE1ZWFUS2c4S09UbFNmaC05c253R2w3d2xldVdrbVpVdVZWeURkT3BhMFVzZ2lyb2F2XzdNb09qLTN6UGNkT2ZXS3k2c3d3",
-      "source": "Google News - credit union retirements",
-      "published": "2026-11-20T15:28:00-05:00",
-      "found": "2026-11-27T08:33:24-05:00",
-      "summary": "Cheyenne Police Department Chief Francisco plans to retire wyomingnewsnow.tv"
-    },
-    {
-      "id": "7bd13d735882",
-      "title": "Hawaii State Public Charter School Commission welcomes two new members - Maui Now",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDRVcW9GM19BWHQ3SEZhTFFoYU9kXzREQ2g1dlNvSlpBa2M3OFM0ekNCYTZWTmVKc3JlYV95VlNsX3RDMW9UeFdxcGItQmFyWWR6UlBHSXdoZWttbWU5ZXJYenVGUEcwMjVPVkZ3a0wyR1hLOWVZOGxwb2dDSDVWQXVBSkRIQW5TUVFxZDJrSTZpYkZET0s3S1VtS2N3ODhXX0gwcFJRU0dCNWVR",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T13:00:00-05:00",
-      "found": "2026-11-27T05:21:58-05:00",
-      "summary": "Hawaii State Public Charter School Commission welcomes two new members Maui Now"
-    },
-    {
-      "id": "881d374ebadf",
-      "title": "Pet food giveaway offers help in Pittsfield, North Adams - Berkshire Eagle",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSU5BZHVsOTJPZi02T2lPZjladlJBZ24yWm1NLUVHcmZFallHY3NqNzV4eTg0MkZyazh3WTNpeGVfYVhxSjhiRWFjTkRhQjdIUE0tUkNFbEdzQVVGUkU5NktVLXNreWlhelBlbTVDMGxyUGpaTGZoN0JILUpMamFJZkhramVBamNjYklkNE1mMGRvemlwaG9oNHU5T2Jnd0dxbHNON3FwWkY3OGFJWVVSYmlra2VGandsNDNEQmRtSDM5TDNWcFFKZnFLcjZoWGVxYy1iVmQ4X1BXbnlxcGpDNk8zeko",
-      "source": "Google News - credit union appointments",
-      "published": "2026-11-20T08:00:00-05:00",
-      "found": "2026-11-27T02:39:13-05:00",
-      "summary": "Pet food giveaway offers help in Pittsfield, North Adams Berkshire Eagle"
-    }
-  ],
+  "pending_inbox": [],
   "recheck": [
     {
       "id": "2026-11-19-tina-tracy-credit-union-one-promoted",
       "summary": "Tina Tracy / Credit Union ONE / Promoted",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-19",
         "name": "Tina Tracy",
@@ -278,7 +34,7 @@
     {
       "id": "2026-11-18-meghan-chenoweth-tba-credit-union-promoted",
       "summary": "Meghan Chenoweth / TBA Credit Union / Promoted",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-18",
         "name": "Meghan Chenoweth",
@@ -304,7 +60,7 @@
     {
       "id": "2026-11-18-karen-browne-tba-credit-union-retiring",
       "summary": "Karen Browne / TBA Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-18",
         "name": "Karen Browne",
@@ -330,7 +86,7 @@
     {
       "id": "2026-11-12-steve-pagenstecher-point-west-credit-union-promoted",
       "summary": "Steve Pagenstecher / Point West Credit Union / Promoted",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-12",
         "name": "Steve Pagenstecher",
@@ -356,7 +112,7 @@
     {
       "id": "2026-11-12-amy-nelson-point-west-credit-union-retiring",
       "summary": "Amy Nelson / Point West Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-12",
         "name": "Amy Nelson",
@@ -382,7 +138,7 @@
     {
       "id": "2026-11-11-bryan-price-indiana-university-credit-union-retiring",
       "summary": "Bryan Price / Indiana University Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-11",
         "name": "Bryan Price",
@@ -408,7 +164,7 @@
     {
       "id": "2026-11-11-andy-allard-indiana-university-credit-union-promoted",
       "summary": "Andy Allard / Indiana University Credit Union / Promoted",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-11",
         "name": "Andy Allard",
@@ -434,7 +190,7 @@
     {
       "id": "2026-11-06-jim-wookey-westconsin-credit-union-retiring",
       "summary": "Jim Wookey / WESTconsin Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-06",
         "name": "Jim Wookey",
@@ -460,7 +216,7 @@
     {
       "id": "2026-11-02-alycia-nichols-tlc-community-credit-union-promoted",
       "summary": "Alycia Nichols / TLC Community Credit Union / Promoted",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-02",
         "name": "Alycia Nichols",
@@ -486,7 +242,7 @@
     {
       "id": "2026-11-02-jeff-brehmer-tlc-community-credit-union-retiring",
       "summary": "Jeff Brehmer / TLC Community Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-11-02",
         "name": "Jeff Brehmer",
@@ -512,7 +268,7 @@
     {
       "id": "2026-10-29-christine-monteiro-all-one-credit-union-hired",
       "summary": "Christine Monteiro / All One Credit Union / Hired",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-10-29",
         "name": "Christine Monteiro",
@@ -538,7 +294,7 @@
     {
       "id": "2026-10-26-walt-martin-peach-state-federal-credit-union-hired",
       "summary": "Walt Martin / Peach State Federal Credit Union / Hired",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-10-26",
         "name": "Walt Martin",
@@ -564,7 +320,7 @@
     {
       "id": "2026-10-23-julie-willse-greater-iowa-credit-union-promoted",
       "summary": "Julie Willse / Greater Iowa Credit Union / Promoted",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-10-23",
         "name": "Julie Willse",
@@ -590,7 +346,7 @@
     {
       "id": "2026-10-23-scott-zahnle-greater-iowa-credit-union-retiring",
       "summary": "Scott Zahnle / Greater Iowa Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-10-23",
         "name": "Scott Zahnle",
@@ -616,7 +372,7 @@
     {
       "id": "2026-10-22-carol-schumacher-plus-credit-union-retiring",
       "summary": "Carol Schumacher / Plus Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-10-22",
         "name": "Carol Schumacher",
@@ -642,7 +398,7 @@
     {
       "id": "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
       "summary": "Michael Pierino / Great Erie Federal Credit Union / Promoted",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-10-21",
         "name": "Michael Pierino",
@@ -668,7 +424,7 @@
     {
       "id": "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring",
       "summary": "Debbie Cook / Sun East Federal Credit Union / Retiring",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "fields": {
         "announced": "2026-10-20",
         "name": "Debbie Cook",
@@ -700,8 +456,8 @@
   "last_review": {
     "added": [
       {
-        "id": "2026-10-20-sean-mcnair-charter-oak-federal-credit-union-hired",
-        "summary": "Sean McNair / Charter Oak Federal Credit Union / Hired"
+        "id": "2026-11-24-becky-potts-marine-credit-union-promoted",
+        "summary": "Becky Potts / Marine Credit Union / Promoted"
       }
     ],
     "updated": [],
@@ -724,7 +480,7 @@
       "2026-10-21-michael-pierino-great-erie-federal-credit-union-promoted",
       "2026-10-20-debbie-cook-sun-east-federal-credit-union-retiring"
     ],
-    "reviewed": 14,
+    "reviewed": 27,
     "rejected": []
   },
   "tracked": [
@@ -747,6 +503,10 @@
     {
       "id": "2026-11-25-darian-phillips-united-federal-credit-union-promoted",
       "summary": "Darian Phillips / United Federal Credit Union / Promoted"
+    },
+    {
+      "id": "2026-11-24-becky-potts-marine-credit-union-promoted",
+      "summary": "Becky Potts / Marine Credit Union / Promoted"
     },
     {
       "id": "2026-11-24-ben-austin-land-of-lincoln-credit-union-promoted",

@@ -324,6 +324,75 @@
       }
     },
     {
+      "id": "2026-11-24-becky-potts-marine-credit-union-promoted",
+      "fields": {
+        "announced": "2026-11-24",
+        "name": "Becky Potts",
+        "organization": "Marine Credit Union",
+        "move": "Promoted",
+        "title": "VP, Human Resources",
+        "level": "VP",
+        "function": "People",
+        "status": "In effect",
+        "effective": null,
+        "previous_title": "Director, Human Capital, Payroll & Benefits",
+        "previous_org": null,
+        "succeeds": null,
+        "successor": null,
+        "city": "La Crosse",
+        "state": "WI",
+        "org_assets": 1140.6,
+        "org_members": 75907,
+        "assets_as_of": "Q3 2026",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "HR Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPejZqbW04dWdsdkVZS2pCM0VNVElHQ3dkWXhISi02cGdRUHFveGprRUNYenBnYmxiSi0zcHlUenVRQUNkWHI2eG5GcnRTaW1Nc09ldlJCS09nUDFyZGxLTU1Wc0dtalZNU1g4WjlHcFRheG51T1ZKeC01RE41V09oazNsVzJ3a2JfQURpb3JVaS1fbm5BNEZlakVFZzhjTE0",
+          "type": "trade_press"
+        },
+        {
+          "label": "The Org (Marine CU)",
+          "url": "https://theorg.com/org/marine-credit-union/org-chart/msml-becky-potts-phr-cbp",
+          "type": "aggregator"
+        },
+        {
+          "label": "NCUA",
+          "url": "https://mapping.ncua.gov/api/CreditUnionDetails/GetCreditUnionDetails/66752",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "announced": 0,
+        "name": 0,
+        "organization": 0,
+        "move": 1,
+        "title": 0,
+        "level": 0,
+        "function": 0,
+        "status": 0,
+        "previous_title": 1,
+        "city": 2,
+        "state": 2,
+        "org_assets": 2,
+        "org_members": 2,
+        "assets_as_of": 2
+      },
+      "history": [
+        {
+          "date": "2026-11-28",
+          "note": "Added"
+        }
+      ],
+      "added": "2026-11-28",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "organization": "marine-cu"
+      }
+    },
+    {
       "id": "2026-11-24-ben-austin-land-of-lincoln-credit-union-promoted",
       "fields": {
         "announced": "2026-11-24",
@@ -795,7 +864,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "credit-union-one"
       }
@@ -1320,7 +1389,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1399,7 +1468,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "tba-cu"
       }
@@ -1949,7 +2018,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -2029,7 +2098,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "point-west-cu"
       }
@@ -2178,7 +2247,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -2264,7 +2333,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "iucu"
       }
@@ -3268,7 +3337,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "westconsin-cu"
       }
@@ -3498,7 +3567,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3582,7 +3651,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "tlc"
       }
@@ -3955,7 +4024,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "all-one"
       }
@@ -5285,7 +5354,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "peach-state-fcu"
       }
@@ -5436,7 +5505,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5521,7 +5590,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "greater-iowa-cu"
       }
@@ -5743,7 +5812,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "plus-cu"
       }
@@ -5874,7 +5943,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "great-erie-fcu"
       }
@@ -6179,7 +6248,7 @@
       ],
       "added": "2026-11-22",
       "updated": "2026-11-22",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "organization": "sun-east-fcu"
       }
