@@ -17,7 +17,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -48,7 +48,7 @@
       ],
       "field_sources": {
         "local_branches": 3,
-        "rates_as_of": 2
+        "rates_as_of": 0
       },
       "history": [
         {
@@ -82,11 +82,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/savings-accounts/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -108,7 +124,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -139,7 +155,7 @@
       ],
       "field_sources": {
         "local_branches": 3,
-        "rates_as_of": 1
+        "rates_as_of": 0
       },
       "history": [
         {
@@ -173,11 +189,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/money-markets/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -199,7 +231,7 @@
         "min_deposit": null,
         "conditions": "Split-rate tiers; GO, SUN or EB Checking required (0.05% if conditions not met)",
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -230,7 +262,7 @@
       ],
       "field_sources": {
         "local_branches": 3,
-        "rates_as_of": 1
+        "rates_as_of": 0
       },
       "history": [
         {
@@ -264,11 +296,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/money-markets/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -290,7 +338,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -355,11 +403,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -381,7 +445,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -446,11 +510,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -472,7 +552,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -537,11 +617,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -563,7 +659,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -628,11 +724,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -654,7 +766,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -719,11 +831,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -745,7 +873,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -810,11 +938,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -836,7 +980,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -901,11 +1045,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -927,7 +1087,7 @@
         "min_deposit": null,
         "conditions": null,
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -992,11 +1152,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -1018,7 +1194,7 @@
         "min_deposit": "$1,000",
         "conditions": "New money only (page heading); not IRA",
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -1083,11 +1259,27 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
       }
@@ -1109,7 +1301,7 @@
         "min_deposit": "$1,000",
         "conditions": "IRA eligible",
         "ends": null,
-        "rates_as_of": "2026-11-26",
+        "rates_as_of": "2026-11-27",
         "inst_type": "Credit union",
         "membership": "Open",
         "local_branches": 15,
@@ -1174,13 +1366,1570 @@
           "sources": [
             "https://charteroak.org/personal-banking/cd-share-certificates/"
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-26",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://charteroak.org/personal-banking/cd-share-certificates/",
+            "https://charteroak.org/personal-banking/money-markets/",
+            "https://charteroak.org/personal-banking/savings-accounts/"
+          ]
         }
       ],
       "added": "2026-11-23",
-      "updated": "2026-11-27",
-      "last_checked": "2026-11-27",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "charter-oak-fcu"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-savings-standard-item",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Statement Savings",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$100",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-money-market-standard-item",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Money Market Savings",
+        "apy_1k": "Not eligible",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.20%",
+        "min_deposit": "$2,500",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-money-market-special-item",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "Money market",
+        "offer": "Special",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Premium Money Market",
+        "apy_1k": "Not eligible",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.15%",
+        "apy_100k": "0.50%",
+        "min_deposit": "$2,500",
+        "conditions": "BN Premium Checking required; 1.75% at $250,000+",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-cd-standard-6-mo",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month CD",
+        "apy_1k": "3.00%",
+        "apy_10k": "3.00%",
+        "apy_25k": "3.00%",
+        "apy_100k": "3.00%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-cd-standard-18-mo",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month CD",
+        "apy_1k": "4.25%",
+        "apy_10k": "4.25%",
+        "apy_25k": "4.25%",
+        "apy_100k": "4.25%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-cd-standard-24-mo",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month CD",
+        "apy_1k": "4.25%",
+        "apy_10k": "4.25%",
+        "apy_25k": "4.25%",
+        "apy_100k": "4.25%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-cd-special-12-mo",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "CD",
+        "offer": "Special",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month CD Special",
+        "apy_1k": "4.50%",
+        "apy_10k": "4.50%",
+        "apy_25k": "4.50%",
+        "apy_100k": "4.50%",
+        "min_deposit": "$1,000",
+        "conditions": "New money only; BankNewport personal checking required (4.25% with existing money)",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-cd-special-18-mo",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "CD",
+        "offer": "Special",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month CD Special",
+        "apy_1k": "4.50%",
+        "apy_10k": "4.50%",
+        "apy_25k": "4.50%",
+        "apy_100k": "4.50%",
+        "min_deposit": "$1,000",
+        "conditions": "New money only; BankNewport personal checking required",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-cd-special-24-mo",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "CD",
+        "offer": "Special",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month CD Special",
+        "apy_1k": "4.50%",
+        "apy_10k": "4.50%",
+        "apy_25k": "4.50%",
+        "apy_100k": "4.50%",
+        "min_deposit": "$1,000",
+        "conditions": "New money only; BankNewport personal checking required",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-20-banknewport-cd-special-7-mo",
+      "fields": {
+        "institution": "BankNewport",
+        "product": "CD",
+        "offer": "Special",
+        "term": "7 mo",
+        "term_months": 7,
+        "status": "Current",
+        "product_name": "7 Month CD Special",
+        "apy_1k": "4.00%",
+        "apy_10k": "4.00%",
+        "apy_25k": "4.00%",
+        "apy_100k": "4.00%",
+        "min_deposit": "$1,000",
+        "conditions": "Existing money allowed",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 2,
+        "counties": "Washington RI",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "BankNewport rates",
+          "url": "https://www.banknewport.com/rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-20",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.banknewport.com/rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "banknewport"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-savings-standard-item",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "Savings",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Growth Savings",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.10%",
+        "min_deposit": "$10",
+        "conditions": "$10 monthly fee if balance falls below $2,500 (Primary Savings pays 0.05%)",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-money-market-standard-item",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "Money market",
+        "offer": "Standard",
+        "term": null,
+        "term_months": null,
+        "status": "Current",
+        "product_name": "Elite Tiered Money Market",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.30%",
+        "min_deposit": "$10",
+        "conditions": "0.60% at $250K+",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-3-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "3 mo",
+        "term_months": 3,
+        "status": "Current",
+        "product_name": "3 Month CD",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-6-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "6 mo",
+        "term_months": 6,
+        "status": "Current",
+        "product_name": "6 Month CD",
+        "apy_1k": "0.05%",
+        "apy_10k": "0.05%",
+        "apy_25k": "0.05%",
+        "apy_100k": "0.05%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-12-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "12 mo",
+        "term_months": 12,
+        "status": "Current",
+        "product_name": "12 Month CD",
+        "apy_1k": "0.10%",
+        "apy_10k": "0.10%",
+        "apy_25k": "0.10%",
+        "apy_100k": "0.10%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-18-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "18 mo",
+        "term_months": 18,
+        "status": "Current",
+        "product_name": "18 Month CD",
+        "apy_1k": "0.15%",
+        "apy_10k": "0.15%",
+        "apy_25k": "0.15%",
+        "apy_100k": "0.15%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-24-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "24 mo",
+        "term_months": 24,
+        "status": "Current",
+        "product_name": "24 Month CD",
+        "apy_1k": "0.20%",
+        "apy_10k": "0.20%",
+        "apy_25k": "0.20%",
+        "apy_100k": "0.20%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-36-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "36 mo",
+        "term_months": 36,
+        "status": "Current",
+        "product_name": "36 Month CD",
+        "apy_1k": "0.25%",
+        "apy_10k": "0.25%",
+        "apy_25k": "0.25%",
+        "apy_100k": "0.25%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-48-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "48 mo",
+        "term_months": 48,
+        "status": "Current",
+        "product_name": "48 Month CD",
+        "apy_1k": "0.30%",
+        "apy_10k": "0.30%",
+        "apy_25k": "0.30%",
+        "apy_100k": "0.30%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-standard-60-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Standard",
+        "term": "60 mo",
+        "term_months": 60,
+        "status": "Current",
+        "product_name": "60 Month CD",
+        "apy_1k": "0.40%",
+        "apy_10k": "0.40%",
+        "apy_25k": "0.40%",
+        "apy_100k": "0.40%",
+        "min_deposit": "$1,000",
+        "conditions": null,
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-special-10-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "10 mo",
+        "term_months": 10,
+        "status": "Current",
+        "product_name": "10 Month CD",
+        "apy_1k": "4.15%",
+        "apy_10k": "4.15%",
+        "apy_25k": "4.15%",
+        "apy_100k": "4.15%",
+        "min_deposit": "$1,000",
+        "conditions": "Promotional; consumers only; open in a banking center",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-special-20-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "20 mo",
+        "term_months": 20,
+        "status": "Current",
+        "product_name": "20 Month CD",
+        "apy_1k": "4.40%",
+        "apy_10k": "4.40%",
+        "apy_25k": "4.40%",
+        "apy_100k": "4.40%",
+        "min_deposit": "$1,000",
+        "conditions": "Promotional; consumers only; open in a banking center",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
+      }
+    },
+    {
+      "id": "2026-11-19-peoplesbank-cd-special-30-mo",
+      "fields": {
+        "institution": "PeoplesBank",
+        "product": "CD",
+        "offer": "Special",
+        "term": "30 mo",
+        "term_months": 30,
+        "status": "Current",
+        "product_name": "30 Month CD",
+        "apy_1k": "4.40%",
+        "apy_10k": "4.40%",
+        "apy_25k": "4.40%",
+        "apy_100k": "4.40%",
+        "min_deposit": "$1,000",
+        "conditions": "Promotional; consumers only; open in a banking center",
+        "ends": null,
+        "rates_as_of": "2026-11-27",
+        "inst_type": "Bank",
+        "membership": "Open",
+        "local_branches": 7,
+        "counties": "Hartford",
+        "notes": null
+      },
+      "sources": [
+        {
+          "label": "PeoplesBank rates",
+          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+          "type": "primary"
+        },
+        {
+          "label": "FDIC BankFind branch list",
+          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
+          "type": "regulator"
+        }
+      ],
+      "field_sources": {
+        "local_branches": 1,
+        "rates_as_of": 0
+      },
+      "history": [
+        {
+          "date": "2026-11-23",
+          "note": "Added"
+        },
+        {
+          "date": "2026-11-28",
+          "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+          "changes": [
+            {
+              "field": "rates_as_of",
+              "old": "2026-11-19",
+              "new": "2026-11-27"
+            }
+          ],
+          "sources": [
+            "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates"
+          ]
+        }
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-28",
+      "last_checked": "2026-11-28",
+      "org_slugs": {
+        "institution": "peoplesbank"
       }
     },
     {
@@ -2337,7 +4086,7 @@
       ],
       "added": "2026-11-24",
       "updated": "2026-11-24",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -2896,7 +4645,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -2948,7 +4697,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3000,7 +4749,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3052,7 +4801,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3104,7 +4853,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3156,7 +4905,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3208,7 +4957,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3260,7 +5009,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3312,7 +5061,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3364,7 +5113,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3416,7 +5165,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3468,7 +5217,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3520,7 +5269,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3572,7 +5321,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3624,7 +5373,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3676,7 +5425,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ascend-bank"
       }
@@ -3728,7 +5477,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -3780,7 +5529,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -3832,7 +5581,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -3884,7 +5633,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -3936,7 +5685,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -3988,7 +5737,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -4040,7 +5789,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -4092,7 +5841,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -4144,7 +5893,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "navy-federal"
       }
@@ -4196,7 +5945,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4248,7 +5997,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4300,7 +6049,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4352,7 +6101,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4404,7 +6153,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4456,7 +6205,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4508,7 +6257,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4560,7 +6309,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4612,7 +6361,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4664,7 +6413,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4716,7 +6465,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4768,7 +6517,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4820,7 +6569,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -4872,7 +6621,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "windsor-federal"
       }
@@ -6796,7 +8545,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -6848,7 +8597,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -6900,7 +8649,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -6952,7 +8701,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7004,7 +8753,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7056,7 +8805,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7108,7 +8857,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7160,7 +8909,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7212,7 +8961,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7264,7 +9013,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7316,7 +9065,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "peoples-cu"
       }
@@ -7368,7 +9117,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7420,7 +9169,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7472,7 +9221,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7524,7 +9273,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7576,7 +9325,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7628,7 +9377,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7680,7 +9429,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7732,7 +9481,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7784,7 +9533,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7836,7 +9585,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "psfcu"
       }
@@ -7888,7 +9637,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -7940,7 +9689,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -7992,7 +9741,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8044,7 +9793,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8096,7 +9845,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8148,7 +9897,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8200,7 +9949,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8252,7 +10001,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8304,7 +10053,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8356,7 +10105,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8408,7 +10157,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8460,7 +10209,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -8512,7 +10261,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "torrington-savings"
       }
@@ -9240,7 +10989,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9292,7 +11041,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9344,7 +11093,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9396,7 +11145,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9448,7 +11197,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9500,7 +11249,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9552,7 +11301,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9604,7 +11353,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9656,7 +11405,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9708,7 +11457,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9760,7 +11509,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9812,7 +11561,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9864,7 +11613,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "ion-bank"
       }
@@ -9926,7 +11675,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -9988,7 +11737,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -10050,7 +11799,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -10102,7 +11851,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10154,7 +11903,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10206,7 +11955,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10258,7 +12007,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10310,7 +12059,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10362,7 +12111,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10414,7 +12163,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10466,7 +12215,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10518,7 +12267,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10570,7 +12319,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10622,7 +12371,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10674,7 +12423,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10726,7 +12475,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10778,7 +12527,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westerly-community-cu"
       }
@@ -10986,7 +12735,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11038,7 +12787,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11090,7 +12839,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11142,7 +12891,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11194,7 +12943,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11246,7 +12995,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11298,7 +13047,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11350,7 +13099,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "selfreliance-fcu"
       }
@@ -11870,7 +13619,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -11922,7 +13671,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -11974,7 +13723,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -12026,7 +13775,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -12078,7 +13827,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -12130,7 +13879,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -12182,7 +13931,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -12234,7 +13983,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -13331,7 +15080,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13388,7 +15137,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13445,7 +15194,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13502,7 +15251,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13559,7 +15308,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13616,7 +15365,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13673,7 +15422,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13730,7 +15479,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13787,7 +15536,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13844,7 +15593,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
       }
@@ -13901,1205 +15650,9 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "webster-bank"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-savings-standard-item",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "Savings",
-        "offer": "Standard",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Statement Savings",
-        "apy_1k": "0.05%",
-        "apy_10k": "0.05%",
-        "apy_25k": "0.05%",
-        "apy_100k": "0.05%",
-        "min_deposit": "$100",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-money-market-standard-item",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "Money market",
-        "offer": "Standard",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Money Market Savings",
-        "apy_1k": "Not eligible",
-        "apy_10k": "0.05%",
-        "apy_25k": "0.10%",
-        "apy_100k": "0.20%",
-        "min_deposit": "$2,500",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-money-market-special-item",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "Money market",
-        "offer": "Special",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Premium Money Market",
-        "apy_1k": "Not eligible",
-        "apy_10k": "0.05%",
-        "apy_25k": "0.15%",
-        "apy_100k": "0.50%",
-        "min_deposit": "$2,500",
-        "conditions": "BN Premium Checking required; 1.75% at $250,000+",
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-cd-standard-6-mo",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "6 mo",
-        "term_months": 6,
-        "status": "Current",
-        "product_name": "6 Month CD",
-        "apy_1k": "3.00%",
-        "apy_10k": "3.00%",
-        "apy_25k": "3.00%",
-        "apy_100k": "3.00%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-cd-standard-18-mo",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "18 mo",
-        "term_months": 18,
-        "status": "Current",
-        "product_name": "18 Month CD",
-        "apy_1k": "4.25%",
-        "apy_10k": "4.25%",
-        "apy_25k": "4.25%",
-        "apy_100k": "4.25%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-cd-standard-24-mo",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "24 mo",
-        "term_months": 24,
-        "status": "Current",
-        "product_name": "24 Month CD",
-        "apy_1k": "4.25%",
-        "apy_10k": "4.25%",
-        "apy_25k": "4.25%",
-        "apy_100k": "4.25%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-cd-special-12-mo",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "CD",
-        "offer": "Special",
-        "term": "12 mo",
-        "term_months": 12,
-        "status": "Current",
-        "product_name": "12 Month CD Special",
-        "apy_1k": "4.50%",
-        "apy_10k": "4.50%",
-        "apy_25k": "4.50%",
-        "apy_100k": "4.50%",
-        "min_deposit": "$1,000",
-        "conditions": "New money only; BankNewport personal checking required (4.25% with existing money)",
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-cd-special-18-mo",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "CD",
-        "offer": "Special",
-        "term": "18 mo",
-        "term_months": 18,
-        "status": "Current",
-        "product_name": "18 Month CD Special",
-        "apy_1k": "4.50%",
-        "apy_10k": "4.50%",
-        "apy_25k": "4.50%",
-        "apy_100k": "4.50%",
-        "min_deposit": "$1,000",
-        "conditions": "New money only; BankNewport personal checking required",
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-cd-special-24-mo",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "CD",
-        "offer": "Special",
-        "term": "24 mo",
-        "term_months": 24,
-        "status": "Current",
-        "product_name": "24 Month CD Special",
-        "apy_1k": "4.50%",
-        "apy_10k": "4.50%",
-        "apy_25k": "4.50%",
-        "apy_100k": "4.50%",
-        "min_deposit": "$1,000",
-        "conditions": "New money only; BankNewport personal checking required",
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-20-banknewport-cd-special-7-mo",
-      "fields": {
-        "institution": "BankNewport",
-        "product": "CD",
-        "offer": "Special",
-        "term": "7 mo",
-        "term_months": 7,
-        "status": "Current",
-        "product_name": "7 Month CD Special",
-        "apy_1k": "4.00%",
-        "apy_10k": "4.00%",
-        "apy_25k": "4.00%",
-        "apy_100k": "4.00%",
-        "min_deposit": "$1,000",
-        "conditions": "Existing money allowed",
-        "ends": null,
-        "rates_as_of": "2026-11-20",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 2,
-        "counties": "Washington RI",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "BankNewport rates",
-          "url": "https://www.banknewport.com/rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:18129",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-26",
-      "org_slugs": {
-        "institution": "banknewport"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-savings-standard-item",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "Savings",
-        "offer": "Standard",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Growth Savings",
-        "apy_1k": "0.10%",
-        "apy_10k": "0.10%",
-        "apy_25k": "0.10%",
-        "apy_100k": "0.10%",
-        "min_deposit": "$10",
-        "conditions": "$10 monthly fee if balance falls below $2,500 (Primary Savings pays 0.05%)",
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-money-market-standard-item",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "Money market",
-        "offer": "Standard",
-        "term": null,
-        "term_months": null,
-        "status": "Current",
-        "product_name": "Elite Tiered Money Market",
-        "apy_1k": "0.05%",
-        "apy_10k": "0.05%",
-        "apy_25k": "0.10%",
-        "apy_100k": "0.30%",
-        "min_deposit": "$10",
-        "conditions": "0.60% at $250K+",
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-3-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "3 mo",
-        "term_months": 3,
-        "status": "Current",
-        "product_name": "3 Month CD",
-        "apy_1k": "0.05%",
-        "apy_10k": "0.05%",
-        "apy_25k": "0.05%",
-        "apy_100k": "0.05%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-6-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "6 mo",
-        "term_months": 6,
-        "status": "Current",
-        "product_name": "6 Month CD",
-        "apy_1k": "0.05%",
-        "apy_10k": "0.05%",
-        "apy_25k": "0.05%",
-        "apy_100k": "0.05%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-12-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "12 mo",
-        "term_months": 12,
-        "status": "Current",
-        "product_name": "12 Month CD",
-        "apy_1k": "0.10%",
-        "apy_10k": "0.10%",
-        "apy_25k": "0.10%",
-        "apy_100k": "0.10%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-18-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "18 mo",
-        "term_months": 18,
-        "status": "Current",
-        "product_name": "18 Month CD",
-        "apy_1k": "0.15%",
-        "apy_10k": "0.15%",
-        "apy_25k": "0.15%",
-        "apy_100k": "0.15%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-24-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "24 mo",
-        "term_months": 24,
-        "status": "Current",
-        "product_name": "24 Month CD",
-        "apy_1k": "0.20%",
-        "apy_10k": "0.20%",
-        "apy_25k": "0.20%",
-        "apy_100k": "0.20%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-36-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "36 mo",
-        "term_months": 36,
-        "status": "Current",
-        "product_name": "36 Month CD",
-        "apy_1k": "0.25%",
-        "apy_10k": "0.25%",
-        "apy_25k": "0.25%",
-        "apy_100k": "0.25%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-48-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "48 mo",
-        "term_months": 48,
-        "status": "Current",
-        "product_name": "48 Month CD",
-        "apy_1k": "0.30%",
-        "apy_10k": "0.30%",
-        "apy_25k": "0.30%",
-        "apy_100k": "0.30%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-standard-60-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Standard",
-        "term": "60 mo",
-        "term_months": 60,
-        "status": "Current",
-        "product_name": "60 Month CD",
-        "apy_1k": "0.40%",
-        "apy_10k": "0.40%",
-        "apy_25k": "0.40%",
-        "apy_100k": "0.40%",
-        "min_deposit": "$1,000",
-        "conditions": null,
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-special-10-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Special",
-        "term": "10 mo",
-        "term_months": 10,
-        "status": "Current",
-        "product_name": "10 Month CD",
-        "apy_1k": "4.15%",
-        "apy_10k": "4.15%",
-        "apy_25k": "4.15%",
-        "apy_100k": "4.15%",
-        "min_deposit": "$1,000",
-        "conditions": "Promotional; consumers only; open in a banking center",
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-special-20-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Special",
-        "term": "20 mo",
-        "term_months": 20,
-        "status": "Current",
-        "product_name": "20 Month CD",
-        "apy_1k": "4.40%",
-        "apy_10k": "4.40%",
-        "apy_25k": "4.40%",
-        "apy_100k": "4.40%",
-        "min_deposit": "$1,000",
-        "conditions": "Promotional; consumers only; open in a banking center",
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-27",
-      "org_slugs": {
-        "institution": "peoplesbank"
-      }
-    },
-    {
-      "id": "2026-11-19-peoplesbank-cd-special-30-mo",
-      "fields": {
-        "institution": "PeoplesBank",
-        "product": "CD",
-        "offer": "Special",
-        "term": "30 mo",
-        "term_months": 30,
-        "status": "Current",
-        "product_name": "30 Month CD",
-        "apy_1k": "4.40%",
-        "apy_10k": "4.40%",
-        "apy_25k": "4.40%",
-        "apy_100k": "4.40%",
-        "min_deposit": "$1,000",
-        "conditions": "Promotional; consumers only; open in a banking center",
-        "ends": null,
-        "rates_as_of": "2026-11-19",
-        "inst_type": "Bank",
-        "membership": "Open",
-        "local_branches": 7,
-        "counties": "Hartford",
-        "notes": null
-      },
-      "sources": [
-        {
-          "label": "PeoplesBank rates",
-          "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
-          "type": "primary"
-        },
-        {
-          "label": "FDIC BankFind branch list",
-          "url": "https://api.fdic.gov/banks/locations?filters=CERT:90213",
-          "type": "regulator"
-        }
-      ],
-      "field_sources": {
-        "local_branches": 1
-      },
-      "history": [
-        {
-          "date": "2026-11-23",
-          "note": "Added"
-        }
-      ],
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
-      "org_slugs": {
-        "institution": "peoplesbank"
       }
     },
     {
@@ -15711,7 +16264,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "wells-fargo"
       }
@@ -15763,7 +16316,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -15815,7 +16368,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -15867,7 +16420,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -15919,7 +16472,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -15971,7 +16524,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -16023,7 +16576,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -16075,7 +16628,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -16127,7 +16680,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -16179,7 +16732,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -16231,7 +16784,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -16283,7 +16836,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "riverbank-fcu"
       }
@@ -16335,7 +16888,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16387,7 +16940,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16439,7 +16992,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16491,7 +17044,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16543,7 +17096,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16595,7 +17148,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16647,7 +17200,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16699,7 +17252,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16751,7 +17304,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "achieve-financial-cu"
       }
@@ -16803,7 +17356,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -16907,7 +17460,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -16959,7 +17512,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17011,7 +17564,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17063,7 +17616,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17115,7 +17668,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17167,7 +17720,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17219,7 +17772,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17271,7 +17824,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17323,7 +17876,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17375,7 +17928,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "360-fcu"
       }
@@ -17427,7 +17980,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -17479,7 +18032,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17531,7 +18084,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17583,7 +18136,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17635,7 +18188,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17687,7 +18240,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17739,7 +18292,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17791,7 +18344,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17843,7 +18396,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17895,7 +18448,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -17947,7 +18500,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18014,7 +18567,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18081,7 +18634,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18148,7 +18701,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18215,7 +18768,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18282,7 +18835,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18349,7 +18902,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18416,7 +18969,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18489,7 +19042,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -18541,7 +19094,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -18593,7 +19146,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "cse-cu"
       }
@@ -18645,7 +19198,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "cse-cu"
       }
@@ -18697,7 +19250,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "cse-cu"
       }
@@ -18749,7 +19302,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "cse-cu"
       }
@@ -18801,7 +19354,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "cse-cu"
       }
@@ -18853,7 +19406,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "cse-cu"
       }
@@ -18915,7 +19468,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -18977,7 +19530,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19039,7 +19592,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19101,7 +19654,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19163,7 +19716,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19225,7 +19778,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19287,7 +19840,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19349,7 +19902,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19411,7 +19964,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19473,7 +20026,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19535,7 +20088,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19597,7 +20150,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -19659,7 +20212,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "northwest-community-bank"
       }
@@ -21425,7 +21978,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21478,7 +22031,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21531,7 +22084,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21584,7 +22137,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21637,7 +22190,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21690,7 +22243,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21743,7 +22296,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21796,7 +22349,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21849,7 +22402,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21902,7 +22455,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -21955,7 +22508,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -22008,7 +22561,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -22061,7 +22614,7 @@
       ],
       "added": "2026-11-25",
       "updated": "2026-11-25",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "westfield-bank"
       }
@@ -23926,7 +24479,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "finex-cu"
       }
@@ -25370,7 +25923,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25422,7 +25975,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25474,7 +26027,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25526,7 +26079,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25578,7 +26131,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25630,7 +26183,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25682,7 +26235,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25734,7 +26287,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -25786,7 +26339,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -26524,7 +27077,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -26576,7 +27129,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -26628,7 +27181,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "washington-trust"
       }
@@ -26888,7 +27441,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -26940,7 +27493,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }
@@ -27564,7 +28117,7 @@
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-28",
       "org_slugs": {
         "institution": "liberty-bank"
       }

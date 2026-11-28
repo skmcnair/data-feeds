@@ -2,16 +2,16 @@
   "feed": "deposit-rates",
   "title": "Local Deposit Rates",
   "result": "ok",
-  "last_build": "2026-11-28T04:36:12-05:00",
+  "last_build": "2026-11-28T05:03:07-05:00",
   "last_collect": "",
   "last_collect_result": "",
   "collect_errors": [],
-  "last_review": "2026-11-27T05:04:45-05:00",
+  "last_review": "2026-11-28T05:02:39-05:00",
   "last_review_result": "partial",
   "review_errors": [
     "WebFetch refused (permission request not answered): Coastal1 CU, American Eagle Financial CU and Beacon Bank & Trust were not re-checked (31 rows left unchanged)",
-    "First loads blocked the same way (WebFetch not approved); searched for curl-readable rate pages for Essex Bank and Santander but found none; 22 institutions still have no rows",
-    "No logo for Beacon Bank & Trust or Coastal1 Credit Union (both homepages still return 403)"
+    "First loads blocked the same way (WebFetch not approved); searched for rate pages for Polam FCU and Essex Bank but found only aggregators and essexsavings.com links that now redirect to the essex.bank homepage; 22 institutions still have no rows",
+    "No logo for Beacon Bank & Trust or Coastal1 Credit Union (homepages still return 403; the only press-release logo found is the Beacon Financial Corporation holding-company mark, not the bank's)"
   ],
   "items": 500,
   "open_items": 500,
