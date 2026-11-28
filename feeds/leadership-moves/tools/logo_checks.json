@@ -177,6 +177,11 @@
   "ok": true,
   "reviewed": "2026-11-25"
  },
+ "marine-cu": {
+  "checked": "2026-11-28",
+  "file": "marine-cu-v1.png",
+  "result": "current"
+ },
  "mid-oregon-cu": {
   "checked": "2026-11-23",
   "file": "mid-oregon-cu-v1.png",
