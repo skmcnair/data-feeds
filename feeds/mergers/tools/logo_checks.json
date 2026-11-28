@@ -836,6 +836,11 @@
   "checked": "2026-11-23",
   "result": "MISSING"
  },
+ "southwest-heritage-bank": {
+  "checked": "2026-11-28",
+  "file": "southwest-heritage-bank-v1.png",
+  "result": "current"
+ },
  "sterling-fcu": {
   "checked": "2026-11-23",
   "file": "sterling-fcu-v1.png",
