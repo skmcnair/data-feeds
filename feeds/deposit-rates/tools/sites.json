@@ -216,7 +216,7 @@
   "essex-bank": {
     "method": "webfetch",
     "name": "Essex Bank",
-    "note": "Browser render shows no rates on essex.bank or essexsavings.com rate pages (Nov 25, 2026); needs WebFetch",
+    "note": "Browser render shows no rates on essex.bank or essexsavings.com rate pages (Nov 25, 2026); essexsavings.com/?p=1493 (CD rates) and ?p=1486 (savings rates) from search now redirect to the essex.bank homepage with no rates (Nov 28, 2026); needs WebFetch",
     "pages": [
       "https://www.essex.bank/learn/current-rates"
     ]

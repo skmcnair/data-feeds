@@ -1,0 +1,884 @@
+{
+ "feed": "deposit-rates",
+ "run": {
+  "started": "2026-11-28T04:48:24-05:00",
+  "finished": "2026-11-28T05:02:39-05:00",
+  "searches": 4,
+  "errors": [
+   "WebFetch refused (permission request not answered): Coastal1 CU, American Eagle Financial CU and Beacon Bank & Trust were not re-checked (31 rows left unchanged)",
+   "First loads blocked the same way (WebFetch not approved); searched for rate pages for Polam FCU and Essex Bank but found only aggregators and essexsavings.com links that now redirect to the essex.bank homepage; 22 institutions still have no rows",
+   "No logo for Beacon Bank & Trust or Coastal1 Credit Union (homepages still return 403; the only press-release logo found is the Beacon Financial Corporation holding-company mark, not the bank's)"
+  ]
+ },
+ "reviewed": [],
+ "adds": [],
+ "updates": [
+  {
+   "id": "2026-11-20-banknewport-savings-standard-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-money-market-standard-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-money-market-special-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-cd-standard-6-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-cd-standard-18-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-cd-standard-24-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-cd-special-12-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-cd-special-18-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-cd-special-24-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20-banknewport-cd-special-7-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-20 -> 2026-11-27 (page now prints 'APY is accurate as of: November 27, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "BankNewport rates",
+     "url": "https://www.banknewport.com/rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-savings-standard-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-money-market-standard-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-money-market-special-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-3-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-6-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-12-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-18-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-24-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-36-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-48-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-standard-60-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-8-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-charter-oak-federal-credit-union-cd-special-30-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-26 -> 2026-11-27 (page now prints 'Rates Effective November 27th, 2026'); rates unchanged",
+   "sources": [
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/cd-share-certificates/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/money-markets/",
+     "type": "primary"
+    },
+    {
+     "label": "Charter Oak rates",
+     "url": "https://charteroak.org/personal-banking/savings-accounts/",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-savings-standard-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-money-market-standard-item",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-3-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-6-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-12-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-18-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-24-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-36-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-48-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-standard-60-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-special-10-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-special-20-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19-peoplesbank-cd-special-30-mo",
+   "set": {
+    "rates_as_of": "2026-11-27"
+   },
+   "note": "rates_as_of 2026-11-19 -> 2026-11-27 (page now prints 'Rates effective as of 11/27/26'); rates unchanged",
+   "sources": [
+    {
+     "label": "PeoplesBank rates",
+     "url": "https://www.bankatpeoples.com/home/personal/bank/savings/personal-rates",
+     "type": "primary"
+    }
+   ]
+  }
+ ],
+ "rechecked": [
+  "2026-11-01-360-federal-credit-union-savings-standard-item",
+  "2026-11-01-360-federal-credit-union-money-market-standard-item",
+  "2026-11-01-360-federal-credit-union-cd-standard-3-mo",
+  "2026-11-01-360-federal-credit-union-cd-standard-6-mo",
+  "2026-11-01-360-federal-credit-union-cd-standard-12-mo",
+  "2026-11-01-360-federal-credit-union-cd-standard-18-mo",
+  "2026-11-01-360-federal-credit-union-cd-standard-24-mo",
+  "2026-11-01-360-federal-credit-union-cd-standard-36-mo",
+  "2026-11-01-360-federal-credit-union-cd-standard-48-mo",
+  "2026-11-01-360-federal-credit-union-cd-standard-60-mo",
+  "2026-11-01-achieve-financial-credit-union-savings-standard-item",
+  "2026-11-01-achieve-financial-credit-union-money-market-standard-item",
+  "2026-11-01-achieve-financial-credit-union-cd-standard-6-mo",
+  "2026-11-01-achieve-financial-credit-union-cd-standard-12-mo",
+  "2026-11-01-achieve-financial-credit-union-cd-standard-18-mo",
+  "2026-11-01-achieve-financial-credit-union-cd-standard-24-mo",
+  "2026-11-01-achieve-financial-credit-union-cd-standard-36-mo",
+  "2026-11-01-achieve-financial-credit-union-cd-standard-48-mo",
+  "2026-11-01-achieve-financial-credit-union-cd-standard-60-mo",
+  "2026-11-23-ascend-bank-savings-standard-item",
+  "2026-11-23-ascend-bank-money-market-standard-item",
+  "2026-11-23-ascend-bank-money-market-special-item",
+  "2026-11-23-ascend-bank-cd-standard-3-mo",
+  "2026-11-23-ascend-bank-cd-standard-6-mo",
+  "2026-11-23-ascend-bank-cd-standard-12-mo",
+  "2026-11-23-ascend-bank-cd-standard-18-mo",
+  "2026-11-23-ascend-bank-cd-standard-24-mo",
+  "2026-11-23-ascend-bank-cd-standard-36-mo",
+  "2026-11-23-ascend-bank-cd-standard-48-mo",
+  "2026-11-23-ascend-bank-cd-standard-60-mo",
+  "2026-11-23-ascend-bank-cd-special-19-mo",
+  "2026-11-23-ascend-bank-cd-special-12-mo",
+  "2026-11-23-ascend-bank-cd-special-17-mo",
+  "2026-11-23-ascend-bank-cd-special-9-mo",
+  "2026-11-23-ascend-bank-cd-special-5-mo",
+  "2026-10-07-connecticut-state-employees-credit-union-savings-standard-item",
+  "2026-10-07-connecticut-state-employees-credit-union-cd-standard-3-mo",
+  "2026-10-07-connecticut-state-employees-credit-union-cd-standard-6-mo",
+  "2026-10-07-connecticut-state-employees-credit-union-cd-standard-12-mo",
+  "2026-10-07-connecticut-state-employees-credit-union-cd-standard-18-mo",
+  "2026-10-07-connecticut-state-employees-credit-union-cd-standard-36-mo",
+  "2026-11-01-finex-credit-union-money-market-standard-item",
+  "2026-10-16-finex-credit-union-cd-standard-6-mo",
+  "2026-10-16-finex-credit-union-cd-standard-12-mo",
+  "2026-10-16-finex-credit-union-cd-standard-18-mo",
+  "2026-10-16-finex-credit-union-cd-standard-24-mo",
+  "2026-10-16-finex-credit-union-cd-standard-36-mo",
+  "2026-10-16-finex-credit-union-cd-standard-48-mo",
+  "2026-10-16-finex-credit-union-cd-standard-60-mo",
+  "2026-10-16-finex-credit-union-cd-special-9-mo",
+  "2026-10-16-finex-credit-union-cd-special-18-mo",
+  "2026-09-01-finex-credit-union-savings-special-item",
+  "2026-11-23-ion-bank-savings-standard-item",
+  "2026-11-23-ion-bank-savings-special-item",
+  "2026-11-23-ion-bank-money-market-standard-item",
+  "2026-11-23-ion-bank-cd-standard-3-mo",
+  "2026-11-23-ion-bank-cd-standard-6-mo",
+  "2026-11-23-ion-bank-cd-standard-12-mo",
+  "2026-11-23-ion-bank-cd-standard-18-mo",
+  "2026-11-23-ion-bank-cd-standard-24-mo",
+  "2026-11-23-ion-bank-cd-standard-36-mo",
+  "2026-11-23-ion-bank-cd-standard-48-mo",
+  "2026-11-23-ion-bank-cd-standard-60-mo",
+  "2026-11-23-ion-bank-cd-special-10-mo",
+  "2026-11-23-ion-bank-cd-special-25-mo",
+  "2026-10-14-liberty-bank-savings-special-item",
+  "2026-10-14-liberty-bank-cd-standard-3-mo",
+  "2026-10-14-liberty-bank-cd-standard-6-mo",
+  "2026-10-14-liberty-bank-cd-standard-12-mo",
+  "2026-10-14-liberty-bank-cd-standard-24-mo",
+  "2026-10-14-liberty-bank-cd-standard-36-mo",
+  "2026-10-14-liberty-bank-cd-standard-48-mo",
+  "2026-10-14-liberty-bank-cd-standard-60-mo",
+  "2026-10-14-liberty-bank-cd-special-13-mo",
+  "2026-01-05-liberty-bank-money-market-standard-item",
+  "2026-01-05-liberty-bank-money-market-special-item",
+  "2024-05-15-liberty-bank-savings-standard-item",
+  "2026-11-23-navy-federal-credit-union-savings-standard-item",
+  "2026-11-23-navy-federal-credit-union-money-market-standard-item",
+  "2026-11-23-navy-federal-credit-union-cd-standard-3-mo",
+  "2026-11-23-navy-federal-credit-union-cd-standard-12-mo",
+  "2026-11-23-navy-federal-credit-union-cd-standard-18-mo",
+  "2026-11-23-navy-federal-credit-union-cd-standard-24-mo",
+  "2026-11-23-navy-federal-credit-union-cd-standard-36-mo",
+  "2026-11-23-navy-federal-credit-union-cd-standard-60-mo",
+  "2026-11-23-navy-federal-credit-union-cd-special-12-mo",
+  "2026-11-23-northwest-community-bank-savings-standard-item",
+  "2026-11-23-northwest-community-bank-money-market-standard-item",
+  "2026-11-23-northwest-community-bank-money-market-special-item",
+  "2026-10-06-northwest-community-bank-cd-standard-3-mo",
+  "2026-10-06-northwest-community-bank-cd-standard-6-mo",
+  "2026-10-06-northwest-community-bank-cd-standard-12-mo",
+  "2026-10-06-northwest-community-bank-cd-standard-18-mo",
+  "2026-10-06-northwest-community-bank-cd-standard-24-mo",
+  "2026-10-06-northwest-community-bank-cd-standard-36-mo",
+  "2026-10-06-northwest-community-bank-cd-standard-48-mo",
+  "2026-10-06-northwest-community-bank-cd-standard-60-mo",
+  "2026-10-06-northwest-community-bank-cd-special-5-mo",
+  "2026-10-06-northwest-community-bank-cd-special-7-mo",
+  "2026-10-06-northwest-community-bank-cd-special-11-mo",
+  "2026-10-06-northwest-community-bank-cd-special-15-mo",
+  "2026-10-06-northwest-community-bank-cd-special-21-mo",
+  "2026-11-24-the-peoples-credit-union-savings-special-item",
+  "2026-11-23-the-peoples-credit-union-savings-standard-item",
+  "2026-11-23-the-peoples-credit-union-money-market-standard-item",
+  "2026-11-23-the-peoples-credit-union-money-market-special-item",
+  "2026-11-23-the-peoples-credit-union-cd-standard-3-mo",
+  "2026-11-23-the-peoples-credit-union-cd-standard-6-mo",
+  "2026-11-23-the-peoples-credit-union-cd-standard-12-mo",
+  "2026-11-23-the-peoples-credit-union-cd-standard-18-mo",
+  "2026-11-23-the-peoples-credit-union-cd-standard-24-mo",
+  "2026-11-23-the-peoples-credit-union-cd-standard-36-mo",
+  "2026-11-23-the-peoples-credit-union-cd-standard-48-mo",
+  "2026-11-23-the-peoples-credit-union-cd-standard-60-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-savings-standard-item",
+  "2026-11-23-polish-and-slavic-federal-credit-union-money-market-standard-item",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-3-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-6-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-12-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-18-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-24-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-36-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-48-mo",
+  "2026-11-23-polish-and-slavic-federal-credit-union-cd-standard-60-mo",
+  "2026-11-05-riverbank-federal-credit-union-savings-standard-item",
+  "2026-11-05-riverbank-federal-credit-union-money-market-standard-item",
+  "2026-11-05-riverbank-federal-credit-union-cd-standard-6-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-standard-12-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-standard-18-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-standard-24-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-standard-36-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-standard-48-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-standard-60-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-special-6-mo",
+  "2026-11-05-riverbank-federal-credit-union-cd-special-9-mo",
+  "2026-11-23-selfreliance-federal-credit-union-savings-standard-item",
+  "2026-11-23-selfreliance-federal-credit-union-money-market-standard-item",
+  "2026-11-23-selfreliance-federal-credit-union-cd-standard-6-mo",
+  "2026-11-23-selfreliance-federal-credit-union-cd-standard-12-mo",
+  "2026-11-23-selfreliance-federal-credit-union-cd-standard-24-mo",
+  "2026-11-23-selfreliance-federal-credit-union-cd-standard-36-mo",
+  "2026-11-23-selfreliance-federal-credit-union-cd-special-5-mo",
+  "2026-11-23-selfreliance-federal-credit-union-cd-special-13-mo",
+  "2026-11-23-the-torrington-savings-bank-savings-standard-item",
+  "2026-11-23-the-torrington-savings-bank-money-market-standard-item",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-3-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-6-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-12-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-18-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-24-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-36-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-48-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-standard-60-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-special-7-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-special-11-mo",
+  "2026-11-23-the-torrington-savings-bank-cd-special-15-mo",
+  "2026-10-27-the-washington-trust-company-cd-special-12-24-mo",
+  "2026-10-14-the-washington-trust-company-savings-special-item",
+  "2026-07-13-the-washington-trust-company-savings-standard-item",
+  "2026-07-13-the-washington-trust-company-cd-standard-3-mo",
+  "2026-07-13-the-washington-trust-company-cd-standard-6-mo",
+  "2026-07-13-the-washington-trust-company-cd-standard-12-mo",
+  "2026-07-13-the-washington-trust-company-cd-standard-18-mo",
+  "2026-07-13-the-washington-trust-company-cd-standard-24-mo",
+  "2026-07-13-the-washington-trust-company-cd-standard-36-mo",
+  "2026-07-13-the-washington-trust-company-cd-standard-48-mo",
+  "2026-07-13-the-washington-trust-company-cd-standard-60-mo",
+  "2026-04-29-the-washington-trust-company-cd-special-13-mo",
+  "2026-04-01-the-washington-trust-company-cd-special-6-mo",
+  "2026-02-13-the-washington-trust-company-cd-special-9-mo",
+  "2026-11-23-webster-bank-savings-standard-item",
+  "2026-11-23-webster-bank-money-market-standard-item",
+  "2026-11-23-webster-bank-cd-standard-3-mo",
+  "2026-11-23-webster-bank-cd-standard-6-mo",
+  "2026-11-23-webster-bank-cd-standard-12-mo",
+  "2026-11-23-webster-bank-cd-standard-24-mo",
+  "2026-11-23-webster-bank-cd-standard-36-mo",
+  "2026-11-23-webster-bank-cd-standard-48-mo",
+  "2026-11-23-webster-bank-cd-standard-60-mo",
+  "2026-11-23-webster-bank-cd-special-11-mo",
+  "2026-11-23-webster-bank-cd-special-18-mo",
+  "2026-11-23-wells-fargo-savings-standard-item",
+  "2026-11-23-wells-fargo-cd-standard-3-mo",
+  "2026-11-23-wells-fargo-cd-standard-6-mo",
+  "2026-11-23-wells-fargo-cd-standard-12-mo",
+  "2026-11-23-wells-fargo-cd-special-4-mo",
+  "2026-11-23-wells-fargo-cd-special-7-mo",
+  "2026-11-23-wells-fargo-cd-special-11-mo",
+  "2026-11-23-wells-fargo-cd-special-15-mo",
+  "2026-11-10-wells-fargo-savings-special-item",
+  "2026-11-23-westerly-community-credit-union-savings-standard-item",
+  "2026-11-23-westerly-community-credit-union-money-market-special-item",
+  "2026-11-23-westerly-community-credit-union-cd-standard-3-mo",
+  "2026-11-23-westerly-community-credit-union-cd-standard-6-mo",
+  "2026-11-23-westerly-community-credit-union-cd-standard-12-mo",
+  "2026-11-23-westerly-community-credit-union-cd-standard-18-mo",
+  "2026-11-23-westerly-community-credit-union-cd-standard-24-mo",
+  "2026-11-23-westerly-community-credit-union-cd-standard-36-mo",
+  "2026-11-23-westerly-community-credit-union-cd-standard-48-mo",
+  "2026-11-23-westerly-community-credit-union-cd-standard-60-mo",
+  "2026-11-23-westerly-community-credit-union-cd-special-3-mo",
+  "2026-11-23-westerly-community-credit-union-cd-special-8-mo",
+  "2026-11-23-westerly-community-credit-union-cd-special-11-mo",
+  "2026-11-23-westerly-community-credit-union-cd-special-14-mo",
+  "2026-10-02-westfield-bank-savings-standard-item",
+  "2026-10-02-westfield-bank-savings-special-item",
+  "2026-10-02-westfield-bank-money-market-standard-item",
+  "2026-10-02-westfield-bank-money-market-special-item",
+  "2026-10-02-westfield-bank-cd-standard-3-mo",
+  "2026-10-02-westfield-bank-cd-standard-6-mo",
+  "2026-10-02-westfield-bank-cd-standard-12-mo",
+  "2026-10-02-westfield-bank-cd-standard-24-mo",
+  "2026-10-02-westfield-bank-cd-standard-36-mo",
+  "2026-10-02-westfield-bank-cd-standard-48-mo",
+  "2026-10-02-westfield-bank-cd-standard-60-mo",
+  "2026-10-02-westfield-bank-cd-special-9-mo",
+  "2026-10-02-westfield-bank-cd-special-13-mo",
+  "2026-11-23-windsor-federal-bank-savings-standard-item",
+  "2026-11-23-windsor-federal-bank-money-market-standard-item",
+  "2026-11-23-windsor-federal-bank-money-market-special-item",
+  "2026-11-23-windsor-federal-bank-cd-standard-3-mo",
+  "2026-11-23-windsor-federal-bank-cd-standard-6-mo",
+  "2026-11-23-windsor-federal-bank-cd-standard-12-mo",
+  "2026-11-23-windsor-federal-bank-cd-standard-18-mo",
+  "2026-11-23-windsor-federal-bank-cd-standard-24-mo",
+  "2026-11-23-windsor-federal-bank-cd-standard-36-mo",
+  "2026-11-23-windsor-federal-bank-cd-standard-48-mo",
+  "2026-11-23-windsor-federal-bank-cd-standard-60-mo",
+  "2026-11-23-windsor-federal-bank-cd-special-5-mo",
+  "2026-11-23-windsor-federal-bank-cd-special-11-mo",
+  "2026-11-23-windsor-federal-bank-cd-special-28-mo"
+ ]
+}
