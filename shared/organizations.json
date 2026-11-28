@@ -8611,6 +8611,28 @@
         "previous": [],
         "ignored": []
       }
+    },
+    "southwest-heritage-bank": {
+      "name": "Southwest Heritage Bank",
+      "added": "2026-11-28",
+      "short_name": "Southwest Heritage Bank",
+      "kind": "bank",
+      "website": "https://www.swhbank.com",
+      "state": "AZ",
+      "fdic_cert": "29087",
+      "logo": {
+        "file": "southwest-heritage-bank-v1.png",
+        "version": 1,
+        "style": "color",
+        "source_url": "https://www.swhbank.com/custom/commercebankaz/image/logo-2x.png",
+        "fingerprint": "480048004a00c800c6cac670c62cd527f4c1a289ab9de519e1284998499945a9",
+        "aspect": 2.633,
+        "pinned": false,
+        "added": "2026-11-28",
+        "checked": "2026-11-28",
+        "previous": [],
+        "ignored": []
+      }
     }
   }
 }
